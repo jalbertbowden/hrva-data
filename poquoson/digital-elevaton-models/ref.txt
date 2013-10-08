@@ -1,0 +1,13 @@
+http://data.geocomm.com/catalog/US/61079/1705/group4-3.html
+Digital Elevation Models (DEM) - 24K
+Poquoson City County, Virginia, United States
+
+
+
+Hampton, VA (37076a3)	
+Size: 46.00 KB	Format:  SDTS
+Newport News North, VA (37076a4)	
+Size: 66.00 KB	Format:  SDTS
+Poquoson East, VA (37076b3)	
+Size: 22.00 KB	Format:  SDTS
+Poquoson West, VA (37076b4)
