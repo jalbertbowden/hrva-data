@@ -1,0 +1,552 @@
+/* http://dailypress2.com/homicides/ */
+
+<noscript>
+<table id="homicide-table"><thead><tr><th>Victim</th><th>Date</th><th>City</th><th>Cause</th><th>Status</th><th></th></tr></thead><tbody><tr>
+  <td><a href="details.php?id=80">Charlene Stepuhany Scott</a></td>
+  <td>12/21/09</td>
+  <td>Hampton</td>
+  <td>Murder</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.026975%2C+-76.367312&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=81">Antoine Larosa Fulgham</a></td>
+  <td>12/21/09</td>
+  <td>Hampton</td>
+  <td>Suicide</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.026975%2C+-76.367312&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=68">Lafayette  Bailey</a></td>
+  <td>12/15/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.100786%2C+-76.491503&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=69">Tynesha  Barksdale</a></td>
+  <td>12/15/09</td>
+  <td>Newport News</td>
+  <td>Shot to dearth</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.083171%2C+-76.497895&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=67">Jerome  Houston</a></td>
+  <td>12/12/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.972749%2C+-76.410093&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=79">Julius Omar Bartley</a></td>
+  <td>11/29/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.050334%2C+-76.345412&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=78">Bruce  Wright</a></td>
+  <td>11/20/09</td>
+  <td>Hampton</td>
+  <td>Gunshot wound became infected</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.049365%2C+-76.321669&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=66">Gale Andrea Perch</a></td>
+  <td>11/15/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.119226%2C+-76.519563&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=82">Thomas  Ragans</a></td>
+  <td>11/15/09</td>
+  <td>York</td>
+  <td>Head trauma</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.220216%2C+-76.425431&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=65">Christian Kendrick Hatch</a></td>
+  <td>11/4/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.978758%2C+-76.428003&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=77">Jason Michael Burch</a></td>
+  <td>10/26/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.037861%2C+-76.314381&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=76">Kenneth Bradford Jackson</a></td>
+  <td>10/6/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.031654%2C+-76.409452&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=64">John Robert Gibson</a></td>
+  <td>9/30/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.059717%2C+-76.461668&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=75">Miles Burnell Cross</a></td>
+  <td>9/25/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.022054%2C+-76.434220&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=74">Joel  Peterson</a></td>
+  <td>9/22/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.029843%2C+-76.347411&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=73">Bryan Latre Carolina</a></td>
+  <td>8/9/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.013302%2C+-76.417301&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=63">Jeffrey Devon Jackson</a></td>
+  <td>7/31/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.136837%2C+-76.545388&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=61">Charles  McLain</a></td>
+  <td>7/19/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.114167%2C+-76.514535&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=62">Terrence  Kindred</a></td>
+  <td>7/19/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.114167%2C+-76.514535&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=57">Edgar  Montiel</a></td>
+  <td>7/11/09</td>
+  <td>Newport News</td>
+  <td>Stabbed to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.119858%2C+-76.485478&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=56">Corey Deon Rogers</a></td>
+  <td>7/9/09</td>
+  <td>Newport News</td>
+  <td>Shot ot death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.151011%2C+-76.535025&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=54">Angela  Morrison</a></td>
+  <td>6/28/09</td>
+  <td>Newport News</td>
+  <td>shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.170480%2C+-76.539807&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=55">Scott  Morrison</a></td>
+  <td>6/28/09</td>
+  <td>Newport News</td>
+  <td>Suicide</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.170480%2C+-76.539807&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=53">Carl MacAurthur Joseph</a></td>
+  <td>5/17/09</td>
+  <td>Newport News</td>
+  <td>shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.063950%2C+-76.459471&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=59">Andre Tyrone Horton</a></td>
+  <td>5/17/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.988265%2C+-76.421921&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=60">Julius  Johnson</a></td>
+  <td>5/17/09</td>
+  <td>Newport News</td>
+  <td>shot to dearth</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.988265%2C+-76.421921&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=58">Dwanne Marcelle Martin</a></td>
+  <td>5/16/09</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.988944%2C+-76.422296&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=72">Travis Jonathan Weisenberger</a></td>
+  <td>4/16/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.093194%2C+-76.313902&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=71">Johnnie Lee Purdie</a></td>
+  <td>3/27/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.036135%2C+-76.315215&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=52">Demetrius L. Hunter</a></td>
+  <td>3/26/09</td>
+  <td>Newport News</td>
+  <td>shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.975379%2C+-76.416108&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=51">Demario Dontae Hardy</a></td>
+  <td>3/20/09</td>
+  <td>Newport News</td>
+  <td>unknown</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.999961%2C+-76.430195&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=50">Louis Edward Joseph</a></td>
+  <td>3/13/09</td>
+  <td>Newport News</td>
+  <td>Undetermined</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.114814%2C+-76.542584&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=49">Antonio Tavarus Davis</a></td>
+  <td>2/15/09</td>
+  <td>Newport News</td>
+  <td>shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.995367%2C+-76.411326&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=48">Caitlin Elizabeth Trask</a></td>
+  <td>2/12/09</td>
+  <td>Newport News</td>
+  <td>shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.982280%2C+-76.430889&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=70">Damon Andre Smooth</a></td>
+  <td>1/24/09</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.064711%2C+-76.385980&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=47">Mable  Anderson</a></td>
+  <td>1/8/08</td>
+  <td>Suffolk</td>
+  <td>Unknown</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.722622%2C+-76.597342&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=46">LaTrell Marqies Robertson</a></td>
+  <td>12/28/07</td>
+  <td>York</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.285872%2C+-76.718965&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=43">Larry Donnell Patterson</a></td>
+  <td>12/26/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.978016%2C+-76.415575&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=40">Tony Delwayne Vaughan</a></td>
+  <td>12/24/07</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.997725%2C+-76.405826&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=45">Tommie Lee Canty</a></td>
+  <td>12/24/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.169600%2C+-76.569409&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=38">Kristin N. Hunter</a></td>
+  <td>12/9/07</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.036117%2C+-76.344831&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=37">Michael J. Campbell</a></td>
+  <td>11/21/07</td>
+  <td>Newport News</td>
+  <td>Cause not released</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.053346%2C+-76.472671&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=36">Ashton G. Studwell</a></td>
+  <td>11/13/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.992616%2C+-76.424502&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=35">Erique  Shaw</a></td>
+  <td>11/6/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.128874%2C+-76.525424&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=34">Lavar D. Pierce</a></td>
+  <td>10/10/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.030865%2C+-76.454452&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=33">Kenny  Major</a></td>
+  <td>9/10/07</td>
+  <td>Hampton</td>
+  <td>Beaten to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.019549%2C+-76.355409&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=31">Dianne  Green</a></td>
+  <td>9/8/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.130453%2C+-76.534897&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=32">Kashon  Williams</a></td>
+  <td>9/8/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.996247%2C+-76.415369&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=30">Leon  Jones</a></td>
+  <td>8/25/07</td>
+  <td>Suffolk</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.746279%2C+-76.540351&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=29">Leonard  Carter</a></td>
+  <td>8/13/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.991447%2C+-76.417369&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=28">RaShaan  Caldwell</a></td>
+  <td>8/11/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.055246%2C+-76.463571&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=26">Antonio  Bazemore</a></td>
+  <td>7/12/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.976363%2C+-76.419868&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=27">Rodann Lee Ford</a></td>
+  <td>7/12/07</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.018462%2C+-76.407410&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=25">Aaron J. Sumler</a></td>
+  <td>7/5/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.113358%2C+-76.513966&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=24">Leon Lamont Gordon</a></td>
+  <td>7/1/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.089178%2C+-76.454693&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=23">Sedjuan  Robinson</a></td>
+  <td>6/30/07</td>
+  <td>Newport News</td>
+  <td>Head trauma</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.153925%2C+-76.555055&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=22">Desmond  Alexander</a></td>
+  <td>6/27/07</td>
+  <td>Hampton</td>
+  <td>Drowned</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.039346%2C+-76.314464&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=21">Reginald  Hudgins</a></td>
+  <td>6/25/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.975583%2C+-76.417221&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=20">Cecilio Leon Hernandez</a></td>
+  <td>6/24/07</td>
+  <td>Newport News</td>
+  <td>Stabbed to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.045692%2C+-76.459729&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=19">Pamela  Herbin</a></td>
+  <td>6/22/07</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.018543%2C+-76.375649&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=18">Raymond A. Neal</a></td>
+  <td>6/21/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.980734%2C+-76.410365&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=17">Ryan  Richards</a></td>
+  <td>6/15/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.998224%2C+-76.416554&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=16">Reginald  Herring</a></td>
+  <td>6/5/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.136216%2C+-76.547375&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=14">Christopher  Horton</a></td>
+  <td>5/10/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.984047%2C+-76.410568&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=15">Brian  Dean</a></td>
+  <td>5/10/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.984047%2C+-76.410568&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=13">Timothy R. Franklin</a></td>
+  <td>5/1/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.984047%2C+-76.404268&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=12">Cory Allen Voss</a></td>
+  <td>4/30/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.081672%2C+-76.483503&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=11">Shawnell  Roscoe</a></td>
+  <td>4/12/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.988735%2C+-76.422386&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=10">Tyraun J. Giles</a></td>
+  <td>4/6/07</td>
+  <td>Suffolk</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.746279%2C+-76.540351&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=9">Michael  Zylberberg</a></td>
+  <td>3/31/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.985328%2C+-76.405114&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=8">Ted Anthony Brown</a></td>
+  <td>3/5/07</td>
+  <td>Gloucester</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.374505%2C+-76.534366&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=7">Robert Lamont Harper</a></td>
+  <td>2/18/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.987147%2C+-76.406268&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=6">Christopher  Jones</a></td>
+  <td>2/17/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.055246%2C+-76.463571&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=5">Christopher M. Dowdell</a></td>
+  <td>2/15/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.013322%2C+-76.440746&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=4">Deborah Denise King</a></td>
+  <td>1/27/07</td>
+  <td>Hampton</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=37.022740%2C+-76.417990&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=3">John Henry Green</a></td>
+  <td>1/18/07</td>
+  <td>Newport News</td>
+  <td>Shot to death</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.980357%2C+-76.423398&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=2">Tiarra  Campbell</a></td>
+  <td>1/17/07</td>
+  <td>Newport News</td>
+  <td>Cause not released</td>
+  <td>Unsolved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.974647%2C+-76.413468&btnG=Search+Maps">map</a>
+</tr><tr>
+  <td><a href="details.php?id=1">Lamon  Hayes</a></td>
+  <td>1/7/07</td>
+  <td>Suffolk</td>
+  <td>Shot to death</td>
+  <td>Solved</td>
+  <td><a target="blank" href="http://maps.google.com/maps?f=q&output=html&q=36.732779%2C+-76.593868&btnG=Search+Maps">map</a>
+</tr></tbody></table></noscript>
+
+
