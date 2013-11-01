@@ -1,0 +1,26 @@
+http://historical.mytopo.com/quad.cfm?quadname=Newport%20News&state=VA&series=15
+Historical Maps
+Newport News, VA Quadrangle
+USGS 15 Minute Series
+Latitude: 36.8750 N   Longitude: 76.375 W
+
+<tr>
+  <th rowspan="3">1921</th><td>Northwest (jpeg 0.6 MB)</td><td>Northeast (jpeg 0.7 MB)</td>
+  <td>Southwest (jpeg 0.8 MB)</td><td>Southeast (jpeg 0.9 MB)</td>
+<td colspan="2">Reprinted 1947, Surveyed 1918</td></tr>
+
+<tr><th colspan="3">Adjacent USGS 15 Minute Series Quadrangles</th></tr>
+<tr><td>Yorktown - Not Available</td><td>Hampton</td><td>Not Available</td></tr>
+<tr><td>Smithfield</td><td>Newport News</td><td>Cape Henry</td></tr>
+<tr><td>Suffolk - Not Available</td><td>Lake Drummond</td><td>Moyock</td></tr>
+</tbody>
+</table>
+<p>Towns Covered By This Quadrangle:</p>
+<ul>
+  <li>Churchland, VA</li>
+  <li>Glenwood Park, VA</li>
+  <li>Newport News, VA</li>
+  <li>Norfolk, VA</li>
+  <li>Portsmouth, VA</li>
+  <li>Titustown, VA</li>
+</ul>
