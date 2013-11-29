@@ -1,0 +1,697 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>albert</Author>
+  <LastAuthor>albert</LastAuthor>
+  <LastPrinted>2013-11-28T18:56:48Z</LastPrinted>
+  <Created>2013-11-28T18:56:04Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10035</WindowHeight>
+  <WindowWidth>20115</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>45</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="decenial-census-counts-for-hamp">
+  <Table ss:ExpandedColumnCount="24" ss:ExpandedRowCount="38" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">Historic Decenial Census Counts, 1790-2000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sources: U.S. Census Bureau, Weldon Cooper Center, &amp; HRPDC</Data></Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell ss:Index="2"><Data ss:Type="Number">1790</Data></Cell>
+    <Cell><Data ss:Type="Number">1800</Data></Cell>
+    <Cell><Data ss:Type="Number">1810</Data></Cell>
+    <Cell><Data ss:Type="Number">1820</Data></Cell>
+    <Cell><Data ss:Type="Number">1830</Data></Cell>
+    <Cell><Data ss:Type="Number">1840</Data></Cell>
+    <Cell><Data ss:Type="Number">1850</Data></Cell>
+    <Cell><Data ss:Type="Number">1860</Data></Cell>
+    <Cell><Data ss:Type="Number">1870</Data></Cell>
+    <Cell><Data ss:Type="Number">1880</Data></Cell>
+    <Cell><Data ss:Type="Number">1890</Data></Cell>
+    <Cell><Data ss:Type="Number">1900</Data></Cell>
+    <Cell><Data ss:Type="Number">1910</Data></Cell>
+    <Cell><Data ss:Type="Number">1920</Data></Cell>
+    <Cell><Data ss:Type="Number">1930</Data></Cell>
+    <Cell><Data ss:Type="Number">1940</Data></Cell>
+    <Cell><Data ss:Type="Number">1950</Data></Cell>
+    <Cell><Data ss:Type="Number">1960</Data></Cell>
+    <Cell><Data ss:Type="Number">1970</Data></Cell>
+    <Cell><Data ss:Type="Number">1980</Data></Cell>
+    <Cell><Data ss:Type="Number">1990</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gloucester County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13498</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8181</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10427</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9678</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10608</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10715</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10527</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10956</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10211</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11876</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11653</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12832</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12477</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11894</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11019</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9548</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10343</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11919</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14059</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20107</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30131</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34780</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36858</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Isle of Wight County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9028</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9342</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9186</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10118</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10517</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9972</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9353</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9977</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8320</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10572</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11313</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13102</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14929</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14433</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13409</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13381</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14906</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17164</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18285</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21603</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25053</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29728</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35270</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">James City County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4070</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3931</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4094</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4563</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3838</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3779</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4020</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5798</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4425</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5422</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5643</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3688</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6338</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6138</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3879</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4907</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6317</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11539</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17853</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22763</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34970</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48102</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67009</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Norfolk County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14524</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19419</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22872</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">23936</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24806</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27569</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33036</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">36227</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46702</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">58657</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77038</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50780</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52744</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">57358</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30082</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35828</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">99937</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">51612</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Princess Anne County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7793</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8859</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9498</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8768</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9102</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7285</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7669</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7714</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8273</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9394</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9510</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11192</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11526</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13626</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16282</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19984</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42277</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">77127</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Southampton County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12864</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13925</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13497</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14170</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16074</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14525</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13521</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12915</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12285</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18012</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20078</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22848</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26302</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27555</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26870</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26442</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26522</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">27195</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18582</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18731</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17550</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17482</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18570</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Surry County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6227</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6535</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6855</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6594</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7109</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6480</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5679</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6133</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5585</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7391</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8256</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8469</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9715</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9305</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7096</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6193</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6220</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6220</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5882</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6046</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6145</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6829</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7058</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">York County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5233</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3231</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5187</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4384</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5354</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4720</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4460</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4949</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7198</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7349</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7596</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7482</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7757</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8046</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7615</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8857</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11750</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21583</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33203</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35463</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42434</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">56297</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">65464</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chesapeake City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89580</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">114486</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">151982</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">199184</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">222209</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Franklin City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[477]</Data></Cell>
+    <Cell><Data ss:Type="String">[875]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,143]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,271]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,363]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,930]</Data></Cell>
+    <Cell><Data ss:Type="String">[3,466]</Data></Cell>
+    <Cell><Data ss:Type="String">[4,670]</Data></Cell>
+    <Cell><Data ss:Type="String">[7,264]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6880</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7308</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7864</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8346</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8582</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Hampton City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[787]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,848]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,300]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,684]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,513]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,764]</Data></Cell>
+    <Cell><Data ss:Type="String">[5,505]</Data></Cell>
+    <Cell><Data ss:Type="String">[6,138]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6382</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5898</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5966</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">89258</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">120779</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">122617</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">133811</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">146437</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">137436</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Newport News City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[4,449]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19635</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20205</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35596</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">34417</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">37067</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42358</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">113662</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">138177</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">144903</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">171439</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">180150</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">180719</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Norfolk City</Data></Cell>
+    <Cell><Data ss:Type="String">[2,959]</Data></Cell>
+    <Cell><Data ss:Type="String">[6,926]</Data></Cell>
+    <Cell><Data ss:Type="String">[9,193]</Data></Cell>
+    <Cell><Data ss:Type="String">[8,478]</Data></Cell>
+    <Cell><Data ss:Type="String">[9,814]</Data></Cell>
+    <Cell><Data ss:Type="String">[10,920]</Data></Cell>
+    <Cell><Data ss:Type="String">[14,326]</Data></Cell>
+    <Cell><Data ss:Type="String">[14,620]</Data></Cell>
+    <Cell><Data ss:Type="String">[19,229]</Data></Cell>
+    <Cell><Data ss:Type="String">[21,966]</Data></Cell>
+    <Cell><Data ss:Type="String">[34,871]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">46624</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">67452</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">115777</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">129710</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">144332</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">213513</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">304869</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">307951</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">266979</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">261250</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">234403</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">242803</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Poquoson City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[4,278]</Data></Cell>
+    <Cell><Data ss:Type="String">[5,441]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8726</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11005</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11566</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12150</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Portsmouth City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[6,477]</Data></Cell>
+    <Cell><Data ss:Type="String">[8,626]</Data></Cell>
+    <Cell><Data ss:Type="String">[9,488]</Data></Cell>
+    <Cell><Data ss:Type="String">[10,492]</Data></Cell>
+    <Cell><Data ss:Type="String">[11,390]</Data></Cell>
+    <Cell><Data ss:Type="String">[13,268]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17427</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33190</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">54387</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45704</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50745</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">80039</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">114773</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">110963</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">104577</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">103910</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">100565</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">95535</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">South Norfolk City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[7,724]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7857</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8038</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10434</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">22035</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Suffolk City </Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[1,395]</Data></Cell>
+    <Cell><Data ss:Type="String">[930]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,963]</Data></Cell>
+    <Cell><Data ss:Type="String">[3,354]</Data></Cell>
+    <Cell><Data ss:Type="String">[3,827]</Data></Cell>
+    <Cell><Data ss:Type="String">[7,008]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9123</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10271</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11343</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12339</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12609</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9858</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">47621</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">52143</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63677</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">84585</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Virginia Beach City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[320]</Data></Cell>
+    <Cell><Data ss:Type="String">[846]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,719]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,600]</Data></Cell>
+    <Cell><Data ss:Type="String">[5,390]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8091</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">172106</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">262199</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">393089</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">425257</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">437994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Williamsburg City</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">[877]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,111]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,392]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,480]</Data></Cell>
+    <Cell><Data ss:Type="String">[1,831]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2044</Data></Cell>
+    <Cell><Data ss:Type="String">[2,714]</Data></Cell>
+    <Cell><Data ss:Type="String">[2,462]</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3778</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3942</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6735</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6832</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9069</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9870</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11409</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Elizabeth City County</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3450</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2778</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3608</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3789</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5053</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3706</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4586</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5798</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8303</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10689</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16168</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19460</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">21225</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25249</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19835</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">32283</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">55028</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Hampton Roads</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">76687</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">76201</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">85224</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92461</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">88751</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92851</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">100467</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">111302</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">139362</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">167255</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">235583</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">283860</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">388487</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">374206</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">418788</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">644684</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">896488</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1073227</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1213999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1454185</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1574801</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1666310</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Virginia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">691737</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">801608</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">869131</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">928348</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1034481</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1015260</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1119348</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1219630</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1225163</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1512565</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1655980</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1854184</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2061612</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2309187</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2421851</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2677773</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3318680</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3966949</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4651448</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5346797</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6187358</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7078515</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8001024</Data></Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell><Data ss:Type="String">Elizabeth City County:</Data></Cell>
+    <Cell><Data ss:Type="String">Merged with Hampton City in 1952.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Norfolk County:</Data></Cell>
+    <Cell><Data ss:Type="String">Merged with South Norfolk City to form Chesapeake City in 1963.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Princess Anne County:</Data></Cell>
+    <Cell><Data ss:Type="String">Consolidated with Virginia Beach City in 1963.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chesapeake City:</Data></Cell>
+    <Cell><Data ss:Type="String">Formed in 1962 by the merger of Norfolk County and South Norfolk City. Incorporated on January 1, 1963.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Franklin City:</Data></Cell>
+    <Cell><Data ss:Type="String">Formed from Southampton County on December 22, 1961.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Hampton City:</Data></Cell>
+    <Cell><Data ss:Type="String">Orginally formed from Elizabeth City County in 1908. The remainder of the county consolidated with the city on July 1, 1952 </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">to form the current boundaries of Hampton City.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Poquoson City:</Data></Cell>
+    <Cell><Data ss:Type="String">Became an independent city in 1975.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">South Norfolk City:</Data></Cell>
+    <Cell><Data ss:Type="String">Became an independent city in 1921. Merged with Norfolk County to form Chesapeake City in 1963.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Virginia Beach City:</Data></Cell>
+    <Cell><Data ss:Type="String">Became an independent city in 1952. Consolidated with Princess Anne County in 1963.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
