@@ -1,0 +1,946 @@
+{
+  "metadata": {
+    "idinfo": {
+      "citation": {
+        "citeinfo": {
+          "origin": "U.S. Geological Survey",
+          "pubdate": "20130710",
+          "title": "USGS US Topo 7.5-minute map for Virginia Beach, VA 2013",
+          "geoform": "map, raster digital data",
+          "pubinfo": {
+            "pubplace": "Rolla, MO and Denver, CO",
+            "publish": "USGS - National Geospatial Technical Operations Center (NGTOC)"
+          },
+          "onlink": "http://ims.er.usgs.gov/gda_services/download?item_id=5952437",
+          "lworkcit": {
+            "citeinfo": {
+              "origin": "U.S. Geological Survey",
+              "pubdate": "2013",
+              "title": "US Topo",
+              "onlink": "https://www.sciencebase.gov/catalog/item/4f554236e4b018de15819c85"
+            }
+          }
+        }
+      },
+      "descript": {
+        "abstract": "Layered GeoPDF 7.5 Minute Quadrangle Map. Layers of geospatial data include orthoimagery, roads, grids, geographic names, elevation contours, hydrography, and other selected map features.",
+        "purpose": "This map depicts geographic features on the surface of the earth. It is a general purpose map for users who are not GIS experts. One intended purpose is to support emergency response at all levels of government. The geospatial data in this map are from selected National Map data holdings and other government sources.",
+        "supplinf": "{\"gdaId\" : 5952437, \"cellId\" : 46996, \"scale\" : 24000, \"pageWidth\" : 22.75, \"pageHeight\" : 29}"
+      },
+      "timeperd": {
+        "timeinfo": {
+          "rngdates": {
+            "begdate": "1972",
+            "enddate": "2013"
+          }
+        },
+        "current": "publication date"
+      },
+      "status": {
+        "progress": "Complete",
+        "update": "Irregular"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": "-76",
+          "eastbc": "-75.875",
+          "northbc": "36.875",
+          "southbc": "36.75"
+        }
+      },
+      "keywords": {
+        "theme": [
+          {
+            "themekt": "ISO 19115 Topic Category",
+            "themekey": [
+              "imageryBaseMapsEarthCover",
+              "EarthCover",
+              "Imagery and Base Maps"
+            ]
+          },
+          {
+            "themekt": "None",
+            "themekey": [
+              "topographic",
+              "transportation",
+              "structures",
+              "geographic names",
+              "hydrography",
+              "boundary",
+              "Public Land Survey System",
+              "woodland",
+              "orthoimage",
+              "contour",
+              "U.S. National Grid"
+            ]
+          },
+          {
+            "themekt": "The National Map Type Thesaurus",
+            "themekey": "Downloadable Data"
+          },
+          {
+            "themekt": "The National Map Theme Thesaurus",
+            "themekey": "Map"
+          },
+          {
+            "themekt": "The National Map Collection Thesaurus",
+            "themekey": "US Topo"
+          },
+          {
+            "themekt": "The National Map Product Extent Thesaurus",
+            "themekey": "7.5 x 7.5 minute"
+          },
+          {
+            "themekt": "The National Map Product Format Thesaurus",
+            "themekey": "GeoPDF"
+          }
+        ],
+        "place": [
+          {
+            "placekt": "Geographic Names Information System",
+            "placekey": [
+              "US",
+              "United States",
+              "Virginia",
+              "Virginia Beach"
+            ]
+          },
+          {
+            "placekt": "None",
+            "placekey": "Virginia Beach, VA"
+          }
+        ]
+      },
+      "accconst": "None",
+      "useconst": "This product may be freely copied, redistributed, and printed.  Most content is derived from public domain data with no reuse constraints.  The following data layers are from commercial sources and are not public domain: 1) roads in all areas, 2) orthoimages in Alaska, and 3) orthoimages in Hawaii.  These layers are copyrighted and have some reuse restrictions; see the relevant data source sections (srcinfo tag) in this file.  Users should be aware that temporal changes may have occurred since these data were collected and some data may no longer represent actual surface conditions.  Users should not use this data for critical applications without a full awareness of its limitations. Acknowledgment of the U.S. Geological Survey is appreciated for products derived from these data.",
+      "browse": {
+        "browsen": "http://thor-f5.er.usgs.gov/ngtoc/metadata/ustopo/thumbnails/VA/VA_Virginia_Beach_20130710_TM_tn.jpg",
+        "browsed": "Thumbnail JPG image of map",
+        "browset": "JPEG"
+      }
+    },
+    "dataqual": {
+      "attracc": { "attraccr": "Cartographic content is derived from USGS national geospatial databases. The data is owned and hosted by the USGS, but does not preclude using data sources owned and hosted by other organizations, provided that these sources have been approved by the USGS data program." },
+      "logic": "This product is a layered GeoPDF file. GeoPDF is a copyright format with implementation rights held exclusively by TerraGo Technologies. This design is based on use of specific commercial software systems therefore any changes to the software specifications and dependencies will be followed by the USGS and codified in the product standard.",
+      "complete": "Each layer of the GeoPDF is extracted from the USGS national geospatial databases. These data are intended to be cartographically complete at a 1:24,000 scale.",
+      "posacc": {
+        "horizpa": { "horizpar": "This US Topo map product is compiled to meet National Map Accuracy Standards (NMAS). NMAS horizontal accuracy requires that at least 90 percent of well-defined points tested are within 0.02 inch of the true position. In this product, the projection line, grids, and orthoimage are believed to meet NMAS. Positional accuracy of the other data layers is less controllable because of diversity of data sources, and may not meet NMAS." },
+        "vertacc": { "vertaccr": "Vertical accuracy report: US Topo contours are derived from the USGS National Elevation Dataset (NED).  Accuracy of the NED is inherited from various sources of digital elevation models used to populate the NED.  These data sources vary in vertical accuracy depending on collection method, control accuracy and density, and local terrain relief.  The overall absolute vertical accuracy of the NED, as tested against HARN control elevations, is 4.78 meters at 95% confidence level (National Standards for Spatial Data Accuracy).  US Topo contours are derived from the NED to generally meet National Map Accuracy Standards (90% of well-defined points in reasonably level terrain test within one-half contour interval of the true ground elevation); however, actual vertical accuracies of individual US Topo quadrangles may not meet that standard.  Quadrangles containing collar notes stating contours \"May not meet National Map Accuracy Standards\" are in areas where the source is known to be questionable for meeting NMAS for the stated contour interval." }
+      },
+      "lineage": {
+        "srcinfo": [
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "For the conterminous 48 states - National Agriculture Image Program (NAIP) administered by the Aerial Photography Field Office (APFO) for the United States Department of Agriculture.",
+                "pubdate": "20120603",
+                "title": "Orthoimagery - CONUS",
+                "geoform": "Raster digital data or Digital Orthorectified Image or NAIP Digital Ortho Photo Image or Raster digital data or Digital Orthorectified Image",
+                "othercit": "An orthorectified image is a layer in every product and is provided by the USDA-FSA-APFO from the National Agriculture Image Program (NAIP) in the conterminous US. This offers the USGS a consistent image product for the conterminous 48 states, normally with a one meter resolution in natural color.  The NAIP image in this product is public domain with no reuse constraints.",
+                "onlink": "http://www.fsa.usda.gov/"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "20120603",
+                  "enddate": "20120603"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Imagery",
+            "srccontr": "Image"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "TomTom",
+                "pubdate": "2012",
+                "title": "Transportation, commercial roads",
+                "geoform": "Vector digital data",
+                "othercit": "TomTom Multinet dataset, licensed to the USGS for use in US Topo (1:24,000-scale topographic maps in GeoPDF format). TomTom retains copyright to these data. The USGS license allows these data to be freely used and redistributed in US Topo instances, provided this copyright notice is retained. TomTom data are filtered and may be generalized by USGS for protrayal in this product. TomTom roads are not mixed with other road data sources within a 7.5-minute quadrangle, with the exception of U.S. Forest Service lands, where public domain data from the Forest Service are used.",
+                "onlink": "http://www.tomtom.com"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2006",
+                  "enddate": "2012"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Roads - TomTom",
+            "srccontr": "Road centerlines, route numbers, road classification, street names"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "USFS",
+                "pubdate": "2013",
+                "title": "Transportation, USFS FSTopo roads",
+                "geoform": "Vector digital data",
+                "othercit": "The FSTopo database was originally populated with Cartographic Feature File (CFF) data. CFF data were derived from the standard Forest Service Primary Base Series (PBS) or Single Edition Series (SES) map as part of the Forest Service National Geographic Information System Plan. PBS and SES maps were developed from the U.S. Geological Survey 1:24,000-scale, 7.5-minute topographic map series, with enhancements and regular revisions to satisfy Forest Service needs. Except in Alaska, where 1:63,360-scale maps are used, the original USGS 1:24,000-scale source maps were constructed to meet National Map Accuracy Standards, which require that 90 percent of all well-defined features shown on the map are within .02 inches of their true location. CFF data were collected using methods and the best technologies available to ensure that digitized elements were captured within .003 inches of corresponding elements shown on source maps. The USDA Geospatial Service and Technology Center (GSTC) uses the same data collection accuracy standard for additions and revisions to the data. Only maps in USDA Forest Service areas will contain USDA Forest roads.",
+                "onlink": "http://www.fs.fed.us/gstc/"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2009",
+                  "enddate": "2013"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Roads - USFS FSTopo",
+            "srccontr": "Road centerlines, route numbers, road classification, street names"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "Federal Railroad Administration",
+                "pubdate": "2011",
+                "title": "Transportation, Railroads",
+                "geoform": "Vector digital data",
+                "othercit": "Railroads are based on unpublished data provided to USGS by the Federal Railroad Administration (FRA).  These data were collected by FRA as part of the Automated Track Inspection Program (ATIP).  Though not originally intended for mapping purposes, the data are judged by USGS to have high positional accuracy and to be suitable for 1:24,000-scale mapping.  The original data were GPS points, which were thinned, filtered, and consolidated by USGS to create the data shown in US Topo.  These data are not complete, and the levels of actual completeness within a map cell or for the dataset as a whole are not precisely known. ATIP is an ongoing program, FRA has committed to continue working with USGS, and the data will become more complete with each US Topo production cycle.  The USGS has elected to use this mechanism and source of railroad data because no sufficiently current, accurate, and non-proprietary railroad dataset with national coverage can be found.  The names of rail lines will be added at some future date."
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2011",
+                  "enddate": "2011"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Railroads - Federal Railroad Administration",
+            "srccontr": "Main track centerlines"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "Federal Aviation Administration",
+                "pubdate": "2012",
+                "title": "Airports",
+                "geoform": "Vector digital data",
+                "othercit": "Runway outlines are for Federal Aviation Administration (FAA)-recognized public and private airports in the United States. The FAA runway coordinates, FAA_RunwayID, and Airport Location Codes were used by the USGS to digitize runway outlines on recent NAIP orthoimagery. The digitized data were inspected for accuracy and completeness then loaded into the USGS national transportation database.",
+                "onlink": "http://www.faa.gov"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2011",
+                  "enddate": "2012"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Transportation - Airports",
+            "srccontr": "runways"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "State and Federal Partners",
+                "pubdate": "2012",
+                "title": "Fire Stations",
+                "geoform": "Vector digital data",
+                "othercit": "Any location where fire fighters are stationed or based out of, or where equipment that such personnel use in carrying out their jobs is stored for ready use. Fire fighting training academies or locations are included. Fire Departments which are Mobile Units and not having a permanent location, are included, in which case their location has been depicted at the city/town hall or at the center of their service area if a city/town hall does not exist. This dataset includes those locations primarily engaged in forest or grasslands fire fighting, including fire lookout towers if the towers are in current use for fire protection purposes.  This dataset includes both private and governmental entities.  Locations that serve only administrative function are excluded. Locations serving both administrative and operational functions are included.",
+                "onlink": "http://nationalmap.gov"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2006",
+                  "enddate": "2012"
+                }
+              },
+              "srccurr": "ground condition"
+            },
+            "srccitea": "Structures - Fire Stations"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "State and Federal Partners",
+                "pubdate": "2011",
+                "title": "Hospitals",
+                "geoform": "Vector digital data",
+                "othercit": "Includes general medical and surgical hospitals, psychiatric, substance abuse and specialty hospitals such as Children's hospitals, cancer, maternity and rehabilitation hospitals. Other types of hospitals are included if represented in data sets provided by various partners for this compilation. Hospitals operated by the US Department of Veterans Affairs are included. Nursing homes, long term care facilities and Urgent Care facilities are generally excluded. Locations that are administrative offices only are excluded from the dataset.",
+                "onlink": "http://nationalmap.gov"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2006",
+                  "enddate": "2011"
+                }
+              },
+              "srccurr": "ground condition"
+            },
+            "srccitea": "Structures - Hospitals"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "State and Federal Partners",
+                "pubdate": "2008",
+                "title": "Schools",
+                "geoform": "Vector digital data",
+                "othercit": "The schools within this dataset are composed of Public elementary and secondary education in the US as defined and tracked by the National Center for Education Statistics (NCES), Common Core Dataset (CCD). Private schools in this dataset are composed of Private elementary and secondary education in the US as defined by the Private School Survey, NCES. The colleges and Universities are composed of postsecondary education facilities as defined by the Integrated Post Secondary Education System (IPEDS), NCES. Included are Doctoral and Research Universities, Masters Colleges and Universities, Baccalaureate Colleges, Associates Colleges, Theological seminaries, Medical schools and other health care professions, schools of engineering and technology, business and management, art, music, design, Law schools, Teachers colleges, Tribal colleges and other specialized institutions.",
+                "onlink": "http://nationalmap.gov"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2008",
+                  "enddate": "2008"
+                }
+              },
+              "srccurr": "ground condition"
+            },
+            "srccitea": "Structures - Schools"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey",
+                "pubdate": "2013",
+                "title": "Cemeteries",
+                "geoform": "Vector digital data",
+                "othercit": "The Geographic Names Information System (GNIS) is the Federal and national standard for geographic nomenclature. The U.S. Geological Survey developed the GNIS in support of the U.S. Board on Geographic Names as the official repository of domestic geographic names data, the official vehicle for geographic names use by all departments of the Federal Government, and the source for applying geographic names to Federal electronic and printed products. Cemeteries are one feature from the GNIS data base.",
+                "onlink": "http://geonames.usgs.gov/"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2013",
+                  "enddate": "2013"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Structures - Cemeteries",
+            "srccontr": "Geographic feature names"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey",
+                "pubdate": "2013",
+                "title": "Post Offices",
+                "geoform": "Vector digital data",
+                "othercit": "The Geographic Names Information System (GNIS) is the Federal and national standard for geographic nomenclature. The U.S. Geological Survey developed the GNIS in support of the U.S. Board on Geographic Names as the official repository of domestic geographic names data, the official vehicle for geographic names use by all departments of the Federal Government, and the source for applying geographic names to Federal electronic and printed products. Post Offices are one feature from the GNIS data base.",
+                "onlink": "http://geonames.usgs.gov/"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2013",
+                  "enddate": "2013"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Structures - Post Offices",
+            "srccontr": "Geographic feature names"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "State and Federal Partners",
+                "pubdate": "2012",
+                "title": "Law Enforcement",
+                "geoform": "Vector digital data",
+                "othercit": "Includes locations where sworn officers of a law enforcement agency are regularly based or stationed, primarily local police station locations. State and federal law enforcement agencies are generally excluded from this dataset.",
+                "onlink": "http://nationalmap.gov"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2005",
+                  "enddate": "2012"
+                }
+              },
+              "srccurr": "ground condition"
+            },
+            "srccitea": "Structures - Law Enforcement"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "State and Federal Partners",
+                "pubdate": "2012",
+                "title": "Prisons",
+                "geoform": "Vector digital data",
+                "othercit": "Includes government operated prisons and facilities privately operated for the government such as medium and high security prisons and correctional institutions. Low and minimum security institutions such as local jails, prison camps, correctional farms or work farms, detention and treatment centers are excluded.",
+                "onlink": "http://nationalmap.gov"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2006",
+                  "enddate": "2012"
+                }
+              },
+              "srccurr": "ground condition"
+            },
+            "srccitea": "Structures - Prisons"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey",
+                "pubdate": "2013",
+                "title": "Geographic Names Information System (GNIS)",
+                "geoform": "Vector digital data",
+                "othercit": "The Geographic Names Information System (GNIS) is the Federal and national standard for geographic nomenclature. The U.S. Geological Survey developed the GNIS in support of the U.S. Board on Geographic Names as the official repository of domestic geographic names data, the official vehicle for geographic names use by all departments of the Federal Government, and the source for applying geographic names to Federal electronic and printed products.",
+                "onlink": "http://geonames.usgs.gov/"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2013",
+                  "enddate": "2013"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Geographic Names",
+            "srccontr": "Geographic feature names"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey in cooperation with U.S. Environmental Protection Agency, USDA Forest Service, and other Federal, State and local partners. National Hydrography Dataset is a component of a comprehensive base geospatial data model.",
+                "pubdate": "20120603",
+                "title": "Hydrography",
+                "geoform": "Vector digital data",
+                "othercit": "The National Hydrography Dataset (NHD) is a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system. The high-resolution NHD was originally created using 1:24,000-scale data. State and Local Stewards are improving the data by incorporating local updates based on more current and more accurate source data. Water features in the real world are relatively dynamic and the differences at the time of data collection mean that water features may not register exactly to other layers. The hydrographic feature names contained in and displayed by the NHD are extracted and validated from the Geographic Names Information System (GNIS). Spatial objects may be filtered or generalized to achieve a 1:24,000-scale representation.",
+                "onlink": [
+                  "http://nhd.usgs.gov/",
+                  "http://nhd.usgs.gov/gnis.html",
+                  "http://nhdgeo.usgs.gov/metadata/nhd_high.htm"
+                ]
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "20120603",
+                  "enddate": "20120603"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Hydrography",
+            "srccontr": "Hydrography features and feature names"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey",
+                "pubdate": "2011",
+                "title": "Gaging Stations",
+                "geoform": "Vector digital data",
+                "othercit": "This dataset, termed \"GAGES II\", an acronym for Geospatial Attributes of Gages for Evaluating Streamflow, version II, provides geospatial data and classifications for 9,322 stream gages maintained by the U.S. Geological Survey (USGS). It is an update to the original GAGES in 2010. The GAGES II dataset consists of gages which have had either 20+ complete years (not necessarily continuous) of discharge record since 1950, or are currently active, as of water year 2009, and whose watersheds lie within the United States, including Alaska, Hawaii, and Puerto Rico. Only active stations, as identified by the GAGES II dataset, are symbolized.",
+                "onlink": [
+                  "http://water.usgs.gov/lookup/getspatial?gagesII_Sept2011",
+                  "http://http://water.usgs.gov/GIS/metadata/usgswrd/XML/gagesII_Sept2011.xml"
+                ]
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2011",
+                  "enddate": "2011"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Hydrography - Gaging Stations",
+            "srccontr": "Hydrography features and gaging stations"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "Global Land Ice Measurements from Space initiative (GLIMS)",
+                "pubdate": "2012",
+                "title": "Glaciers",
+                "geoform": "Vector digital data",
+                "othercit": "The Randolph Glacier Inventory (RGI 2.0) is a global inventory of glacier outlines. It is supplemental to the Global Land Ice Measurements from Space initiative (GLIMS). Production of the RGI was motivated by the forthcoming Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC AR5). Updates beyond the IPCC 2012 deadlines will take the form of additions to the GLIMS Glacier Database. As resources allow, all these data will be incorporated into the GLIMS Glacier Database.  The RGI data are used without alteration by the U.S. Geological Survey for US Topo maps and are not yet integrated with other hydrography features from USGS datasets. Glacier names are from the Geographic Names Information System (GNIS).  RGI polygon boundaries are not shown in the US Topo representation.",
+                "onlink": [
+                  "http://www.glims.org/RGI/randolph.html",
+                  "http://www.glims.org/RGI/RGI_Tech_Report_V2.0.pdf"
+                ]
+              }
+            },
+            "srcscale": "50000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2010",
+                  "enddate": "2012"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Hydrography - Glaciers",
+            "srccontr": "Hydrography features and glaciers"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "International Boundary Commission",
+                "pubdate": "2006",
+                "geoform": "Vector digital data",
+                "title": "U.S.-Canada National Boundary",
+                "othercit": "The international boundary dataset between Canada and the United States was provided by Maine Office of Geographic Information Systems (MEGIS), University of New Hampshire, Vermont Center for Geographic Information, Inc (VCGI). The dataset was collected from multiple source agencies such as the U.S. Geological Survey, U.S. Department of Commerce, Bureau of Census, Bureau of Parks and Lands, Coastal Island Registry (CIREG) and various state agencies. The data and attribution accuracy was tested by manual comparison of the source with hard copy printouts and/or symbolized display of digital files and corrected by each state GIS department for use at a scale not greater than 1:24,000.",
+                "onlink": [
+                  "http://www.internationalboundarycommission.org/",
+                  "http://www.internationalboundarycommission.org/products.html#nad83"
+                ]
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2006",
+                  "enddate": "2006"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "U.S. / Canada International Boundary",
+            "srccontr": "International Boundary between Canada and the United States"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey, U.S. Department of Agriculture, and the Instituto Nacional de Estadística y Geografía of Mexico.",
+                "pubdate": "2006",
+                "geoform": "Vector digital data",
+                "title": "U.S.-Mexico National Boundary",
+                "othercit": "The international boundary between Mexico and the United States, defined as a joint venture between the U.S. Department of Agriculture (USDA) and the Instituto Nacional de Estadística y Geografía of Mexico (INEGI), resulted in an unofficial United States-Mexico boundary dataset that was further enhanced by the U.S. Geological Survey's Border Environmental Health Initiative (BEHI). With the data frame scale set to 1:5,000 in ArcMap, the center of the Rio Grande/Río Bravo was digitized using the NAIP 2004 Imagery. In areas with dense stands of salt cedar (bounding box = UL -104.714 30.038, UR -104.664 30.037, LR -104.666 29.933, LL -104.717 29.934; NAD83), the center of the channel was difficult, and sometimes impossible, to easily determine. To determine the location of the boundary, the GIS analyst compared the location of the line in the INEGI 1:250K Limite feature class with the NAIP 2004 Imagery and adjusted the boundary to the image, thus, the delineation of the international boundary is less certain in these areas. The remaining part of the border was extracted from the INEGI 1:250K Limite feature class and appended to the line feature class created along the Rio Grande/Río Bravo. The U.S. Geological Survey reviewed the original USDA data against 2007 NAIP imagery and further edited 9 line segments in the Rio Grande areas to conform to National Map Accuracy Standards.",
+                "onlink": [
+                  "http://borderhealth.cr.usgs.gov/projectindex.html",
+                  "http://extract.cr.usgs.gov/BorderHealth/Boundaries/Int_Boundary/International_Boundary_Shapefile.zip"
+                ]
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "1972",
+                  "enddate": "2006"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "U.S. / Mexico International Boundary",
+            "srccontr": "International Boundary between Mexico and the United States"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Department of Agriculture (USDA) Forest Service - Washington Office Automated Lands Program (ALP).",
+                "pubdate": "2012",
+                "geoform": "Vector digital data",
+                "title": "USDA Forest Service Boundary",
+                "othercit": "The forest service boundaries defined by the USDA Forest Service encompassing the National Forest System (NFS) lands within the original proclaimed National Forests, along with lands added to the NFS which have taken on the status of 'reserved from the public domain' under the General Exchange Act. The following area types are included: National Forest, Experimental Area, Experimental Forest, Experimental Range, Land Utilization Project, National Grassland, Purchase Unit, and Special Management Area. The nationwide Proclaimed Forest dataset was created by the USDA Forest Service, Washington Office Automated Lands Program (ALP) staff from collected source data created by the Regional Offices. Only maps in USDA Forest Service areas will contain USDA Forest boundaries."
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2012",
+                  "enddate": "2012"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "USDA Forest Service Boundaries",
+            "srccontr": "National Forest Service Boundaries"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Census Bureau",
+                "pubdate": "2010",
+                "geoform": "Vector digital data",
+                "title": "State and Equivalent Boundary",
+                "othercit": "The Census Bureau collects boundaries from state and county governments through the Boundary and Annexation Survey (BAS, http://www.census.gov/geo/www/bas/bashome.html), and publishes the results as TIGER files.  The USGS uses the TIGER data without editing or alteration for US Topo.",
+                "onlink": [
+                  "http://www.census.gov/geo/www/tiger/index.html",
+                  "ftp://ftp2.census.gov/geo/tiger/TIGER2010/STATE/2010/"
+                ]
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2010",
+                  "enddate": "2010"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "State Boundaries",
+            "srccontr": "State and Equivalent Boundary"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Census Bureau",
+                "pubdate": "2010",
+                "geoform": "Vector digital data",
+                "title": "County and Equivalent Boundary",
+                "othercit": "The Census Bureau collects boundaries from state and county governments through the Boundary and Annexation Survey (BAS), and publishes the results as TIGER files.  The USGS uses Census TIGER data without editing or alteration for US Topo.",
+                "onlink": [
+                  "http://www.census.gov/geo/www/tiger/index.html",
+                  "ftp://ftp2.census.gov/geo/tiger/TIGER2010/COUNTY/2010/",
+                  "http://www.census.gov/geo/www/bas/bashome.html"
+                ]
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2010",
+                  "enddate": "2010"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "County Boundaries",
+            "srccontr": "County and Equivalent Boundary"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "Office of the Deputy Under Secretary of Defense for Installations and Environment, Business Enterprise Integration Directorate",
+                "pubdate": "2011",
+                "title": "U.S. Military Installations, Ranges, and Training Areas",
+                "geoform": "vector digital data",
+                "othercit": "This dataset depicts the authoritative boundaries of the most commonly known Department of Defense (DoD) sites, installations, ranges, and training areas in the United States and Territories. These sites encompass land which is federally owned or otherwise managed. This dataset was compiled by the Defense Installation Spatial Data Infrastructure (DISDI) Program. This dataset represents the baseline for georeferenced boundaries of sites selected from the 2010 Base Structure Report. The boundary locations are intended for planning purposes only and do not represent the legal or surveyed land parcel boundaries. This list does not necessarily represent a comprehensive collection of all DoD facilities, and only those in the fifty United States and US Territories were considered for inclusion. Maps produced at a scale of 1:50,000 or larger which otherwise comply with National Map Accuracy Standards will remain compliant if this data is incorporated. Although these data have been provided by the DoD components, no warranty expressed or implied is made regarding the utility of the data on any other system, in derived products or data alterations, nor shall the act of distribution constitute such warranty.",
+                "onlink": [
+                  "http://www.acq.osd.mil/ie/index.shtml",
+                  "http://geo.data.gov/geoportal"
+                ]
+              }
+            },
+            "srcscale": "50000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2011",
+                  "enddate": "2011"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "U.S. Department of Defense Military Installations",
+            "srccontr": "Boundary lines, installation names"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Dept. of Interior, Bureau of Land Management, Division of Support Services, Branch of Information Resource Management",
+                "pubdate": "Unknown",
+                "title": "Public Land Survey System",
+                "geoform": "Vector digital data",
+                "othercit": [
+                  "General: The Bureau of Land Management is the authoritative source for PLSS information. However, the management of these data is not completely uniform throughout the country; some variations in sources and characteristics are documented in the following sections.   Although this metadata record is included with all maps, PLSS is currently shown on US Topo maps in only a few states.   PLSS will be added to US Topo maps in more states in the coming years.",
+                  "Alaska: At this writing, PLSS data for US Topo in Alaska consist of protracted (computed, not surveyed) data only. Section boundaries were generated from geodetic latitude and longitude coordinate pairs as recorded on BLM's official protraction diagrams of the state of Alaska. The SDMS_PROD protraction tables were modified to include pro_pt83, section83, and township83. The latitude and longitude values in the pro_pt83 table were transformed from geographic NAD27 coordinates to geographic NAD83 coordinates using NADCON for Alaska. The Informix Section83 table is a spatially-enabled table that contains all of the protraction information for each of the 655,483 sections. Section shapes are stored as NAD83 geographic multipolygons. Each section was individually constructed from NAD83 geographic pro_pt (Protracted Point) table and is fully densified by including all township/section offset corners from adjacent ownship/sections. For more information and data see http://sdms.ak.blm.gov/sdms/data_protracted_grid_gis.html"
+                ],
+                "onlink": "http://www.geocommunicator.gov/geocomm/lsis_home/home/index.htm#plss"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "Unknown",
+                  "enddate": "Unknown"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Public Land Survey System - BLM",
+            "srccontr": "Townships and ranges, sections"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "USGS - National Elevation Dataset is a component of a comprehensive base geospatial data model.",
+                "pubdate": "19990402",
+                "title": "Hypsography",
+                "geoform": "Vector digital data",
+                "othercit": "This contour featureclass was generated from the 1/3 arc-second version of the National Elevation Dataset (NED). The intended viewing scale for these features is 1:24,000. The contours are derived from a filtered elevation raster to achieve smoother arcs. The NED data were modified by the National Hydrography Dataset (NHD) flow lines and water bodies to facilitate improved integration between the hypsography and hydrography on USGS map products. These contours were generated primarily for use as a layer in GeoPDFs created in the US Topo digital mapping program. The raster data source of contours is the National Elevation Dataset (NED) 1/3 arc-second layer. The 1/3 arc-second NED contains resampled data from the 1/9 arc-second layer of NED. Secondary datasets include the high resolution flow lines, water bodies, and areas from the National Hydrography Dataset (NHD). The NHD layers are used in hydro-enforcement of the DEM prior to contour generation. The goals of the hydro-enforcement are to prevent contour lines from extending over the surface of water bodies and to align the contour reentrants with the NHD single-line streams. The NED raster cells are converted to points. Those points, along with the NHD flow lines are input into an interpolation tool to create a new surface. The NHD water bodies and areas are preprocessed to attach the minimum and maximum elevation to each polygon. From these precalculated values, an appropriate value is calculated by which to raise the elevation cells under the NHD polygons. The NHD polygons are then converted into rasters, which in turn will be used to generate a mosaic that includes the new raster surface. The mosaic is filtered to provide smoother contour lines. Contours are generated and depression and index contours are identified. There is no guarantee or warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since these data were collected and generated and that some parts of these data may no longer represent actual surface conditions. Hydro-enforcement and generalization can also significantly alter the spatial characteristics of the contours. Users should not use these data for critical applications without a full awareness of its limitations.",
+                "onlink": "http://ned.usgs.gov/"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "19990402",
+                  "enddate": "19990402"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Hypsography",
+            "srccontr": "Contours"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey",
+                "pubdate": "2013",
+                "title": "Land Cover - Woodland",
+                "geoform": "Vector digital data",
+                "othercit": "The Woodland Tint is a derivative land cover product created using several national map layers: three National Land Cover Database (NLCD) 2001 raster layers (Tree Canopy, Imperviousness, and Land Cover); and two vector layers (National Hydrography Dataset and Transportation). The process begins with masking the NLCD 2001 Canopy Data with NLCD 2001 Imperviousness V1 (values from 1-100), and Land Cover V1 (value 11 = Open Water).  The resulting raster data with canopy values of 20 and greater are converted to woodland vector polygons and smoothed via the Paek Algorithm.  The woodland polygons are masked with buffered Transportation (Roads, Airport Runways, and Railroads) and Hydrography (NHD Areas excluding Inundation Area and NHD Waterbodies excluding Swamp/Marsh).  The resulting polygons are checked for scale appropriate size (minimum size of one acre), and the small woodland polygons as well as small clearings within the woodland polygons are deleted. For Alaska, the Woodland Tint is a derivative land cover product created using five national map layers: one raster layer, National Land Cover Database (NLCD) 2001 (Land Cover); and four vector layers (National Hydrography Dataset, Transportation Roads, Transportation Airports and Transportation Railroads). The process begins with combining three NLCD 2001 Land Cover V1 Classes (41 - Deciduous Forest, 42 - Evergreen Forest, and 43 - Mixed Forest). The resulting raster data was converted to woodland vector polygons, and smoothed via the Paek Algorithm. The woodland polygons are masked with buffered Transportation (Roads, Airport Runways, and Railroads) and Hydrography (NHD Areas excluding Inundation Areas and NHD Waterbodies excluding Swamp/Marsh). The resulting polygons are checked for scale appropriate size (minimum size of one acre), and the small woodland polygons as well as small clearings within the woodland polygons are deleted.",
+                "onlink": "http://nationalmap.gov"
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2001",
+                  "enddate": "2013"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Land Cover - Woodland",
+            "srccontr": "National Landcover Dataset; National Hydrography Dataset; National Transportation Dataset"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey",
+                "pubdate": "19990402",
+                "title": "Shaded Relief",
+                "geoform": "raster digital data",
+                "othercit": "The Shaded relief is a derivative elevation product created from the National Elevation Dataset (NED) 1/3 arc second.  First there are five separate shaded relief datasets created from the original data.  Each shaded relief has different azimuths and altitude values as follows: 00 450, 1350 600, 2700 450, 3150 450, 450 450.  These five datasets are then combined into one feature class using map algebra to compute the raster layers using the following equation shadedrelief1 + shadedrelief2 + shadedrelief3 + (shadedrelief4 x 2) + shaded relief5 \\ 6.  This equation gives double importance to the 3150 azimuth and 450 elevation."
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "digital data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "19990402",
+                  "enddate": "19990402"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Imagery Shaded Relief",
+            "srccontr": "National Elevation Dataset"
+          },
+          {
+            "srccite": {
+              "citeinfo": {
+                "origin": "U.S. Geological Survey",
+                "pubdate": "2012",
+                "title": "Grids and Coordinate System",
+                "othercit": "Geographic Coordinate, U.S. National Grid, UTM grid, and State Plane Coordinate System values are displayed along the map projection.  State Plane Coordinate System State and Zone values are abbreviated per Appendix A in the following document: Stem, J.E., 1990, 'State Plane Coordinate System of 1983', NOAA Manual NOS NGS 5, available at http://www.ngs.noaa.gov/PUBS_LIB/ManualNOSNGS5.pdf."
+              }
+            },
+            "srcscale": "24000",
+            "typesrc": "raster data",
+            "srctime": {
+              "timeinfo": {
+                "rngdates": {
+                  "begdate": "2013",
+                  "enddate": "2013"
+                }
+              },
+              "srccurr": "publication date"
+            },
+            "srccitea": "Grids and Coordinate Systems",
+            "srccontr": "2.5-minute geographic ticks, U.S. National Grid, UTM grid, State Plane Coordinate System ticks."
+          }
+        ],
+        "procstep": {
+          "procdesc": "The GeoPDFs for this product are created as follows. All geospatial content is taken from national geospatial databases under the stewardship of USGS data programs. The NAIP imagery is provided by a seamless tile service that delivers image data at the resolution and quality of the source imagery. The raster and vector data, including grids and collar information, are processed using ESRI ArcGIS software and exported as a GeoPDF using the TerraGo ArcGIS software extension. Map formatting is performed using a custom application, which includes post-processing to embed the metadata XML document. GeoPDF is a copyrighted format, with implementation rights held exclusively by TerraGo Technologies. Any use of trade, product, or firm names in this publication is for descriptive purposes only and does not imply endorsement by the U.S. Government.",
+          "procdate": "20130710"
+        }
+      }
+    },
+    "spdoinfo": { "direct": "Raster" },
+    "spref": {
+      "horizsys": {
+        "planar": {
+          "gridsys": {
+            "gridsysn": "Universal Transverse Mercator",
+            "utm": {
+              "utmzone": "18",
+              "transmer": {
+                "sfctrmer": "0.9996",
+                "longcm": "-75",
+                "latprjo": "0.0",
+                "feast": "500000",
+                "fnorth": "0.0"
+              }
+            }
+          },
+          "planci": {
+            "plance": "coordinate pair",
+            "coordrep": {
+              "absres": "2",
+              "ordres": "2"
+            },
+            "plandu": "meters"
+          }
+        },
+        "geodetic": {
+          "horizdn": "North American Datum of 1983",
+          "ellips": "Geodetic Reference System 80",
+          "semiaxis": "6378137",
+          "denflat": "298.2572221"
+        }
+      },
+      "vertdef": {
+        "altsys": {
+          "altdatum": "North American Vertical Datum of 1988",
+          "altres": "3",
+          "altunits": "meters",
+          "altenc": "Explicit elevation coordinate included with horizontal coordinates"
+        }
+      }
+    },
+    "eainfo": {
+      "overview": {
+        "eaover": "This is a general-purpose design and layout quadrangle map based on the traditional USGS quadrangle cells. The domain is a standard 7.5-minute cell. The scale is 1:24,000.",
+        "eadetcit": "National Geospatial Program US Topo Product Standard, 2011."
+      }
+    },
+    "distinfo": {
+      "distrib": {
+        "cntinfo": {
+          "cntorgp": { "cntorg": "U.S. Geological Survey" },
+          "cntaddr": {
+            "addrtype": "mailing and physical",
+            "address": "Box 25046 Denver Federal Center",
+            "city": "Lakewood",
+            "state": "CO",
+            "postal": "80225"
+          },
+          "cntvoice": "1-888-ASK-USGS (1-888-275-8747)",
+          "cntemail": "usgsstore@usgs.gov"
+        }
+      },
+      "resdesc": "Downloadable Data",
+      "distliab": "Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server, and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and/or contained herein.",
+      "stdorder": {
+        "digform": {
+          "digtinfo": {
+            "formname": "GeoPDF",
+            "transize": "17.925128"
+          },
+          "digtopt": {
+            "onlinopt": {
+              "computer": {
+                "networka": { "networkr": "http://ims.er.usgs.gov/gda_services/download?item_id=5952437" }
+              }
+            }
+          }
+        },
+        "fees": "None"
+      }
+    },
+    "metainfo": {
+      "metd": "20130712",
+      "metc": {
+        "cntinfo": {
+          "cntorgp": { "cntorg": "U.S. Geological Survey, National Geospatial Technical Operations Center" },
+          "cntaddr": [
+            {
+              "addrtype": "mailing and physical",
+              "address": "1400 Independence Road",
+              "city": "Rolla",
+              "state": "MO",
+              "postal": "65401"
+            },
+            {
+              "addrtype": "mailing and physical",
+              "address": "Box 25046 Denver Federal Center",
+              "city": "Lakewood",
+              "state": "CO",
+              "postal": "80225"
+            }
+          ],
+          "cntvoice": "1-888-ASK-USGS (1-888-275-8747)",
+          "cntemail": "http://www.usgs.gov/ask/",
+          "hours": "Monday through Friday 8:00 AM to 4:00 PM",
+          "cntinst": "Metadata information can also be obtained through online services using The National Map Viewer, at http://nationalmap.gov or EarthExplorer, at http://earthexplorer.usgs.gov or Ask USGS at http://www.usgs.gov/ask."
+        }
+      },
+      "metstdn": "FGDC Content Standard for Digital Geospatial Metadata",
+      "metstdv": "FGDC-STD-001-1998"
+    }
+  }
+}
