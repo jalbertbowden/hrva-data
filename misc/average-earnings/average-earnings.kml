@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Sources: Bureau of Economic Analysis &amp; HRPDC</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>1969</description>
+<Point><coordinates>1972,1971,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Farm</name>
+<description>2,292 </description>
+<Point><coordinates>3,436 ,1,611 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Agricultural Services, Forestry, Fishing</name>
+<description>4,273 </description>
+<Point><coordinates>5,320 ,4,883 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mining</name>
+<description>14,441 </description>
+<Point><coordinates>12,842 ,5,858 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Construction</name>
+<description>7,217 </description>
+<Point><coordinates>8,856 ,(D),0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Manufacturing</name>
+<description>8,091 </description>
+<Point><coordinates>9,650 ,8,971 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Transportation and Public Utilities</name>
+<description>7,605 </description>
+<Point><coordinates>9,943 ,8,936 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Wholesale Trade</name>
+<description>7,630 </description>
+<Point><coordinates>8,786 ,8,459 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Retail Trade</name>
+<description>4,574 </description>
+<Point><coordinates>5,408 ,5,071 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Finance, Insurance, and Real Estate</name>
+<description>4,216 </description>
+<Point><coordinates>4,732 ,4,357 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Services</name>
+<description>4,394 </description>
+<Point><coordinates>5,410 ,5,125 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Government</name>
+<description>6,886 </description>
+<Point><coordinates>9,639 ,8,605 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>   Federal Civilian</name>
+<description>9,562 </description>
+<Point><coordinates>11,686 ,10,944 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>   Military</name>
+<description>6,089 </description>
+<Point><coordinates>9,849 ,8,286 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>   State and Local</name>
+<description>5,963 </description>
+<Point><coordinates>7,101 ,6,755 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Total</name>
+<description>6,280 </description>
+<Point><coordinates>8,025 ,7,350 ,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>(D) Not shown to avoid disclosure of confidential information, but the estimates for this item are included in the totals.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+</Document>
+</kml>
