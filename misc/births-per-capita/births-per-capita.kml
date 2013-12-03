@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Sources: Virginia Department of Health, Weldon Cooper Center, HRPDC</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Jurisdiction</name>
+<description>1970</description>
+<Point><coordinates>1973,1972,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chesapeake</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Franklin</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gloucester County</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hampton</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Isle of Wight County</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>James City County</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Newport News</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Norfolk</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Poquoson</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Portsmouth</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Southampton County</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Suffolk</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Surry County</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Virginia Beach</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Williamsburg</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>York County</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hampton Roads</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Virginia</name>
+<description>Err:510</description>
+<Point><coordinates>Err:510,Err:510,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
