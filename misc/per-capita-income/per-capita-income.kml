@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Source: Bureau of Economic Analysis &amp; HRPDC</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>1969</description>
+<Point><coordinates>1972,1971,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chesapeake</name>
+<description>3354</description>
+<Point><coordinates>4152,3793,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Franklin(City) &amp; Southampton</name>
+<description>2465</description>
+<Point><coordinates>3334,2891,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gloucester</name>
+<description>3368</description>
+<Point><coordinates>4367,3857,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hampton</name>
+<description>3412</description>
+<Point><coordinates>4148,3862,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Isle of Wight</name>
+<description>3023</description>
+<Point><coordinates>3951,3438,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>James City &amp; Williamsburg</name>
+<description>3254</description>
+<Point><coordinates>4232,4234,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Newport News</name>
+<description>3577</description>
+<Point><coordinates>4247,3916,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Norfolk</name>
+<description>3753</description>
+<Point><coordinates>4554,3972,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Poquoson &amp; York</name>
+<description>3552</description>
+<Point><coordinates>4512,4052,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Portsmouth</name>
+<description>2832</description>
+<Point><coordinates>3828,3420,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Suffolk</name>
+<description>3039</description>
+<Point><coordinates>4051,3544,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Surry County</name>
+<description>2089</description>
+<Point><coordinates>2626,2138,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Virginia Beach</name>
+<description>3860</description>
+<Point><coordinates>4893,4475,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hampton Roads PDC</name>
+<description>3468.76682304962</description>
+<Point><coordinates>4340.4948531495,3910.18585372376,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hampton Roads MSA</name>
+<description>3484</description>
+<Point><coordinates>4351,3924,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Virginia</name>
+<description>3560</description>
+<Point><coordinates>4486,4091,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>United States (Metro Portion)</name>
+<description>4053</description>
+<Point><coordinates>4956,4570,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>United States</name>
+<description>3836</description>
+<Point><coordinates>4717,4340,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
