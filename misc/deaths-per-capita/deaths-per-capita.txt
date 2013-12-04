@@ -1,0 +1,88 @@
+Table: Deaths Per Capita (Deaths Per Thousand of the July Population)
+Sources: Virginia Department of Health, Weldon Cooper Center, and HRPDC
+
+                            1990           1991           1992           1993           1994           1995
+Chesapeake             Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Franklin               Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Gloucester County      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Hampton                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Isle of Wight County   Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+James City County      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Newport News           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Norfolk                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Poquoson               Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Portsmouth             Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Southampton County     Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Suffolk                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Surry County           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Virginia Beach         Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Williamsburg           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+York County            Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Hampton Roads          Err:510               Err:510 Err:510        Err:510        Err:510               Err:510
+Virginia                      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Table: Deaths Per Capita (Deaths Per Thousand of the July Population)
+Sources: Virginia Department of Health, Weldon Cooper Center, and HRPDC
+
+                            1996           1997           1998           1999           2000           2001
+Chesapeake             Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Franklin               Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Gloucester County      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Hampton                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Isle of Wight County   Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+James City County      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Newport News           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Norfolk                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Poquoson               Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Portsmouth             Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Southampton County     Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Suffolk                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Surry County           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Virginia Beach         Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Williamsburg           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+York County            Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Hampton Roads          Err:510        Err:510        Err:510               Err:510 Err:510        Err:510
+Virginia                      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Table: Deaths Per Capita (Deaths Per Thousand of the July Population)
+Sources: Virginia Department of Health, Weldon Cooper Center, and HRPDC
+
+                            2002           2003           2004           2005           2006           2007
+Chesapeake             Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Franklin               Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Gloucester County      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Hampton                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Isle of Wight County   Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+James City County      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Newport News           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Norfolk                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Poquoson               Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Portsmouth             Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Southampton County     Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Suffolk                Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Surry County           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Virginia Beach         Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Williamsburg           Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+York County            Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Hampton Roads          Err:510               Err:510 Err:510        Err:510        Err:510               Err:510
+Virginia                      Err:510        Err:510        Err:510        Err:510        Err:510        Err:510
+Table: Deaths Per Capita (Deaths Per Thousand of the July Population)
+Sources: Virginia Department of Health, Weldon Cooper Center, and HRPDC
+
+                            2008           2009           2010           2011
+Chesapeake             Err:510        Err:510        Err:510        Err:510
+Franklin               Err:510        Err:510        Err:510        Err:510
+Gloucester County      Err:510        Err:510        Err:510        Err:510
+Hampton                Err:510        Err:510        Err:510        Err:510
+Isle of Wight County   Err:510        Err:510        Err:510        Err:510
+James City County      Err:510        Err:510        Err:510        Err:510
+Newport News           Err:510        Err:510        Err:510        Err:510
+Norfolk                Err:510        Err:510        Err:510        Err:510
+Poquoson               Err:510        Err:510        Err:510        Err:510
+Portsmouth             Err:510        Err:510        Err:510        Err:510
+Southampton County     Err:510        Err:510        Err:510        Err:510
+Suffolk                Err:510        Err:510        Err:510        Err:510
+Surry County           Err:510        Err:510        Err:510        Err:510
+Virginia Beach         Err:510        Err:510        Err:510        Err:510
+Williamsburg           Err:510        Err:510        Err:510        Err:510
+York County            Err:510        Err:510        Err:510        Err:510
+Hampton Roads          Err:510               Err:510        Err:510        Err:510
+Virginia                      Err:510        Err:510        Err:510        Err:510
