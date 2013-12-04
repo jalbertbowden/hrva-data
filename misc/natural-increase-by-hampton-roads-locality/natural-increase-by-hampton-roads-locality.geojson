@@ -1,0 +1,289 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1973,
+                    1972,
+                    0
+                ]
+            },
+            "properties": {
+                "description": "1970"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    777,
+                    882,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chesapeake",
+                "description": "1089"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25,
+                    31,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Franklin",
+                "description": "50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84,
+                    73,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gloucester County",
+                "description": "49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1187,
+                    1469,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hampton",
+                "description": "1783"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115,
+                    171,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Isle of Wight County",
+                "description": "158"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152,
+                    153,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "James City County",
+                "description": "288"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1597,
+                    1740,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newport News",
+                "description": "2301"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2538,
+                    2883,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Norfolk",
+                "description": "4017"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Poquoson",
+                "description": "#VALUE!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    748,
+                    885,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Portsmouth",
+                "description": "1160"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35,
+                    81,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southampton County",
+                "description": "94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128,
+                    26,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Suffolk",
+                "description": "37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18,
+                    15,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Surry County",
+                "description": "53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2094,
+                    2163,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Virginia Beach",
+                "description": "2628"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43,
+                    17,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Williamsburg",
+                "description": "51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    205,
+                    233,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "York County",
+                "description": "314"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hampton Roads",
+                "description": "#VALUE!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30562,
+                    34182,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Virginia",
+                "description": "47072"
+            }
+        }
+    ]
+}

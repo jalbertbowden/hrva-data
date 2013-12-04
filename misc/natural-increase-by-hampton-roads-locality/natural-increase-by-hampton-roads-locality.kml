@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Sources: Virginia Department of Health &amp; HRPDC</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name></name>
+<description>1970</description>
+<Point><coordinates>1973,1972,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Chesapeake</name>
+<description>1089</description>
+<Point><coordinates>777,882,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Franklin</name>
+<description>50</description>
+<Point><coordinates>25,31,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Gloucester County</name>
+<description>49</description>
+<Point><coordinates>84,73,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hampton</name>
+<description>1783</description>
+<Point><coordinates>1187,1469,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Isle of Wight County</name>
+<description>158</description>
+<Point><coordinates>115,171,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>James City County</name>
+<description>288</description>
+<Point><coordinates>152,153,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Newport News</name>
+<description>2301</description>
+<Point><coordinates>1597,1740,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Norfolk</name>
+<description>4017</description>
+<Point><coordinates>2538,2883,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Poquoson</name>
+<description>#VALUE!</description>
+<Point><coordinates>#VALUE!,#VALUE!,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Portsmouth</name>
+<description>1160</description>
+<Point><coordinates>748,885,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Southampton County</name>
+<description>94</description>
+<Point><coordinates>35,81,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Suffolk</name>
+<description>37</description>
+<Point><coordinates>128,26,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Surry County</name>
+<description>53</description>
+<Point><coordinates>18,15,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Virginia Beach</name>
+<description>2628</description>
+<Point><coordinates>2094,2163,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Williamsburg</name>
+<description>51</description>
+<Point><coordinates>43,17,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>York County</name>
+<description>314</description>
+<Point><coordinates>205,233,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hampton Roads</name>
+<description>#VALUE!</description>
+<Point><coordinates>#VALUE!,#VALUE!,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Virginia</name>
+<description>47072</description>
+<Point><coordinates>30562,34182,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
