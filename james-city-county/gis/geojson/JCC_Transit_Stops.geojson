@@ -1,0 +1,369 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail WalMart Distribution Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.599004, 37.208047 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "All but Green", "Descriptio": "Williamsburg Transporation Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.708519, 37.275527 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "York St Best Western Patrick Henry Inn", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.687742, 37.270191 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "York St Four Points Hotel", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.686312, 37.268991 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "York St Quarterpath Inn", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.681912, 37.266752 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Crowne Plaza Hotel", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.679179, 37.264682 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Whaling Company", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.660024, 37.248849 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "John JeffersonMarriott Hotell", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.659880, 37.242283 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Kinsmill Way", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.655531, 37.243649 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray\/Yellow", "Descriptio": "Pocahontas Trail Busch Gardens England Entrance", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.641094, 37.238188 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Construction Gate & Firestation", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.628103, 37.233074 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail ABC Daycare", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.626347, 37.226718 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail & Magruder Ave Outbound", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.625786, 37.221050 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Carter's Grove", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.620740, 37.215941 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail James River Elementary", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.616137, 37.210204 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Windy Hill Market", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.612857, 37.208577 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Warwick Blvd & Elmhurst", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.573065, 37.193529 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Heritage Mobile Park", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.619011, 37.213413 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail 7-11", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.620360, 37.215554 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Brewery Entrance", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.650515, 37.240272 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange\/Yellow", "Descriptio": "The Woodlands and Visitor Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.696403, 37.282780 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Yellow", "Descriptio": "Water Country USA", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.641712, 37.261699 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange\/Tan", "Descriptio": "Highland Park", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.705140, 37.277936 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "The 1776\/Homewood Suites\/King George Inn", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.709074, 37.284512 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Governor's Inn", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.706089, 37.276678 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Howard Johnson Hotel", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.713394, 37.284717 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Days Inn", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.711890, 37.284644 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Bypass Rd & Waller Mill Rd", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.716980, 37.285140 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Kingsgate Shopping Center", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.715927, 37.284897 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Embassy Suites Hotel", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.720681, 37.288150 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Pirates Cove Putt Putt", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.718977, 37.287147 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Anvil Campground", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.728455, 37.307325 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Ewell Road South", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.731793, 37.316829 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Ewell Road North", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.734426, 37.320507 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Old Taylor Rd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.735320, 37.327869 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Clark Ln\/Bulifant Blvd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.736159, 37.333669 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Sentara Outpatient", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.738377, 37.339287 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Lowes\/Walmart", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.739592, 37.343872 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Purple\/Tan", "Descriptio": "Richmond Rd & Centerville Rd Miller Mart\/Suntrust", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.753352, 37.338608 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Purple\/Red", "Descriptio": "N Boundary St & Merchant Square", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.707374, 37.270885 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Jamestown Rd & Cary St", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.712551, 37.268424 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Jamestown Rd & 199", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.731604, 37.254205 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "199 & 5", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.738773, 37.259890 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Riverside Health Care Center", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.741688, 37.256659 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Williamsburg Crossing - Food Lion", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.741705, 37.257972 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Williamsburg Crossing - VEC", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.740693, 37.259328 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Strawberry Plains Rd Midlands", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.740580, 37.267552 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Strawberry Plains Rd Bucktrout Funeral Home", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.738924, 37.273726 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Monticello Ave Courthouse\/New Town", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.741971, 37.276173 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Monticello Ave Kidsburg", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.760308, 37.269132 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "SteepleChase Apartments", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.763658, 37.267830 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Monticello Marketplace - Target", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.760813, 37.271055 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Monticello Marketplace - Ukrops", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.758503, 37.272161 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Monticello Marketplace - TJ Maxx", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.759359, 37.272281 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "Windsor Meade Shopping Center", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.756392, 37.272822 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple\/Red", "Descriptio": "Monticello Ave & Treyburn Dr", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.725184, 37.279701 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple\/Red", "Descriptio": "Monticello Ave Monticello Shopping Center", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.721734, 37.281480 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd EJ House", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.785113, 37.331419 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Rd Ford's Colony\/Regency Apts", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.749750, 37.301281 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Conn Rd Eastern State Back Gate", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.737544, 37.295850 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Purple\/Red", "Descriptio": "Richmond Rd Days Inn", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.716614, 37.278703 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Purple\/Red", "Descriptio": "Richmond Rd & Scotland St Hospitality House", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.713132, 37.273935 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Purple\/Red", "Descriptio": "Armistead Ave & Scotland St", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.708877, 37.273578 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Purple", "Descriptio": "Richmond Rd & Armistead St", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.709341, 37.271945 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Purple", "Descriptio": "Richmond Rd Williamsburg Shopping Center", "Bound": "NA" }, "geometry": { "type": "Point", "coordinates": [ -76.718574, 37.280679 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd & New Hope Rd", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.721011, 37.286049 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd VA Peanut Shop", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.719407, 37.282217 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Jefferson Restaurant\/Holiday Inn", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.722683, 37.289959 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Pizza Hut\/Mc'Donalds", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.724429, 37.292778 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Wendy's Taco Bell", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.726638, 37.297268 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Old Mill Pancake\/Hampton Inn", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.727314, 37.298613 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Motel 6\/Holiday Inn", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.729469, 37.305955 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Ethan Allen", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.730068, 37.307328 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Ramada Inn", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.731314, 37.310138 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Ironbound Rd & Monticello Ave", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.738509, 37.275933 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd & Airport Rd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.732414, 37.312724 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Ewell Station Shopping Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.734312, 37.316991 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Prime Outlet Mall", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.735894, 37.320584 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Ricmond Rd & Forest Heights", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.742099, 37.328898 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Village of Westminster", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.744686, 37.331603 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue", "Descriptio": "Richmond Rd Williamsburg Outlet Mall\/McDonalds", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.754628, 37.340118 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Capital Landing & Bypass Rd Holiday Inn", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.689675, 37.279877 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Capital Landing Rd Sal's Restaurant", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.688714, 37.281220 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Capital Landing & Merrimac Trail MDV", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.686213, 37.287097 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Capitol Landing RD International Employee Village", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.688342, 37.282156 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac TrailColonial Pines Apartments", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.683599, 37.281698 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail Colonial Towne Apartments", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.682146, 37.278626 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail Parkway Apartments", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.681017, 37.276252 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail Hardee's\/Farm Fresh", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.679405, 37.272038 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Rt 143 Long John Silver\/James York Plaza", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.676567, 37.267740 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Rte 143 & Orange Dr", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.666470, 37.255300 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Rte 143 & Queen Anne", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.674126, 37.264365 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Rte 143 & Transmission Repair", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.670932, 37.259818 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail & Tam-O-Shanter Blvd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.651279, 37.243685 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail & Colonial Service Board", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.653427, 37.245289 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail & Armstrong Dr", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.657372, 37.248235 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail & Goverment Rd", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.664038, 37.253444 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Merrimac Trail & Douglas Dr", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.659655, 37.249971 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Penniman Rd & Dodge Dr", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.670174, 37.266223 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Penniman Rd & Vineyard", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.667915, 37.265558 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Penniman Rd & Gas Station", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.665581, 37.263831 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Penniman Rd & York Terrace", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.664874, 37.262295 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "People's Place", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.657758, 37.261486 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Orange", "Descriptio": "Penniman Rd & Magruder Elementary School", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.674220, 37.265943 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "S Henry St W&M Law School", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.705965, 37.265275 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "N Boundary St Brown Hall", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.707521, 37.271904 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Richmond Rd W&M Zable Stadium\/University Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.713464, 37.274334 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Richmond Rd Blow Hall", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.711092, 37.272786 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Jamestown Rd Brafferton\/Campus Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.708475, 37.270087 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Jamestown Rd Phi Beta Kappa Hall", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.714642, 37.267410 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Jamestown Rd Morton Hall", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.716239, 37.266594 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Rolfe Rd Ludwell 102", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.719088, 37.264106 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Rolfe Rd Ludwell 100", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.718495, 37.263895 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Rolfe Rd Ludwell 402", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.718800, 37.261928 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Campus Dr Adair Gym", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.717728, 37.268611 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Campus Dr W&M Commons", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.719316, 37.271892 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Compton Dr W&M Hall\/Rec Sport", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.720547, 37.274746 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Garrison Dr Monticello Shopping Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.721365, 37.282593 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Dillard Complex Hughes Hall", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.730951, 37.289814 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Green", "Descriptio": "Dillard Complex Munford Hall", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.729604, 37.289964 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Ironbound Rd & Carriage St", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.735353, 37.283928 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Conn Rd & Ironbound", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.733919, 37.288733 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "James City\/Williamsburg Community Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.737512, 37.297416 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Rd & Olde Towne Rd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.752118, 37.306628 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Olde Towne Rd Human Services & Medical Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.750367, 37.308350 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Ewell Station Shopping Center", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.733813, 37.315876 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Lafayette Squre Apartments", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.758664, 37.311119 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Lafayette High School", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.765286, 37.314179 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Rd Montessori School", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.772497, 37.313023 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Rd Dominion Village", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.776066, 37.313637 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Rd Powhatan Village Apartments", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.788149, 37.316417 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd & Colby Rd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.788848, 37.317787 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Forest Glen & Centerville Rd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.789206, 37.322242 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd & Fox Ridge", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.788974, 37.327363 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd & Adam's Hunt", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.775088, 37.335033 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd Handy Ice", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.767934, 37.337550 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Chickahominy Rd & Friendship Dr", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.810557, 37.358504 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Chickahominy Rd Near Power Lines", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.805947, 37.363863 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Chickahominy Rd & Browns Dr", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.816173, 37.354930 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Chickahominy Rd & Little Creek Dam Rd", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.821512, 37.354956 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Chickahominy Rd & Bowman House", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.805522, 37.371436 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Blue\/Red", "Descriptio": "Richmond Rd Three Olives Restaurant", "Bound": "c" }, "geometry": { "type": "Point", "coordinates": [ -76.718921, 37.281198 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd Boyer's Diamond & Gold", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.757476, 37.344297 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd 7-Eleven Lightfoot", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.758604, 37.345612 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd Williamsburg Pottery", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.761482, 37.348588 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd Go Cart Plus\/Brass Shop", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.764003, 37.353896 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd & Kristiansand 7-11 Norge", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.766158, 37.362376 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd & Peninsula St Norge Hall", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.769822, 37.367293 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd & Croaker Rd", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.778031, 37.372944 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd Farm Fresh\/Norge Post Office", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.774327, 37.370950 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Olde Towne Rd Scotts Pond", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.742974, 37.315045 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Olde Towne Rd & Chisal Run", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.737110, 37.315546 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Burnt Ordinary Apartments\/McLean's Store", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.804168, 37.380087 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Oxford, New Town", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.737727, 37.282160 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple\/Red", "Descriptio": "Legacy Hall, New Town", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.742255, 37.279616 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Rolling Meadows Apts", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.739410, 37.298265 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Rd District Park\/Longhill Gate", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.767147, 37.323006 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Croaker Library", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.770934, 37.377958 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "The Station at Norge Apartments", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.775099, 37.376006 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Hankins Industrial Park", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.803988, 37.388041 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Stonehouse Commerce Park", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.810781, 37.409820 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Andersons Corner", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.808794, 37.401799 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Chickahominy Rd & Ridgedale Ave.", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.804105, 37.374283 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Toano Middle School", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.801719, 37.378514 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd & Turlington Rd", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.797443, 37.376915 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Richmond Rd & Bush Spring Rd", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.794393, 37.376595 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Candle Factory", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.776511, 37.372058 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Warhill HIgh School", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.757248, 37.333980 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville & Mobile Ln.", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.762458, 37.338863 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd & Jolly Pond", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.782481, 37.333858 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd & Longhill Station", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.789134, 37.326695 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Centerville Rd & Massey Construction", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.788516, 37.320917 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Purple", "Descriptio": "Longhill Rd & Longhill Gate", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.769963, 37.313415 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Park Inn Hotel", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.673679, 37.259360 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Belgain Waffle", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.669491, 37.256290 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail Mt Gilead Church", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.625949, 37.222561 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail & Jackson St", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.626021, 37.223419 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Pocahontas Trail & Howard Dr", "Bound": "In" }, "geometry": { "type": "Point", "coordinates": [ -76.626763, 37.229775 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "John Jefferson Busch Employment Office", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.661060, 37.243146 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Gray", "Descriptio": "Busch Way & McLaws Cir", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.659373, 37.245624 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Red", "Descriptio": "AVI & Post Office", "Bound": "Both" }, "geometry": { "type": "Point", "coordinates": [ -76.745017, 37.276535 ] } }
+,
+{ "type": "Feature", "properties": { "Route": "Tan", "Descriptio": "Wyndham Resort", "Bound": "Out" }, "geometry": { "type": "Point", "coordinates": [ -76.716840, 37.286902 ] } }
+
+]
+}
