@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "NAME": "Mount Gilead Baptist Church", "PRECINCT": "Roberts B", "CODE": 12, "Prect_Num": "0502", "District": "Roberts" }, "geometry": { "type": "Point", "coordinates": [ -76.625423, 37.222372 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 2, "NAME": "James River Elementary School", "PRECINCT": "Roberts A", "CODE": 13, "Prect_Num": "0501", "District": "Roberts" }, "geometry": { "type": "Point", "coordinates": [ -76.616458, 37.209564 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 3, "NAME": "Rawls Byrd Elementary School", "PRECINCT": "Roberts D", "CODE": 11, "Prect_Num": "0504", "District": "Roberts" }, "geometry": { "type": "Point", "coordinates": [ -76.731565, 37.248385 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 4, "NAME": "Clara Byrd Baker Elementary School", "PRECINCT": "Berkeley B", "CODE": 10, "Prect_Num": "0102", "District": "Berkeley" }, "geometry": { "type": "Point", "coordinates": [ -76.765948, 37.250091 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 5, "NAME": "JCC-W Community Center", "PRECINCT": "Jamestown B & D", "CODE": 8, "Prect_Num": "0202 & 0204", "District": "Jamestown" }, "geometry": { "type": "Point", "coordinates": [ -76.735832, 37.297224 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 7, "NAME": "Toano Middle School", "PRECINCT": "Powhatan C", "CODE": 1, "Prect_Num": "0303", "District": "Powhatan" }, "geometry": { "type": "Point", "coordinates": [ -76.802542, 37.377985 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 8, "NAME": "Norge Elementary School", "PRECINCT": "Stonehouse B", "CODE": 2, "Prect_Num": "0402", "District": "Stonehouse" }, "geometry": { "type": "Point", "coordinates": [ -76.770364, 37.365311 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 9, "NAME": "Jamestown High School", "PRECINCT": "Berkeley A", "CODE": 9, "Prect_Num": "0101", "District": "Berkeley" }, "geometry": { "type": "Point", "coordinates": [ -76.789792, 37.251343 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 10, "NAME": "Grace Baptist Church", "PRECINCT": "Roberts C", "CODE": 14, "Prect_Num": "0503", "District": "Roberts" }, "geometry": { "type": "Point", "coordinates": [ -76.667459, 37.264951 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 12, "NAME": "Greensprings Chapel", "PRECINCT": "Jamestown C", "CODE": 6, "Prect_Num": "0203", "District": "Jamestown" }, "geometry": { "type": "Point", "coordinates": [ -76.761270, 37.265202 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 13, "NAME": "Stonehouse Elementary School", "PRECINCT": "Stonehouse C", "CODE": 3, "Prect_Num": "0403", "District": "Stonehouse" }, "geometry": { "type": "Point", "coordinates": [ -76.792890, 37.394136 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 0, "NAME": "Matoaka Elementary School", "PRECINCT": "Berkeley C", "CODE": 17, "Prect_Num": "0103", "District": "Berkeley" }, "geometry": { "type": "Point", "coordinates": [ -76.818669, 37.276181 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 0, "NAME": "Legacy Hall", "PRECINCT": "Jamestown A", "CODE": 16, "Prect_Num": "0201", "District": "Jamestown" }, "geometry": { "type": "Point", "coordinates": [ -76.742425, 37.280213 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 0, "NAME": "Lafayette High School", "PRECINCT": "Powhatan B", "CODE": 15, "Prect_Num": "0302", "District": "Powhatan" }, "geometry": { "type": "Point", "coordinates": [ -76.764697, 37.317068 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 0, "NAME": "Cross Walk Community Church", "PRECINCT": "Stonehouse A", "CODE": 5, "Prect_Num": "0401", "District": "Stonehouse" }, "geometry": { "type": "Point", "coordinates": [ -76.779522, 37.372771 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 14, "NAME": "Warhill High School", "PRECINCT": "Powhatan D", "CODE": 7, "Prect_Num": "0304", "District": "Powhatan" }, "geometry": { "type": "Point", "coordinates": [ -76.757155, 37.332785 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 0, "NAME": "Hornsby Middle School", "PRECINCT": "Powhatan A", "CODE": 4, "Prect_Num": "0301", "District": "Powhatan" }, "geometry": { "type": "Point", "coordinates": [ -76.808664, 37.330034 ] } }
+
+]
+}
