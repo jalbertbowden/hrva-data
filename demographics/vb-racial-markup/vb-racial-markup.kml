@@ -1,0 +1,1061 @@
+<table border="1">
+<thead dan><tr><th title="Field #1">USA Counties</th>
+<th title="Field #2">FIELD2</th>
+<th title="Field #3">FIELD3</th>
+<th title="Field #4">FIELD4</th>
+</tr></thead>
+<tbody><tr><td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>Virginia Beach</td>
+<td> VA                  </td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>Description</td>
+<td>Data</td>
+<td>Footnote</td>
+<td>Unit</td>
+</tr>
+<tr><td>Resident population: White alone (April 1 - complete count) 2000</td>
+<td>310330</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (April 1 - complete count) 2010</td>
+<td>296670</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone, percent  (April 1 - complete count) 2010</td>
+<td>67.7</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone (April 1 - estimates base) 2000</td>
+<td>310330</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2000</td>
+<td>310664</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2001</td>
+<td>309879</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2002</td>
+<td>310767</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2003</td>
+<td>314131</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2004</td>
+<td>315268</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2005</td>
+<td>313496</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2006</td>
+<td>312713</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2007</td>
+<td>309564</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2008</td>
+<td>307257</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone (July 1 - estimate) 2009</td>
+<td>306253</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2000</td>
+<td>72.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2001</td>
+<td>72.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2002</td>
+<td>72.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2003</td>
+<td>72.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2004</td>
+<td>71.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2005</td>
+<td>71.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2006</td>
+<td>71.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2007</td>
+<td>71.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2008</td>
+<td>70.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: White alone, percent (July 1 - estimate) 2009</td>
+<td>70.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone (April 1 - complete count) 2000</td>
+<td>82161</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (April 1 - complete count) 2010</td>
+<td>85935</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone, percent  (April 1 - complete count) 2010</td>
+<td>19.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone (April 1 - estimates base) 2000</td>
+<td>82161</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2000</td>
+<td>82660</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2001</td>
+<td>83874</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2002</td>
+<td>85077</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2003</td>
+<td>86036</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2004</td>
+<td>87325</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2005</td>
+<td>86989</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2006</td>
+<td>87341</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2007</td>
+<td>86910</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2008</td>
+<td>87306</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone (July 1 - estimate) 2009</td>
+<td>87078</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2000</td>
+<td>19.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2001</td>
+<td>19.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2002</td>
+<td>19.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2003</td>
+<td>19.7</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2004</td>
+<td>19.9</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2005</td>
+<td>19.9</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2006</td>
+<td>19.9</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2007</td>
+<td>20</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2008</td>
+<td>20.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Black alone, percent (July 1 - estimate) 2009</td>
+<td>20.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2000</td>
+<td>1689</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2010</td>
+<td>1685</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent  (April 1 - complete count) 2010</td>
+<td>0.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (April 1 - estimates base) 2000</td>
+<td>1689</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2000</td>
+<td>1710</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2001</td>
+<td>1847</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2002</td>
+<td>1959</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2003</td>
+<td>2035</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2004</td>
+<td>2180</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2005</td>
+<td>2316</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2006</td>
+<td>2455</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2007</td>
+<td>2530</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2008</td>
+<td>2615</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2009</td>
+<td>2583</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2000</td>
+<td>0.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2001</td>
+<td>0.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2002</td>
+<td>0.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2003</td>
+<td>0.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2004</td>
+<td>0.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2005</td>
+<td>0.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2006</td>
+<td>0.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2007</td>
+<td>0.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2008</td>
+<td>0.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2009</td>
+<td>0.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone (April 1 - complete count) 2000</td>
+<td>21322</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone (April 1 - complete count) 2010</td>
+<td>26769</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent  (April 1 - complete count) 2010</td>
+<td>6.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone (April 1 - estimates base) 2000</td>
+<td>21322</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2000</td>
+<td>21562</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2001</td>
+<td>21719</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2002</td>
+<td>22015</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2003</td><td>22625</td><td>   </td><td>ABS</td></tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2004</td><td>22969</td><td>   </td><td>ABS</td></tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2005</td><td>23085</td><td>   </td><td>ABS</td></tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2006</td><td>23352</td><td>   </td><td>ABS</td></tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2007</td><td>23683</td><td>   </td><td>ABS</td></tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2008</td>
+<td>23919</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone (July 1 - estimate) 2009</td>
+<td>24616</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2000</td>
+<td>5.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2001</td>
+<td>5.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2002</td>
+<td>5.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2003</td>
+<td>5.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2004</td>
+<td>5.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2005</td>
+<td>5.3</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2006</td>
+<td>5.3</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2007</td>
+<td>5.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2008</td>
+<td>5.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Asian alone, percent (July 1 - estimate) 2009</td>
+<td>5.7</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2000</td>
+<td>475</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2010</td>
+<td>657</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent  (April 1 - complete count) 2010</td>
+<td>0.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - estimates base) 2000</td>
+<td>475</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2000</td>
+<td>479</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2001</td>
+<td>522</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2002</td>
+<td>560</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2003</td>
+<td>582</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2004</td>
+<td>642</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2005</td>
+<td>677</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2006</td>
+<td>705</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2007</td>
+<td>749</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2008</td>
+<td>795</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2009</td>
+<td>832</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2000</td>
+<td>0.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2001</td>
+<td>0.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2002</td>
+<td>0.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2003</td>
+<td>0.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2004</td>
+<td>0.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2005</td>
+<td>0.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2006</td>
+<td>0.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2007</td>
+<td>0.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2008</td>
+<td>0.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2009</td>
+<td>0.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races (April 1 - complete count) 2010</td>
+<td>17656</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent  (April 1 - complete count) 2010</td>
+<td>4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races (April 1 - estimates base) 2000</td>
+<td>9280</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2000</td>
+<td>9413</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2001</td>
+<td>9737</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2002</td>
+<td>10147</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2003</td>
+<td>10436</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2004</td>
+<td>10757</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2005</td>
+<td>11028</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2006</td>
+<td>11342</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2007</td>
+<td>11568</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2008</td>
+<td>11854</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races (July 1 - estimate) 2009</td>
+<td>12213</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2000</td>
+<td>2.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2001</td>
+<td>2.3</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2002</td>
+<td>2.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2003</td>
+<td>2.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2004</td>
+<td>2.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2005</td>
+<td>2.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2006</td>
+<td>2.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2007</td>
+<td>2.7</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2008</td>
+<td>2.7</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Two or more races, percent (July 1 - estimate) 2009</td>
+<td>2.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (April 1 - complete count) 2000</td>
+<td>17770</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (April 1 - complete count) 2010</td>
+<td>28987</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent  (April 1 - complete count) 2010</td>
+<td>6.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (April 1 - estimates base) 2000</td>
+<td>17770</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2000</td>
+<td>18029</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2001</td>
+<td>18946</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2002</td>
+<td>19865</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2003</td>
+<td>20917</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2004</td>
+<td>22321</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2005</td>
+<td>23261</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2006</td>
+<td>24371</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2007</td>
+<td>25109</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2008</td>
+<td>25691</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2009</td>
+<td>26604</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2000</td>
+<td>4.2</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2001</td>
+<td>4.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2002</td>
+<td>4.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2003</td>
+<td>4.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2004</td>
+<td>5.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2005</td>
+<td>5.3</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2006</td>
+<td>5.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2007</td>
+<td>5.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2008</td>
+<td>5.9</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2009</td>
+<td>6.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (April 1 - complete count)  2000</td>
+<td>296582</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (April 1 - complete count)  2010</td>
+<td>282470</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2000</td>
+<td>69.7</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2010</td>
+<td>64.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (April 1 - estimates base) 2000</td>
+<td>296582</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (April 1 - estimates base) 2000</td>
+<td>69.7</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2000</td>
+<td>296725</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2001</td>
+<td>295252</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2002</td>
+<td>295430</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2003</td>
+<td>297921</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2004</td>
+<td>297982</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2005</td>
+<td>295559</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2006</td>
+<td>294028</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2007</td>
+<td>290377</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2008</td>
+<td>287715</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone (July 1 - estimate) 2009</td>
+<td>285854</td>
+<td>   </td>
+<td>ABS</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2000</td>
+<td>69.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2001</td>
+<td>69.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2002</td>
+<td>68.6</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2003</td>
+<td>68.4</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2004</td>
+<td>67.9</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2005</td>
+<td>67.5</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2006</td>
+<td>67.1</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2007</td>
+<td>66.8</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2008</td>
+<td>66.3</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2009</td>
+<td>65.9</td>
+<td>   </td>
+<td>PCT</td>
+</tr>
+<tr><td>Data Flag Descriptions</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>(FN)  Footnote for this item</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>(NA)  Not available</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>(D)  Figure withheld to avoid disclosure pertaining to a specific organization or individual</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>(X)  Not applicable</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>(S)  Data suppressed</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>(Z)  Value would amount to less than half the unit of measurement shown</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>(B)  Base figure too small to meet statistical standards for reliability of a derived figure.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>Unit Descriptions</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>ACR Acres</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>YRS Years</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>ML$ Millions of Dollars</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>RTE Rate</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>TH$ Thousands of Dollars</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr><td>PCT Percent</td>
+<td></td><td></td><td></td></tr>
+<tr><td>SYM Symbol</td>
+<td></td><td></td><td></td></tr>
+<tr><td>AVG Average</td>
+<td></td><td></td><td></td></tr>
+<tr><td>ABS Absolute Number</td>
+<td></td><td></td><td></td></tr>
+<tr><td>MIN Minutes</td>
+<td></td><td></td><td></td></tr>
+<tr><td>SQM Square Miles</td>
+<td></td><td></td><td></td></tr>
+<tr><td>DOL Dollars</td>
+<td></td><td></td><td></td></tr>
+<tr><td>THO Thousands</td>
+<td></td><td></td><td></td></tr>
+<tr><td>MIL Millions</td>
+<td></td><td></td><td></td></tr>
+<tr><td>RNK Rank</td>
+<td></td><td></td><td></td></tr>
+<tr><td>MGD Millions of Gallons per Day</td>
+<td></td><td></td><td></td></tr>
+<tr><td>GLD Gallons per Day</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>

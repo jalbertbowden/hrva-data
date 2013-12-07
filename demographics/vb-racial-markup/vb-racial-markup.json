@@ -1,0 +1,1334 @@
+[
+  {
+    "USA Counties":" ",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"Virginia Beach",
+    "FIELD2":" VA                  ",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"Description",
+    "FIELD2":"Data",
+    "FIELD3":"Footnote",
+    "FIELD4":"Unit"
+  },
+  {
+    "USA Counties":"Resident population: White alone (April 1 - complete count) 2000",
+    "FIELD2":"310330",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (April 1 - complete count) 2010",
+    "FIELD2":"296670",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent  (April 1 - complete count) 2010",
+    "FIELD2":"67.7",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone (April 1 - estimates base) 2000",
+    "FIELD2":"310330",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2000",
+    "FIELD2":"310664",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2001",
+    "FIELD2":"309879",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2002",
+    "FIELD2":"310767",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2003",
+    "FIELD2":"314131",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2004",
+    "FIELD2":"315268",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2005",
+    "FIELD2":"313496",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2006",
+    "FIELD2":"312713",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2007",
+    "FIELD2":"309564",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2008",
+    "FIELD2":"307257",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone (July 1 - estimate) 2009",
+    "FIELD2":"306253",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2000",
+    "FIELD2":"72.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2001",
+    "FIELD2":"72.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2002",
+    "FIELD2":"72.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2003",
+    "FIELD2":"72.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2004",
+    "FIELD2":"71.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2005",
+    "FIELD2":"71.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2006",
+    "FIELD2":"71.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2007",
+    "FIELD2":"71.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2008",
+    "FIELD2":"70.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: White alone, percent (July 1 - estimate) 2009",
+    "FIELD2":"70.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (April 1 - complete count) 2000",
+    "FIELD2":"82161",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (April 1 - complete count) 2010",
+    "FIELD2":"85935",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent  (April 1 - complete count) 2010",
+    "FIELD2":"19.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (April 1 - estimates base) 2000",
+    "FIELD2":"82161",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2000",
+    "FIELD2":"82660",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2001",
+    "FIELD2":"83874",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2002",
+    "FIELD2":"85077",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2003",
+    "FIELD2":"86036",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2004",
+    "FIELD2":"87325",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2005",
+    "FIELD2":"86989",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2006",
+    "FIELD2":"87341",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2007",
+    "FIELD2":"86910",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2008",
+    "FIELD2":"87306",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone (July 1 - estimate) 2009",
+    "FIELD2":"87078",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2000",
+    "FIELD2":"19.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2001",
+    "FIELD2":"19.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2002",
+    "FIELD2":"19.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2003",
+    "FIELD2":"19.7",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2004",
+    "FIELD2":"19.9",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2005",
+    "FIELD2":"19.9",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2006",
+    "FIELD2":"19.9",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2007",
+    "FIELD2":"20",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2008",
+    "FIELD2":"20.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Black alone, percent (July 1 - estimate) 2009",
+    "FIELD2":"20.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2000",
+    "FIELD2":"1689",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2010",
+    "FIELD2":"1685",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent  (April 1 - complete count) 2010",
+    "FIELD2":"0.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (April 1 - estimates base) 2000",
+    "FIELD2":"1689",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2000",
+    "FIELD2":"1710",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2001",
+    "FIELD2":"1847",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2002",
+    "FIELD2":"1959",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2003",
+    "FIELD2":"2035",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2004",
+    "FIELD2":"2180",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2005",
+    "FIELD2":"2316",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2006",
+    "FIELD2":"2455",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2007",
+    "FIELD2":"2530",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2008",
+    "FIELD2":"2615",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2009",
+    "FIELD2":"2583",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2000",
+    "FIELD2":"0.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2001",
+    "FIELD2":"0.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2002",
+    "FIELD2":"0.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2003",
+    "FIELD2":"0.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2004",
+    "FIELD2":"0.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2005",
+    "FIELD2":"0.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2006",
+    "FIELD2":"0.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2007",
+    "FIELD2":"0.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2008",
+    "FIELD2":"0.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2009",
+    "FIELD2":"0.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (April 1 - complete count) 2000",
+    "FIELD2":"21322",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (April 1 - complete count) 2010",
+    "FIELD2":"26769",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent  (April 1 - complete count) 2010",
+    "FIELD2":"6.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (April 1 - estimates base) 2000",
+    "FIELD2":"21322",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2000",
+    "FIELD2":"21562",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2001",
+    "FIELD2":"21719",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2002",
+    "FIELD2":"22015",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2003",
+    "FIELD2":"22625",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2004",
+    "FIELD2":"22969",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2005",
+    "FIELD2":"23085",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2006",
+    "FIELD2":"23352",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2007",
+    "FIELD2":"23683",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2008",
+    "FIELD2":"23919",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone (July 1 - estimate) 2009",
+    "FIELD2":"24616",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2000",
+    "FIELD2":"5.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2001",
+    "FIELD2":"5.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2002",
+    "FIELD2":"5.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2003",
+    "FIELD2":"5.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2004",
+    "FIELD2":"5.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2005",
+    "FIELD2":"5.3",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2006",
+    "FIELD2":"5.3",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2007",
+    "FIELD2":"5.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2008",
+    "FIELD2":"5.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Asian alone, percent (July 1 - estimate) 2009",
+    "FIELD2":"5.7",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2000",
+    "FIELD2":"475",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2010",
+    "FIELD2":"657",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent  (April 1 - complete count) 2010",
+    "FIELD2":"0.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - estimates base) 2000",
+    "FIELD2":"475",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2000",
+    "FIELD2":"479",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2001",
+    "FIELD2":"522",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2002",
+    "FIELD2":"560",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2003",
+    "FIELD2":"582",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2004",
+    "FIELD2":"642",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2005",
+    "FIELD2":"677",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2006",
+    "FIELD2":"705",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2007",
+    "FIELD2":"749",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2008",
+    "FIELD2":"795",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2009",
+    "FIELD2":"832",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2000",
+    "FIELD2":"0.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2001",
+    "FIELD2":"0.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2002",
+    "FIELD2":"0.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2003",
+    "FIELD2":"0.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2004",
+    "FIELD2":"0.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2005",
+    "FIELD2":"0.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2006",
+    "FIELD2":"0.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2007",
+    "FIELD2":"0.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2008",
+    "FIELD2":"0.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2009",
+    "FIELD2":"0.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (April 1 - complete count) 2010",
+    "FIELD2":"17656",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent  (April 1 - complete count) 2010",
+    "FIELD2":"4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (April 1 - estimates base) 2000",
+    "FIELD2":"9280",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2000",
+    "FIELD2":"9413",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2001",
+    "FIELD2":"9737",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2002",
+    "FIELD2":"10147",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2003",
+    "FIELD2":"10436",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2004",
+    "FIELD2":"10757",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2005",
+    "FIELD2":"11028",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2006",
+    "FIELD2":"11342",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2007",
+    "FIELD2":"11568",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2008",
+    "FIELD2":"11854",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races (July 1 - estimate) 2009",
+    "FIELD2":"12213",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2000",
+    "FIELD2":"2.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2001",
+    "FIELD2":"2.3",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2002",
+    "FIELD2":"2.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2003",
+    "FIELD2":"2.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2004",
+    "FIELD2":"2.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2005",
+    "FIELD2":"2.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2006",
+    "FIELD2":"2.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2007",
+    "FIELD2":"2.7",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2008",
+    "FIELD2":"2.7",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Two or more races, percent (July 1 - estimate) 2009",
+    "FIELD2":"2.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (April 1 - complete count) 2000",
+    "FIELD2":"17770",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (April 1 - complete count) 2010",
+    "FIELD2":"28987",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent  (April 1 - complete count) 2010",
+    "FIELD2":"6.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (April 1 - estimates base) 2000",
+    "FIELD2":"17770",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2000",
+    "FIELD2":"18029",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2001",
+    "FIELD2":"18946",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2002",
+    "FIELD2":"19865",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2003",
+    "FIELD2":"20917",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2004",
+    "FIELD2":"22321",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2005",
+    "FIELD2":"23261",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2006",
+    "FIELD2":"24371",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2007",
+    "FIELD2":"25109",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2008",
+    "FIELD2":"25691",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin (July 1 - estimate) 2009",
+    "FIELD2":"26604",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2000",
+    "FIELD2":"4.2",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2001",
+    "FIELD2":"4.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2002",
+    "FIELD2":"4.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2003",
+    "FIELD2":"4.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2004",
+    "FIELD2":"5.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2005",
+    "FIELD2":"5.3",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2006",
+    "FIELD2":"5.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2007",
+    "FIELD2":"5.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2008",
+    "FIELD2":"5.9",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2009",
+    "FIELD2":"6.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (April 1 - complete count)  2000",
+    "FIELD2":"296582",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (April 1 - complete count)  2010",
+    "FIELD2":"282470",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2000",
+    "FIELD2":"69.7",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2010",
+    "FIELD2":"64.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (April 1 - estimates base) 2000",
+    "FIELD2":"296582",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (April 1 - estimates base) 2000",
+    "FIELD2":"69.7",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2000",
+    "FIELD2":"296725",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2001",
+    "FIELD2":"295252",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2002",
+    "FIELD2":"295430",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2003",
+    "FIELD2":"297921",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2004",
+    "FIELD2":"297982",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2005",
+    "FIELD2":"295559",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2006",
+    "FIELD2":"294028",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2007",
+    "FIELD2":"290377",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2008",
+    "FIELD2":"287715",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone (July 1 - estimate) 2009",
+    "FIELD2":"285854",
+    "FIELD3":"   ",
+    "FIELD4":"ABS"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2000",
+    "FIELD2":"69.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2001",
+    "FIELD2":"69.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2002",
+    "FIELD2":"68.6",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2003",
+    "FIELD2":"68.4",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2004",
+    "FIELD2":"67.9",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2005",
+    "FIELD2":"67.5",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2006",
+    "FIELD2":"67.1",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2007",
+    "FIELD2":"66.8",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2008",
+    "FIELD2":"66.3",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2009",
+    "FIELD2":"65.9",
+    "FIELD3":"   ",
+    "FIELD4":"PCT"
+  },
+  {
+    "USA Counties":"Data Flag Descriptions",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"(FN)  Footnote for this item",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"(NA)  Not available",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"(D)  Figure withheld to avoid disclosure pertaining to a specific organization or individual",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"(X)  Not applicable",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"(S)  Data suppressed",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"(Z)  Value would amount to less than half the unit of measurement shown",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"(B)  Base figure too small to meet statistical standards for reliability of a derived figure.",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"Unit Descriptions",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"ACR Acres",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"YRS Years",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"ML$ Millions of Dollars",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"RTE Rate",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"TH$ Thousands of Dollars",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"PCT Percent",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"SYM Symbol",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"AVG Average",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"ABS Absolute Number",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"MIN Minutes",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"SQM Square Miles",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"DOL Dollars",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"THO Thousands",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"MIL Millions",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"RNK Rank",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"MGD Millions of Gallons per Day",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  },
+  {
+    "USA Counties":"GLD Gallons per Day",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":""
+  }
+]
