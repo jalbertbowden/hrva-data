@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "CFCC": "D43", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.671544, 37.284036 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 2, "CFCC": "D43", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.691336, 37.310898 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 3, "CFCC": "D44", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.434263, 37.212231 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 4, "CFCC": "D43", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.500599, 37.203838 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 5, "CFCC": "D43", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.504806, 37.199653 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 6, "CFCC": "D43", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.515946, 37.224354 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 7, "CFCC": "D44", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.515640, 37.223264 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 8, "CFCC": "D43", "NAME": "Bethel Manor School" }, "geometry": { "type": "Point", "coordinates": [ -76.424427, 37.094304 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 9, "CFCC": "D44", "NAME": "" }, "geometry": { "type": "Point", "coordinates": [ -76.423828, 37.095762 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 10, "CFCC": "D25", "NAME": "Maritime" }, "geometry": { "type": "Point", "coordinates": [ -76.588820, 37.284828 ] } }
+,
+{ "type": "Feature", "properties": { "ID": 11, "CFCC": "D25", "NAME": "Maritime" }, "geometry": { "type": "Point", "coordinates": [ -76.417834, 37.204989 ] } }
+
+]
+}

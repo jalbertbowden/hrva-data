@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "TLID": 103772046, "FNODE": 2, "TNODE": 1, "LENGTH": 0.894680, "FEDIRP": "", "FENAME": "", "FETYPE": "", "FEDIRS": "", "CFCC": "D51", "FRADDL": 0.000000, "TOADDL": 0.000000, "FRADDR": 0.000000, "TOADDR": 0.000000, "ZIPL": "", "ZIPR": "", "CENSUS1": "0", "CENSUS2": "0", "CFCC1": "D", "CFCC2": "D5", "SOURCE": "K" }, "geometry": { "type": "LineString", "coordinates": [ [ -76.632697, 37.317983 ], [ -76.638312, 37.312644 ], [ -76.640317, 37.310699 ], [ -76.643131, 37.308034 ] ] } }
+
+]
+}
