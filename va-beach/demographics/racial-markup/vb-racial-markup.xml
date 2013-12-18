@@ -1,0 +1,1335 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<USA_Counties></USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Virginia Beach</USA_Counties>
+<FIELD2> VA                  </FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Description</USA_Counties>
+<FIELD2>Data</FIELD2>
+<FIELD3>Footnote</FIELD3>
+<FIELD4>Unit</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (April 1 - complete count) 2000</USA_Counties>
+<FIELD2>310330</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>296670</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent  (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>67.7</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>310330</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>310664</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>309879</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>310767</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>314131</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>315268</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>313496</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>312713</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>309564</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>307257</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>306253</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>72.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>72.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>72.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>72.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>71.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>71.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>71.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>71.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>70.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: White alone, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>70.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (April 1 - complete count) 2000</USA_Counties>
+<FIELD2>82161</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>85935</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent  (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>19.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>82161</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>82660</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>83874</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>85077</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>86036</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>87325</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>86989</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>87341</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>86910</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>87306</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>87078</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>19.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>19.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>19.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>19.7</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>19.9</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>19.9</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>19.9</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>20</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>20.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Black alone, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>20.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2000</USA_Counties>
+<FIELD2>1689</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>1685</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent  (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>0.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>1689</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>1710</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>1847</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>1959</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>2035</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>2180</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>2316</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>2455</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>2530</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>2615</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>2583</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>0.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>0.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>0.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>0.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>0.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>0.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>0.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>0.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>0.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>0.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (April 1 - complete count) 2000</USA_Counties>
+<FIELD2>21322</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>26769</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent  (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>6.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>21322</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>21562</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>21719</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>22015</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>22625</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>22969</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>23085</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>23352</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>23683</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>23919</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>24616</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>5.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>5.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>5.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>5.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>5.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>5.3</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>5.3</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>5.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>5.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Asian alone, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>5.7</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2000</USA_Counties>
+<FIELD2>475</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>657</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent  (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>0.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>475</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>479</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>522</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>560</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>582</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>642</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>677</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>705</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>749</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>795</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>832</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>0.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>0.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>0.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>0.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>0.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>0.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>0.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>0.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>0.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>0.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>17656</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent  (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>9280</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>9413</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>9737</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>10147</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>10436</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>10757</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>11028</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>11342</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>11568</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>11854</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>12213</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>2.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>2.3</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>2.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>2.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>2.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>2.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>2.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>2.7</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>2.7</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Two or more races, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>2.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (April 1 - complete count) 2000</USA_Counties>
+<FIELD2>17770</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>28987</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent  (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>6.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>17770</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>18029</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>18946</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>19865</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>20917</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>22321</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>23261</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>24371</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>25109</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>25691</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>26604</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>4.2</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>4.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>4.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>4.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>5.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>5.3</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>5.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>5.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>5.9</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>6.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (April 1 - complete count)  2000</USA_Counties>
+<FIELD2>296582</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (April 1 - complete count)  2010</USA_Counties>
+<FIELD2>282470</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2000</USA_Counties>
+<FIELD2>69.7</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2010</USA_Counties>
+<FIELD2>64.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>296582</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (April 1 - estimates base) 2000</USA_Counties>
+<FIELD2>69.7</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>296725</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>295252</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>295430</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>297921</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>297982</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>295559</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>294028</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>290377</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>287715</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>285854</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>ABS</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2000</USA_Counties>
+<FIELD2>69.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2001</USA_Counties>
+<FIELD2>69.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2002</USA_Counties>
+<FIELD2>68.6</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2003</USA_Counties>
+<FIELD2>68.4</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2004</USA_Counties>
+<FIELD2>67.9</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2005</USA_Counties>
+<FIELD2>67.5</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2006</USA_Counties>
+<FIELD2>67.1</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2007</USA_Counties>
+<FIELD2>66.8</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2008</USA_Counties>
+<FIELD2>66.3</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2009</USA_Counties>
+<FIELD2>65.9</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>PCT</FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Data Flag Descriptions</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>(FN)  Footnote for this item</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>(NA)  Not available</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>(D)  Figure withheld to avoid disclosure pertaining to a specific organization or individual</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>(X)  Not applicable</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>(S)  Data suppressed</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>(Z)  Value would amount to less than half the unit of measurement shown</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>(B)  Base figure too small to meet statistical standards for reliability of a derived figure.</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>Unit Descriptions</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>ACR Acres</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>YRS Years</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>ML$ Millions of Dollars</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>RTE Rate</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>TH$ Thousands of Dollars</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>PCT Percent</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>SYM Symbol</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>AVG Average</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>ABS Absolute Number</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>MIN Minutes</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>SQM Square Miles</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>DOL Dollars</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>THO Thousands</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>MIL Millions</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>RNK Rank</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>MGD Millions of Gallons per Day</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+<ROW>
+<USA_Counties>GLD Gallons per Day</USA_Counties>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+</ROW>
+</ROWSET>

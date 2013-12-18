@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name></name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Virginia Beach</name>
+<description> VA                  </description>
+</Placemark>
+<Placemark>
+<name>Description</name>
+<description>Data</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (April 1 - complete count) 2000</name>
+<description>310330</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (April 1 - complete count) 2010</name>
+<description>296670</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent  (April 1 - complete count) 2010</name>
+<description>67.7</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (April 1 - estimates base) 2000</name>
+<description>310330</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2000</name>
+<description>310664</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2001</name>
+<description>309879</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2002</name>
+<description>310767</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2003</name>
+<description>314131</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2004</name>
+<description>315268</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2005</name>
+<description>313496</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2006</name>
+<description>312713</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2007</name>
+<description>309564</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2008</name>
+<description>307257</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone (July 1 - estimate) 2009</name>
+<description>306253</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2000</name>
+<description>72.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2001</name>
+<description>72.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2002</name>
+<description>72.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2003</name>
+<description>72.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2004</name>
+<description>71.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2005</name>
+<description>71.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2006</name>
+<description>71.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2007</name>
+<description>71.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2008</name>
+<description>70.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: White alone, percent (July 1 - estimate) 2009</name>
+<description>70.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (April 1 - complete count) 2000</name>
+<description>82161</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (April 1 - complete count) 2010</name>
+<description>85935</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent  (April 1 - complete count) 2010</name>
+<description>19.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (April 1 - estimates base) 2000</name>
+<description>82161</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2000</name>
+<description>82660</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2001</name>
+<description>83874</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2002</name>
+<description>85077</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2003</name>
+<description>86036</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2004</name>
+<description>87325</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2005</name>
+<description>86989</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2006</name>
+<description>87341</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2007</name>
+<description>86910</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2008</name>
+<description>87306</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone (July 1 - estimate) 2009</name>
+<description>87078</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2000</name>
+<description>19.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2001</name>
+<description>19.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2002</name>
+<description>19.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2003</name>
+<description>19.7</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2004</name>
+<description>19.9</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2005</name>
+<description>19.9</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2006</name>
+<description>19.9</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2007</name>
+<description>20</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2008</name>
+<description>20.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Black alone, percent (July 1 - estimate) 2009</name>
+<description>20.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2000</name>
+<description>1689</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (April 1 - complete count) 2010</name>
+<description>1685</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent  (April 1 - complete count) 2010</name>
+<description>0.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (April 1 - estimates base) 2000</name>
+<description>1689</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2000</name>
+<description>1710</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2001</name>
+<description>1847</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2002</name>
+<description>1959</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2003</name>
+<description>2035</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2004</name>
+<description>2180</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2005</name>
+<description>2316</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2006</name>
+<description>2455</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2007</name>
+<description>2530</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2008</name>
+<description>2615</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone (July 1 - estimate) 2009</name>
+<description>2583</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2000</name>
+<description>0.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2001</name>
+<description>0.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2002</name>
+<description>0.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2003</name>
+<description>0.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2004</name>
+<description>0.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2005</name>
+<description>0.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2006</name>
+<description>0.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2007</name>
+<description>0.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2008</name>
+<description>0.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: American Indian and Alaska Native alone, percent (July 1 - estimate) 2009</name>
+<description>0.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (April 1 - complete count) 2000</name>
+<description>21322</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (April 1 - complete count) 2010</name>
+<description>26769</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent  (April 1 - complete count) 2010</name>
+<description>6.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (April 1 - estimates base) 2000</name>
+<description>21322</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2000</name>
+<description>21562</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2001</name>
+<description>21719</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2002</name>
+<description>22015</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2003</name>
+<description>22625</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2004</name>
+<description>22969</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2005</name>
+<description>23085</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2006</name>
+<description>23352</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2007</name>
+<description>23683</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2008</name>
+<description>23919</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone (July 1 - estimate) 2009</name>
+<description>24616</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2000</name>
+<description>5.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2001</name>
+<description>5.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2002</name>
+<description>5.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2003</name>
+<description>5.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2004</name>
+<description>5.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2005</name>
+<description>5.3</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2006</name>
+<description>5.3</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2007</name>
+<description>5.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2008</name>
+<description>5.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Asian alone, percent (July 1 - estimate) 2009</name>
+<description>5.7</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2000</name>
+<description>475</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - complete count) 2010</name>
+<description>657</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent  (April 1 - complete count) 2010</name>
+<description>0.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (April 1 - estimates base) 2000</name>
+<description>475</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2000</name>
+<description>479</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2001</name>
+<description>522</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2002</name>
+<description>560</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2003</name>
+<description>582</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2004</name>
+<description>642</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2005</name>
+<description>677</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2006</name>
+<description>705</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2007</name>
+<description>749</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2008</name>
+<description>795</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone (July 1 - estimate) 2009</name>
+<description>832</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2000</name>
+<description>0.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2001</name>
+<description>0.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2002</name>
+<description>0.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2003</name>
+<description>0.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2004</name>
+<description>0.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2005</name>
+<description>0.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2006</name>
+<description>0.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2007</name>
+<description>0.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2008</name>
+<description>0.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Native Hawaiian and Other Pacific Islander alone, percent (July 1 - estimate) 2009</name>
+<description>0.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (April 1 - complete count) 2010</name>
+<description>17656</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent  (April 1 - complete count) 2010</name>
+<description>4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (April 1 - estimates base) 2000</name>
+<description>9280</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2000</name>
+<description>9413</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2001</name>
+<description>9737</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2002</name>
+<description>10147</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2003</name>
+<description>10436</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2004</name>
+<description>10757</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2005</name>
+<description>11028</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2006</name>
+<description>11342</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2007</name>
+<description>11568</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2008</name>
+<description>11854</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races (July 1 - estimate) 2009</name>
+<description>12213</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2000</name>
+<description>2.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2001</name>
+<description>2.3</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2002</name>
+<description>2.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2003</name>
+<description>2.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2004</name>
+<description>2.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2005</name>
+<description>2.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2006</name>
+<description>2.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2007</name>
+<description>2.7</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2008</name>
+<description>2.7</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Two or more races, percent (July 1 - estimate) 2009</name>
+<description>2.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (April 1 - complete count) 2000</name>
+<description>17770</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (April 1 - complete count) 2010</name>
+<description>28987</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent  (April 1 - complete count) 2010</name>
+<description>6.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (April 1 - estimates base) 2000</name>
+<description>17770</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2000</name>
+<description>18029</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2001</name>
+<description>18946</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2002</name>
+<description>19865</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2003</name>
+<description>20917</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2004</name>
+<description>22321</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2005</name>
+<description>23261</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2006</name>
+<description>24371</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2007</name>
+<description>25109</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2008</name>
+<description>25691</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin (July 1 - estimate) 2009</name>
+<description>26604</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2000</name>
+<description>4.2</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2001</name>
+<description>4.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2002</name>
+<description>4.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2003</name>
+<description>4.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2004</name>
+<description>5.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2005</name>
+<description>5.3</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2006</name>
+<description>5.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2007</name>
+<description>5.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2008</name>
+<description>5.9</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Hispanic or Latino Origin, percent (July 1 - estimate) 2009</name>
+<description>6.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (April 1 - complete count)  2000</name>
+<description>296582</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (April 1 - complete count)  2010</name>
+<description>282470</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2000</name>
+<description>69.7</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (April 1 - complete count) 2010</name>
+<description>64.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (April 1 - estimates base) 2000</name>
+<description>296582</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (April 1 - estimates base) 2000</name>
+<description>69.7</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2000</name>
+<description>296725</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2001</name>
+<description>295252</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2002</name>
+<description>295430</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2003</name>
+<description>297921</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2004</name>
+<description>297982</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2005</name>
+<description>295559</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2006</name>
+<description>294028</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2007</name>
+<description>290377</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2008</name>
+<description>287715</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone (July 1 - estimate) 2009</name>
+<description>285854</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2000</name>
+<description>69.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2001</name>
+<description>69.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2002</name>
+<description>68.6</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2003</name>
+<description>68.4</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2004</name>
+<description>67.9</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2005</name>
+<description>67.5</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2006</name>
+<description>67.1</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2007</name>
+<description>66.8</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2008</name>
+<description>66.3</description>
+</Placemark>
+<Placemark>
+<name>Resident population: Not Hispanic, White alone, percent (July 1 - estimate) 2009</name>
+<description>65.9</description>
+</Placemark>
+<Placemark>
+<name>Data Flag Descriptions</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(FN)  Footnote for this item</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(NA)  Not available</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(D)  Figure withheld to avoid disclosure pertaining to a specific organization or individual</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(X)  Not applicable</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(S)  Data suppressed</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(Z)  Value would amount to less than half the unit of measurement shown</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>(B)  Base figure too small to meet statistical standards for reliability of a derived figure.</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>Unit Descriptions</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>ACR Acres</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>YRS Years</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>ML$ Millions of Dollars</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>RTE Rate</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>TH$ Thousands of Dollars</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>PCT Percent</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>SYM Symbol</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>AVG Average</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>ABS Absolute Number</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>MIN Minutes</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>SQM Square Miles</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>DOL Dollars</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>THO Thousands</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>MIL Millions</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>RNK Rank</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>MGD Millions of Gallons per Day</name>
+<description></description>
+</Placemark>
+<Placemark>
+<name>GLD Gallons per Day</name>
+<description></description>
+</Placemark>
+</Document>
+</kml>
