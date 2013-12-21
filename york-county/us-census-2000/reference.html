@@ -1,0 +1,998 @@
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Geography Network - Download Census 2000 TIGER/Line shapefiles</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+
+<SCRIPT LANGUAGE="JavaScript">
+function openwin(URL) {
+	window.open(URL,"Large_File_Transfer","status=1,menubar=0,width=600,height=750");
+}
+</SCRIPT>
+
+
+
+<SCRIPT LANGUAGE="JavaScript" TYPE="TEXT/JAVASCRIPT">
+//document.writeln(document.location);
+//var a = Date.parse(document.location);
+//var b = new Date(a);
+//document.writeln(b);
+
+
+<!-- BEGIN Script
+var day="";
+var month="";
+var myweekday="";
+var year="";
+mydate = new Date();
+Date = document.lastModified;
+myday = mydate.getDay();
+mymonth = mydate.getMonth();
+myweekday= mydate.getDate();
+weekday= myweekday;
+myyear= mydate.getFullYear();
+year = myyear;
+if(myday == 0)
+day = " Sunday, "
+else if(myday == 1)
+day = " Monday, "
+else if(myday == 2)
+day = " Tuesday, "
+else if(myday == 3)
+day = " Wednesday, "
+else if(myday == 4)
+day = " Thursday, "
+else if(myday == 5)
+day = " Friday, "
+else if(myday == 6)
+day = " Saturday, "
+if(mymonth == 0)
+month = "January "
+else if(mymonth ==1)
+month = "February "
+else if(mymonth ==2)
+month = "March "
+else if(mymonth ==3)
+month = "April "
+else if(mymonth ==4)
+month = "May "
+else if(mymonth ==5)
+month = "June "
+else if(mymonth ==6)
+month = "July "
+else if(mymonth ==7)
+month = "August "
+else if(mymonth ==8)
+month = "September "
+else if(mymonth ==9)
+month = "October "
+else if(mymonth ==10)
+month = "November "
+else if(mymonth ==11)
+month = "December "
+// End -->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="javascript" SRC="http://www.esri.com/styles/styles.js"></SCRIPT>
+
+<script language="javascript" type="TEXT/JAVASCRIPT">
+		if (is_ie || is_nav6up ||  is_opera) {
+		document.write('<link rel="stylesheet" type="text/css" href="http://www.esri.com/styles/style.css">');
+		}else if (is_mac && is_nav){
+		    document.write('<link rel="stylesheet" type="text/css" href="http://www.esri.com/styles/style_netscape_mac.css">');
+		} else if (is_nav){
+			document.write('<link rel="stylesheet" type="text/css" href="http://www.esri.com/styles/style_netscape_pc.css">');
+		} 
+</script>
+
+<link href="http://www.esri.com/styles/alt_menu.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+	@import url(http://www.esri.com/styles/standards_menu.css);
+</style>
+
+<script language="javascript" type="text/javascript" src="http://www.esri.com/styles/menubar.js"></script>
+
+
+</HEAD>
+
+<!--body-->
+<BODY TOPMARGIN="0" LEFTMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0">
+<!--end body-->
+<SCRIPT LANGUAGE="javascript" SRC="http://www.esri.com/styles/menubar_generate.js"></SCRIPT>
+
+<SCRIPT LANGUAGE="javascript" SRC="http://arcdatadev.esri.com/common/menubar_array.js"></SCRIPT>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="700"><!-- Menubar utility navigation -->
+  <tr>
+    <td width="477" style="vertical-align: bottom;"><IMG SRC="http://www.esri.com/graphicsnav/globetop.jpg" WIDTH="493" HEIGHT="19" ALT="" BORDER="0"></td>
+    <td class="utilityNav">
+      <a href="#content"><img src="http://www.esri.com/graphicsnav/clear.gif" height="9" width="3" alt="skip navigation" border="0"></a>	  
+	 <a href="http://gisstore.esri.com/">Store</a>  |  <a href="http://www.esri.com/company/contact.html">Contact Us</a> | <a href="http://gis.esri.com/jobs/jobs.cfm" >Careers</a>
+	  </td> 	  
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="700">
+  <tr>
+    <td class="banner" width="509"><a href="http://www.esri.com/index.html"><IMG SRC="http://www.esri.com/graphicsnav/banner.jpg" WIDTH="509" HEIGHT="49" ALT="ESRI Home" BORDER="0"></a></td>
+    <td class="banner" width="191">
+        <table cellpadding="2" cellspacing="0" border="0">
+	    <form method="get" action="http://www.google.com/cobrand" name="esri_searchbox">
+			<input type=hidden name=cof value="AWPID:59c5f8c2c949bea4;">
+			<font face="verdana,arial,sans-serif" size="-1">
+				<input type=hidden name=domains value="esri.com">
+				<input type=hidden name=sitesearch value="esri.com">
+			</font>
+		<tr>
+		<td><input type=text name=q size=12 maxlength=255 value=""></td>
+	     <td nowrap> <input type=image src="http://www.esri.com/graphicsnav/search.gif" WIDTH="53" HEIGHT="22" ALT="Click to search" BORDER="0" name=sa value="Search">&nbsp;<IMG SRC="http://www.esri.com/graphicsnav/googlelogo2.gif" WIDTH="45" HEIGHT="15" ALT="" BORDER="0"></td>
+		 
+	      <!-- <td><input type="image" src="/graphicsnav/search.gif" WIDTH="53" HEIGHT="22" ALT="Click to search" BORDER="0">&nbsp;<IMG SRC="/graphicsnav/googlelogo2.gif" WIDTH="45" HEIGHT="15" ALT="" BORDER="0"></td> -->
+	    </tr>
+		</form>
+	    </table>
+    </td>
+  </tr>
+<!-- Main Menu Bar Tabs -->
+  <tr valign="bottom">
+    <td height="21" class="menuBar" nowrap colspan="2"><script>generateTabs();</script></td>
+  </tr>
+</table>
+
+<!-- END MENUBAR -->
+<!-- #END SUBPAGE HEADER ------------------------------------------- -->
+<SCRIPT LANGUAGE="javascript" SRC="/common/menubar_array.js"></SCRIPT>
+
+<div class="pageBanner">ArcData</div>
+  
+         <TABLE WIDTH="660" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+    <TR VALIGN="TOP">
+        <TD WIDTH="83" NOWRAP>&nbsp;</TD>
+        <TD WIDTH="577">
+          
+<!-- #BEGIN CONTENT                                                           -->
+
+
+	
+			
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+<H2 ="mainTitle">Download Census 2000 TIGER/Line<SUP>&#174</SUP> Shapefiles</H2></div>
+
+
+<P CLASS="content">You have selected <b>York County</b> for the state of <b>Virginia</b>.
+Below is a list of the data layers that are available for this county.
+Not all data layers are available for each county.
+You can check the data layers that you would like to include in your download.
+Each data layers is listed with its compressed file size (.ZIP).
+You may select up to 20.0 MB of compressed data in a single download.
+</P>
+
+<SPAN CLASS="content">
+<FORM METHOD="post" ACTION="tiger_final.cfm?RequestTimeout=500">
+
+<input type="hidden" name="filename_id_required" value="You must select the data layers you wish to download.">
+
+<CENTER><TABLE WIDTH=500 BORDER=0 CELLPADDING=2 CELLSPACING=0>
+<TR>
+
+ <TH WIDTH=400 ALIGN=LEFT><U>Available data layers</U></TH>
+ <TH WIDTH=100 ALIGN=RIGHT><U>File Size</U></TH>
+
+</TR>
+<TR bgcolor="FFCC00">
+ 
+  
+  
+ 
+</TR>
+
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="29950">&nbsp;Block Groups 1990
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      31.9 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="33092">&nbsp;Block Groups 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      30.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="61082">&nbsp;CMSA/MSA Polygons 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      10.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="19709">&nbsp;Census 2000 Collection Blocks
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     277.9 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="3999">&nbsp;Census Blocks 1990
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     517.3 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="7141">&nbsp;Census Blocks 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     238.3 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="77196">&nbsp;Census Tracts 1990
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      21.4 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="80338">&nbsp;Census Tracts 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      22.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="13425">&nbsp;Congressional Districts - 106th
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      10.4 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="16567">&nbsp;Congressional Districts - Current
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      10.4 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="22851">&nbsp;County 1990
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      10.6 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="25993">&nbsp;County 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      10.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="10283">&nbsp;County Census Divisions 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      22.0 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="67156">&nbsp;Designated Places 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			       1.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="34986">&nbsp;Key Geographic Locations
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			       1.4 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="56937">&nbsp;Landmark Points
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     794.0 bytes
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="60073">&nbsp;Landmark Polygons
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     214.6 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="53801">&nbsp;Line Features - Hydrography
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     129.6 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="46544">&nbsp;Line Features - Landmarks
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     704.0 bytes
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="43901">&nbsp;Line Features - Misc. Transport
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			       1.6 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="50659">&nbsp;Line Features - Non-visible
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      53.9 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="40967">&nbsp;Line Features - Rails
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			       4.3 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="38030">&nbsp;Line Features - Roads
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     315.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="83449">&nbsp;School Districts - Unified
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      10.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="70224">&nbsp;State Legislative District Lower Chamber
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      13.2 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="72602">&nbsp;State Legislative District Upper Chamber
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      12.2 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="74162">&nbsp;Traffic Analysis Zones
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     140.1 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="84315">&nbsp;Urban Areas 1990
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      20.0 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="86605">&nbsp;Urban Areas 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      43.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="89298">&nbsp;Voting Districts 2000
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      26.5 KB
+		</TD>
+		</TR>
+	
+
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="92364">&nbsp;Water Polygons
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      87.8 KB
+		</TD>
+		</TR>
+	
+
+<TR><TD>&nbsp;</TD></TR>
+<TR>
+ <TH WIDTH=400 ALIGN=LEFT><U>Available Statewide Layers</U></TH>
+ <TH WIDTH=100 ALIGN=RIGHT><U>File Size</U></TH>
+</TR>
+
+	
+	
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="26270">&nbsp;Census Block Demographics (PL94)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      14.4 MB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="67913">&nbsp;Census Block Demographics (SF1)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			       5.4 MB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="68017">&nbsp;Census Block Group Demographics (SF1)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     365.1 KB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="26322">&nbsp;Census County Demographics (PL94)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      33.8 KB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="67965">&nbsp;Census County Demographics (SF1)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      14.7 KB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="26424">&nbsp;Census Place Demographics (PL94)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      70.9 KB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="68069">&nbsp;Census Place Demographics (SF1)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			      33.0 KB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="26475">&nbsp;Census State Demographics (PL94)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			       1.6 KB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="68121">&nbsp;Census State Demographics (SF1)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     658.0 bytes
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR bgcolor="#FFFFCC">
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="26526">&nbsp;Census Tract Demographics (PL94)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     278.6 KB
+		</TD>
+		</TR>
+	
+
+	
+	
+		
+			<TR>
+		
+		<TD WIDTH=300 ALIGN=LEFT>
+		
+			<INPUT TYPE="Checkbox" NAME="filename_id" VALUE="68173">&nbsp;Census Tract Demographics (SF1)
+	 	
+		</TD>
+		<TD WIDTH=100 ALIGN=RIGHT>
+			
+			
+			
+			
+			     132.7 KB
+		</TD>
+		</TR>
+	
+
+
+<INPUT type="hidden" name="RequestTimeout" value="500">
+<INPUT TYPE="hidden" NAME="all_selected" VALUE="68173, 26526, 68121, 26475, 68069, 26424, 67965, 26322, 68017, 67913, 26270, 92364, 89298, 86605, 84315, 74162, 72602, 70224, 83449, 38030, 40967, 50659, 43901, 46544, 53801, 60073, 56937, 34986, 67156, 10283, 25993, 22851, 16567, 13425, 80338, 77196, 7141, 3999, 19709, 61082, 33092, 29950, -13">
+
+
+
+
+<TR><TD COLSPAN="2" ALIGN="CENTER"><CENTER><BR><input type="image" src="proceeddown.gif" alt="Proceed to Download" width="138" height="24" border="0"></CENTER></TD></TR>
+</FORM>
+</TD></TR></TABLE>
+<BR><BR>
+<div align="center">
+<SPAN CLASS="content"><b>Technical Documentation for PL94-171 and SF1 Data:</b></span><br>
+<SPAN CLASS="content"><a href="http://www.census.gov/prod/cen2000/doc/pl94-171.pdf" target="_blank">U.S. Census PL 94-171</a>(PDF)</span><br>
+<SPAN CLASS="content"><A HREF="http://www.census.gov/prod/cen2000/doc/sf1.pdf" TARGET="_blank">U.S. Census Summary File 1 (SF1)</A>(PDF)</SPAN><BR>
+<SPAN CLASS="content"><a href="/data/tiger2000/item_abbrev.pdf" target="_blank">ESRI Abbreviated PL 94-171</a>(PDF)</span><br>
+<SPAN CLASS="content"><a href="http://www.esri.com/censuswatch/pl94-171_ref.html" target="_blank">PL 94-171 Quick Reference Guide</a></span><br>
+<SPAN CLASS="content"><a href="http://www.esri.com/censuswatch/sf1_ref.html" target="_blank">SF1 Quick Reference Guide</a></span></p>
+
+<SPAN CLASS="content"><B><FONT COLOR="Red">Note:</FONT></B> The file generation may take up to a minute, depending on the number of files selected.</span>
+
+<div>
+
+
+          
+        
+<!-- #END CONTENT                                                             -->
+             
+    </TD>
+  </TR>
+</TABLE>
+       
+<br><br>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" background="http://www.esri.com/graphics/footertile.gif">
+<tr>
+	<td width="750" nowrap class="footerSites">
+		ESRI Web Sites: &nbsp;
+		
+		<IMG SRC="http://www.esri.com/graphics/footerbullet.gif" WIDTH="8" HEIGHT="10" ALT="" BORDER="0"><a href="http://www.esribis.com" target="new" class="footerLink"><B>ESRI Business Information Solutions</B></a>&nbsp;&nbsp;
+		<IMG SRC="http://www.esri.com/graphics/footerbullet.gif" WIDTH="8" HEIGHT="10" ALT="" BORDER="0"><a href="http://www.geographynetwork.com" target="new" class="footerLink"><B>Geography Network</B></a>&nbsp;&nbsp;
+		<IMG SRC="http://www.esri.com/graphics/footerbullet.gif" WIDTH="8" HEIGHT="10" ALT="" BORDER="0"><a href="http://gis.esri.com/intldist/contactint.cfm" class="footerLink"><B>Distributors Worldwide</B></a>
+	</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="700">
+<tr>
+	<td width="40" nowrap>&nbsp;</td>
+	<td width="660">
+		<div class="footer">
+		    <A HREF="http://www.esri.com/index.html">Home</A>&nbsp;|
+			<A HREF="http://www.esri.com/products.html">Products</A>&nbsp;|
+		    <A HREF="http://www.esri.com/services.html">Services</A>&nbsp;|
+			<A HREF="http://www.esri.com/industries.html">Industries</A>&nbsp;|
+			<A HREF="http://www.esri.com/user_showcase.html">User Showcase</A>&nbsp;|
+			<A HREF="http://www.esri.com/training_events.html">Training &amp; Events</A>&nbsp;|
+			<A HREF="http://support.esri.com/">Support</A>&nbsp;|
+			<A HREF="http://www.esri.com/about_esri.html">About ESRI</A>
+		</div>
+	    <div class="footerSmall">
+			<A HREF="http://www.esri.com/company/contact.html">Contact Us</A>&nbsp;|
+			<A HREF="http://www.esri.com/site/sitemap.html">Site Map</A>&nbsp;|
+			<A HREF="http://www.esri.com/company/privacy.html">Privacy</A>&nbsp;|
+	    	<A HREF="http://www.esri.com/company/copyright.html">Copyright © ESRI</A><br>
+		
+			Send comments to: <A HREF="http://gis.esri.com/webmaster/webmaster.cfm">Site Manager</A>. 
+		</div>
+		<br>
+	</td>
+</tr>
+</table>
+<p><cite><a href="http://arcdata.esri.com/data/tiger2000/tiger_county.cfm?sfips=51">Geography Network &#45; Download Census 2000 TIGER/Line shapefiles</a></cite></p>
