@@ -1,0 +1,24 @@
+2011 Nonemployer Statistic
+Poquoson city, Virginia
+                                                                                      Nonemployers
+
+NAICS Code Description                                                         Firms  Receipts ($1,000) 
+00         Total for all sectors                                                 769       30,178 
+11         Agriculture, forestry, fishing and hunting                             69        2,660 
+22         Utilities                                                             (D)          (D) 
+23         Construction                                                           99        6,305 
+31-33      Manufacturing                                                          13          341 
+42         Wholesale trade                                                        12          882 
+44-45      Retail trade                                                           60          988 
+48-49      Transportation and warehousing                                         23        1,187 
+51         Information                                                           (D)          (D) 
+52         Finance and insurance                                                  15        1,495 
+53         Real estate and rental and leasing                                    101        6,471 
+54         Professional, scientific, and technical services                      102        3,683 
+56         Administrative and support and waste management and remediat           52          905 
+61         Educational services                                                   26          174 
+62         Health care and social assistance                                      57        1,840 
+71         Arts, entertainment, and recreation                                    39          499 
+72         Accommodation and food services                                         9           93 
+81         Other services (except public administration)                          84        2,544 
+Source: U.S. Census Bureau, EPCD, Nonemployer Statistics
