@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<2008_Nonemployer_Statistic>Poquoson city</2008_Nonemployer_Statistic>
+<FIELD2> Virginia</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic></2008_Nonemployer_Statistic>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>Nonemployers</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>NAICS</2008_Nonemployer_Statistic>
+<FIELD2>NAICS Description</FIELD2>
+<FIELD3>Firms</FIELD3>
+<FIELD4>Receipts ($1,000)</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;00&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Total for all sectors</FIELD2>
+<FIELD3>746</FIELD3>
+<FIELD4>28056</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;11&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Agriculture, forestry, fishing and hunting</FIELD2>
+<FIELD3>57</FIELD3>
+<FIELD4>2020</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;22&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Utilities</FIELD2>
+<FIELD3>(D)</FIELD3>
+<FIELD4>(D)</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;23&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Construction</FIELD2>
+<FIELD3>96</FIELD3>
+<FIELD4>6572</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;31-33&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Manufacturing</FIELD2>
+<FIELD3>20</FIELD3>
+<FIELD4>482</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;42&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Wholesale trade</FIELD2>
+<FIELD3>12</FIELD3>
+<FIELD4>914</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;44-45&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Retail trade</FIELD2>
+<FIELD3>77</FIELD3>
+<FIELD4>2228</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;48-49&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Transportation and warehousing</FIELD2>
+<FIELD3>19</FIELD3>
+<FIELD4>1179</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;51&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Information</FIELD2>
+<FIELD3>(D)</FIELD3>
+<FIELD4>(D)</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;52&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Finance and insurance</FIELD2>
+<FIELD3>18</FIELD3>
+<FIELD4>1366</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;53&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Real estate and rental and leasing</FIELD2>
+<FIELD3>86</FIELD3>
+<FIELD4>4259</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;54&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Professional, scientific, and technical services</FIELD2>
+<FIELD3>119</FIELD3>
+<FIELD4>3672</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;56&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Administrative and support and waste management and remediation services</FIELD2>
+<FIELD3>53</FIELD3>
+<FIELD4>1194</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;61&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Educational services</FIELD2>
+<FIELD3>26</FIELD3>
+<FIELD4>307</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;62&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Health care and social assistance</FIELD2>
+<FIELD3>43</FIELD3>
+<FIELD4>1531</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;71&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Arts, entertainment, and recreation</FIELD2>
+<FIELD3>34</FIELD3>
+<FIELD4>460</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;72&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Accommodation and food services</FIELD2>
+<FIELD3>13</FIELD3>
+<FIELD4>211</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>&apos;81&apos;</2008_Nonemployer_Statistic>
+<FIELD2>Other services (except public administration)</FIELD2>
+<FIELD3>67</FIELD3>
+<FIELD4>1549</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2008_Nonemployer_Statistic>Source: U.S. Census Bureau</2008_Nonemployer_Statistic>
+<FIELD2> EPCD</FIELD2>
+<FIELD3> Nonemployer Statistics</FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+</ROWSET>
