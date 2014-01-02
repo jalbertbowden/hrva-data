@@ -1,0 +1,23 @@
+2007 Nonemployer Statistic
+Poquoson city, Virginia
+"","","","Nonemployers"
+"NAICS","NAICS Description","Firms","Receipts ($1,000)"
+"'00'","Total for all sectors","789","28144",
+"'11'","Agriculture, forestry, fishing and hunting","67","2418",
+"'22'","Utilities","(D)","(D)",
+"'23'","Construction","105","7371",
+"'31-33'","Manufacturing","18","455",
+"'42'","Wholesale trade","10","751",
+"'44-45'","Retail trade","97","2474",
+"'48-49'","Transportation and warehousing","21","1637",
+"'51'","Information","(D)","(D)",
+"'52'","Finance and insurance","16","937",
+"'53'","Real estate and rental and leasing","89","3954",
+"'54'","Professional, scientific, and technical services","113","3298",
+"'56'","Administrative and support and waste management and remediation services","43","864",
+"'61'","Educational services","24","475",
+"'62'","Health care and social assistance","44","1183",
+"'71'","Arts, entertainment, and recreation","39","462",
+"'72'","Accommodation and food services","9","155",
+"'81'","Other services (except public administration)","88","1679",
+Source: U.S. Census Bureau, EPCD, Nonemployer Statistics

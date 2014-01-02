@@ -1,0 +1,163 @@
+[
+  {
+    "2009 Nonemployer Statistic":"Poquoson city",
+    "FIELD2":" Virginia",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"Nonemployers",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"NAICS",
+    "FIELD2":"NAICS Description",
+    "FIELD3":"Firms",
+    "FIELD4":"Receipts ($1,000)",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'00'",
+    "FIELD2":"Total for all sectors",
+    "FIELD3":"723.00000",
+    "FIELD4":"26276.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'11'",
+    "FIELD2":"Agriculture, forestry, fishing and hunting",
+    "FIELD3":"65.00000",
+    "FIELD4":"2063.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'21'",
+    "FIELD2":"Mining, quarrying, and oil and gas extraction",
+    "FIELD3":"(D)",
+    "FIELD4":"(D)",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'22'",
+    "FIELD2":"Utilities",
+    "FIELD3":"(D)",
+    "FIELD4":"(D)",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'23'",
+    "FIELD2":"Construction",
+    "FIELD3":"93.00000",
+    "FIELD4":"5891.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'31-33'",
+    "FIELD2":"Manufacturing",
+    "FIELD3":"16.00000",
+    "FIELD4":"618.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'42'",
+    "FIELD2":"Wholesale trade",
+    "FIELD3":"11.00000",
+    "FIELD4":"885.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'44-45'",
+    "FIELD2":"Retail trade",
+    "FIELD3":"67.00000",
+    "FIELD4":"871.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'48-49'",
+    "FIELD2":"Transportation and warehousing",
+    "FIELD3":"15.00000",
+    "FIELD4":"941.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'51'",
+    "FIELD2":"Information",
+    "FIELD3":"(D)",
+    "FIELD4":"(D)",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'52'",
+    "FIELD2":"Finance and insurance",
+    "FIELD3":"20.00000",
+    "FIELD4":"1270.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'53'",
+    "FIELD2":"Real estate and rental and leasing",
+    "FIELD3":"84.00000",
+    "FIELD4":"4107.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'54'",
+    "FIELD2":"Professional, scientific, and technical services",
+    "FIELD3":"104.00000",
+    "FIELD4":"3905.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'56'",
+    "FIELD2":"Administrative and support and waste management and remediation services",
+    "FIELD3":"41.00000",
+    "FIELD4":"612.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'61'",
+    "FIELD2":"Educational services",
+    "FIELD3":"29.00000",
+    "FIELD4":"242.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'62'",
+    "FIELD2":"Health care and social assistance",
+    "FIELD3":"45.00000",
+    "FIELD4":"2251.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'71'",
+    "FIELD2":"Arts, entertainment, and recreation",
+    "FIELD3":"34.00000",
+    "FIELD4":"596.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'72'",
+    "FIELD2":"Accommodation and food services",
+    "FIELD3":"9.00000",
+    "FIELD4":"98.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"'81'",
+    "FIELD2":"Other services (except public administration)",
+    "FIELD3":"81.00000",
+    "FIELD4":"1740.00000",
+    "FIELD5":""
+  },
+  {
+    "2009 Nonemployer Statistic":"Source: U.S. Census Bureau",
+    "FIELD2":" EPCD",
+    "FIELD3":" Nonemployer Statistics",
+    "FIELD4":"",
+    "FIELD5":""
+  }
+]

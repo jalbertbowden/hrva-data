@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<2009_Nonemployer_Statistic>Poquoson city</2009_Nonemployer_Statistic>
+<FIELD2> Virginia</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic></2009_Nonemployer_Statistic>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4>Nonemployers</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>NAICS</2009_Nonemployer_Statistic>
+<FIELD2>NAICS Description</FIELD2>
+<FIELD3>Firms</FIELD3>
+<FIELD4>Receipts ($1,000)</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;00&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Total for all sectors</FIELD2>
+<FIELD3>723.00000</FIELD3>
+<FIELD4>26276.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;11&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Agriculture, forestry, fishing and hunting</FIELD2>
+<FIELD3>65.00000</FIELD3>
+<FIELD4>2063.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;21&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Mining, quarrying, and oil and gas extraction</FIELD2>
+<FIELD3>(D)</FIELD3>
+<FIELD4>(D)</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;22&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Utilities</FIELD2>
+<FIELD3>(D)</FIELD3>
+<FIELD4>(D)</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;23&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Construction</FIELD2>
+<FIELD3>93.00000</FIELD3>
+<FIELD4>5891.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;31-33&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Manufacturing</FIELD2>
+<FIELD3>16.00000</FIELD3>
+<FIELD4>618.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;42&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Wholesale trade</FIELD2>
+<FIELD3>11.00000</FIELD3>
+<FIELD4>885.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;44-45&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Retail trade</FIELD2>
+<FIELD3>67.00000</FIELD3>
+<FIELD4>871.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;48-49&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Transportation and warehousing</FIELD2>
+<FIELD3>15.00000</FIELD3>
+<FIELD4>941.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;51&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Information</FIELD2>
+<FIELD3>(D)</FIELD3>
+<FIELD4>(D)</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;52&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Finance and insurance</FIELD2>
+<FIELD3>20.00000</FIELD3>
+<FIELD4>1270.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;53&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Real estate and rental and leasing</FIELD2>
+<FIELD3>84.00000</FIELD3>
+<FIELD4>4107.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;54&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Professional, scientific, and technical services</FIELD2>
+<FIELD3>104.00000</FIELD3>
+<FIELD4>3905.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;56&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Administrative and support and waste management and remediation services</FIELD2>
+<FIELD3>41.00000</FIELD3>
+<FIELD4>612.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;61&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Educational services</FIELD2>
+<FIELD3>29.00000</FIELD3>
+<FIELD4>242.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;62&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Health care and social assistance</FIELD2>
+<FIELD3>45.00000</FIELD3>
+<FIELD4>2251.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;71&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Arts, entertainment, and recreation</FIELD2>
+<FIELD3>34.00000</FIELD3>
+<FIELD4>596.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;72&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Accommodation and food services</FIELD2>
+<FIELD3>9.00000</FIELD3>
+<FIELD4>98.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>&apos;81&apos;</2009_Nonemployer_Statistic>
+<FIELD2>Other services (except public administration)</FIELD2>
+<FIELD3>81.00000</FIELD3>
+<FIELD4>1740.00000</FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+<ROW>
+<2009_Nonemployer_Statistic>Source: U.S. Census Bureau</2009_Nonemployer_Statistic>
+<FIELD2> EPCD</FIELD2>
+<FIELD3> Nonemployer Statistics</FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+</ROW>
+</ROWSET>

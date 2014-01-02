@@ -1,0 +1,25 @@
+2009 Nonemployer Statistic
+Poquoson city, Virginia
+                                                                                      Nonemployers
+
+NAICS Code Description                                                         Firms  Receipts ($1,000) 
+00         Total for all sectors                                                 723       26,276 
+11         Agriculture, forestry, fishing and hunting                             65        2,063 
+21         Mining, quarrying, and oil and gas extraction                         (D)          (D) 
+22         Utilities                                                             (D)          (D) 
+23         Construction                                                           93        5,891 
+31-33      Manufacturing                                                          16          618 
+42         Wholesale trade                                                        11          885 
+44-45      Retail trade                                                           67          871 
+48-49      Transportation and warehousing                                         15          941 
+51         Information                                                           (D)          (D) 
+52         Finance and insurance                                                  20        1,270 
+53         Real estate and rental and leasing                                     84        4,107 
+54         Professional, scientific, and technical services                      104        3,905 
+56         Administrative and support and waste management and remediat           41          612 
+61         Educational services                                                   29          242 
+62         Health care and social assistance                                      45        2,251 
+71         Arts, entertainment, and recreation                                    34          596 
+72         Accommodation and food services                                         9           98 
+81         Other services (except public administration)                          81        1,740 
+Source: U.S. Census Bureau, EPCD, Nonemployer Statistics
