@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 107 of 170”	Name: “Table 1 of 1 on page 107 of 170”	Name: “Table 1 of 1 on page 107 of 170”	Name: “Table 1 of 1 on page 107 of 170”	Name: “Table 1 of 1 on page 107 of 170”	Name: “Table 1 of 1 on page 107 of 170”	Name: “Table 1 of 1 on page 107 of 170”	Name: “Table 1 of 1 on page 107 of 170”
+Table: 105	Table: 105	Table: 105	Table: 105	Table: 105	Table: 105	Table: 105	Table: 105
+						
+	FY 2012 Capital Fund Revenue Budget	FY 2012 Capital Fund Revenue Budget	FY 2012 Capital Fund Revenue Budget	FY 2012 Capital Fund Revenue Budget		
+	FY 10 Final	FY 10 Actual	FY 11 Original	FY 11 Expected	FY 12 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+LOCAL						
+INTEREST-LGIP	0	362	0	0	0	0	0.0%
+Subtotal for Category	0	362	0	0	0	0	0.0%
+MISC						
+EXPENDITURE REFUNDS	0	0	0	0	0	0	0.0%
+DONATIONS	30,250	0	0	0	0	0	0.0%
+OTHER INCOME	192,000	182,030	75,000	75,000	50,000	(25,000)	(33.3%)
+CASH PROFFERS	0	0	0	0	0	0	0.0%
+Subtotal for Category	222,250	182,030	75,000	75,000	50,000	(25,000)	(33.3%)
+STATE						
+REGISTRAR	0	0	0	0	0	0	0.0%
+STATE GRANT	692,630	488,085	300,000	300,000	200,000	(100,000)	(33.3%)
+Subtotal for Category	692,630	488,085	300,000	300,000	200,000	(100,000)	(33.3%)
+FEDERAL						
+FEDERAL GRANTS	1,500,000	955,655	1,125,000	1,125,000	750,000	(375,000)	(33.3%)
+MAIN STREET GRANT	40,851	23,868	288,000	288,000	296,000	8,000	2.8%
+HIGHWAY FUNDS	0	0	0	0	0	0	0.0%
+Subtotal for Category	1,540,851	979,523	1,413,000	1,413,000	1,046,000	(367,000)	(26.0%)
+NON REVENUE						
+LITERARY LOAN PROCEEDS	0	0	0	0	0	0	0.0%
+VPSA BOND PROCEEDS	0	0	0	0	6,500,000	6,500,000	100.0%
+SNAP INTEREST	0	0	0	0	0	0	0.0%
+CAPITAL LEASE	3,000,000	0	0	0	0	0	0.0%
+CAPITAL LEASE-PROCEEDS	0	0	0	0	0	0	0.0%
+VRA-WATER SYSTEM	0	0	0	0	3,500,000	3,500,000	100.0%
+VRA-WATER SYSTEM PROCEEDS	0	0	0	0	0	0	0.0%
+CAPITAL LEASE	0	0	0	0	0	0	0.0%
+TRANSFERS IN	200,210	180,231	112,000	514,572	364,924	(149,648)	(29.1%)
+FUND BALANCE-DESIGNATED	3,050,000	0	2,000,000	2,000,000	2,007,098	7,098	0.4%
+Subtotal for Category	6,250,210	180,231	2,112,000	2,514,572	12,372,022	9,857,450	392.0%
+Total for Fund	8,705,941	1,830,231	3,900,000	4,302,572	13,668,022	9,365,450	217.7%
+			101			

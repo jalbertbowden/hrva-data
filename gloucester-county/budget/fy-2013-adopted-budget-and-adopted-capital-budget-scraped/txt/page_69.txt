@@ -1,0 +1,31 @@
+Name: “Table 1 of 1 on page 69 of 179”	Name: “Table 1 of 1 on page 69 of 179”	Name: “Table 1 of 1 on page 69 of 179”	Name: “Table 1 of 1 on page 69 of 179”	Name: “Table 1 of 1 on page 69 of 179”	Name: “Table 1 of 1 on page 69 of 179”	Name: “Table 1 of 1 on page 69 of 179”	Name: “Table 1 of 1 on page 69 of 179”
+Table: 67	Table: 67	Table: 67	Table: 67	Table: 67	Table: 67	Table: 67	Table: 67
+						
+	FY 2013 School Operating Fund Revenue Budget	FY 2013 School Operating Fund Revenue Budget	FY 2013 School Operating Fund Revenue Budget	FY 2013 School Operating Fund Revenue Budget	FY 2013 School Operating Fund Revenue Budget	
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+TITLE IID STIMULUS	0	23,778	0	0	0	0	0.0%
+WORK FORCE INVESTMENT ACT	0	7,940	14,118	14,118	14,118	0	0.0%
+PROJECT SERV	0	0	0	0	0	0	0.0%
+MISCELLANEOUS	150,000	0	150,000	150,000	150,000	0	0.0%
+JVG	0	0	0	0	0	0	0.0%
+FED STIMULUS FUNDS (SFSF)	0	21,891	0	0	0	0	0.0%
+FED STIMULUS FUNDS (BA)	728,783	708,996	0	0	0	0	0.0%
+FED STIMULUS ED JOBS	0	0	1,249,251	1,249,251	250,000	(999,251)	(80.0%)
+IMPACT AID	70,000	84,427	75,000	75,000	80,000	5,000	6.7%
+TITLE VI-B	1,254,460	1,252,364	1,258,655	1,258,655	1,240,614	(18,041)	(1.4%)
+FEDERAL STIMULUS TITLE VI	751,829	741,469	0	0	0	0	0.0%
+CARL PERKINS	84,924	86,312	86,312	86,312	85,881	(431)	(0.5%)
+HSTW	0	0	0	0	0	0	0.0%
+COM THREAD	0	0	0	0	0	0	0.0%
+TITLE II	259,157	234,624	260,455	260,455	228,901	(31,554)	(12.1%)
+TITLEIV SAFE & DRUGFREE	0	0	0	0	0	0	0.0%
+ROTC	64,000	66,829	68,837	68,837	68,837	0	0.0%
+MEDICAID REIMBURSEMENT	150,000	183,325	150,000	150,000	170,000	20,000	13.3%
+VIC AC-SCHOOL TO WORK	0	0	0	0	0	0	0.0%
+CHARTER SCHOOL STARTUP	0	0	0	0	0	0	0.0%
+E-RATE	170,000	138,796	145,000	145,000	170,000	25,000	17.2%
+PROJECT LEAD THE WAY	0	0	0	0	0	0	0.0%
+Subtotal for Category	4,874,430	4,440,187	4,328,181	4,328,181	3,323,284	(1,004,897)	(23.2%)
+Total for Fund	52,220,309	51,293,261	52,041,345	52,078,614	52,506,273	427,659	0.8%
+			63			

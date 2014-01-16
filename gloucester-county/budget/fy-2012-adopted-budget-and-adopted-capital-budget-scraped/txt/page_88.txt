@@ -1,0 +1,11 @@
+Name: “Table 1 of 1 on page 88 of 170”	Name: “Table 1 of 1 on page 88 of 170”	Name: “Table 1 of 1 on page 88 of 170”	Name: “Table 1 of 1 on page 88 of 170”	Name: “Table 1 of 1 on page 88 of 170”	Name: “Table 1 of 1 on page 88 of 170”	Name: “Table 1 of 1 on page 88 of 170”	Name: “Table 1 of 1 on page 88 of 170”
+Table: 86	Table: 86	Table: 86	Table: 86	Table: 86	Table: 86	Table: 86	Table: 86
+						
+FY 2012 Regional Special Education Fund Expenditure Budget	FY 2012 Regional Special Education Fund Expenditure Budget	FY 2012 Regional Special Education Fund Expenditure Budget	FY 2012 Regional Special Education Fund Expenditure Budget	FY 2012 Regional Special Education Fund Expenditure Budget	FY 2012 Regional Special Education Fund Expenditure Budget	
+	FY 10 Final	FY 10 Actual	FY 11 Original	FY 11 Expected	FY 12 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+TECHNOLOGY EQUIPMENT	4,064	0	0	0	0	0	0.0%
+TECH INFRASTRUCTURE	0	0	0	0	0	0	0.0%
+Subtotal for Organization	126,377	111,609	117,885	117,885	92,593	(25,292)	(21.5%)
+Total for Fund	732,125	640,190	689,807	689,807	735,373	45,566	6.6%
+			82			

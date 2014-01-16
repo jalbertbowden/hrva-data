@@ -1,0 +1,15 @@
+Name: “Table 1 of 1 on page 80 of 170”	Name: “Table 1 of 1 on page 80 of 170”	Name: “Table 1 of 1 on page 80 of 170”	Name: “Table 1 of 1 on page 80 of 170”	Name: “Table 1 of 1 on page 80 of 170”	Name: “Table 1 of 1 on page 80 of 170”	Name: “Table 1 of 1 on page 80 of 170”	Name: “Table 1 of 1 on page 80 of 170”
+Table: 78	Table: 78	Table: 78	Table: 78	Table: 78	Table: 78	Table: 78	Table: 78
+						
+	FY 2012 Cafeteria Fund Expenditure Budget	FY 2012 Cafeteria Fund Expenditure Budget	FY 2012 Cafeteria Fund Expenditure Budget	FY 2012 Cafeteria Fund Expenditure Budget	FY 2012 Cafeteria Fund Expenditure Budget	
+	FY 10 Final	FY 10 Actual	FY 11 Original	FY 11 Expected	FY 12 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+UNIFORMS	1,274	0	1,275	1,275	1,211	(64)	(5.0%)
+BOOKS & SUBSCRIPTIONS	0	0	0	0	0	0	0.0%
+OTHER OPERATING SUPPLIES	1,733	5,685	2,000	2,000	1,900	(100)	(5.0%)
+INVENTORY SUPPLIES	18,553	14,508	20,429	20,429	20,429	0	0.0%
+CAPITAL OUTLAY REPLACE	0	0	0	0	0	0	0.0%
+CAPITAL OUTLAY NEW	0	0	0	0	0	0	0.0%
+Subtotal for Organization	565,514	546,440	566,380	566,380	532,502	(33,878)	(6.0%)
+Total for Fund	2,487,443	2,234,192	2,405,943	2,405,943	2,239,314	(166,629)	(6.9%)
+			74			

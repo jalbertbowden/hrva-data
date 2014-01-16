@@ -1,0 +1,11 @@
+Name: “Table 1 of 1 on page 70 of 70”	Name: “Table 1 of 1 on page 70 of 70”	Name: “Table 1 of 1 on page 70 of 70”	Name: “Table 1 of 1 on page 70 of 70”	Name: “Table 1 of 1 on page 70 of 70”	Name: “Table 1 of 1 on page 70 of 70”	Name: “Table 1 of 1 on page 70 of 70”
+Table: 70	Table: 70	Table: 70	Table: 70	Table: 70	Table: 70	Table: 70
+					
+CELL TOWER FUND						FUND 942 REVENUES
+	FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL	ACTUAL		AMENDED	AMENDED		BUDGET
+Miscellaneous Revenue					
+Miscellaneous	$	0	$	0	$	210,000
+Total Miscellaneous	$	0	$	0	$	210,000
+Total Cell Tower Fund	$	0	$	0	$	210,000
+City of Chesapeake, Virginia	139					FY 2010 - 2011 Operating Budget

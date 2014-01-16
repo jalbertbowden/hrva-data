@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 44 of 70”	Name: “Table 1 of 1 on page 44 of 70”	Name: “Table 1 of 1 on page 44 of 70”	Name: “Table 1 of 1 on page 44 of 70”	Name: “Table 1 of 1 on page 44 of 70”	Name: “Table 1 of 1 on page 44 of 70”	Name: “Table 1 of 1 on page 44 of 70”
+Table: 44	Table: 44	Table: 44	Table: 44	Table: 44	Table: 44	Table: 44
+					
+COMMUNITY SERVICES						FUND 205 REVENUES
+	FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED		BUDGET
+Use of Money & Property					
+Interest-Bank Dep	$	69,787	$	0	$	0
+Clearing Fixed Asset Disposal		1,405		0		0
+Total Use of Money and Property	$	71,192	$	0	$	0
+Charges for Services					
+MH Fees	$	1,683,275	$	2,142,590	$	2,184,926
+ID Fees		1,401,485		1,367,682		1,404,202
+SA Substance Abuse Fees		147,248		175,000		160,000
+Total Charges for Services	$	3,232,008	$	3,685,272	$	3,749,128
+Recovered Costs					
+Rec/Reb-Other	$	8,745	$	0	$	0
+Rec/Reb-Jury		840		0		0
+Total Recovered Costs	$	9,585	$	0	$	0
+Categorical Aid From the Commonwealth - Other	Categorical Aid From the Commonwealth - Other				
+Mental Health Svcs-VA	$	5,604,233	$	5,402,981	$	5,974,368
+Intellectual Disability Svcs-VA		697,172		522,088		497,051
+Substance Abuse Svcs-VA		889966 ,228811		887722 ,004455		887744 ,117755
+Gen Govt-Other State Grants		0		481,618		56,692
+Total State Categorical Aid	$	7,197,686	$	7,278,732	$	7,402,286
+Revenue from the Federal Government					
+Mental Health Svcs-Fed	$	132,133	$	130,572	$	122,282
+Substance Abuse Svcs-Fed		759,914		763,092		763,092
+Part C Infant-Fed		195,682		162,002		270,520
+Total Revenue from the Federal Government	$	1,087,729	$	1,055,666	$	1,155,894
+Total Community Services Fund	$	11,598,200	$	12,019,670	$	12,307,308
+City of Chesapeake, Virginia		113				FY 2010 - 2011 Operating Budget

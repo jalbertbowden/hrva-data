@@ -1,0 +1,26 @@
+Name: “Table 1 of 1 on page 65 of 78”	Name: “Table 1 of 1 on page 65 of 78”	Name: “Table 1 of 1 on page 65 of 78”	Name: “Table 1 of 1 on page 65 of 78”	Name: “Table 1 of 1 on page 65 of 78”	Name: “Table 1 of 1 on page 65 of 78”	Name: “Table 1 of 1 on page 65 of 78”	Name: “Table 1 of 1 on page 65 of 78”
+Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65
+						
+City of Chesapeake, Virginia						
+FY 2012-13 Operating Budget						
+STORMWATER MANAGEMENT OPERATIONS						FUND 520 REVENUES	FUND 520 REVENUES
+		FY 2010-11		FY 2011-12		FY 2012-13	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+Use of Money & Property						
+Interest-Bank Dep	$	189,348	$	250,000	$	100,000	-60.00%
+Net Inc/(Decr) in FV of Invest		(5,939)		0		0	0.00%
+Use of Money and Property	$	183,409	$	250,000	$	100,000	-60.00%
+Charges for Services						
+Eng/Adm/Inspec	$	29,052	$	0	$	0	0.00%
+Stormwater Fees		14,730,478		14,638,550		14,823,094	1.26%
+Stormwater Fees-Discounts		0		0		0	0.00%
+Sale of Svc-Public Works		7,914		20,000		20,000	0.00%
+Charges for Services	$	14,767,443	$	14,658,550	$	14,843,094	1.26%
+Miscellaneous Revenue						
+Sale of Svc	$	0	$	0	$	10,000	100.00%
+Miscellaneous Revenue	$	0	$	0	$	10,000	100.00%
+Recovered Costs						
+Rec/Reb-Other	$	217	$	0	$	0	0.00%
+Recovered Costs	$	217	$	0	$	0	0.00%
+Stormwater Mgmt. Operations Fund	$	14,951,070	$	14,908,550	$	14,953,094	0.30%
+FY 2012-13 Operating Budget		98				As Amended June 12, 2012	As Amended June 12, 2012

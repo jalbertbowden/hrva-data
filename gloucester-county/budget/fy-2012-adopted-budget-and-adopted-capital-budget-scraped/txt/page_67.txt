@@ -1,0 +1,27 @@
+Name: “Table 1 of 1 on page 67 of 170”	Name: “Table 1 of 1 on page 67 of 170”	Name: “Table 1 of 1 on page 67 of 170”	Name: “Table 1 of 1 on page 67 of 170”	Name: “Table 1 of 1 on page 67 of 170”	Name: “Table 1 of 1 on page 67 of 170”	Name: “Table 1 of 1 on page 67 of 170”	Name: “Table 1 of 1 on page 67 of 170”
+Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65
+						
+	FY 2012 School Operating Fund Revenue Budget	FY 2012 School Operating Fund Revenue Budget	FY 2012 School Operating Fund Revenue Budget	FY 2012 School Operating Fund Revenue Budget	FY 2012 School Operating Fund Revenue Budget	
+	FY 10 Final	FY 10 Actual	FY 11 Original	FY 11 Expected	FY 12 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+JVG	0	0	0	0	0	0	0.0%
+FED STIMULUS FUNDS (SFSF)	2,004,627	1,738,681	0	265,946	0	(265,946)	(100.0%)
+FED STIMULUS FUNDS (BA)	1,275,732	1,275,732	728,783	728,783	0	(728,783)	(100.0%)
+FED STIMULUS ED JOBS	0	0	0	500,000	1,249,251	749,251	149.9%
+IMPACT AID	70,000	56,286	70,000	70,000	75,000	5,000	7.1%
+TITLE VI-B	1,226,448	1,257,460	1,254,460	1,254,460	1,258,655	4,195	0.3%
+FEDERAL STIMULUS TITLE VI	710,000	663,578	751,829	751,829	0	(751,829)	(100.0%)
+CARL PERKINS	87,058	84,923	84,924	84,924	86,312	1,388	1.6%
+HSTW	0	0	0	0	0	0	0.0%
+COM THREAD	0	0	0	0	0	0	0.0%
+TITLE II	259,157	168,084	259,157	259,157	260,455	1,298	0.5%
+TITLEIV SAFE & DRUGFREE	22,000	26,302	0	0	0	0	0.0%
+ROTC	64,000	62,929	64,000	64,000	68,837	4,837	7.6%
+MEDICAID REIMBURSEMENT	138,571	160,423	150,000	150,000	150,000	0	0.0%
+VIC AC-SCHOOL TO WORK	0	0	0	0	0	0	0.0%
+CHARTER SCHOOL STARTUP	0	0	0	0	0	0	0.0%
+E-RATE	135,000	133,711	170,000	170,000	145,000	(25,000)	(14.7%)
+PROJECT LEAD THE WAY	0	0	0	0	0	0	0.0%
+Subtotal for Category	7,490,225	6,931,277	4,874,430	5,640,376	4,328,181	(1,312,195)	(23.3%)
+Total for Fund	57,489,243	55,934,604	52,220,309	53,065,541	52,041,345	(1,024,196)	(1.9%)
+			61			

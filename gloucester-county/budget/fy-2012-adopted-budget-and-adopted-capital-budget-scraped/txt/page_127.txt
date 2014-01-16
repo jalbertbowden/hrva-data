@@ -1,0 +1,22 @@
+Name: “Table 1 of 1 on page 127 of 170”	Name: “Table 1 of 1 on page 127 of 170”	Name: “Table 1 of 1 on page 127 of 170”	Name: “Table 1 of 1 on page 127 of 170”	Name: “Table 1 of 1 on page 127 of 170”	Name: “Table 1 of 1 on page 127 of 170”	Name: “Table 1 of 1 on page 127 of 170”	Name: “Table 1 of 1 on page 127 of 170”
+Table: 125	Table: 125	Table: 125	Table: 125	Table: 125	Table: 125	Table: 125	Table: 125
+						
+	FY 2012 Gloucester Point Sanitary Fund Revenue Budget	FY 2012 Gloucester Point Sanitary Fund Revenue Budget	FY 2012 Gloucester Point Sanitary Fund Revenue Budget	FY 2012 Gloucester Point Sanitary Fund Revenue Budget	FY 2012 Gloucester Point Sanitary Fund Revenue Budget	FY 2012 Gloucester Point Sanitary Fund Revenue Budget
+	FY 10 Final	FY 10 Actual	FY 11 Original	FY 11 Expected	FY 12 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+PROP TAX						
+CURRENT REAL ESTATE	18,700	18,997	19,000	19,000	19,100	100	0.5%
+DELINQUENT REAL ESTATE	500	282	250	250	250	0	0.0%
+PUBLIC SERVICE CORP	120	142	125	125	125	0	0.0%
+PENALTIES	100	76	100	100	100	0	0.0%
+INTEREST	20	37	20	20	20	0	0.0%
+Subtotal for Category	19,440	19,535	19,495	19,495	19,595	100	0.5%
+USE						
+INTEREST-BANK DEPOSIT	100	743	0	0	10	10	100.0%
+INTEREST-LGIP	2,000	63	1,000	1,000	600	(400)	(40.0%)
+Subtotal for Category	2,100	806	1,000	1,000	610	(390)	(39.0%)
+NON REVENUE						
+FUND BALANCE TRANSFER	0	0	0	0	0	0	0.0%
+Subtotal for Category	0	0	0	0	0	0	0.0%
+Total for Fund	21,540	20,342	20,495	20,495	20,205	(290)	(1.4%)
+			121			

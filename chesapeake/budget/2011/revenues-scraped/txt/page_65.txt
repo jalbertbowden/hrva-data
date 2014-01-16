@@ -1,0 +1,22 @@
+Name: “Table 1 of 1 on page 65 of 77”	Name: “Table 1 of 1 on page 65 of 77”	Name: “Table 1 of 1 on page 65 of 77”	Name: “Table 1 of 1 on page 65 of 77”	Name: “Table 1 of 1 on page 65 of 77”	Name: “Table 1 of 1 on page 65 of 77”	Name: “Table 1 of 1 on page 65 of 77”	Name: “Table 1 of 1 on page 65 of 77”
+Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65	Table: 65
+						
+City of Chesapeake, Virginia						
+FY 2011-12 Operating Budget						
+CHESAPEAKE EXPRESSWAY						FUND 525 REVENUES	FUND 525 REVENUES
+		FY 2009-10		FY 2010-11		FY 2011-12	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+Use of Money & Property						
+Interest-Bank Dep	$	(1,413)	$	175,000	$	10,000	-94.29%
+Net Inc/(Decr) in FV of Invest		(15,366)		0		0	0.00%
+Use of Money & Property	$	(16,779)	$	175,000	$	10,000	-94.29%
+Charges for Services						
+Tolls-Cash	$	3,962,763	$	3,829,840	$	5,763,774	50.50%
+Tolls-Discount Tickets		437,377		417,233		426,571	2.24%
+Tolls-Electronic Collection		2,660,137		2,801,207		3,759,679	34.22%
+Tolls-Unpaid Tolls		1,896		1,308		2,007	53.44%
+Tolls-Violation Enforcement		24,192		24,263		27,003	11.29%
+Admin Fee-Other		11,117		10,278		12,000	16.75%
+Charges for Services	$	7,097,481	$	7,084,129	$	9,991,034	41.03%
+Chesapeake Expressway Fund	$	7,080,701	$	7,259,129	$	10,001,034	37.77%
+FY 2011-12 Operating Budget		99				Revised June 14, 2011	Revised June 14, 2011

@@ -1,0 +1,40 @@
+Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”	Name: “Table 1 of 1 on page 159 of 170”
+Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157
+									
+COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA								
+Balance Sheet									
+Governmental Funds									
+June 30, 2010									
+								Other	
+				Debt		Capital		Governmental	
+		General		Service		Projects		Funds		Total
+ASSETS									
+Cash and cash equivalents	$	12,811,985	$	-	$	120,849	$	78,604	$	13,011,438
+Receivables (net of allowance									
+for uncollectibles):									
+Taxes receivable		23,123,115		-		-		-		23,123,115
+Accounts receivable		511,823		-		25,451		221		537,495
+Due from other funds		1,693,760		-		2,182,283		-		3,876,043
+Due from other governmental units		1,375,965		-		682,647		337,989		2,396,601
+Prepaid items		50,468		1,452,057		-		-		1,502,525
+Total assets	$	39,567,116	$	1,452,057	$	3,011,230	$	416,814	$	44,447,217
+LIABILITIES AND FUND BALANCES									
+Liabilities:									
+Accounts payable	$	372,334	$	-	$	181,859	$	96,507	$	650,700
+Accrued liabilities		679,117		-		-		-		679,117
+Due to other governmental units		3,627,856		-		-		78,604		3,706,460
+Due to other funds		2,182,283		1,452,057		-		241,703		3,876,043
+Deferred revenue		18,221,682		-		-		-		18,221,682
+Total liabilities	$	25,083,272	$	1,452,057	$	181,859	$	416,814	$	27,134,002
+Fund balances:									
+Reserved for:									
+Prepaid items	$	50,468	$	-	$	-	$	-	$	50,468
+Rezoning proffers		-		-		19,000		-		19,000
+Asset forfeiture		98,974		-		-		-		98,974
+Unreserved, reported in:										-
+General fund		14,334,402		-		-		-		14,334,402
+Capital projects funds		-		-		2,810,371		-		2,810,371
+Total fund balances	$	14,483,844	$	-	$	2,829,371	$	-	$	17,313,215
+Total liabilities and fund balances	$	39,567,116	$	1,452,057	$	3,011,230	$	416,814	$	44,447,217
+The notes to the financial statements are an integral part of this statement.	The notes to the financial statements are an integral part of this statement.	The notes to the financial statements are an integral part of this statement.	The notes to the financial statements are an integral part of this statement.	The notes to the financial statements are an integral part of this statement.	The notes to the financial statements are an integral part of this statement.				
+				153					

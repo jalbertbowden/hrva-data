@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 109 of 170”	Name: “Table 1 of 1 on page 109 of 170”	Name: “Table 1 of 1 on page 109 of 170”	Name: “Table 1 of 1 on page 109 of 170”	Name: “Table 1 of 1 on page 109 of 170”	Name: “Table 1 of 1 on page 109 of 170”	Name: “Table 1 of 1 on page 109 of 170”	Name: “Table 1 of 1 on page 109 of 170”
+Table: 107	Table: 107	Table: 107	Table: 107	Table: 107	Table: 107	Table: 107	Table: 107
+						
+	FY 2012 Capital Fund Expenditure Budget	FY 2012 Capital Fund Expenditure Budget	FY 2012 Capital Fund Expenditure Budget	FY 2012 Capital Fund Expenditure Budget	FY 2012 Capital Fund Expenditure Budget	
+	FY 10 Final	FY 10 Actual	FY 11 Original	FY 11 Expected	FY 12 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+COUNTY CAPITAL						
+WATER SYSTEM PROJECTS	0	0	0	0	3,500,000	3,500,000	100.0%
+PARK PROJECTS	434,630	237,110	0	0	0	0	0.0%
+MAIN ST PROJECT	51,064	30,430	360,000	360,000	370,000	10,000	2.8%
+REPAIR BLDGS	99,375	91,509	0	0	0	0	0.0%
+COMMUNICATIONS	6,000,000	973,698	2,000,000	2,000,000	2,007,098	7,098	0.4%
+COUNTY OFFICE SPACE	0	0	0	0	0	0	0.0%
+CABLE SERVICES PROGRAM	0	0	0	0	138,111	138,111	100.0%
+TOURISM PROJECTS	0	0	0	0	0	0	0.0%
+FEMA HGMT GRANTS	2,000,000	1,281,322	1,500,000	1,500,000	1,000,000	(500,000)	(33.3%)
+Subtotal for Organization	8,585,069	2,614,068	3,860,000	3,860,000	7,015,209	3,155,209	81.7%
+REPLACEMENT FUNDS						
+COMPUTER SYSTEM	92,572	55,500	40,000	82,572	0	(82,572)	(100.0%)
+OFFICE EQUIPMENT	0	0	0	0	0	0	0.0%
+SHERIFF VEHICLES	0	0	0	360,000	0	(360,000)	(100.0%)
+COUNTY VEHICLES	28,300	28,999	0	0	0	0	0.0%
+SCHOOL VEHICLES	0	0	0	0	510,000	510,000	100.0%
+REPLACEMT FUND BALANCE	0	0	0	0	152,813	152,813	100.0%
+Subtotal for Organization	120,872	84,499	40,000	442,572	662,813	220,241	49.8%
+SCHOOL CAPITAL						
+SCHOOL CAPITAL PROJECTS	0	0	0	0	2,990,000	2,990,000	100.0%
+PAGE MIDDLE PROJECTS	0	0	0	0	0	0	0.0%
+HVAC PROJECTS	0	0	0	0	3,000,000	3,000,000	100.0%
+Subtotal for Organization	0	0	0	0	5,990,000	5,990,000	100.0%
+Total for Fund	8,705,941	2,698,567	3,900,000	4,302,572	13,668,022	9,365,450	217.7%
+			103			

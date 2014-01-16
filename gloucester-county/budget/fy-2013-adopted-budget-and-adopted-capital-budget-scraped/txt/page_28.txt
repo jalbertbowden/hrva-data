@@ -1,0 +1,26 @@
+Name: “Table 1 of 1 on page 28 of 179”	Name: “Table 1 of 1 on page 28 of 179”	Name: “Table 1 of 1 on page 28 of 179”	Name: “Table 1 of 1 on page 28 of 179”	Name: “Table 1 of 1 on page 28 of 179”	Name: “Table 1 of 1 on page 28 of 179”	Name: “Table 1 of 1 on page 28 of 179”	Name: “Table 1 of 1 on page 28 of 179”
+Table: 26	Table: 26	Table: 26	Table: 26	Table: 26	Table: 26	Table: 26	Table: 26
+						
+	FY 2013 General Fund Revenue Budget	FY 2013 General Fund Revenue Budget	FY 2013 General Fund Revenue Budget	FY 2013 General Fund Revenue Budget	FY 2013 General Fund Revenue Budget	
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+FEDERAL						
+V-STOP PROSECUTOR GRANT	17,500	22,296	17,500	17,500	23,981	6,481	37.0%
+RECOVERED COSTS	0	82,451	116,147	116,147	116,147	0	0.0%
+EMER MED SERVICES	6,822	13,644	6,822	6,822	13,644	6,822	100.0%
+FED HIGHWAY SAFETY	28,828	22,509	0	0	0	0	0.0%
+REIMB FOR FED PRISONERS	10,000	0	0	0	0	0	0.0%
+ASSET FORFEITURE-FEDERAL	0	1,349	0	0	0	0	0.0%
+ARRA - JAG COMP BOARD	0	0	0	0	0	0	0.0%
+ARRA - V-STOP	0	13,873	0	0	0	0	0.0%
+FEDERAL GRANTS	30,873	44,984	0	0	20,227	20,227	100.0%
+Subtotal for Category	94,023	201,106	140,469	140,469	173,999	33,530	23.9%
+FUND BAL						
+TRANSFERS IN	0	0	0	0	0	0	0.0%
+FUND BALANCE-COMMITTED	0	0	0	8,346	0	(8,346)	(100.0%)
+FUND BALANCE TRANSFER	1,083,858	0	212,111	1,109,299	288,333	(820,966)	(74.0%)
+FUND BALANCE TRANS-ASSET	160,624	0	96,690	96,690	124,288	27,598	28.5%
+FUND BALANCE-GRANTS	0	0	0	0	0	0	0.0%
+Subtotal for Category	1,244,482	0	308,801	1,214,335	412,621	(801,714)	(66.0%)
+Total for Fund	51,620,970	51,030,745	51,272,642	52,193,676	55,939,480	3,745,804	7.2%
+			22			

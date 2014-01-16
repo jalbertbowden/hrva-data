@@ -1,0 +1,11 @@
+Name: “Table 1 of 1 on page 71 of 179”	Name: “Table 1 of 1 on page 71 of 179”	Name: “Table 1 of 1 on page 71 of 179”	Name: “Table 1 of 1 on page 71 of 179”	Name: “Table 1 of 1 on page 71 of 179”	Name: “Table 1 of 1 on page 71 of 179”	Name: “Table 1 of 1 on page 71 of 179”	Name: “Table 1 of 1 on page 71 of 179”
+Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69
+						
+	FY 2013 School Operating Fund Expenditure Budget	FY 2013 School Operating Fund Expenditure Budget	FY 2013 School Operating Fund Expenditure Budget	FY 2013 School Operating Fund Expenditure Budget	FY 2013 School Operating Fund Expenditure Budget	FY 2013 School Operating Fund Expenditure Budget
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+SCHOOL OPERATING FUND						
+SCHOOL OPERATING FUND	52,220,309	51,293,261	52,041,345	52,078,614	52,506,273	427,659	0.8%
+Subtotal for Organization	52,220,309	51,293,261	52,041,345	52,078,614	52,506,273	427,659	0.8%
+Total for Fund	52,220,309	51,293,261	52,041,345	52,078,614	52,506,273	427,659	0.8%
+			65			

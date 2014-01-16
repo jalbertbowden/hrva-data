@@ -1,0 +1,53 @@
+Name: “Table 1 of 1 on page 46 of 77”	Name: “Table 1 of 1 on page 46 of 77”	Name: “Table 1 of 1 on page 46 of 77”	Name: “Table 1 of 1 on page 46 of 77”	Name: “Table 1 of 1 on page 46 of 77”	Name: “Table 1 of 1 on page 46 of 77”	Name: “Table 1 of 1 on page 46 of 77”	Name: “Table 1 of 1 on page 46 of 77”
+Table: 46	Table: 46	Table: 46	Table: 46	Table: 46	Table: 46	Table: 46	Table: 46
+						
+City of Chesapeake, Virginia						
+FY 2011-12 Operating Budget						
+GENERAL FUND						FUND 100 REVENUES	FUND 100 REVENUES
+Note: Solid Waste revenues have been moved from						
+Waste Management Fund (215) to General Fund 100)		FY 2009-10		FY 2010-11		FY 2011-12	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+Local Developers Contribution-PW		295,951		0		0	0.00%
+Recreation-Vending Mach Comm		614		1,100		0	-100.00%
+Library Fees & Fines		262,737		275,000		349,440	27.07%
+Library Delinquent Fees/Fines		23,387		9,000		12,950	43.89%
+Library Delinq Replacemt Fees		21,368		20,000		29,270	46.35%
+Library Lost Book Fees		16,552		14,877		16,080	8.09%
+Library Non-Res Card Fees		8,798		12,500		13,940	11.52%
+Library Copy Charges		53,622		54,000		0	-100.00%
+Sale of Publications		61		500		0	-100.00%
+Zoning Plan Review Fees		17,157		14,810		15,000	1.28%
+Zoning Certifications		3,350		3,300		3,300	0.00%
+Lot Processing Fee		32,110		30,000		50,000	66.67%
+Building Plan Review Fees		58,076		60,000		50,000	-16.67%
+Technology Fees - Inspections		63,980		61,000		61,000	0.00%
+EGOV Subscription Revenue		23,331		22,000		26,690	21.32%
+Environment Site Assess Fees		11,900		23,100		13,500	-41.56%
+Wage Assignment Fees		7,511		8,100		7,500	-7.41%
+Returned Check Fees		21,987		26,000		19,500	-25.00%
+Cr Card Fees-Discover		(1,177)		0		0	0.00%
+Cr Card Fees-Official Pay		1,618		0		0	0.00%
+Admin Fee-Dup Receipts		30,564		17,600		20,120	14.32%
+Admin Fee-Delq Tax Collect		633,629		565,100		592,500	4.85%
+Admin Fee-Erroneous Assmt (Interest Refunds)		((1100 ,775555))		0		1177, 449900	110000. 0000%%
+Admin Fee-Legal		2,979		2,000		2,300	15.00%
+FOIA		1,664		1,400		0	-100.00%
+Passport Application Fee		4,800		0		6,500	100.00%
+Passport Application Fee		19,010		16,000		16,000	0.00%
+DMV Hold Fees-Admin Fee		134,885		125,000		129,000	3.20%
+Admin Fee-Other		40,000		0		0	0.00%
+Custodial Svcs Pks & Rec		122,561		163,200		50,000	-69.36%
+Penalties-Non-taxes		3,975		4,880		6,000	22.95%
+Legal Service Fees		2,765		14,000		11,470	-18.07%
+Charges for Services	$	11,664,106	$	11,312,813	$	9,279,210	-17.98%
+Miscellaneous Revenue						
+Expenditure Refunds (Vet)	$	2,165	$	4,437	$	1,960	-55.83%
+Expenditure Refunds Other		380		0		0	0.00%
+Primary Fees		(9,670)		0		0	0.00%
+Sale of Salvage and Surplus		5,390		0		0	0.00%
+Miscellaneous Local Revenues		(32,633)		0		0	0.00%
+Settlement - City Attorney		13,064		0		0	0.00%
+Sale of Refuse Container PbWks		14,495		0		0	0.00%
+Sale of Refuse Containers PW (Solid Waste)		3,535		30,000		5,000	-83.33%
+Sale of Recycling Bins (Solid Waste)		4,506		60,500		5,000	-91.74%
+FY 2011-12 Operating Budget		80				Revised June 14, 2011	Revised June 14, 2011

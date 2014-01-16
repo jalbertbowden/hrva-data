@@ -1,0 +1,13 @@
+Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”	Name: “Table 1 of 1 on page 161 of 170”
+Table: 159	Table: 159	Table: 159	Table: 159	Table: 159	Table: 159	Table: 159	Table: 159	Table: 159	Table: 159	Table: 159
+									
+2006		2005		2004		2003		2002		2001
+556,862	$	398,179	$	510,268	$	731,387	$	943,221	$	652,278
+15,953,192		15,503,657		17,620,647		11,933,486		9,794,702		8,301,052
+16,510,054	$	15,901,836	$	18,130,915	$	12,664,873	$	10,737,923	$	8,953,330
+-	$	-	$	-	$	-	$	-	$	-
+63,974		63,974		169,644		127,218		-		-
+75,116		24,165		488		280		-		-
+3,847,743		4,032,730		8,167,302		2,445,595		3,293,077		8,008,758
+3,986,833	$	4,120,869	$	8,337,434	$	2,573,093	$	3,293,077	$	8,008,758
+						155			

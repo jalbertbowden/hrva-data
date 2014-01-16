@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 151 of 170”	Name: “Table 1 of 1 on page 151 of 170”	Name: “Table 1 of 1 on page 151 of 170”	Name: “Table 1 of 1 on page 151 of 170”	Name: “Table 1 of 1 on page 151 of 170”	Name: “Table 1 of 1 on page 151 of 170”	Name: “Table 1 of 1 on page 151 of 170”
+Table: 149	Table: 149	Table: 149	Table: 149	Table: 149	Table: 149	Table: 149
+					
+			Min	Max	Min Hrly	Max Hrly
+FLSA		Position Title	Salary	Salary	Rate	Rate
+		Grade 2	$16,771	$25,157	$8.06	$12.09
+N	Community School Supv				
+N	Data Entry Operator				
+N		Park Aide			
+N		Recreation Aide			
+		Grade 3	$17,777	$26,666	$8.55	$12.82
+N		Custodian			
+N	Substitute Office Worker				
+		Grade 4	$18,844	$28,266	$9.06	$13.59
+N	Groundskeeper - B & G				
+N	Groundskeeper - Parks				
+		Grade 5	$19,974	$29,961	$9.60	$14.40
+N	Assistant Registrar				
+N		Custodian II			
+N		Library Clerk			
+N		Office Assistant			
+N	Office Associate II -Emergency- DSS				
+		Grade 6	$21,174	$31,761	$10.18	$15.27
+N		Cook			
+N	Deputy I - Circuit Court				
+N	Deputy Treasurer I				
+N	Revenue Technician				
+		Grade 7	$22,444	$33,666	$10.79	$16.19
+N	4H Youth Technician				
+N	Maintenance Assistant				
+N		Utility Worker I			
+N		WTP Trainee			
+N	Office Associate III - DSS				
+		Grade 8	$23,790	$35,685	$11.44	$17.16
+N	Customer Service Representative				
+N	Library Specialist				
+N	Mechanical Technician I				
+N		Park Ranger			
+N	Permit Technician				
+N	Revenue Specialist				
+N	Shift Foreman, Custodian				
+N		Utility Worker II			
+		145			

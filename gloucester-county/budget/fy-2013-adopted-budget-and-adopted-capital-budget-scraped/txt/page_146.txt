@@ -1,0 +1,20 @@
+Name: “Table 1 of 1 on page 146 of 179”	Name: “Table 1 of 1 on page 146 of 179”	Name: “Table 1 of 1 on page 146 of 179”	Name: “Table 1 of 1 on page 146 of 179”	Name: “Table 1 of 1 on page 146 of 179”	Name: “Table 1 of 1 on page 146 of 179”	Name: “Table 1 of 1 on page 146 of 179”	Name: “Table 1 of 1 on page 146 of 179”
+Table: 144	Table: 144	Table: 144	Table: 144	Table: 144	Table: 144	Table: 144	Table: 144
+						
+	FY 2013 Utility Fund Expenditure Budget	FY 2013 Utility Fund Expenditure Budget	FY 2013 Utility Fund Expenditure Budget	FY 2013 Utility Fund Expenditure Budget	FY 2013 Utility Fund Expenditure Budget	
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+OTHER MISC EXPENSES	10,000	5,560	15,000	15,000	15,000	0	0.0%
+PMTS TO GSD#1	17,320	3,391	0	0	0	0	0.0%
+PMTS TO VDH	11,890	8,430	11,890	11,890	11,890	0	0.0%
+CAPITAL OUTLAY NEW	335,000	0	0	0	500,000	500,000	100.0%
+FURNITURE/FIXTURES-NEW	4,000	2,745	4,000	4,000	4,000	0	0.0%
+OTH EQUIPMENT	32,545	3,720	20,000	20,000	32,545	12,545	62.7%
+FUND BALANCE	102,000	0	322,000	322,000	332,750	10,750	3.3%
+Subtotal for Organization	2,940,259	3,186,768	3,032,585	3,032,585	3,764,291	731,706	24.1%
+DEBT SERVICE						
+REDEMPTION OF PRINCIPAL	2,616,389	1,042,105	2,611,865	2,611,865	2,905,387	293,522	11.2%
+AMORT BOND ISSUE COSTS	0	0	0	0	0	0	0.0%
+Subtotal for Organization	2,616,389	1,042,105	2,611,865	2,611,865	2,905,387	293,522	11.2%
+Total for Fund	5,556,648	4,228,873	5,644,450	5,644,450	6,669,678	1,025,228	18.2%
+			140			

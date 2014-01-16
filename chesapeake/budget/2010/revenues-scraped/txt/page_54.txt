@@ -1,0 +1,24 @@
+Name: “Table 1 of 1 on page 54 of 70”	Name: “Table 1 of 1 on page 54 of 70”	Name: “Table 1 of 1 on page 54 of 70”	Name: “Table 1 of 1 on page 54 of 70”	Name: “Table 1 of 1 on page 54 of 70”	Name: “Table 1 of 1 on page 54 of 70”	Name: “Table 1 of 1 on page 54 of 70”
+Table: 54	Table: 54	Table: 54	Table: 54	Table: 54	Table: 54	Table: 54
+					
+UTILITIES WATER/SEWER CONSTRUCTION					FUND 502 REVENUES	FUND 502 REVENUES
+	FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED	BUDGET
+Use of Money & Property					
+Interest	$	1,764	$	0	$	0
+Total Use of Money & Property	$	1,764	$	0	$	0
+Total Utilities W/S Construction Fund	$	1,764	$	0	$	0
+UTILITIES RENEWAL & REPLACEMENT					FUND 504 REVENUES	FUND 504 REVENUES
+	FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED	BUDGET
+Use of Money & Property					
+Interest Income	$	(62,090)	$	0	$	0
+Total Use of Money & Property	$	(62,090)	$	0	$	0
+Recovered Costs					
+Recoveries & Rebates	$	620,551	$	0	$	0
+Total Recovered Costs	$	620,551	$	0	$	0
+Other State Categorical Aid					
+State Grants	$	810,000	$	0	$	0
+Total Other State Categorical Aid	$	810,000	$	0	$	0
+Total Utilities Renewal & Replacement Fund	$	1,368,461	$	0	$	0
+City of Chesapeake, Virginia		123			FY 2010 - 2011 Operating Budget	FY 2010 - 2011 Operating Budget

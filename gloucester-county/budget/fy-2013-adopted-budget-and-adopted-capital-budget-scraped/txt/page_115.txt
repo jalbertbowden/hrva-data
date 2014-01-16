@@ -1,0 +1,24 @@
+Name: “Table 1 of 1 on page 115 of 179”	Name: “Table 1 of 1 on page 115 of 179”	Name: “Table 1 of 1 on page 115 of 179”	Name: “Table 1 of 1 on page 115 of 179”	Name: “Table 1 of 1 on page 115 of 179”	Name: “Table 1 of 1 on page 115 of 179”	Name: “Table 1 of 1 on page 115 of 179”	Name: “Table 1 of 1 on page 115 of 179”
+Table: 113	Table: 113	Table: 113	Table: 113	Table: 113	Table: 113	Table: 113	Table: 113
+						
+	FY 2013 School Construction Fund Revenue Budget	FY 2013 School Construction Fund Revenue Budget	FY 2013 School Construction Fund Revenue Budget	FY 2013 School Construction Fund Revenue Budget	FY 2013 School Construction Fund Revenue Budget	
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+SCH CONST						
+EXPENDITURE REFUNDS	0	0	0	0	0	0	0.0%
+Subtotal for Category	0	0	0	0	0	0	0.0%
+LOC						
+INTEREST-LGIP	0	807	0	0	0	0	0.0%
+INSURANCE RECOVERY	1,500,000	3,793,840	0	1,500,000	9,500,000	8,000,000	533.3%
+Subtotal for Category	1,500,000	3,794,647	0	1,500,000	9,500,000	8,000,000	533.3%
+SCH CONST						
+LOCAL BOND PROCEEDS	0	0	0	0	0	0	0.0%
+LITERARY LOAN PROCEEDS	0	0	0	0	0	0	0.0%
+VPSA BOND PROCEEDS	0	0	0	0	0	0	0.0%
+SNAP PROCEEDS	0	0	0	0	0	0	0.0%
+SNAP INTEREST	0	0	0	0	0	0	0.0%
+TRANSFERS IN	0	0	0	0	0	0	0.0%
+FUND BALANCE TRANSFER	0	0	0	0	0	0	0.0%
+Subtotal for Category	0	0	0	0	0	0	0.0%
+Total for Fund	1,500,000	3,794,647	0	1,500,000	9,500,000	8,000,000	533.3%
+			109			

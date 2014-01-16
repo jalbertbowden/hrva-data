@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 47 of 77”	Name: “Table 1 of 1 on page 47 of 77”	Name: “Table 1 of 1 on page 47 of 77”	Name: “Table 1 of 1 on page 47 of 77”	Name: “Table 1 of 1 on page 47 of 77”	Name: “Table 1 of 1 on page 47 of 77”	Name: “Table 1 of 1 on page 47 of 77”	Name: “Table 1 of 1 on page 47 of 77”
+Table: 47	Table: 47	Table: 47	Table: 47	Table: 47	Table: 47	Table: 47	Table: 47
+						
+City of Chesapeake, Virginia						
+FY 2011-12 Operating Budget						
+GENERAL FUND						FUND 100 REVENUES	FUND 100 REVENUES
+Note: Solid Waste revenues have been moved from						
+Waste Management Fund (215) to General Fund 100)		FY 2009-10		FY 2010-11		FY 2011-12	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+Claims Reimb Public Works		360,897		25,000		25,000	0.00%
+Sale of Svc		1,804		0		0	0.00%
+Sale of Srv - CIB Support (HRIS)		192,178		215,803		216,000	0.09%
+Cash Short/Over		87		0		0	0.00%
+Miscellaneous Revenue	$	556,199	$	335,740	$	252,960	-24.66%
+Recovered Costs						
+Rec/Reb-Ins Claims Collected	$	189,007	$	0	$	0	0.00%
+Rec/Reb-VA Dept of Taxation		333		0		320	100.00%
+Rec/Reb-P/Y Expenditures		32,272		0		0	0.00%
+Rec/Reb-Other		205,775		0		0	0.00%
+Rec/Reb-Jury		1,115		0		0	0.00%
+Rec/Reb-Travel Settlement		(8)		0		0	0.00%
+Recovered Costs	$	428,493	$	0	$	320	100.00%
+Revenue From Local Sources	$ 427,656,515	$ 427,656,515	$ 405,518,720	$ 405,518,720	$ 408,606,118	$ 408,606,118	0.76%
+Noncategorical Aid From the Commonwealth						
+Rolling Stock Taxes	$	153,838	$	155,000	$	150,000	-33..2233%%
+Taxes-Sales Mobile Homes		37,356		40,000		40,000	0.00%
+Grantors Tax		616,860		550,000		575,000	4.55%
+Indirect Costs		336,840		272,000		0	-100.00%
+Taxes-Curr PPTRA		28,590,001		28,590,001		28,590,001	0.00%
+Taxes-Auto Daily Rental		652,820		630,411		672,000	6.60%
+Contra Rev -Local Aid to State		(1,221,535)		(1,221,535)		(1,450,890)	18.78%
+State Noncategorical Aid	$	29,166,180	$	29,015,877	$	28,576,111	-1.52%
+Categorical Aid From the Commonwealth - Shared Expenses	Categorical Aid From the Commonwealth - Shared Expenses	Categorical Aid From the Commonwealth - Shared Expenses				
+Commonwealth Attorney	$	1,633,442	$	1,706,903	$	1,672,290	-2.03%
+Sheriff		1,248,459		8,513,769		8,502,140	-0.14%
+Commissioner of the Revenue		353,182		338,615		334,865	-1.11%
+Treasurer		386,359		357,344		348,331	-2.52%
+General Registrar		86,893		86,350		74,087	-14.20%
+Circuit Court Clerk-Compensation Board		1,116,786		1,154,747		1,146,157	-0.74%
+Circuit Court Clerk-Technology		0		0		100,000	100.00%
+Agriculture		36,205		73,137		73,137	0.00%
+State Aid Shared Expenses	$	4,861,325	$	12,230,865	$	12,251,007	0.16%
+FY 2011-12 Operating Budget		81				Revised June 14, 2011	Revised June 14, 2011

@@ -1,0 +1,29 @@
+Name: “Table 1 of 1 on page 67 of 77”	Name: “Table 1 of 1 on page 67 of 77”	Name: “Table 1 of 1 on page 67 of 77”	Name: “Table 1 of 1 on page 67 of 77”	Name: “Table 1 of 1 on page 67 of 77”	Name: “Table 1 of 1 on page 67 of 77”	Name: “Table 1 of 1 on page 67 of 77”	Name: “Table 1 of 1 on page 67 of 77”
+Table: 67	Table: 67	Table: 67	Table: 67	Table: 67	Table: 67	Table: 67	Table: 67
+						
+City of Chesapeake, Virginia						
+FY 2011-12 Operating Budget						
+CENTRAL FLEET MANAGEMENT						FUND 601 REVENUES	FUND 601 REVENUES
+		FY 2009-10		FY 2010-11		FY 2011-12	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+Use of Money & Property						
+Interest-Bank Dep	$	64,579	$	0	$	0	0.00%
+Gain on Disposal of Fixed Assets-Ops		53,666		0		0	0.00%
+Gain on Disposal of Fixed Assets-Capital		29,868		0		150,000	100.00%
+Use of Money and Property	$	148,113	$	0	$	150,000	100.00%
+Charges for Services						
+Sale of Svc- Sheriff	$	3,986	$	0	$	0	0.00%
+Sale of Svc Sheriff Mowing		80,969		0		93,891	100.00%
+Charges for Services	$	84,955	$	0	$	93,891	100.00%
+Miscellaneous Revenue						
+City Garage-Sales Gasoline	$	0	$	1,180,657	$	0	-100.00%
+City Garage-Sales Labor		13,232,011		12,349,470		12,084,805	-2.14%
+City Garage - Sales Outside		1,044,030		500,000		1,200,000	140.00%
+Miscellaneous Revenue	$	14,276,041	$	14,030,127	$	13,284,805	-5.31%
+Recovered Costs						
+Rec/Reb-Ins Claims Collected	$	4,040	$	0	$	0	0.00%
+Rec/Reb-Other		36,607		5,000		5,000	0.00%
+Rec/Reb-Jury		30		0		0	0.00%
+Recovered Costs	$	40,677	$	5,000	$	5,000	0.00%
+Central Fleet Management Fund	$	14,549,786	$	14,035,127	$	13,533,696	-3.57%
+FY 2011-12 Operating Budget		101				Revised June 14, 2011	Revised June 14, 2011

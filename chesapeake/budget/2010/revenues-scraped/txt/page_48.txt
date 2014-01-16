@@ -1,0 +1,24 @@
+Name: “Table 1 of 1 on page 48 of 70”	Name: “Table 1 of 1 on page 48 of 70”	Name: “Table 1 of 1 on page 48 of 70”	Name: “Table 1 of 1 on page 48 of 70”	Name: “Table 1 of 1 on page 48 of 70”	Name: “Table 1 of 1 on page 48 of 70”	Name: “Table 1 of 1 on page 48 of 70”	Name: “Table 1 of 1 on page 48 of 70”
+Table: 48	Table: 48	Table: 48	Table: 48	Table: 48	Table: 48	Table: 48	Table: 48
+						
+TAX INCREMENT FINANCING FUND-GREENBRIER	TAX INCREMENT FINANCING FUND-GREENBRIER	TAX INCREMENT FINANCING FUND-GREENBRIER	TAX INCREMENT FINANCING FUND-GREENBRIER				FUND 209 REVENUES
+		FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL	RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED		BUDGET
+Use of Money & Property	Use of Money & Property					
+Interest-Bank Dep	Interest-Bank Dep	$	74,731	$	0	$	0
+Total Use of Money and Property	Total Use of Money and Property	$	74,731	$	0	$	0
+General Property Taxes	General Property Taxes					
+Current Taxes On Real Prop-G.B.	Current Taxes On Real Prop-G.B.	$	4,929,957	$	5,513,616	$	5,346,231
+Total General Property taxes	Total General Property taxes	$	4,929,957	$	5,513,616	$	5,346,231
+Total	TIF Fund	$	5,004,688	$	5,513,616	$	5,346,231
+TAX INCREMENT FINANCING FUND-SOUTH NORFOLK	TAX INCREMENT FINANCING FUND-SOUTH NORFOLK	TAX INCREMENT FINANCING FUND-SOUTH NORFOLK	TAX INCREMENT FINANCING FUND-SOUTH NORFOLK				FUND 212 REVENUES
+		FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL	RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED		BUDGET
+Use of Money & Property	Use of Money & Property					
+Interest-Bank Dep	Interest-Bank Dep	$	73,858	$	0	$	0
+Total Use of Money and Property	Total Use of Money and Property	$	73,858	$	0	$	0
+General Property Taxes	General Property Taxes					
+Current Taxes On Real Prop-S.N.	Current Taxes On Real Prop-S.N.	$	4,507,616	$	4,689,614	$	4,590,771
+Total General Property taxes	Total General Property taxes	$	4,507,616	$	4,689,614	$	4,590,771
+Total	TIF Fund	$	4,581,474	$	4,689,614	$	4,590,771
+City of Chesapeake, Virginia	City of Chesapeake, Virginia		117				FY 2010 - 2011 Operating Budget

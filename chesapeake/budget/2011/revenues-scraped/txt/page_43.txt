@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 43 of 77”	Name: “Table 1 of 1 on page 43 of 77”	Name: “Table 1 of 1 on page 43 of 77”	Name: “Table 1 of 1 on page 43 of 77”	Name: “Table 1 of 1 on page 43 of 77”	Name: “Table 1 of 1 on page 43 of 77”	Name: “Table 1 of 1 on page 43 of 77”	Name: “Table 1 of 1 on page 43 of 77”
+Table: 43	Table: 43	Table: 43	Table: 43	Table: 43	Table: 43	Table: 43	Table: 43
+						
+City of Chesapeake, Virginia						
+FY 2011-12 Operating Budget						
+GENERAL FUND						FUND 100 REVENUES	FUND 100 REVENUES
+Note: Solid Waste revenues have been moved from						
+Waste Management Fund (215) to General Fund 100)	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11	FY 2011-12	FY 2011-12	Change From
+Resource Detail		Actual		Budget	Estimated	Estimated	Prior Year
+General Property Taxes						
+Taxes-Curr Real Prop	$ 238,423,355	$ 238,423,355	$ 226,078,730	$ 226,078,730	$ 223,334,890	$ 223,334,890	-1.21%
+Taxes-Curr Real Property - Committed		0		(271,284)		(271,284)	0.00%
+Taxes-Delinq Real Prop		4,511,896		4,141,000		4,432,000	7.03%
+Taxes-Curr PubSvcCorp		10,769,523		10,221,835		10,759,950	5.26%
+Taxes-Curr Pers Prop		32,084,553		29,136,500		34,737,200	19.22%
+Taxes-Curr Pers Prop-Refunds		(1,670,952)		(1,271,000)		(1,801,250)	41.72%
+Taxes-Delinq Pers Prop		8,202,242		7,074,000		8,321,300	17.63%
+Taxes-Penalties-RE&PP		1,486,111		1,366,000		1,356,950	-0.66%
+Taxes-Interest-RE&PP		944,255		908,000		872,100	-3.95%
+** Note: Committed revenues are pledged for						
+use in specific special revenue funds.						
+General Property Taxes	$ 294,750,983	$ 294,750,983	$ 277,383,781	$ 277,383,781	$ 281,741,856	$ 281,741,856	1.57%
+Other Local Taxes						
+Taxes-Sales and Use	$	31,888,445	$	31,650,000	$	32,533,500	2.79%
+Taxes-Utility Consumer Gas		1,921,071		1,894,000		1,984,800	4.79%
+Taxes-Utility Electric		8,194,612		8,589,000		8,701,850	1.31%
+Taxes-Communications Sales Tax		12,451,943		12,900,000		12,993,550	0.73%
+Communications Sales Tax-Committed		0		(4,950,691)		(5,043,468)	1.87%
+Licenses-Bus and Occupant		22,022,114		22,880,000		21,753,100	-4.93%
+Taxes-Local Consumption		840,182		713,100		842,700	18.17%
+Excavation Fees		3344, 339911		4400, 000000		2266, 000000	-3355. 0000%%
+Licenses-Motor Vehicle		4,939,253		5,013,790		5,051,600	0.75%
+Vehicle License Late Fees		592,972		578,000		564,310	-2.37%
+Taxes-Bank Stock		1,343,472		1,100,000		1,293,000	17.55%
+Taxes-Local Recordation		2,556,662		2,771,000		2,471,450	-10.81%
+Taxes-Tobacco		4,681,393		4,498,000		4,542,500	0.99%
+Taxes-Admission		679,612		624,250		682,500	9.33%
+Taxes-Pari Mutual Waging Pool		109,233		106,000		85,550	-19.29%
+Taxes-Sales Motel Rooms		3,628,870		3,800,000		3,891,500	2.41%
+Taxes-Short Term Rental		263,012		252,000		264,200	4.84%
+Taxes-Restaurant-Food		18,544,684		18,260,000		19,627,500	7.49%
+Other Local Taxes	$ 114,691,920	$ 114,691,920	$ 110,718,449	$ 110,718,449	$ 112,266,142	$ 112,266,142	1.40%
+Permits, Privilege Fees and Regulatory Licenses						
+Licenses-Animal	$	113,664	$	108,000	$	123,310	14.18%
+Licenses-Bicycles		59		50		50	0.00%
+Transfer Fees		5,586		5,000		5,500	10.00%
+Zoning Permits		47,185		45,000		45,000	0.00%
+Zoning Inspection Fees (Planning)		27,294		0		49,500	100.00%
+Zoning Inspection Fees		4,760		4,850		5,000	3.09%
+Bldg Structure & Equip Permits		762,239		650,000		750,000	15.38%
+FY 2011-12 Operating Budget		77				Revised June 14, 2011	Revised June 14, 2011

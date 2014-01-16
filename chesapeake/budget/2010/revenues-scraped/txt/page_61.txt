@@ -1,0 +1,22 @@
+Name: “Table 1 of 1 on page 61 of 70”	Name: “Table 1 of 1 on page 61 of 70”	Name: “Table 1 of 1 on page 61 of 70”	Name: “Table 1 of 1 on page 61 of 70”	Name: “Table 1 of 1 on page 61 of 70”	Name: “Table 1 of 1 on page 61 of 70”	Name: “Table 1 of 1 on page 61 of 70”
+Table: 61	Table: 61	Table: 61	Table: 61	Table: 61	Table: 61	Table: 61
+					
+INFORMATION TECHNOLOGY					FUND 603 REVENUES	FUND 603 REVENUES
+	FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED		BUDGET
+Use of Money & Property					
+Interest-Bank Dep	$	45,179	$	0	$	0
+Rent-General Property		126,421		132,200		132,200
+Total Use of Money and Property	$	171,600	$	132,200	$	132,200
+Miscellaneous Revenue					
+Donations- Local Government	$	240,138	$	0	$	0
+IT Charges-Comp Svcs		8,186,249		8,197,687		8,216,189
+IT Charges- GIS		280		0		0
+IT Charges - Outside Agencies		973,469		947,859		624,005
+Sale of Svc CIB Support		0		259,534		0
+Total Miscellaneous Revenue	$	9,400,136	$	9,405,080	$	8,840,194
+Recovered Costs					
+Rec/Reb-Other	$	20,892	$	0	$	0
+Total Recovered Costs	$	20,892	$	0	$	0
+Total Information Technology Fund	$	9,592,629	$	9,537,280	$	8,972,394
+City of Chesapeake, Virginia		130				FY 2010 - 2011 Operating Budget

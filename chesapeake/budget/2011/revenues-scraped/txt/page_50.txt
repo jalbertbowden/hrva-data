@@ -1,0 +1,24 @@
+Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”	Name: “Table 1 of 1 on page 50 of 77”
+Table: 50	Table: 50	Table: 50	Table: 50	Table: 50	Table: 50	Table: 50	Table: 50	Table: 50	Table: 50
+								
+City of Chesapeake, Virginia	City of Chesapeake, Virginia	City of Chesapeake, Virginia						
+FY 2011-12 Operating Budget	FY 2011-12 Operating Budget	FY 2011-12 Operating Budget						
+INTERAGENCY CONSORTIUM	INTERAGENCY CONSORTIUM	INTERAGENCY CONSORTIUM						FUND 203 REVENUES	FUND 203 REVENUES
+				FY 2009-10		FY 2010-11		FY 2011-12	Change From
+Resource Detail	Resource Detail			Actual		Budget		Estimated	Prior Year
+Use of Money & Property	Use of Money & Property	Use of Money & Property						
+Interest-Bank Dep	Interest-Bank Dep		$	27,626	$	0	$	0	0.00%
+Use of Money and Property	Use of Money and Property	Use of Money and Property	$	27,626	$	0	$	0	0.00%
+Charges for Services	Charges for Services							
+Parent Co-Pay	Parent Co-Pay		$	1,424	$	0	$	0	0.00%
+Charges for Services	Charges for Services		$	1,424	$	0	$	0	0.00%
+Recovered Costs	Recovered Costs							
+Rec/Reb-Other	Rec/Reb-Other		$	18,520	$	0	$	0	0.00%
+Rec/Reb-Jury	Rec/Reb-Jury			12		0		0	0.00%
+Recovered Costs	Recovered Costs		$	18,532	$	0	$	0	0.00%
+Categorical Aid From the Commonwealth - Other	Categorical Aid From the Commonwealth - Other	Categorical Aid From the Commonwealth - Other						
+Pool Revenue-VA	Pool Revenue-VA		$	2,323,279	$	1,616,925	$	1,961,000	21.28%
+PPubblliic	WWellffare-OOt hher	SSt GGrant		3311, 442233		3311, 442233		3311, 442200	-00. 0011%%
+State Categorical Aid	State Categorical Aid		$	2,354,702	$	1,648,348	$	1,992,420	20.87%
+Interagency Consortium Fund	Interagency Consortium Fund	Interagency Consortium Fund	$	2,402,284	$	1,648,348	$	1,992,420	20.87%
+FY 2011-12 Operating Budget	FY 2011-12 Operating Budget	FY 2011-12 Operating Budget		84				Revised June 14, 2011	Revised June 14, 2011

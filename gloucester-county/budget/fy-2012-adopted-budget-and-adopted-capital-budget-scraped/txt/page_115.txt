@@ -1,0 +1,16 @@
+Name: “Table 1 of 1 on page 115 of 170”	Name: “Table 1 of 1 on page 115 of 170”	Name: “Table 1 of 1 on page 115 of 170”	Name: “Table 1 of 1 on page 115 of 170”	Name: “Table 1 of 1 on page 115 of 170”	Name: “Table 1 of 1 on page 115 of 170”	Name: “Table 1 of 1 on page 115 of 170”	Name: “Table 1 of 1 on page 115 of 170”
+Table: 113	Table: 113	Table: 113	Table: 113	Table: 113	Table: 113	Table: 113	Table: 113
+						
+	FY 2012 Debt Fund Revenue Budget	FY 2012 Debt Fund Revenue Budget	FY 2012 Debt Fund Revenue Budget	FY 2012 Debt Fund Revenue Budget		
+	FY 10 Final	FY 10 Actual	FY 11 Original	FY 11 Expected	FY 12 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+LOCAL						
+INTEREST-BANK DEPOSIT	0	14	0	0	0	0	0.0%
+Subtotal for Category	0	14	0	0	0	0	0.0%
+NON REVENUE						
+VPSA BOND PROCEEDS	0	0	0	0	0	0	0.0%
+CAPITAL LEASE-PROCEEDS	0	0	0	0	0	0	0.0%
+TRANSFERS IN	5,212,151	5,090,477	4,828,825	4,828,825	4,894,375	65,550	1.4%
+Subtotal for Category	5,212,151	5,090,477	4,828,825	4,828,825	4,894,375	65,550	1.4%
+Total for Fund	5,212,151	5,090,491	4,828,825	4,828,825	4,894,375	65,550	1.4%
+			109			

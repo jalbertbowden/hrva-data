@@ -1,0 +1,30 @@
+Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”	Name: “Table 1 of 1 on page 164 of 174”
+Table: 164	Table: 164	Table: 164	Table: 164	Table: 164	Table: 164	Table: 164	Table: 164	Table: 164	Table: 164
+								
+COUNTY OF GLOUCESTER, VIRGINIA								
+Fund Balances, Governmental Funds								
+Last Ten Fiscal Years								
+(modified accrual basis of accounting)								
+		2012		2011		2010		2009
+General Fund								
+Reserved	$	-	$	-	$	149,442	$	238,285	$
+Unreserved		-		-		14,334,402		12,622,904
+Nonspendable		52,204		50,598		-		-
+Restricted		128,885		132,450		-		-
+Committed		921,746		799,389		-		-
+Unassigned		15,321,565		14,967,748		-		-
+Total General Fund	$	16,424,400	$	15,950,185	$	14,483,844	$	12,861,189	$
+All Other Governmental Funds								
+Reserved	$	-	$	-	$	19,000	$	19,000	$
+Unreserved, reported in:								
+Special revenue funds		-		-		-		-
+Debt service funds		-		-		-		808
+Capital projects funds		-		-		2,810,371		3,678,708
+Restricted		19,000		19,000		-		-
+Committed		9,840,182		5,225,558		-		-
+Assigned		239,297		-		-		-
+Total all other governmental funds	$	10,098,479	$	5,244,558	$	2,829,371	$	3,698,516	$
+Note:	The County implemented GASB Statement 54, the new standard for fund balance reporting, in FY11.	The County implemented GASB Statement 54, the new standard for fund balance reporting, in FY11.	The County implemented GASB Statement 54, the new standard for fund balance reporting, in FY11.	The County implemented GASB Statement 54, the new standard for fund balance reporting, in FY11.	The County implemented GASB Statement 54, the new standard for fund balance reporting, in FY11.	The County implemented GASB Statement 54, the new standard for fund balance reporting, in FY11.	The County implemented GASB Statement 54, the new standard for fund balance reporting, in FY11.	
+Restatement of prior year balance is not feasible.	Therefore, ten years of fund balance information in accordance	Therefore, ten years of fund balance information in accordance	Therefore, ten years of fund balance information in accordance	Therefore, ten years of fund balance information in accordance	Therefore, ten years of fund balance information in accordance	Therefore, ten years of fund balance information in accordance	Therefore, ten years of fund balance information in accordance	
+with GASB 54 is not available, but will be accumulated over time.	with GASB 54 is not available, but will be accumulated over time.	with GASB 54 is not available, but will be accumulated over time.						
+		160						

@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 69 of 174”	Name: “Table 1 of 1 on page 69 of 174”	Name: “Table 1 of 1 on page 69 of 174”	Name: “Table 1 of 1 on page 69 of 174”	Name: “Table 1 of 1 on page 69 of 174”	Name: “Table 1 of 1 on page 69 of 174”	Name: “Table 1 of 1 on page 69 of 174”	Name: “Table 1 of 1 on page 69 of 174”
+Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69
+						
+	FY 2014 School Operating Fund Revenue Budget	FY 2014 School Operating Fund Revenue Budget	FY 2014 School Operating Fund Revenue Budget	FY 2014 School Operating Fund Revenue Budget	FY 2014 School Operating Fund Revenue Budget	
+	FY 12 Final	FY 12 Actual	FY 13 Original	FY 13 Expected	FY 14 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+TITLE IID (FORM GLS2000)	7,315	0	0	0	0	0	0.0%
+TITLE IID STIMULUS	0	0	0	0	0	0	0.0%
+WORK FORCE INVESTMENT ACT	14,118	2,747	14,118	14,118	0	(14,118)	(100.0%)
+PROJECT SERV	0	0	0	0	0	0	0.0%
+MISCELLANEOUS	150,000	0	150,000	150,000	150,000	0	0.0%
+JVG	0	0	0	0	0	0	0.0%
+FED STIMULUS FUNDS (SFSF)	0	244,054	0	0	0	0	0.0%
+FED STIMULUS FUNDS (BA)	0	0	0	0	0	0	0.0%
+FED STIMULUS ED JOBS	1,249,251	917,589	250,000	250,000	0	(250,000)	(100.0%)
+IMPACT AID	75,000	69,641	80,000	80,000	70,000	(10,000)	(12.5%)
+TITLE VI-B	1,258,655	1,258,876	1,240,614	1,240,614	1,212,311	(28,303)	(2.3%)
+FEDERAL STIMULUS TITLE VI	0	10,436	0	0	0	0	0.0%
+CARL PERKINS	86,312	82,773	85,881	85,881	77,543	(8,338)	(9.7%)
+HSTW	0	0	0	0	0	0	0.0%
+COM THREAD	0	0	0	0	0	0	0.0%
+TITLE II	260,455	281,390	228,901	228,901	260,412	31,511	13.8%
+TITLEIV SAFE & DRUGFREE	0	0	0	0	0	0	0.0%
+ROTC	68,837	68,916	68,837	68,837	69,143	306	0.4%
+MEDICAID REIMBURSEMENT	150,000	236,445	170,000	170,000	160,000	(10,000)	(5.9%)
+VIC AC-SCHOOL TO WORK	0	0	0	0	0	0	0.0%
+CHARTER SCHOOL STARTUP	0	0	0	0	0	0	0.0%
+E-RATE	145,000	172,024	170,000	170,000	205,145	35,145	20.7%
+PROJECT LEAD THE WAY	0	0	0	0	0	0	0.0%
+Subtotal for Category	4,328,181	4,139,307	3,323,284	3,323,284	3,077,183	(246,101)	(7.4%)
+Total for Fund	52,041,345	50,687,025	52,506,273	52,615,331	52,166,525	(448,806)	(0.9%)
+			65			

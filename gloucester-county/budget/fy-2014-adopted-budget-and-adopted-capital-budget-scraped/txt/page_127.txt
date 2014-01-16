@@ -1,0 +1,19 @@
+Name: “Table 1 of 1 on page 127 of 174”	Name: “Table 1 of 1 on page 127 of 174”	Name: “Table 1 of 1 on page 127 of 174”	Name: “Table 1 of 1 on page 127 of 174”	Name: “Table 1 of 1 on page 127 of 174”	Name: “Table 1 of 1 on page 127 of 174”	Name: “Table 1 of 1 on page 127 of 174”	Name: “Table 1 of 1 on page 127 of 174”
+Table: 127	Table: 127	Table: 127	Table: 127	Table: 127	Table: 127	Table: 127	Table: 127
+						
+	FY 2014 Debt Fund Expenditure Budget	FY 2014 Debt Fund Expenditure Budget	FY 2014 Debt Fund Expenditure Budget	FY 2014 Debt Fund Expenditure Budget	FY 2014 Debt Fund Expenditure Budget	
+	FY 12 Final	FY 12 Actual	FY 13 Original	FY 13 Expected	FY 14 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+DEBT PAYMENTS						
+REDEMPTION PSA BONDS	1,328,609	1,328,609	1,237,168	1,237,168	1,185,909	(51,259)	(4.1%)
+REDEMPTION LITERARY LOANS	540,000	540,000	513,196	513,196	250,000	(263,196)	(51.3%)
+INTEREST PSA LOANS	887,837	887,836	830,861	965,894	1,001,535	35,641	3.7%
+INTEREST LITERARY LOANS	78,100	78,100	60,650	60,650	44,110	(16,540)	(27.3%)
+FISCAL AGENT FEES	14,500	14,500	14,500	14,500	14,500	0	0.0%
+COURTHOUSE	603,070	603,070	602,270	602,270	601,070	(1,200)	(0.2%)
+COMMUNICATIONS SYSTEM	1,452,058	1,452,058	1,452,058	1,452,058	1,452,058	0	0.0%
+HRSD INT PARTICIPATION	0	0	0	0	0	0	0.0%
+FUND BALANCE	0	0	0	0	0	0	0.0%
+Subtotal for Organization	4,904,174	4,904,173	4,710,703	4,845,736	4,549,182	(296,554)	(6.1%)
+Total for Fund	4,904,174	4,904,173	4,710,703	4,845,736	4,549,182	(296,554)	(6.1%)
+			123			

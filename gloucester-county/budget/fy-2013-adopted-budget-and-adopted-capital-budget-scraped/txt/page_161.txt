@@ -1,0 +1,50 @@
+Name: “Table 1 of 1 on page 161 of 179”	Name: “Table 1 of 1 on page 161 of 179”	Name: “Table 1 of 1 on page 161 of 179”	Name: “Table 1 of 1 on page 161 of 179”	Name: “Table 1 of 1 on page 161 of 179”	Name: “Table 1 of 1 on page 161 of 179”
+Table: 159	Table: 159	Table: 159	Table: 159	Table: 159	Table: 159
+				
+	GLOUCESTER COUNTY	GLOUCESTER COUNTY	GLOUCESTER COUNTY	
+	FY 2013	FY 2013		
+	SCHEMATIC LIST OF TITLES	SCHEMATIC LIST OF TITLES	SCHEMATIC LIST OF TITLES	
+		Min	Max	Min Hrly	Max Hrly
+FLSA	Position Title	Salary	Salary	Rate	Rate
+	Grade 12	$30,636	$45,954	$14.73	$22.09
+N	Accounting Coordinator			
+N	Administrative Coordinator			
+N	Benefit Programs Specialist III - DSS			
+N	Buyer			
+N	Customer Service Specialist			
+N	Deputy IV -Circuit Court			
+N	Dispatcher			
+N	Domestic Violence Advocate			
+N	Equipment Mechanic			
+N	Fraud Investigator I/II - DSS			
+N	GIS Technician			
+N	Human Resource Specialist			
+N	Inspector I			
+N	Mechanical Technician III			
+N	Payroll/Benefits Coordinator			
+N	Pump Station Mechanic			
+N	RE Assessment Technician III			
+N	Real Estate Technician III			
+N	Revenue Coordinator			
+N	Utility Foreman			
+N	WTP Mechanic			
+N	Zoning Supervisor			
+	Grade 13	$32,474	$48,711	$15.61	$23.42
+N	Class II WTP Operator			
+N	Collections Coordinator			
+N	Deputy Clerk			
+N	IT Support Technician			
+N	Legal Assistant			
+N	Public Works Coordinator			
+N	Real Estate Appraiser I			
+N	Self Sufficiency Specialist I/II - DSS			
+N	Senior AC Officer			
+N	Utility Inspector			
+N	Video Technician			
+	Grade 14	$34,422	$51,633	$16.55	$24.82
+N	Athletics Supervisor			
+N	Buyer II			
+N	Communications Coordinator			
+N	Codes Compliance Officer			
+N	Community Education Coordinator			
+	155			

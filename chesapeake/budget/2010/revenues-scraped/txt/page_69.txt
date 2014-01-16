@@ -1,0 +1,24 @@
+Name: “Table 1 of 1 on page 69 of 70”	Name: “Table 1 of 1 on page 69 of 70”	Name: “Table 1 of 1 on page 69 of 70”	Name: “Table 1 of 1 on page 69 of 70”	Name: “Table 1 of 1 on page 69 of 70”	Name: “Table 1 of 1 on page 69 of 70”	Name: “Table 1 of 1 on page 69 of 70”
+Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69	Table: 69
+					
+SCHOOL FOOD SERVICE FUND						FUND 941 REVENUES
+	FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED		BUDGET
+Use of Money & Property					
+Interest Income	$	40,000	$	45,000	$	5,000
+Total Use of Money & Property	$	40,000	$	45,000	$	5,000
+Charges for Services					
+Cafeteria Sales Local	$	7,923,466	$	6,925,686	$	6,725,000
+Miscellaneous Income		5,000		2,500		0
+Total Charges for Services	$	7,928,466	$	6,928,186	$	6,725,000
+Recovered Costs					
+Recoveries & Rebates	$	10,000	$	25,000	$	50,000
+Total Recovered Costs	$	10,000	$	25,000	$	50,000
+Revenue from the Commonwealth - Categorical Aid	Revenue from the Commonwealth - Categorical Aid				
+State Funds	$	187,000	$	226,882	$	211,450
+Total State Categorical Aid	$	187,000	$	226,882	$	211,450
+Revenue from the Federal Government					
+Sch Lunch & Milk Grant Fed	$	5,000,000	$	5,820,842	$	5,966,427
+Total Revenue from the Federal Government	$	5,000,000	$	5,820,842	$	5,966,427
+Total School Lunch Program	$	13,165,466	$	13,045,910	$	12,957,877
+City of Chesapeake, Virginia		138				FY 2010 - 2011 Operating Budget

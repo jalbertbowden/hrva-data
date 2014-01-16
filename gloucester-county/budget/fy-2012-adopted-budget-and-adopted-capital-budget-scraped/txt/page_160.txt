@@ -1,0 +1,20 @@
+Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”	Name: “Table 1 of 1 on page 160 of 170”
+Table: 158	Table: 158	Table: 158	Table: 158	Table: 158	Table: 158	Table: 158	Table: 158	Table: 158	Table: 158
+								
+COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA							
+Fund Balances, Governmental Funds	Fund Balances, Governmental Funds							
+Last Ten Fiscal Years								
+(modified accrual basis of accounting)	(modified accrual basis of accounting)							
+		2010		2009		2008		2007
+General Fund								
+Reserved	$	149,442	$	238,285	$	495,576	$	500,502	$
+Unreserved		14,334,402		12,622,904		13,140,232		12,994,355
+Total General Fund	$	14,483,844	$	12,861,189	$	13,635,808	$	13,494,857	$
+All Other Governmental Funds								
+Reserved	$	19,000	$	19,000	$	2,389,898	$	6,150,997	$
+Unreserved, reported in:								
+Special revenue funds		-		-		-		-
+Debt service funds		-		808		649		801
+Capital projects funds		2,810,371		3,678,708		5,466,719		6,585,325
+Total all other governmental funds	$	2,829,371	$	3,698,516	$	7,857,266	$	12,737,123	$
+			154					

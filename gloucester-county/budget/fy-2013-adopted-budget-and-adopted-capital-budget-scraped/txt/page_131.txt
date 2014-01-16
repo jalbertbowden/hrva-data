@@ -1,0 +1,28 @@
+Name: “Table 1 of 1 on page 131 of 179”	Name: “Table 1 of 1 on page 131 of 179”	Name: “Table 1 of 1 on page 131 of 179”	Name: “Table 1 of 1 on page 131 of 179”	Name: “Table 1 of 1 on page 131 of 179”	Name: “Table 1 of 1 on page 131 of 179”	Name: “Table 1 of 1 on page 131 of 179”	Name: “Table 1 of 1 on page 131 of 179”
+Table: 129	Table: 129	Table: 129	Table: 129	Table: 129	Table: 129	Table: 129	Table: 129
+						
+	FY 2013 GSD #1 Fund Revenue Budget	FY 2013 GSD #1 Fund Revenue Budget	FY 2013 GSD #1 Fund Revenue Budget	FY 2013 GSD #1 Fund Revenue Budget	FY 2013 GSD #1 Fund Revenue Budget	
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+PROP TAX						
+CURRENT REAL ESTATE	15,350	17,509	15,250	15,250	17,500	2,250	14.8%
+DELINQUENT REAL ESTATE	240	218	240	240	240	0	0.0%
+PUBLIC SERVICE CORP	1,000	1,011	950	950	1,000	50	5.3%
+PENALTIES	60	67	60	60	60	0	0.0%
+INTEREST	20	22	20	20	20	0	0.0%
+Subtotal for Category	16,670	18,827	16,520	16,520	18,820	2,300	13.9%
+USE						
+INTEREST-BANK DEPOSIT	0	136	0	0	10	10	100.0%
+INTEREST-LGIP	400	8	300	300	0	(300)	(100.0%)
+RENTAL INCOME	17,320	3,391	0	0	0	0	0.0%
+Subtotal for Category	17,720	3,534	300	300	10	(290)	(96.7%)
+LOC REV						
+EXPENDITURE REFUNDS	0	0	0	0	0	0	0.0%
+INSURANCE RECOVERY	0	0	0	0	0	0	0.0%
+Subtotal for Category	0	0	0	0	0	0	0.0%
+NON REVENUE						
+INSURANCE RECOVERY	0	0	0	0	0	0	0.0%
+FUND BALANCE TRANSFER	2,930	0	2,280	2,280	4,120	1,840	80.7%
+Subtotal for Category	2,930	0	2,280	2,280	4,120	1,840	80.7%
+Total for Fund	37,320	22,361	19,100	19,100	22,950	3,850	20.2%
+			125			

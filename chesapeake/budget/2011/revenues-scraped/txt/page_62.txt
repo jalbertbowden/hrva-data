@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 62 of 77”	Name: “Table 1 of 1 on page 62 of 77”	Name: “Table 1 of 1 on page 62 of 77”	Name: “Table 1 of 1 on page 62 of 77”	Name: “Table 1 of 1 on page 62 of 77”	Name: “Table 1 of 1 on page 62 of 77”	Name: “Table 1 of 1 on page 62 of 77”	Name: “Table 1 of 1 on page 62 of 77”
+Table: 62	Table: 62	Table: 62	Table: 62	Table: 62	Table: 62	Table: 62	Table: 62
+						
+City of Chesapeake, Virginia						
+FY 2011-12 Operating Budget						
+UTILITIES REVENUE						FUND 510 REVENUES	FUND 510 REVENUES
+		FY 2009-10		FY 2010-11		FY 2011-12	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+Use of Money & Property						
+Interest	$	452,663	$	0	$	0	0.00%
+Net Inc/(Decr) in FV of Invest		102,780		0		0	0.00%
+Interest-Customer Payments		27,703		10,000		10,000	0.00%
+Rent-Fire Hydrant		1,149,540		1,165,640		1,165,640	0.00%
+Money & Property	$	1,732,686	$	1,175,640	$	1,175,640	0.00%
+Charges for Services						
+Sale of Svc-Public Info	$	1,040	$	0	$	0	0.00%
+Eng/Adm/Inspec		11,030		10,000		10,000	0.00%
+Sewer Connect Fees		1,435,321		1,450,000		1,125,000	-22.41%
+Pro Rata Sewer Conn Fee Reimb		(722,740)		0		0	0.00%
+Cost Part Sewer Connection Fee		20,800		0		0	0.00%
+Cost Part Sewer Asssesment Fee		0		0		56,420	100.00%
+Water Connection Fees		1,689,290		1,650,000		1,165,000	-29.39%
+Pro Rata Water Conn Fee Reimb		(250,134)		0		0	0.00%
+Cost Part Water Connection Fee		10,400		0		0	0.00%
+Cost Part Water Asssesment Fee		0		0		29,770	100.00%
+Water Billings		32,513,683		33,500,000		32,800,000	-2.09%
+Reconnection Charges		41,570		50,000		50,000	0.00%
+Laboratory Fees		11, 333300		0		0	00. 0000%%
+Account Entry Fees		79,307		80,000		80,000	0.00%
+Sewer Service Charges		17,434,725		18,800,000		20,100,000	6.91%
+Pro Rata Contributions		76,474		0		0	0.00%
+Miscellaneous Water Revenue		7,779		0		0	0.00%
+Penalties-Non-taxes		301,216		90,000		90,000	0.00%
+Charges for Services	$	52,651,091	$	55,630,000	$	55,506,190	-0.22%
+Miscellaneous Revenue						
+Sale of Salvage and Surplus	$	(5,807)	$	5,000	$	5,000	0.00%
+Sale of Svc		49,417		45,000		45,000	0.00%
+Miscellaneous Revenue	$	43,611	$	50,000	$	50,000	0.00%
+Recovered Costs						
+Rec/Reb-Other	$	21	$	500	$	500	0.00%
+Recovered Costs	$	21	$	500	$	500	0.00%
+FY 2011-12 Operating Budget		96				Revised June 14, 2011	Revised June 14, 2011

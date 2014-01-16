@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 154 of 170”	Name: “Table 1 of 1 on page 154 of 170”	Name: “Table 1 of 1 on page 154 of 170”	Name: “Table 1 of 1 on page 154 of 170”	Name: “Table 1 of 1 on page 154 of 170”	Name: “Table 1 of 1 on page 154 of 170”
+Table: 152	Table: 152	Table: 152	Table: 152	Table: 152	Table: 152
+				
+		Min	Max	Min Hrly	Max Hrly
+FLSA	Position Title	Salary	Salary	Rate	Rate
+	Grade 14 Continued	$33,747	$50,621	$16.22	$24.34
+N	Deputy Sheriff - Corrections/Civil Process			
+N	Inspector II			
+N	Maintenance Supervisor			
+N	Museum Director			
+N	Park Supervisor			
+E	Planner I			
+N	Probation Officer			
+N	Pretrial Officer			
+N	Recreation Supervisor			
+N	Senior Mechanical Technician			
+N	Self Sufficiency Specialist III - DSS			
+N	Social Worker I/II - DSS			
+N	Special Events Supervisor			
+N	Tourism Coordinator			
+N	Victim-Witness Coordinator			
+	Grade 15	$35,772	$53,658	$17.20	$25.80
+E	Benefit Programs Supervisor - DSS			
+N	Chief Animal Control Officer			
+N	Class I WTP Operator			
+N	Deputy I - Law Enforcement			
+N	IT Support Technician II			
+N	Instrumentation Specialist			
+N	Librarian			
+N	Real Estate Appraiser II			
+N	Senior Legal Assistant			
+N	Social Worker III - DSS			
+	Grade 16	$37,919	$56,879	$18.23	$27.35
+N	Combination Inspector			
+N	Deputy II - Law Enforcement			
+E	Human Resource Analyst			
+N	Investigator			
+N	Lead WTP Operator			
+E	Planner II			
+N	Sergeant - Corrections/Civil Process			
+	Grade 17	$40,193	$60,290	$19.32	$28.99
+E	Chief Deputy - Circuit Court			
+E	Chief Deputy - Commissioner of Revenue			
+N	Combination Insp/Plans Examiner			
+E	Communications Supervisor			
+	148			

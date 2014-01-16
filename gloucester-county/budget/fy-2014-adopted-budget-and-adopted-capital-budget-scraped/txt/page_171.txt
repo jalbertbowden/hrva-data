@@ -1,0 +1,24 @@
+Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”	Name: “Table 1 of 1 on page 171 of 174”
+Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171	Table: 171
+												
+COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA							
+Property Tax Levies and Collections	Property Tax Levies and Collections	Property Tax Levies and Collections	Property Tax Levies and Collections	Property Tax Levies and Collections								
+Last Ten Fiscal Years	Last Ten Fiscal Years	Last Ten Fiscal Years										
+								Collected within the	Collected within the			Total Collections	Total Collections
+		Taxes						Fiscal Year of the Levy	Fiscal Year of the Levy				to Date
+		Levied										
+		for the				Total			Percentage	Collections in			Percentage
+Fiscal		Fiscal Year		Adjust-		Adjusted			of Original	Subsequent			of Adjusted
+Year		(Original Levy)		ments		Levy		Amount	Levy	Years		Amount	Levy
+2003	$	18,672,765	$	5,357	$	18,678,122	$	18,032,870	96.57% $	643,626	$	18,676,496	99.99%
+2004		19,067,303		(7,421)		19,059,882		18,502,834	97.04%	555,230		19,058,064	99.99%
+2005		19,480,506		(1,907)		19,478,599		18,931,208	97.18%	544,152		19,475,360	99.98%
+2006		20,261,412		1,515		20,262,927		19,792,078	97.68%	465,305		20,257,383	99.97%
+2007		21,213,981		51,657		21,265,638		20,665,168	97.41%	592,426		21,257,594	99.96%
+2008		22,593,114		32,894		22,626,008		21,946,260	97.14%	668,040		22,614,300	99.95%
+2009		23,972,690		30,477		24,003,167		23,326,961	97.31%	649,126		23,976,087	99.89%
+2010		24,014,793		9,776		24,024,569		23,210,366	96.65%	719,764		23,930,130	99.61%
+2011		23,809,339		8,860		23,818,199		23,017,397	96.67%	515,961		23,533,358	98.80%
+2012		25,336,144		-		25,336,144		24,405,721	96.33%	-		24,405,721	96.33%
+Source:	Source:	Gloucester County Treasurer's Department	Gloucester County Treasurer's Department	Gloucester County Treasurer's Department	Gloucester County Treasurer's Department	Gloucester County Treasurer's Department						
+								167				

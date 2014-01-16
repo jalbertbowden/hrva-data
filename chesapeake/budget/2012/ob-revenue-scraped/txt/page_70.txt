@@ -1,0 +1,27 @@
+Name: “Table 1 of 1 on page 70 of 78”	Name: “Table 1 of 1 on page 70 of 78”	Name: “Table 1 of 1 on page 70 of 78”	Name: “Table 1 of 1 on page 70 of 78”	Name: “Table 1 of 1 on page 70 of 78”	Name: “Table 1 of 1 on page 70 of 78”	Name: “Table 1 of 1 on page 70 of 78”	Name: “Table 1 of 1 on page 70 of 78”
+Table: 70	Table: 70	Table: 70	Table: 70	Table: 70	Table: 70	Table: 70	Table: 70
+						
+City of Chesapeake, Virginia						
+FY 2012-13 Operating Budget						
+MOSQUITO CONTROL						FUND 800 REVENUES	FUND 800 REVENUES
+		FY 2010-11		FY 2011-12		FY 2012-13	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+General Property Taxes						
+Taxes-Curr Real Prop	$	2,254,210	$	2,282,080	$	2,215,271	-2.93%
+Taxes-Curr PubSvcCorp		100,000		104,900		94,110	-10.29%
+Taxes-Curr Pers Prop		1,287,000		1,430,340		1,513,665	5.83%
+General Property Taxes	$	3,641,210	$	3,817,320	$	3,823,046	0.15%
+Use of Money & Property						
+Interest-Bank Dep	$	29,078	$	0	$	0	0.00%
+Clearing Fixed Asset Disposal		12,835		0		0	0.00%
+Use of Money & Property	$	41,913	$	0	$	0	0.00%
+Miscellaneous						
+Donations-Local	$	18,700	$	0	$	0	0.00%
+Miscellaneous	$	18,700	$	0	$	0	0.00%
+Recovered Costs						
+Rec/Reb-Ins Claims Collected	$	530	$	0	$	0	0.00%
+Rec/Reb-Other		115		0		0	0.00%
+Rec/Reb-Jury		30		0		0	0.00%
+Recovered Costs	$	675	$	0	$	0	0.00%
+Mosquito Control Fund	$	3,702,497	$	3,817,320	$	3,823,046	0.15%
+FY 2012-13 Operating Budget		103				As Amended June 12, 2012	As Amended June 12, 2012

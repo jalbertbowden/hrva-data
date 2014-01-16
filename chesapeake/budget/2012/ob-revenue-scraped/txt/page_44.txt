@@ -1,0 +1,53 @@
+Name: “Table 1 of 1 on page 44 of 78”	Name: “Table 1 of 1 on page 44 of 78”	Name: “Table 1 of 1 on page 44 of 78”	Name: “Table 1 of 1 on page 44 of 78”	Name: “Table 1 of 1 on page 44 of 78”	Name: “Table 1 of 1 on page 44 of 78”	Name: “Table 1 of 1 on page 44 of 78”	Name: “Table 1 of 1 on page 44 of 78”
+Table: 44	Table: 44	Table: 44	Table: 44	Table: 44	Table: 44	Table: 44	Table: 44
+						
+City of Chesapeake, Virginia						
+FY 2012-13 Operating Budget						
+GENERAL FUND						FUND 100 REVENUES	FUND 100 REVENUES
+Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.	Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.	Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.	Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.	Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.	Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.	Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.	Note: Solid Waste revenues have been moved to the General Fund in FY11 as have selected Parks and Recreation revenues as of FY13.
+	FY 2010-11	FY 2010-11	FY 2011-12	FY 2011-12	FY 2012-13	FY 2012-13	Change From
+Resource Detail		Actual		Budget		Estimated	Prior Year
+General Property Taxes						
+Taxes-Curr Real Prop	$ 228,177,643	$ 228,177,643	$ 223,334,890	$ 223,334,890	$ 217,904,623	$ 217,904,623	-2.43%
+Taxes-Curr Real Property - Committed		(271,284)		(271,284)		(271,284)	0.00%
+Taxes-Delinq Real Prop		3,903,217		4,432,000		3,786,900	-14.56%
+Taxes-Curr PubSvcCorp		10,791,086		10,759,950		10,190,000	-5.30%
+Taxes-Curr Pers Prop		33,802,396		34,737,200		38,604,000	11.13%
+Taxes-Curr Pers Prop-Refunds		(1,878,402)		(1,801,250)		(2,300,000)	27.69%
+Taxes-Delinq Pers Prop		10,169,371		8,321,300		9,569,495	15.00%
+Taxes-Delinq Pers Prop-Recvry		0		0		0	0.00%
+Taxes-Penalties-RE&PP		1,626,384		1,356,950		1,495,410	10.20%
+Taxes-Interest-RE&PP		952,192		872,100		901,700	3.39%
+** Note: Committed revenues are pledged for						
+use in specific special revenue funds.						
+General Property Taxes	$ 287,272,604	$ 287,272,604	$ 281,741,856	$ 281,741,856	$ 279,880,844	$ 279,880,844	-0.66%
+Other Local Taxes						
+Taxes-Sales and Use	$	32,065,912	$	32,533,500	$	34,000,000	4.51%
+Taxes-Utility Consumer Gas		1,950,495		1,984,800		1,994,850	0.51%
+Taxes-Utility Electric		8,361,540		8,701,850		8,564,810	-1.57%
+Taxes-Communications Sales Tax		12,573,905		12,993,550		12,027,213	-7.44%
+Communications Sales Tax-Committed		(4,950,691)		(5,043,468)		(4,947,998)	-1.89%
+Licenses-Bus and Occupant		23,030,916		21,753,100		21,031,000	-3.32%
+Taxes-Local Consumption		873,721		842,700		891,280	5.76%
+Excavation Fees		35,416		26,000		35,400	36.15%
+Licenses-Motor Vehicle		5,180,228		5,051,600		5,137,270	1.70%
+Vehicle License Late Fees		670,794		564,310		600,000	6.32%
+Taxes-Bank Stock		1,440,174		1,293,000		1,449,110	12.07%
+Taxes-Local Recordation		2,413,307		2,471,450		2,394,350	-3.12%
+Taxes-Tobacco		4,665,441		4,542,500		4,665,440	2.71%
+Taxes-Admission		669,842		682,500		669,840	-1.85%
+Taxes-Pari Mutual Waging Pool		99,306		85,550		85,550	0.00%
+Taxes-Sales Motel Rooms		3,959,682		3,891,500		4,308,640	10.72%
+Taxes-Short Term Rental		275,504		264,200		298,640	13.04%
+Taxes-Restaurant-Food		19,188,989		19,627,500		20,238,850	3.11%
+Other Local Taxes	$ 112,504,480	$ 112,504,480	$ 112,266,142	$ 112,266,142	$ 113,444,245	$ 113,444,245	1.05%
+Permits, Privilege Fees and Regulatory Licenses						
+Licenses-Animal	$	112,172	$	123,310	$	110,000	-10.79%
+Licenses-Bicycles		43		50		40	-20.00%
+Transfer Fees		5,305		5,500		5,000	-9.09%
+Zoning Permits (Dev. & Permits)		46,179		45,000		46,440	3.20%
+Zoning Inspection Fees (Dev. & Permits)		5,500		5,000		5,725	14.50%
+Zoning Inspection Fees (Planning)		37,059		49,500		29,139	-41.13%
+Bldg Structure & Equip Permits		769,523		750,000		653,400	-12.88%
+Misc Building Permit Fees		1,357		500		1,360	172.00%
+FY 2012-13 Operating Budget		77				As Amended June 12, 2012	As Amended June 12, 2012

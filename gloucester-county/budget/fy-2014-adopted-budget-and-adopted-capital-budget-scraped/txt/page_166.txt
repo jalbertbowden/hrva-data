@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 166 of 174”	Name: “Table 1 of 1 on page 166 of 174”	Name: “Table 1 of 1 on page 166 of 174”	Name: “Table 1 of 1 on page 166 of 174”	Name: “Table 1 of 1 on page 166 of 174”	Name: “Table 1 of 1 on page 166 of 174”	Name: “Table 1 of 1 on page 166 of 174”	Name: “Table 1 of 1 on page 166 of 174”
+Table: 166	Table: 166	Table: 166	Table: 166	Table: 166	Table: 166	Table: 166	Table: 166
+						
+COUNTY OF GLOUCESTER, VIRGINIA						
+Changes in Fund Balances, Governmental Funds						
+Last Ten Fiscal Years						
+(modified accrual basis of accounting)						
+		2012		2011		2010
+REVENUES						
+General property taxes	$	34,600,348	$	32,277,667	$	31,916,749	$
+Other local taxes		8,512,987		8,188,114		9,727,703
+Permits, privilege fees, and regulatory licenses		318,074		262,490		285,060
+Fines and forfeitures		114,403		87,571		120,804
+Revenue from the use of money and property		154,387		159,151		203,980
+Charges for services		666,983		716,673		816,885
+Miscellaneous		672,476		516,200		477,007
+Recovered costs		312,995		306,934		360,700
+Intergovernmental revenues:						
+Commonwealth		10,422,899		10,517,539		9,033,241
+Federal		2,242,337		2,041,209		2,638,453
+Total revenues	$	58,017,889	$	55,073,548	$	55,580,582	$
+EXPENDITURES						
+Current:						
+General government administration	$	4,580,732	$	4,391,984	$	4,796,836	$
+Judicial administration		1,644,976		1,511,513		1,473,565
+Public safety		10,548,498		10,237,522		10,430,536
+Public works		2,021,420		1,879,012		1,866,165
+Health and welfare		4,424,273		4,487,974		4,482,064
+Education		20,419,880		20,969,964		20,323,168
+Parks, recreation, and cultural		1,959,087		1,834,819		1,857,339
+Community development		746,246		731,327		728,581
+Nondepartmental		325,145		263,170		272,035
+Capital projects		5,540,772		2,925,484		2,698,567
+Debt service:						
+Principal retirement		3,201,337		3,394,093		3,385,644
+Interest and other fiscal charges		1,702,835		1,858,998		2,012,572
+Principal retirement-School leases		263,189		-		-
+Interest and other fiscal charges-School		18,318		-		-
+Total expenditures	$	57,396,708	$	54,485,860	$	54,327,072	$
+Excess (deficiency) of revenues over						
+(under) expenditures	$	621,181	$	587,688	$	1,253,510	$
+OTHER FINANCING SOURCES (USES)						
+Transfers in	$	10,042,633	$	6,671,343	$	6,578,300	$
+Transfers out		(10,522,633)		(7,171,343)		(7,078,300)
+Proceeds from general obligation bonds		500,000		-		-
+Proceeds from bond issuance premium		-		-		-
+Proceeds of capital leases		-		-		-
+Insurance recovery		4,686,955		3,793,840		-
+Advance refunding of bonds		-		-		-
+Refunding of capital lease		-		-		-
+Total other financing sources (uses)	$	4,706,955	$	3,293,840	$	(500,000)	$
+Net change in fund balances	$	5,328,136	$	3,881,528	$	753,510	$
+Fund balances - beginning		21,194,743		17,313,215		16,559,705
+Fund balances - ending	$	26,522,879	$	21,194,743	$	17,313,215	$
+Debt Service as a percentage						
+of noncapital expenditures		9.53%		9.84%		10.26%
+N/A - This information was unavailable.						
+	162					

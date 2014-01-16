@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 152 of 170”	Name: “Table 1 of 1 on page 152 of 170”	Name: “Table 1 of 1 on page 152 of 170”	Name: “Table 1 of 1 on page 152 of 170”	Name: “Table 1 of 1 on page 152 of 170”	Name: “Table 1 of 1 on page 152 of 170”	Name: “Table 1 of 1 on page 152 of 170”
+Table: 150	Table: 150	Table: 150	Table: 150	Table: 150	Table: 150	Table: 150
+					
+			Min	Max	Min Hrly	Max Hrly
+FLSA	Position Title		Salary	Salary	Rate	Rate
+		Grade 9	$25,217	$37,826	$12.12	$18.19
+N	Administrative Assistant I				
+N	Administrative Program Assistant I - DSS	Administrative Program Assistant I - DSS			
+N	Class IV WTP Operator				
+N	Grounds Technician				
+N	Deputy II -Circuit Court				
+N	Park Maintenance Technician				
+N	RE Assessment Technician II				
+N	Real Estate Technician II				
+		Grade 10	$26,731	$40,097	$12.85	$19.28
+N	Accounting Technician				
+N	Administrative Assistant II				
+N	Administrative Program Assistant II - DSS	Administrative Program Assistant II - DSS			
+N	Clean Community Coordinator				
+N	Deputy Animal Control Officer				
+N	Deputy Treasuer II -Accounting Technician	Deputy Treasuer II -Accounting Technician			
+N	Deputy Treasurer II -Fiscal Technician				
+N		Legal Secretary			
+N	Maintenance Specialist				
+N	Permit Technician II				
+N	Senior Customer Service Representative	Senior Customer Service Representative			
+N	Senior Revenue Specialist				
+N		Utility Worker III			
+		Grade 11	$28,335	$42,503	$13.62	$20.43
+N	Administrative Assistant III				
+N	Administrative Assistant III - Emergency Svc	Administrative Assistant III - Emergency Svc			
+N	Benefit Programs Specialist I/II - DSS				
+N	Class III WTP Operator				
+N	Correctional Health Assistant				
+N	Deputy III -Circuit Court				
+N	Deputy Registrar				
+N	Deputy Treasurer III -Income Tax				
+N	Emergency Services Planner/Trainer				
+N	Library Coordinator				
+N	Mechanical Technician II				
+		146			

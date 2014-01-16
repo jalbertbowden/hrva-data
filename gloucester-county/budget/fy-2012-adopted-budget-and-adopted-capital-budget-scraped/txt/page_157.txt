@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 157 of 170”	Name: “Table 1 of 1 on page 157 of 170”	Name: “Table 1 of 1 on page 157 of 170”	Name: “Table 1 of 1 on page 157 of 170”	Name: “Table 1 of 1 on page 157 of 170”	Name: “Table 1 of 1 on page 157 of 170”	Name: “Table 1 of 1 on page 157 of 170”
+Table: 155	Table: 155	Table: 155	Table: 155	Table: 155	Table: 155	Table: 155
+					
+FISCAL YEAR 2012	FISCAL YEAR 2012	FISCAL YEAR 2012			
+	COUNTY	COUNTY	STATE	STATE	GRANT	GRANT
+DEPARTMENT					
+	FT	PT	FT	PT	FT	PT
+Administration	4				
+County Attorney	3				
+Human Resources	4				
+Commissioner of Revenue	2	1	6		
+Assessor	6	1			
+Treasurer	3		7		
+Finance	5				
+Dept of Information Technology	12	1			
+Purchasing	3				
+Registrar	1	1	1		
+Circuit Court Judge	1				
+Clerk of Circuit Court	1		6		
+Victim/Witness					1	1
+Commonwealth Attorney	0.5		6.5			1
+Sheriff	24		33		
+E-911	4	2			
+Jail	2	2	34		
+Probation					7	1
+Codes	15				
+Animal Control	5				
+Emergency Services	2	1			
+Engineer	4				
+Buildings & Grounds	28	2			
+Community Education	7	2			
+Cable Services		1			
+Parks & Recreation	8	1			
+Beaverdam Park	3				
+Historical Committee		1			
+Library	10	4			
+Planning	5				
+Economic Development	2				
+Clean Community		1			
+Tourism	1				
+Extension Service	1				
+SUBTOTALS	166.5	21	93.5	0	8	3
+Social Services	38				
+Utilities	25	4			
+GRAND TOTALS	229.5	25	93.5	0	8	3
+.5 in the FT column indicates a fulltime position partially funded with State part-time dollars.	.5 in the FT column indicates a fulltime position partially funded with State part-time dollars.	.5 in the FT column indicates a fulltime position partially funded with State part-time dollars.	.5 in the FT column indicates a fulltime position partially funded with State part-time dollars.	.5 in the FT column indicates a fulltime position partially funded with State part-time dollars.	.5 in the FT column indicates a fulltime position partially funded with State part-time dollars.
+	151				

@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 159 of 179”	Name: “Table 1 of 1 on page 159 of 179”	Name: “Table 1 of 1 on page 159 of 179”	Name: “Table 1 of 1 on page 159 of 179”	Name: “Table 1 of 1 on page 159 of 179”	Name: “Table 1 of 1 on page 159 of 179”	Name: “Table 1 of 1 on page 159 of 179”
+Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157	Table: 157
+					
+	GLOUCESTER COUNTY	GLOUCESTER COUNTY	GLOUCESTER COUNTY	GLOUCESTER COUNTY	
+	FY 2013	FY 2013	FY 2013		
+	SCHEMATIC LIST OF TITLES	SCHEMATIC LIST OF TITLES	SCHEMATIC LIST OF TITLES	SCHEMATIC LIST OF TITLES	
+			Min	Max	Min Hrly	Max Hrly
+FLSA		Position Title	Salary	Salary	Rate	Rate
+		Grade 2	$17,106	$25,659	$8.22	$12.34
+N	Community School Supv				
+N	Data Entry Operator				
+N		Park Aide			
+N		Recreation Aide			
+		Grade 3	$18,133	$27,200	$8.72	$13.08
+N		Custodian			
+N	Substitute Office Worker				
+		Grade 4	$19,221	$28,832	$9.24	$13.86
+N	Groundskeeper - B & G				
+N	Groundskeeper - Parks				
+		Grade 5	$20,373	$30,560	$9.79	$14.69
+N	Assistant Registrar				
+N		Custodian II			
+N		Library Clerk			
+N		Office Assistant			
+N	Office Associate II -Emergency- DSS				
+		Grade 6	$21,597	$32,396	$10.38	$15.57
+N		Cook			
+N	Deputy I - Circuit Court				
+N	Deputy Treasurer I				
+N	Revenue Technician				
+		Grade 7	$22,893	$34,340	$11.01	$16.51
+N	4H Youth Technician				
+N	Maintenance Assistant				
+N	Office Associate III - DSS				
+N		Utility Worker I			
+N		WTP Trainee			
+		Grade 8	$24,266	$36,399	$11.67	$17.50
+N	Customer Service Representative				
+N	Human Services Assistant II - DSS				
+N	Library Specialist				
+N	Mechanical Technician I				
+N		Park Ranger			
+N	Permit Technician				
+N	Revenue Specialist				
+N	Shift Foreman, Custodian				
+		153			

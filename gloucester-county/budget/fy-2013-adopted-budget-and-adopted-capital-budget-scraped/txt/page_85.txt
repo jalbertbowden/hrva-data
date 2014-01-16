@@ -1,0 +1,22 @@
+Name: “Table 1 of 1 on page 85 of 179”	Name: “Table 1 of 1 on page 85 of 179”	Name: “Table 1 of 1 on page 85 of 179”	Name: “Table 1 of 1 on page 85 of 179”	Name: “Table 1 of 1 on page 85 of 179”	Name: “Table 1 of 1 on page 85 of 179”	Name: “Table 1 of 1 on page 85 of 179”	Name: “Table 1 of 1 on page 85 of 179”
+Table: 83	Table: 83	Table: 83	Table: 83	Table: 83	Table: 83	Table: 83	Table: 83
+						
+FY 2013 Regional Special Education Fund Revenue Budget	FY 2013 Regional Special Education Fund Revenue Budget	FY 2013 Regional Special Education Fund Revenue Budget	FY 2013 Regional Special Education Fund Revenue Budget	FY 2013 Regional Special Education Fund Revenue Budget	FY 2013 Regional Special Education Fund Revenue Budget	
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Revenues	Budget	Budget	Budget	Dollar Change	% Change
+MPRSE						
+INTEREST-BANK DEPOSIT	4,000	2,175	2,500	2,500	2,500	0	0.0%
+EXPENDITURE REFUNDS	0	0	0	0	0	0	0.0%
+OTHER INCOME	61,500	0	68,000	68,000	65,000	(3,000)	(4.4%)
+OTHER INCOME-DESIGNATED	0	0	0	0	0	0	0.0%
+TUITION-GLOUCESTER	405,994	429,704	410,704	410,704	499,742	89,038	21.7%
+TUITION-MATHEWS	0	0	0	0	0	0	0.0%
+TUITION-MIDDLESEX	85,472	111,102	136,901	136,901	105,209	(31,692)	(23.1%)
+TUITION-WEST POINT	106,841	96,631	91,268	91,268	78,907	(12,361)	(13.5%)
+TUITION-KING WILLIAM	0	0	0	0	0	0	0.0%
+Subtotal for Category	663,807	639,611	709,373	709,373	751,358	41,985	5.9%
+MPRSE STATE						
+VPSA TECHNOLOGY GRANT	26,000	48,703	26,000	26,000	26,000	0	0.0%
+Subtotal for Category	26,000	48,703	26,000	26,000	26,000	0	0.0%
+Total for Fund	689,807	688,314	735,373	735,373	777,358	41,985	5.7%
+			79			

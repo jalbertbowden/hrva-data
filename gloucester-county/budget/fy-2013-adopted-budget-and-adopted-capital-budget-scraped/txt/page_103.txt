@@ -1,0 +1,12 @@
+Name: “Table 1 of 1 on page 103 of 179”	Name: “Table 1 of 1 on page 103 of 179”	Name: “Table 1 of 1 on page 103 of 179”	Name: “Table 1 of 1 on page 103 of 179”	Name: “Table 1 of 1 on page 103 of 179”	Name: “Table 1 of 1 on page 103 of 179”	Name: “Table 1 of 1 on page 103 of 179”	Name: “Table 1 of 1 on page 103 of 179”
+Table: 101	Table: 101	Table: 101	Table: 101	Table: 101	Table: 101	Table: 101	Table: 101
+						
+FY 2013 Comprehensive Services Fund Expenditure Budget	FY 2013 Comprehensive Services Fund Expenditure Budget	FY 2013 Comprehensive Services Fund Expenditure Budget	FY 2013 Comprehensive Services Fund Expenditure Budget	FY 2013 Comprehensive Services Fund Expenditure Budget	FY 2013 Comprehensive Services Fund Expenditure Budget	FY 2013 Comprehensive Services Fund Expenditure Budget
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+GRANTS						
+CSA PROGRAM EXPENSES	1,220,000	1,100,605	1,527,000	1,527,000	1,477,000	(50,000)	(3.3%)
+FAMILY PRESERVATION-SUPPO	27,000	25,547	26,000	26,000	26,000	0	0.0%
+Subtotal for Organization	1,247,000	1,126,152	1,553,000	1,553,000	1,503,000	(50,000)	(3.2%)
+Total for Fund	1,247,000	1,126,152	1,553,000	1,553,000	1,503,000	(50,000)	(3.2%)
+			97			

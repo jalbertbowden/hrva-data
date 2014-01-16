@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 36 of 70”	Name: “Table 1 of 1 on page 36 of 70”	Name: “Table 1 of 1 on page 36 of 70”	Name: “Table 1 of 1 on page 36 of 70”
+Table: 36	Table: 36	Table: 36	Table: 36
+		
+GENERAL FUND			FUND 100 REVENUES
+Parks & Recreation and Portlock Museum		
+Revenues have been moved to Fund 213	FY 2008-09	FY 2009-10	FY 2010-11
+RESOURCE DETAIL	ACTUAL	AMENDED	BUDGET
+Escheated Funds	7,552	0	0
+Sale of Svc-Planning	3,467	997	3,300
+Sale of Svc-Planning Advertising	(1,599)	0	0
+Sale of Svc-Assessor	6,307	5,500	4,400
+Sale of Svc-Public Info	1,450	1,000	1,000
+Sale of Svc-Sponsorship	10,500	0	0
+Sale of Svc-Comm of Rev	102	100	100
+DMV Select Service Commission	13,558	50,000	30,000
+Commonwealth's Attorney Fees	8,948	9,280	6,900
+Police Escort Fee	3,990	3,740	6,400
+Police-Abandoned Vehicle Fee	2,569	1,500	2,600
+Sale of Svc-Police	166,162	184,960	103,540
+DUI Expense Reimbursement	48,700	34,780	43,500
+Fire Report Fees	543	0	0
+EMS Fees	3,252,013	3,313,280	3,309,023
+Fire Inspection Fees	57,812	35,970	0
+Sheriff-Weekend Jail Time Fee	68,732	53,100	89,340
+Inmate Processing Fee	29,860	28,120	30,305
+Sale of Svc Fed Inm-TranspGrd	14,250	16,000	21,290
+Sale of Svc Fed Inm-PrisDays	976,272	655,030	813,022
+Jail Inmate Monitors	275,417	274,110	216,065
+Sheriff - Jail Phone System	341,636	408,000	483,990
+Sheriff-Jail Fee	211,670	177,420	250,000
+Sale of Svc Sheriff Mowing	380,173	396,750	396,753
+Sale of Svc Sheriff Workforce	45,598	0	0
+Court Security Fee	330099 ,665577	330000 ,882200	335599 ,990000
+NonConsecutive Jail Time fee	594	880	50
+Local Training Academy Fee	(3,916)	0	0
+Inmate Medical Fees	21,952	20,290	24,983
+Operation Street Lights	128,593	0	0
+Installation Street Lights	254,465	0	0
+Subdivision Inspection Fees	479,712	200,000	200,000
+Eng/Adm/Inspec	135,005	104,600	105,000
+Sale of Svc-Public Works	395,661	300,000	212,500
+Pro Rata Contributions	200,620	0	0
+Vending Machine Commissions	2,223	2,320	1,100
+Membership Dues	85	0	0
+Gift Shop Sales	677	0	0
+Art Sales Commissions	945	0	0
+Art Class Fee	1,425	0	0
+Library Fees & Fines	262,081	260,000	275,000
+Library Delinquent Fees/Fines	8,479	9,000	9,000
+Library Delinq Replacemt Fees	27,071	31,400	20,000
+Library Lost Book Fees	14,268	11,800	14,877
+Library Non-Res Card Fees	12,349	13,000	12,500
+Library Copy Charges	50,417	50,000	54,000
+Sale of Publications	354	500	500
+Zoning Plan Review Fees	25,005	12,000	14,810
+Zoning Certifications	3,350	500	3,300
+Lot Processing Fee	37,925	30,000	30,000
+City of Chesapeake, Virginia	105		FY 2010 - 2011 Operating Budget

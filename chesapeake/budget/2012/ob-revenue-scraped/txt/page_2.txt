@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 2 of 78”	Name: “Table 1 of 1 on page 2 of 78”	Name: “Table 1 of 1 on page 2 of 78”	Name: “Table 1 of 1 on page 2 of 78”
+Table: 2	Table: 2	Table: 2	Table: 2
+		
+REAL ESTATE RECAPITULATION -- JANUARY 1, 2012	REAL ESTATE RECAPITULATION -- JANUARY 1, 2012	
+Each year, the Real Estate Assessor provides a calculation of what the real property tax rate	Each year, the Real Estate Assessor provides a calculation of what the real property tax rate	Each year, the Real Estate Assessor provides a calculation of what the real property tax rate	Each year, the Real Estate Assessor provides a calculation of what the real property tax rate
+would be if it were adjusted to maintain revenues after revaluation of existing properties. This	would be if it were adjusted to maintain revenues after revaluation of existing properties. This	would be if it were adjusted to maintain revenues after revaluation of existing properties. This	would be if it were adjusted to maintain revenues after revaluation of existing properties. This
+information is provided to the City Council as an indicator of the increase in property	information is provided to the City Council as an indicator of the increase in property	information is provided to the City Council as an indicator of the increase in property	information is provided to the City Council as an indicator of the increase in property
+valuations.		
+Information on this calculation for the FY 2012-13 tax year is provided below.	Information on this calculation for the FY 2012-13 tax year is provided below.	Information on this calculation for the FY 2012-13 tax year is provided below.	Information on this calculation for the FY 2012-13 tax year is provided below.
+Statement of Changes in Assessments Required by Code of Virginia Title §58.1-3321	Statement of Changes in Assessments Required by Code of Virginia Title §58.1-3321	Statement of Changes in Assessments Required by Code of Virginia Title §58.1-3321	Statement of Changes in Assessments Required by Code of Virginia Title §58.1-3321
+Assessment Change is the change in the total assessed value of real property, excluding	Assessment Change is the change in the total assessed value of real property, excluding	Assessment Change is the change in the total assessed value of real property, excluding	Assessment Change is the change in the total assessed value of real property, excluding
+additional assessments due to new construction or improvements to property, over the	additional assessments due to new construction or improvements to property, over the	additional assessments due to new construction or improvements to property, over the	additional assessments due to new construction or improvements to property, over the
+previous year's total assessed value of real property.	previous year's total assessed value of real property.	
+Rate Change Necessary to Offset Assessment Change is the tax rate which would levy the same	Rate Change Necessary to Offset Assessment Change is the tax rate which would levy the same	Rate Change Necessary to Offset Assessment Change is the tax rate which would levy the same	Rate Change Necessary to Offset Assessment Change is the tax rate which would levy the same
+amount of real estate tax as last year, when multiplied by the new total assessed value of real	amount of real estate tax as last year, when multiplied by the new total assessed value of real	amount of real estate tax as last year, when multiplied by the new total assessed value of real	amount of real estate tax as last year, when multiplied by the new total assessed value of real
+estate with the exclusions mentioned above.		
+Effective Tax Rate is the difference between the Assessed tax rate and the current rate used in	Effective Tax Rate is the difference between the Assessed tax rate and the current rate used in	Effective Tax Rate is the difference between the Assessed tax rate and the current rate used in	Effective Tax Rate is the difference between the Assessed tax rate and the current rate used in
+the budget.		
+January 1, 2012 Total Taxable Assessed Value:		$	22,092,906,664
+Allowable Adjustments (Construction, Land Development and Rezoning):	Allowable Adjustments (Construction, Land Development and Rezoning):	$	(144,684,120)
+January 1, 2012 Adjusted Taxable Assessed Value:		$	21,948,222,544
+July 1, 2011 Taxable Land Book Assessed Value:		$	22,818,256,324
+January 1, 2012 Adjusted Assessed Value over/(under) July 1, 2011 Adjusted	January 1, 2012 Adjusted Assessed Value over/(under) July 1, 2011 Adjusted	
+		$	(9,807,500)
+Land Book :		
+January 1, 2012 Percentage Change in Adjusted Assessed Value over July 1,	January 1, 2012 Percentage Change in Adjusted Assessed Value over July 1,	
+			-3.770%
+2011 Total Assessed Value:		
+Current Tax Rate:		$	1.04
+Rate Necessary to Offset Decreased Assessment:		$	1.08
+Effective Tax Rate $ Decrease		$	(0.04)
+FY 2012-13 Operating Budget	111		As Amended June 12, 2012

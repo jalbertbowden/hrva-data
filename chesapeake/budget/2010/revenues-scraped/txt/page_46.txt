@@ -1,0 +1,19 @@
+Name: “Table 1 of 1 on page 46 of 70”	Name: “Table 1 of 1 on page 46 of 70”	Name: “Table 1 of 1 on page 46 of 70”	Name: “Table 1 of 1 on page 46 of 70”	Name: “Table 1 of 1 on page 46 of 70”	Name: “Table 1 of 1 on page 46 of 70”	Name: “Table 1 of 1 on page 46 of 70”	Name: “Table 1 of 1 on page 46 of 70”
+Table: 46	Table: 46	Table: 46	Table: 46	Table: 46	Table: 46	Table: 46	Table: 46
+						
+E-911 OPERATIONS FUND	E-911 OPERATIONS FUND						FUND 207 REVENUES
+		FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL	RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED		BUDGET
+Other Local Taxes	Other Local Taxes					
+Communications Sales Tax Committed	Communications Sales Tax Committed	$	0	$	0	$	4,950,691
+** Note: Committed revenues are pledged for use in specific	** Note: Committed revenues are pledged for use in specific					
+special revenue funds by City Council policy.	special revenue funds by City Council policy.					
+Total Other Local Taxes	Total Other Local Taxes	$	0	$	0	$	4,950,691
+Use of Money & Property	Use of Money & Property					
+Interest-Bank Dep	Interest-Bank Dep	$	38,577	$	0	$	0
+Total Use of Money and Property	Total Use of Money and Property	$	38,577	$	0	$	0
+Categorical Aid From the Commonwealth - Other	Categorical Aid From the Commonwealth - Other	Categorical Aid From the Commonwealth - Other				
+Wireless E-911 Service Board	Wireless E-911 Service Board	$	1,434,751	$	1,400,000	$	850,000
+Total State Categorical Aid	Total State Categorical Aid	$	1,434,751	$	1,400,000	$	850,000
+Total	E-911 Operations Fund	$	1,473,328	$	1,400,000	$	5,800,691
+City of Chesapeake, Virginia	City of Chesapeake, Virginia		115				FY 2010 - 2011 Operating Budget

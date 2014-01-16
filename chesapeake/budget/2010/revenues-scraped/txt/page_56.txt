@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 56 of 70”	Name: “Table 1 of 1 on page 56 of 70”	Name: “Table 1 of 1 on page 56 of 70”	Name: “Table 1 of 1 on page 56 of 70”	Name: “Table 1 of 1 on page 56 of 70”	Name: “Table 1 of 1 on page 56 of 70”	Name: “Table 1 of 1 on page 56 of 70”
+Table: 56	Table: 56	Table: 56	Table: 56	Table: 56	Table: 56	Table: 56
+					
+UTILITIES REVENUE					FUND 510 REVENUES	FUND 510 REVENUES
+	FY 2008-09	FY 2008-09	FY 2009-10	FY 2009-10	FY 2010-11	FY 2010-11
+RESOURCE DETAIL		ACTUAL	AMENDED	AMENDED		BUDGET
+Use of Money & Property					
+Interest-Customer Payments	$	16,894	$	10,000	$	10,000
+Rent-Fire Hydrant		1,121,480		1,149,540		1,165,640
+Total Money & Property	$	1,138,374	$	1,159,540	$	1,175,640
+Charges for Services					
+Sale of Svc-Public Info	$	38,813	$	0	$	0
+Eng/Adm/Inspec		13,499		10,000		10,000
+Sewer Connect Fees		1,377,022		1,400,000		1,450,000
+Pro Rata Sewer Conn Fee Reimb		(4,660)		0		0
+Cost Part Sewer Connection Fee		5,200		0		0
+Water Connection Fees		1,757,378		1,900,000		1,650,000
+Pro Rata Water Conn Fee Reimb		(5,160)		0		0
+Cost Part Water Connection Fee		2,600		0		0
+Water Billings		33,135,755		32,800,000		33,500,000
+Reconnection Charges		43,055		50,000		50,000
+Laboratory Fees		8,960		0		0
+Account Entry Fees		78,443		80,000		80,000
+Sewer Service Charges		17,637,957		17,600,000		18,800,000
+Pro Rata Contributions		182,922		0		0
+Miscellaneous Water Revenue		12,444		0		0
+ProRata Payments to Developers		(348,926)		0		0
+Penalties-Non-taxes		289,433		90,000		90,000
+Total Charges for Services	$	54,224,735	$	53,930,000	$	55,630,000
+Miscellaneous Revenue					
+Sale of Salvage and Surplus	$	16,174	$	5,000	$	5,000
+Sale of Svc		78,796		45,000		45,000
+Total Miscellaneous Revenue	$	94,970	$	50,000	$	50,000
+Recovered Costs					
+Rec/Reb-Other	$	30	$	500	$	500
+Total Recovered Costs	$	30	$	500	$	500
+Total Utility Revenue Fund	$	55,458,109	$	55,140,040	$	56,856,140
+City of Chesapeake, Virginia		125				FY 2010 - 2011 Operating Budget

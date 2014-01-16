@@ -1,0 +1,16 @@
+Name: “Table 1 of 1 on page 135 of 179”	Name: “Table 1 of 1 on page 135 of 179”	Name: “Table 1 of 1 on page 135 of 179”	Name: “Table 1 of 1 on page 135 of 179”	Name: “Table 1 of 1 on page 135 of 179”	Name: “Table 1 of 1 on page 135 of 179”	Name: “Table 1 of 1 on page 135 of 179”	Name: “Table 1 of 1 on page 135 of 179”
+Table: 133	Table: 133	Table: 133	Table: 133	Table: 133	Table: 133	Table: 133	Table: 133
+						
+FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget	FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget	FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget	FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget	FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget	FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget	FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget	FY 2013 Gloucester Point Sanitary District Fund Expenditure Budget
+	FY 11 Final	FY 11 Actual	FY 12 Original	FY 12 Expected	FY 13 Adopted	
+Account Title	Budget	Expenditures	Budget	Appropriations	Budget	Dollar Change	% Change
+GLOU POINT SAN DIST						
+SALARIES-OTHER	200	0	50	50	150	100	200.0%
+ELECTRICAL SERVICES	17,000	16,885	17,155	17,155	18,500	1,345	7.8%
+OTHER MISC EXPENSES	0	0	0	0	0	0	0.0%
+OTH EQUIPMENT	3,295	0	1,000	1,000	1,500	500	50.0%
+TRANSFERS OUT	0	0	0	0	0	0	0.0%
+FUND BALANCE	0	0	2,000	2,000	0	(2,000)	(100.0%)
+Subtotal for Organization	20,495	16,885	20,205	20,205	20,150	(55)	(0.3%)
+Total for Fund	20,495	16,885	20,205	20,205	20,150	(55)	(0.3%)
+			129			

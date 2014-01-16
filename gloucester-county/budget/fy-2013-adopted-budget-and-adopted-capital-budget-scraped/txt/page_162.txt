@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 162 of 179”	Name: “Table 1 of 1 on page 162 of 179”	Name: “Table 1 of 1 on page 162 of 179”	Name: “Table 1 of 1 on page 162 of 179”	Name: “Table 1 of 1 on page 162 of 179”	Name: “Table 1 of 1 on page 162 of 179”
+Table: 160	Table: 160	Table: 160	Table: 160	Table: 160	Table: 160
+				
+	GLOUCESTER COUNTY	GLOUCESTER COUNTY	GLOUCESTER COUNTY	
+	FY 2013	FY 2013		
+	SCHEMATIC LIST OF TITLES	SCHEMATIC LIST OF TITLES	SCHEMATIC LIST OF TITLES	
+		Min	Max	Min Hrly	Max Hrly
+FLSA	Position Title	Salary	Salary	Rate	Rate
+	Grade 14 Continued	$34,422	$51,633	$16.55	$24.82
+N	Deputy Recruit - Law Enforcement			
+N	Deputy Sheriff - Corrections/Civil Process			
+N	Inspector II			
+N	Maintenance Supervisor			
+N	Museum Director			
+N	Park Supervisor			
+E	Planner I			
+N	Probation Officer			
+N	Pretrial Officer			
+N	Recreation Supervisor			
+N	Senior Mechanical Technician			
+N	Self Sufficiency Specialist III - DSS			
+N	Social Worker I/II - DSS			
+N	Special Events Supervisor			
+N	Tourism Coordinator			
+N	Victim-Witness Coordinator			
+	Grade 15	$36,487	$54,731	$17.54	$26.31
+E	Benefit Programs Supervisor - DSS			
+N	Chief Animal Control Officer			
+N	Class I WTP Operator			
+N	Deputy I - Law Enforcement			
+N	IT Support Technician II			
+N	Instrumentation Specialist			
+N	Librarian			
+N	Real Estate Appraiser II			
+N	Senior Legal Assistant			
+N	Social Worker III - DSS			
+	Grade 16	$38,677	$58,016	$18.59	$27.89
+N	Combination Inspector			
+N	Deputy II - Law Enforcement			
+E	Human Resource Analyst			
+N	Investigator			
+N	Lead WTP Operator			
+E	Planner II			
+N	Sergeant - Corrections/Civil Process			
+	Grade 17	$40,997	$61,496	$19.71	$29.57
+E	Chief Deputy - Circuit Court			
+E	Chief Deputy - Commissioner of Revenue			
+N	Combination Insp/Plans Examiner			
+	156			

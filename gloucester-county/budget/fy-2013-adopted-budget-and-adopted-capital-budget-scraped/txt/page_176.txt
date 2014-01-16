@@ -1,0 +1,21 @@
+Name: “Table 1 of 1 on page 176 of 179”	Name: “Table 1 of 1 on page 176 of 179”	Name: “Table 1 of 1 on page 176 of 179”	Name: “Table 1 of 1 on page 176 of 179”	Name: “Table 1 of 1 on page 176 of 179”	Name: “Table 1 of 1 on page 176 of 179”
+Table: 174	Table: 174	Table: 174	Table: 174	Table: 174	Table: 174
+				
+County of Gloucester, Virginia	County of Gloucester, Virginia			
+Property Tax Rates Per $100 of Assessed Value	Property Tax Rates Per $100 of Assessed Value	Property Tax Rates Per $100 of Assessed Value		
+Last Ten Fiscal Years				
+				Public Utility
+Fiscal	Real	Personal	Machinery	Real	Personal
+Year	Estate	Property	and Tools	Estate	Property
+2003	0.95	3.50	3.50	0.95	3.50
+2004	0.95	4.00	4.00	0.95	4.00
+2005*	0.95	2.20	2.20	0.95	2.20
+2006	0.57	2.20	2.20	0.57	2.20
+2007	0.57	2.20	2.20	0.57	2.20
+2008	0.61	2.60	2.60	0.61	2.60
+2009	0.61	2.60	2.60	0.61	2.60
+2010	0.58	2.60	2.60	0.58	2.60
+2011	0.58	2.60	2.60	0.58	2.60
+2012	0.65	2.95	2.95	0.65	2.95
+* Reflects equailized personal property assessments across all categories of personal property.	* Reflects equailized personal property assessments across all categories of personal property.	* Reflects equailized personal property assessments across all categories of personal property.	* Reflects equailized personal property assessments across all categories of personal property.	* Reflects equailized personal property assessments across all categories of personal property.
+		170	170	

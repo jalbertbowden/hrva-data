@@ -1,0 +1,27 @@
+Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”	Name: “Table 1 of 1 on page 170 of 174”
+Table: 170	Table: 170	Table: 170	Table: 170	Table: 170	Table: 170	Table: 170	Table: 170	Table: 170
+							
+COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA	COUNTY OF GLOUCESTER, VIRGINIA				
+Demographic and Economic Statistics	Demographic and Economic Statistics	Demographic and Economic Statistics					
+Last Ten Calendar Years	Last Ten Calendar Years	Last Ten Calendar Years					
+				Personal		Per	
+				Income		Capita	Unemployment	School
+		Population		(in thousands)		Personal	Rate	Enrollment
+	Year	(1)		(2)		Income	(3)	(4)
+	2002	35,100	$	942,410	$	26,849	3.2	6,350
+	2003	35,281		986,458		27,960	3.2	6,309
+	2004	35,586		1,057,181		29,708	3.0	6,147
+	2005	35,759		1,090,866		30,506	3.1	6,078
+	2006	36,361		1,185,316		32,599	2.6	6,000
+	2007	36,203		1,250,578		34,543	2.5	5,949
+	2008	36,438		1,364,129		37,437	3.5	5,910
+	2009	36,776		1,360,621		36,998	6.1	5,925
+	2010	36,858		1,379,324		37,423	6.4	5,860
+	2011	36,987		N/A		N/A	5.2	5,925
+Sources:	Sources:						
+(1)	Weldon Cooper Center for Public Service at the University of Virginia	Weldon Cooper Center for Public Service at the University of Virginia	Weldon Cooper Center for Public Service at the University of Virginia	Weldon Cooper Center for Public Service at the University of Virginia	Weldon Cooper Center for Public Service at the University of Virginia	Weldon Cooper Center for Public Service at the University of Virginia	
+(2)	Bureau of Economic Analysis	Bureau of Economic Analysis					
+(3)	Virgninia Employment Commission	Virgninia Employment Commission	Virgninia Employment Commission				
+(4)	Gloucester County Schools (Budget Document)	Gloucester County Schools (Budget Document)	Gloucester County Schools (Budget Document)	Gloucester County Schools (Budget Document)			
+N/A - This information was unavailable.	N/A - This information was unavailable.	N/A - This information was unavailable.	N/A - This information was unavailable.				
+					166		
