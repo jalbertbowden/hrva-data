@@ -1,0 +1,5 @@
+"County or Parish"|"VA067"|"Franklin"|455300|"11161"|"13829"
+"Rainfall Factor Area"|"160"|"Rainfall Factor"|455300|"11161"|"36800"
+"MLRA"|"130"|"Blue Ridge"|69300|"11161"|"13830"
+"MLRA"|"136"|"Southern Piedmont"|386000|"11161"|"13831"
+"State or Territory"|"VA"|"Virginia"|455300|"11161"|"38408"

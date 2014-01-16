@@ -1,0 +1,6 @@
+0|0|1|"Quartz fragments"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|"1445048:3403291"|"1445048:6253024"
+0|0|1|"Quartz fragments"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|"1445048:3403292"|"1445048:6253025"
+0|0|1|"Quartz fragments"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|"1445048:3403293"|"1445048:6253026"
+0|0|1|"Quartz fragments"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|"1445057:5609092"|"1445057:10260613"
+0|0|1|"Quartz fragments"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|"1445057:5609093"|"1445057:10260614"
+0|0|1|"Quartz fragments"|5|40|75|"Nonflat"|"Subrounded"|"Indurated"|"1445057:5609094"|"1445057:10260615"
