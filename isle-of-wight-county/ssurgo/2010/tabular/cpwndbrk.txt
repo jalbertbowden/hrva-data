@@ -1,0 +1,8 @@
+|14||"JUVIS"|"Juniperus virginiana var. silicicola"|"southern redcedar"|"119332:928063"|"119332:4457197"
+|17||"PIEL"|"Pinus elliottii"|"slash pine"|"119332:928063"|"119332:4457199"
+|15||"PITA"|"Pinus taeda"|"loblolly pine"|"119332:928063"|"119332:4457200"
+|9||"PRCA"|"Prunus caroliniana"|"Carolina laurelcherry"|"119332:928063"|"119332:4457201"
+|14||"JUVIS"|"Juniperus virginiana var. silicicola"|"southern redcedar"|"119327:928042"|"119327:4457192"
+|17||"PIEL"|"Pinus elliottii"|"slash pine"|"119327:928042"|"119327:4457194"
+|15||"PITA"|"Pinus taeda"|"loblolly pine"|"119327:928042"|"119327:4457195"
+|9||"PRCA"|"Prunus caroliniana"|"Carolina laurelcherry"|"119327:928042"|"119327:4457196"

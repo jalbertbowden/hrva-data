@@ -1,0 +1,4 @@
+"VA093"|2|"CLW"|"Clay spot, wet"|"Surface texture is silty clay or clay and soil is somewhat poorly drained to very poorly drained area that is at least 2 drainage classes wetter than the named soils in the surrounding map unit.  Typically 0.5 to 5 acres."|"86690"
+"VA093"|2|"ERO"|"Severely eroded spot"|"An area where on the average 75 percent or more of the original surface layer has been lost from accelerated erosion.  Typically 0.5 to 5 acres."|"86691"
+"VA093"|2|"SLP"|"Short, steep slope"|"Narrow soil area that has slopes that are at least 2 slope classes steeper than the slope class of the surrounding named map unit.  Typically 0.5 to 5 acres."|"86692"
+"VA093"|2|"WET"|"Wet spot"|"Somewhat poorly drained to very poorly drained area that is at least 2 drainage classes wetter than the named soils in the surrounding map unit.  Typically 0.5 to 5 acres."|"86693"

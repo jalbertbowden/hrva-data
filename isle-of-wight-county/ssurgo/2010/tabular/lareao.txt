@@ -1,0 +1,5 @@
+"County or Parish"|"VA093"|"Isle of Wight"|231800|"10861"|"13020"
+"State or Territory"|"VA"|"Virginia"|231800|"10861"|"39460"
+"MLRA"|"153A"|"Atlantic Coast Flatwoods"|195170|"10861"|"13021"
+"MLRA"|"153B"|"Tidewater Area"|3550|"10861"|"13022"
+"Rainfall Factor Area"|"240"|"Rainfall Factor"|231800|"10861"|"13023"
