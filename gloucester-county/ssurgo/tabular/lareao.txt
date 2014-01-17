@@ -1,0 +1,5 @@
+"County or Parish"|"VA073"|"Gloucester"|162600|"10854"|"13005"
+"State or Territory"|"VA"|"Virginia"|162600|"10854"|"39475"
+"MLRA"|"133A"|"Southern Coastal Plain"|83453|"10854"|"13006"
+"MLRA"|"153B"|"Tidewater Area"|60747|"10854"|"13007"
+"Rainfall Factor Area"|"220"|"Rainfall Factor"|162600|"10854"|"13008"
