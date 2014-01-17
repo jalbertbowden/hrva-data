@@ -1,0 +1,62 @@
+Name: “Table 1 of 1 on page 12 of 78”,Name: “Table 1 of 1 on page 12 of 78”,Name: “Table 1 of 1 on page 12 of 78”,Name: “Table 1 of 1 on page 12 of 78”,Name: “Table 1 of 1 on page 12 of 78”,Name: “Table 1 of 1 on page 12 of 78”
+Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0301 Circuit Court Judges,0301 Circuit Court Judges,,,,
+100-15-200-2000-000000-000 Circuit Court Judges,100-15-200-2000-000000-000 Circuit Court Judges,100-15-200-2000-000000-000 Circuit Court Judges,,,
+536110,Dues-Memberships,475,500,500,"3,149"
+555100,Training,"6,605","7,000","7,000","7,000"
+555210,Travel,"10,312","14,311","14,311","14,311"
+610101,Computer Service Charges,"5,369","5,601","5,601","6,315"
+610102,Telecommunications Charges,"6,352","25,820","25,820","7,237"
+630101,Risk Management Charges,"5,851","5,879","5,879","6,445"
+100-15-200-2000-000000-000 Circuit,100-15-200-2000-000000-000 Circuit,"554,440","624,228","624,228","554,989"
+,0301 Circuit Court Judges,"554,440","624,228","624,228","554,989"
+0302 Circuit Court Clerk,0302 Circuit Court Clerk,,,,
+100-15-201-2010-000000-000 Circuit Court Clerk,100-15-201-2010-000000-000 Circuit Court Clerk,100-15-201-2010-000000-000 Circuit Court Clerk,,,
+501000,Sal-Full-time,"849,791","873,965","848,582","870,517"
+501100,Sal-Part-time,0,0,"25,383","25,000"
+501200,Accrued Payroll,"3,253",0,0,0
+510012,Allow-Other Supplements,"36,463","37,000","37,000","39,282"
+510099,Sal-Allow for Salary Savings,0,"-41,593","-41,593",0
+511100,Bene-FICA,"61,943","62,302","62,302","67,731"
+511115,Bene-Health Insurance,"139,035","162,047","162,047","153,638"
+511120,Bene-Dental Insurance,734,756,756,580
+511125,Bene-VRS Life Insurance,"2,407","2,326","2,326","10,761"
+511140,Bene-Retirement VRS,"109,173","105,433","105,433","74,789"
+511145,Bene-Retirement PSRS,"57,802","52,853","52,853","56,306"
+511166,Bene-Allowance for Vacancy,0,"-3,237","-3,237",0
+,Sav,,,,
+521302,Contractual-Court-Apptd Attnys,948,"1,227","1,227","1,227"
+521306,Contractual-Jurors,"48,187","50,000","50,000","50,000"
+521905,Contractual-Other,"28,818","40,000","40,000","106,000"
+522130,Maint-Security System,306,400,400,400
+531001,Supp-Postage,"6,248","9,516","9,516","9,516"
+531914,Supp-Office and Printing,"16,648","26,610","26,610","26,610"
+535100,Books and Publications,728,"1,000","1,000","1,000"
+536110,Dues-Memberships,630,"1,119","1,119","1,119"
+542010,Tele-Telephone,"4,252","6,000","6,000","6,000"
+555210,Travel,"3,375","4,202","4,202","4,602"
+610101,Computer Service Charges,"25,121","25,959","25,959","34,306"
+610102,Telecommunications Charges,"4,747","25,999","25,999","6,866"
+630101,Risk Management Charges,"17,553","17,638","17,638","19,115"
+100-15-201-2010-000000-000 Circuit,100-15-201-2010-000000-000 Circuit,"1,418,160","1,461,522","1,461,522","1,565,365"
+,0302 Circuit Court Clerk,"1,418,160","1,461,522","1,461,522","1,565,365"
+0303 Magistrate,0303 Magistrate,,,,
+100-15-202-2020-000000-000 Magistrate,100-15-202-2020-000000-000 Magistrate,,,,
+522115,Maint-Office Equipment,0,501,501,501
+523999,Rentals-Other,0,"1,785","1,785","1,785"
+524110,Repairs-Office Equipment,0,430,430,430
+531914,Supp-Office and Printing,223,300,300,300
+531999,Supp-Other,"1,470",537,537,537
+535100,Books and Publications,747,856,856,856
+536110,Dues-Memberships,175,200,200,200
+542010,Tele-Telephone,0,105,105,105
+542020,Tele-Telephone Cellular,549,525,525,525
+610101,Computer Service Charges,"4,160","4,292","4,292","5,423"
+610102,Telecommunications Charges,738,596,596,"1,081"
+GovMax V5,,,,18-12,

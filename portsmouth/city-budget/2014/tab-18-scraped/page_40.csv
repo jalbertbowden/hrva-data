@@ -1,0 +1,66 @@
+Name: “Table 1 of 1 on page 40 of 78”,Name: “Table 1 of 1 on page 40 of 78”,Name: “Table 1 of 1 on page 40 of 78”,Name: “Table 1 of 1 on page 40 of 78”,Name: “Table 1 of 1 on page 40 of 78”,Name: “Table 1 of 1 on page 40 of 78”
+Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,Social Services Fund,Social Services Fund,
+0603 Social Services Fund,0603 Social Services Fund,,,,
+410-30-502-5035-000000-000 Day Care Administration,410-30-502-5035-000000-000 Day Care Administration,410-30-502-5035-000000-000 Day Care Administration,,,
+501000,Sal-Full-time,"178,507","237,152","237,152","218,235"
+510099,Sal-Allow for Salary Savings,0,"-11,474","-11,474","-10,914"
+511100,Bene-FICA,"12,947","17,555","17,555","16,693"
+511115,Bene-Health Insurance,"20,865","35,728","35,728","28,607"
+511120,Bene-Dental Insurance,108,108,108,80
+511125,Bene-VRS Life Insurance,458,643,643,"2,598"
+511140,Bene-Retirement VRS,"21,524","30,407","30,407","18,048"
+511166,Bene-Allowance for Vacancy,0,-908,-908,-966
+,Sav,,,,
+521905,Contractual-Other,"240,437","365,000","295,000","50,000"
+521914,Contractual-Temp Work,"87,664",0,"70,000","70,000"
+531914,Supp-Office and Printing,525,"1,500","1,500","1,500"
+555210,Travel,0,"1,000","1,000","1,000"
+410-30-502-5035-000000-000 Day Care,410-30-502-5035-000000-000 Day Care,"563,035","676,711","676,711","394,881"
+410-30-502-5036-000000-000 Eligibility Administration,410-30-502-5036-000000-000 Eligibility Administration,410-30-502-5036-000000-000 Eligibility Administration,,,
+501000,Sal-Full-time,"2,848,091","3,466,220","3,466,220","3,395,189"
+501100,Sal-Part-time,"21,369",0,0,0
+510099,Sal-Allow for Salary Savings,0,"-136,755","-136,755","-169,751"
+511100,Bene-FICA,"207,316","255,149","255,149","259,724"
+511115,Bene-Health Insurance,"408,099","503,759","503,759","605,401"
+511120,Bene-Dental Insurance,"2,692","3,084","3,084","2,056"
+511125,Bene-VRS Life Insurance,"7,610","9,348","9,348","40,413"
+511140,Bene-Retirement VRS,"341,217","422,282","422,282","278,142"
+511166,Bene-Allowance for Vacancy,0,"-13,249","-13,249","-14,996"
+,Sav,,,,
+521905,Contractual-Other,"33,764","50,000","51,170","7,500"
+521907,Contractual-Performance Bonds,40,500,500,500
+521914,Contractual-Temp Work,"22,817",0,"43,830","44,000"
+531914,Supp-Office and Printing,940,"5,000","5,000","5,000"
+533020,Noncap-Furniture,0,"5,000","5,000","5,000"
+535100,Books and Publications,0,500,500,500
+536110,Dues-Memberships,0,400,400,400
+555100,Training,320,"1,000","1,000","2,000"
+555210,Travel,162,"5,000","5,000","5,000"
+620101,Garage Equip Rental Charges,"2,272",642,642,642
+620103,Garage Contractual Charges,0,"2,407",0,0
+410-30-502-5036-000000-000 Eligibility,410-30-502-5036-000000-000 Eligibility,"3,896,706","4,580,287","4,622,880","4,466,720"
+410-30-502-5037-000000-000 Services Administration,410-30-502-5037-000000-000 Services Administration,410-30-502-5037-000000-000 Services Administration,,,
+501000,Sal-Full-time,"2,120,573","2,569,305","2,569,305","2,532,040"
+501100,Sal-Part-time,"45,586","150,749","150,749","150,749"
+510000,Sal-Overtime,"5,663",0,0,0
+510005,Allow-On-Call,"14,248","35,624","35,624","12,960"
+510099,Sal-Allow for Salary Savings,0,"-123,801","-123,801","-126,607"
+511100,Bene-FICA,"157,821","189,391","189,391","194,680"
+511115,Bene-Health Insurance,"267,372","350,995","350,995","400,982"
+511120,Bene-Dental Insurance,"1,796","1,836","1,836","1,328"
+511125,Bene-VRS Life Insurance,"5,699","6,937","6,937","30,285"
+511140,Bene-Retirement VRS,"248,407","306,432","306,432","206,334"
+511166,Bene-Allowance for Vacancy,0,"-9,810","-9,810","-11,231"
+,Sav,,,,
+521504,Contractual-C.A.R.E.S.,"72,737","100,000","100,000","100,000"
+521603,Contractual-Medical Expenses,600,0,"1,000","1,000"
+521905,Contractual-Other,"20,427","96,957","92,132",0
+521907,Contractual-Performance Bonds,350,300,300,300
+521914,Contractual-Temp Work,"66,081",0,"162,970","70,000"
+GovMax V5,,,,18-40,

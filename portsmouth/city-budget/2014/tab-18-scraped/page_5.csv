@@ -1,0 +1,62 @@
+Name: “Table 1 of 1 on page 5 of 78”,Name: “Table 1 of 1 on page 5 of 78”,Name: “Table 1 of 1 on page 5 of 78”,Name: “Table 1 of 1 on page 5 of 78”,Name: “Table 1 of 1 on page 5 of 78”,Name: “Table 1 of 1 on page 5 of 78”
+Table: 5,Table: 5,Table: 5,Table: 5,Table: 5,Table: 5
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0107 Human Resource Management,0107 Human Resource Management,,,,
+100-10-105-1050-000000-000 Human Resource Management,100-10-105-1050-000000-000 Human Resource Management,100-10-105-1050-000000-000 Human Resource Management,,,
+555110,Training-Personnel Sponsored,"1,100","11,000","11,000","11,000"
+555210,Travel,494,"2,000","2,000","2,000"
+555228,Purchase Card,7,0,0,0
+610101,Computer Service Charges,"72,932","75,747","75,747","76,535"
+610102,Telecommunications Charges,"5,415","4,271","4,271","5,376"
+630101,Risk Management Charges,"7,041","7,075","7,075","7,890"
+100-10-105-1050-000000-000 Human,100-10-105-1050-000000-000 Human,"854,213","1,060,685","1,260,685","1,130,171"
+0107 Human Resource Management,0107 Human Resource Management,"854,213","1,060,685","1,260,685","1,130,171"
+0108 Civil Service Commission,0108 Civil Service Commission,,,,
+100-10-105-1051-000000-000 Civil Service Commission,100-10-105-1051-000000-000 Civil Service Commission,100-10-105-1051-000000-000 Civil Service Commission,,,
+521905,Contractual-Other,"20,536","65,600","65,600","75,600"
+521914,Contractual-Temp Work,0,"3,000","3,000","3,000"
+531914,Supp-Office and Printing,767,"1,280","1,280","1,780"
+554010,Advertising,"11,742","11,600","11,600","11,600"
+555210,Travel,0,"5,200","5,200","5,200"
+,100-10-105-1051-000000-000 Civil,"33,046","86,680","86,680","97,180"
+,0108 Civil Service Commission,"33,046","86,680","86,680","97,180"
+0109 Commissioner of the Revenue,0109 Commissioner of the Revenue,,,,
+100-10-106-1060-000000-000 Commissioner of the Revenue,100-10-106-1060-000000-000 Commissioner of the Revenue,100-10-106-1060-000000-000 Commissioner of the Revenue,,,
+501000,Sal-Full-time,"670,116","711,210","711,210","774,657"
+501100,Sal-Part-time,"157,158","72,800","72,800","72,800"
+501200,Accrued Payroll,"5,534",0,0,0
+510012,Allow-Other Supplements,"31,070","34,392","34,392","34,391"
+510099,Sal-Allow for Salary Savings,0,"-32,030","-32,030",0
+511100,Bene-FICA,"60,692","48,813","48,813","55,987"
+511115,Bene-Health Insurance,"87,110","124,069","124,069","136,131"
+511120,Bene-Dental Insurance,494,504,504,464
+511125,Bene-VRS Life Insurance,"1,915","1,899","1,899","8,710"
+511140,Bene-Retirement VRS,"87,016","86,463","86,463","60,525"
+511166,Bene-Allowance for Vacancy,0,"-2,543","-2,543",0
+,Sav,,,,
+521905,Contractual-Other,"27,087","30,000","30,000","50,000"
+522115,Maint-Office Equipment,93,200,200,"1,500"
+523999,Rentals-Other,0,"3,783","3,783","3,783"
+531001,Supp-Postage,"11,683","10,000","10,000","20,000"
+531914,Supp-Office and Printing,"18,169","30,000","30,000","30,000"
+531999,Supp-Other,"5,807","6,000","6,000","26,000"
+533010,Noncap-Equipment,54,"10,000","10,000","20,000"
+535100,Books and Publications,"1,044","2,000","2,000","5,000"
+536110,Dues-Memberships,"2,910","2,500","2,500","3,000"
+542010,Tele-Telephone,"4,538","6,000","6,000","6,000"
+542020,Tele-Telephone Cellular,"1,837","2,000","2,000","2,000"
+555100,Training,"7,764","7,500","7,500","15,000"
+555210,Travel,"12,087","10,000","10,000","18,000"
+559055,DMV Select-Expenses,"5,082",0,0,0
+599055,DMV Select,0,"50,000","50,000","55,300"
+610101,Computer Service Charges,"162,126","168,478","168,478","192,407"
+610102,Telecommunications Charges,"15,681","12,698","12,698","15,816"
+620101,Garage Equip Rental Charges,"12,000","14,439","14,439","14,439"
+620102,Motor Pool Charges,"1,337",0,0,0
+630101,Risk Management Charges,"19,201","19,294","19,294","23,205"
+GovMax V5,,,,18-5,

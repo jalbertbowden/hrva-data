@@ -1,0 +1,64 @@
+Name: “Table 1 of 1 on page 16 of 78”,Name: “Table 1 of 1 on page 16 of 78”,Name: “Table 1 of 1 on page 16 of 78”,Name: “Table 1 of 1 on page 16 of 78”,Name: “Table 1 of 1 on page 16 of 78”,Name: “Table 1 of 1 on page 16 of 78”
+Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0401 Police Department,0401 Police Department,,,,
+100-20-300-3000-000000-000 Chief of Police,100-20-300-3000-000000-000 Chief of Police,,,,
+511166,Bene-Allowance for Vacancy,0,"-60,337","-60,337","-71,084"
+,Sav,,,,
+511199,Bene-Adjust,0,"80,341","80,341",0
+521601,Contractual-Coroner,"1,280","4,098","4,098","4,098"
+521603,Contractual-Medical Expenses,0,"2,170","2,170","2,170"
+521905,Contractual-Other,"102,825","153,025","171,025","203,025"
+522115,Maint-Office Equipment,"2,215","46,602","46,602","46,602"
+523999,Rentals-Other,0,"27,482","27,482","27,482"
+524110,Repairs-Office Equipment,0,840,840,840
+524999,Repairs-Other,0,"11,968","11,968","11,968"
+531103,Supp-Weapons and Ammunition,0,"62,380","62,380","62,380"
+531601,Supp-Laboratory,0,"45,900","45,900","45,900"
+531914,Supp-Office and Printing,"1,592","52,188","52,188","52,188"
+531917,Supp-Uniforms,0,"169,405","169,405","190,405"
+531999,Supp-Other,"17,689","66,134","66,134","66,134"
+535100,Books and Publications,80,"3,780","3,780","3,780"
+536110,Dues-Memberships,"1,555","3,152","3,152","3,152"
+542010,Tele-Telephone,"48,472","71,972","71,972","111,704"
+542020,Tele-Telephone Cellular,"47,811","49,000","49,000","59,920"
+555100,Training,"60,282","128,996","128,996","134,996"
+555205,Travel-Mileage,109,"5,673","5,673","5,673"
+555210,Travel,"1,493","8,482","8,482","8,482"
+555228,Purchase Card,133,0,0,0
+559025,Intake-Standup Costs,565,"84,000","84,000","84,000"
+610101,Computer Service Charges,"377,081","393,508","393,508","346,687"
+610102,Telecommunications Charges,"212,085","154,741","154,741","183,585"
+620101,Garage Equip Rental Charges,"2,200,695","2,176,009","2,176,009","2,176,009"
+630101,Risk Management Charges,"1,404,022","1,410,826","1,410,826","1,439,077"
+100-20-300-3000-000000-000 Chief of,100-20-300-3000-000000-000 Chief of,"30,662,935","32,997,201","32,997,201","33,259,648"
+100-20-300-3000-100020-129 Pol-Grants,100-20-300-3000-100020-129 Pol-Grants,,,,
+555205,Travel-Mileage,20,0,0,0
+555210,Travel,111,0,0,0
+,100-20-300-3000-100020-129,131,0,0,0
+100-20-300-3000-100020-130 Pol-Crime Analysis,100-20-300-3000-100020-130 Pol-Crime Analysis,,,,
+522115,Maint-Office Equipment,"6,084",0,0,0
+,100-20-300-3000-100020-130,"6,084",0,0,0
+100-20-300-3000-100020-131 Pol-Technical Svcs,100-20-300-3000-100020-131 Pol-Technical Svcs,,,,
+522115,Maint-Office Equipment,"10,838",0,0,0
+524999,Repairs-Other,"1,722",0,0,0
+531914,Supp-Office and Printing,"1,040",0,0,0
+531999,Supp-Other,"5,599",0,0,0
+,100-20-300-3000-100020-131,"19,199",0,0,0
+100-20-300-3000-100035-000 Chief of Police,100-20-300-3000-100035-000 Chief of Police,,,,
+559025,Intake-Standup Costs,"19,426",0,0,0
+100-20-300-3000-100035-000 Chief of,100-20-300-3000-100035-000 Chief of,"19,426",0,0,0
+100-20-300-3000-100035-100 Pol-Public Affairs,100-20-300-3000-100035-100 Pol-Public Affairs,,,,
+555210,Travel,684,0,0,0
+,100-20-300-3000-100035-100,684,0,0,0
+100-20-300-3000-100035-101 Pol-Office Mgr,100-20-300-3000-100035-101 Pol-Office Mgr,,,,
+521905,Contractual-Other,"1,615",0,0,0
+524999,Repairs-Other,150,0,0,0
+531914,Supp-Office and Printing,"2,273",0,0,0
+531999,Supp-Other,975,0,0,0
+GovMax V5,,,,18-16,

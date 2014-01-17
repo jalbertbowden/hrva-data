@@ -1,0 +1,63 @@
+Name: “Table 1 of 1 on page 15 of 78”,Name: “Table 1 of 1 on page 15 of 78”,Name: “Table 1 of 1 on page 15 of 78”,Name: “Table 1 of 1 on page 15 of 78”,Name: “Table 1 of 1 on page 15 of 78”,Name: “Table 1 of 1 on page 15 of 78”
+Table: 15,Table: 15,Table: 15,Table: 15,Table: 15,Table: 15
+,,,,,
+,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0308 Sheriff,,,,,
+100-15-207-2070-000000-000 Sheriff,,,,,
+531103,Supp-Weapons and Ammunition,"14,884","22,277","22,277","22,277"
+531302,Supp-Inmate Hygiene,"8,410","8,802","8,802","8,802"
+531303,Supp-Prison Unif Bed Towels,"14,866","14,923","14,923","14,923"
+531501,Supp-Classification and Intake,"11,978","11,978","11,978","11,978"
+531701,Supp-Custodial,"28,559","29,216","29,216","29,216"
+531907,Supp-Food and Provisions,"637,823","579,194","579,194","602,362"
+531910,Supp-Kitchen Equipment,"8,419","9,982","9,982","9,982"
+531912,Supp-Library,"1,003","2,015","2,015","2,015"
+531914,Supp-Office and Printing,"38,505","40,054","40,054","40,054"
+531917,Supp-Uniforms,"65,865","35,616","35,616","35,616"
+531999,Supp-Other,"7,483","89,853","89,853","89,853"
+536110,Dues-Memberships,"1,387","2,543","2,543","2,543"
+542010,Tele-Telephone,"28,935","44,127","44,127","44,127"
+555100,Training,"8,776","9,157","9,157","9,157"
+555210,Travel,0,"2,105","2,105","2,105"
+555228,Purchase Card,"9,482",0,0,0
+555420,Indigent Burial,0,"7,000","7,000","7,000"
+559050,Parking Fees,"5,460","35,442","35,442","35,442"
+610101,Computer Service Charges,"79,582","82,884","82,884","64,608"
+610102,Telecommunications Charges,"28,597","42,995","42,995","31,545"
+620101,Garage Equip Rental Charges,"701,374","537,165","537,165","537,165"
+630101,Risk Management Charges,"403,556","405,512","405,512","414,123"
+100-15-207-2070-000000-000 Sheriff,,"11,636,707","12,696,823","12,696,823","12,993,041"
+,0308 Sheriff,"11,636,707","12,696,823","12,696,823","12,993,041"
+0401 Police Department,,,,,
+100-20-300-3000-000000-000 Chief of Police,100-20-300-3000-000000-000 Chief of Police,100-20-300-3000-000000-000 Chief of Police,,,
+501000,Sal-Full-time,"13,616,312","15,467,564","15,449,564","15,344,773"
+501100,Sal-Part-time,"98,799","105,384","105,384","105,384"
+501200,Accrued Payroll,"80,727",0,0,0
+510000,Sal-Overtime,"16,565","6,000","6,000","6,000"
+510002,Allow-Clothing,"37,226","40,200","40,200","41,400"
+510004,Allow-Education,"57,740","53,498","53,498","68,500"
+510006,Allow-Other,0,"10,400","10,400",0
+510008,Allow-Field Training Officer,"13,769","25,990","25,990","15,000"
+510010,Allow-Master Police Officer,"42,782","42,015","42,015","37,500"
+510012,Allow-Other Supplements,"15,544","19,800","19,800","18,900"
+510013,Sal-Overtime Court,"401,662","450,360","450,360","450,360"
+510014,Sal-Overtime City Other Agen,"84,755","150,000","150,000","150,000"
+510015,Sal-Overtime Special Events,"82,009","143,874","143,874","143,874"
+510016,Sal-Overtime DEA Spec Ass,"20,472","10,609","10,609","10,609"
+510017,Sal-Overtime FBI,0,"21,218","21,218","21,218"
+510018,Sal-Overtime Harbor Ctr,"54,092","60,000","60,000","60,000"
+510019,Sal-Overtime Police Off,"986,317","571,112","571,112","571,112"
+510020,Sal-Overtime ATF,"5,343","13,000","13,000","13,000"
+510099,Sal-Allow for Salary Savings,0,"-834,032","-834,032","-769,422"
+511100,Bene-FICA,"940,811","1,165,331","1,165,331","1,020,779"
+511115,Bene-Health Insurance,"1,745,525","2,208,173","2,208,173","2,259,509"
+511120,Bene-Dental Insurance,"9,792","9,876","9,876","8,412"
+511125,Bene-VRS Life Insurance,"36,849","40,938","40,938","182,211"
+511140,Bene-Retirement VRS,"1,285,582","1,498,744","1,498,744","1,051,351"
+511145,Bene-Retirement PSRS,"137,637","136,431","136,431","156,045"
+511150,Bene-Retirement FPRS,"6,412,640","6,428,381","6,428,381","7,093,960"
+GovMax V5,,,,18-15,

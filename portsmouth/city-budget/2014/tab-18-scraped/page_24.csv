@@ -1,0 +1,62 @@
+Name: “Table 1 of 1 on page 24 of 78”,Name: “Table 1 of 1 on page 24 of 78”,Name: “Table 1 of 1 on page 24 of 78”,Name: “Table 1 of 1 on page 24 of 78”,Name: “Table 1 of 1 on page 24 of 78”,Name: “Table 1 of 1 on page 24 of 78”
+Table: 24,Table: 24,Table: 24,Table: 24,Table: 24,Table: 24
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0504 Engineering,0504 Engineering,,,,
+100-25-401-4020-000000-000 Engineering,100-25-401-4020-000000-000 Engineering,,,,
+555210,Travel,16,600,600,500
+610101,Computer Service Charges,"39,069","40,842","40,842","46,374"
+610102,Telecommunications Charges,"12,494","12,585","12,585","13,430"
+620101,Garage Equip Rental Charges,"54,996","72,198","72,198","72,198"
+630101,Risk Management Charges,"24,698","24,818","24,818","25,086"
+,100-25-401-4020-000000-000,"1,140,105","1,420,171","1,420,171","1,361,549"
+,0504 Engineering,"1,140,105","1,420,171","1,420,171","1,361,549"
+0505 Traffic Engineering,0505 Traffic Engineering,,,,
+100-25-401-4021-000000-000 Traffic Engineering,100-25-401-4021-000000-000 Traffic Engineering,100-25-401-4021-000000-000 Traffic Engineering,,,
+501000,Sal-Full-time,"323,476","359,970","359,970","355,205"
+501200,Accrued Payroll,"1,096",0,0,0
+510000,Sal-Overtime,"10,647","18,000","18,000","18,000"
+510005,Allow-On-Call,"6,194","9,711","9,711","5,400"
+510099,Sal-Allow for Salary Savings,0,"-13,362","-13,362","-17,760"
+511100,Bene-FICA,"24,313","26,148","26,148","27,587"
+511115,Bene-Health Insurance,"50,599","61,821","61,821","68,534"
+511120,Bene-Dental Insurance,288,288,288,240
+511125,Bene-VRS Life Insurance,867,956,956,"4,292"
+511140,Bene-Retirement VRS,"40,802","45,292","45,292","29,822"
+511145,Bene-Retirement PSRS,"111,442","86,700","86,700","98,009"
+511166,Bene-Allowance for Vacancy,0,"-1,354","-1,354","-1,596"
+,Sav,,,,
+521905,Contractual-Other,"3,111","12,000","12,000","15,000"
+521910,Contractual-Rental Uniforms,"3,580","4,500","4,500","4,500"
+531602,Supp-Medical,0,200,200,150
+531914,Supp-Office and Printing,"1,774","2,000","2,000","1,500"
+531920,Supp-Wearing Apparel,219,600,600,"1,100"
+531999,Supp-Other,217,400,400,400
+532170,Mat-Traffic Signs,"77,632","80,299","80,299","80,299"
+532190,Mat-Traffic Signals,"72,310","77,539","77,539","77,539"
+536110,Dues-Memberships,543,300,300,500
+541060,Util-Street Lighting,"1,490,858","1,654,000","1,654,000","1,654,000"
+541070,Util-Traffic Signals,"59,544","86,000","86,000","86,000"
+542020,Tele-Telephone Cellular,"1,484","1,800","1,800","1,500"
+555100,Training,0,"1,100","1,100","1,250"
+610101,Computer Service Charges,"16,603","17,082","17,082","19,853"
+610102,Telecommunications Charges,"9,341","15,206","15,206","11,195"
+620101,Garage Equip Rental Charges,"99,996","111,653","111,653","111,653"
+630101,Risk Management Charges,"62,058","62,359","62,359","62,434"
+100-25-401-4021-000000-000 Traffic,100-25-401-4021-000000-000 Traffic,"2,468,994","2,721,208","2,721,208","2,716,606"
+,0505 Traffic Engineering,"2,468,994","2,721,208","2,721,208","2,716,606"
+0507 Property Management,0507 Property Management,,,,
+100-25-402-4040-000000-000 Properties Management,100-25-402-4040-000000-000 Properties Management,100-25-402-4040-000000-000 Properties Management,,,
+501000,Sal-Full-time,"1,257,981","1,450,717","1,450,717","1,349,041"
+501100,Sal-Part-time,"21,007",0,0,0
+501200,Accrued Payroll,"8,955",0,0,0
+510000,Sal-Overtime,"6,358","10,000","10,000","10,000"
+510005,Allow-On-Call,"9,720","12,948","12,948","9,720"
+510099,Sal-Allow for Salary Savings,0,"-69,075","-69,075","-67,453"
+511100,Bene-FICA,"93,618","105,178","105,178","103,943"
+511115,Bene-Health Insurance,"198,020","238,840","238,840","264,700"
+GovMax V5,,,,18-24,

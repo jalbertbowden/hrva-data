@@ -1,0 +1,65 @@
+Name: “Table 1 of 1 on page 2 of 78”,Name: “Table 1 of 1 on page 2 of 78”,Name: “Table 1 of 1 on page 2 of 78”,Name: “Table 1 of 1 on page 2 of 78”,Name: “Table 1 of 1 on page 2 of 78”,Name: “Table 1 of 1 on page 2 of 78”
+Table: 2,Table: 2,Table: 2,Table: 2,Table: 2,Table: 2
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0103 City Manager,0103 City Manager,,,,
+100-10-102-1020-000000-000 City Manager,100-10-102-1020-000000-000 City Manager,,,,
+501100,Sal-Part-time,0,"5,200","5,200","60,004"
+501200,Accrued Payroll,"3,644",0,0,0
+510001,Allow-Automotive,"9,600","9,600","9,600","9,600"
+510003,Allow-Deferred Compensation,"14,206","17,200","17,200",0
+510006,Allow-Other,"3,600","3,600","3,600",0
+510099,Sal-Allow for Salary Savings,0,"-24,745","-24,745","-24,831"
+511100,Bene-FICA,"27,676","37,360","37,360","35,845"
+511115,Bene-Health Insurance,"20,003","44,508","44,508","35,275"
+511120,Bene-Dental Insurance,222,252,252,120
+511125,Bene-VRS Life Insurance,"1,177","1,529","1,529","4,124"
+511140,Bene-Retirement VRS,"55,726","72,351","72,351","28,665"
+511145,Bene-Retirement PSRS,"62,967","62,170","62,170","71,749"
+511166,Bene-Allowance for Vacancy,0,"-1,741","-1,741","-1,929"
+,Sav,,,,
+521905,Contractual-Other,"6,865","45,569","25,566","40,000"
+522115,Maint-Office Equipment,0,100,100,100
+531914,Supp-Office and Printing,22,"10,884","10,884","10,884"
+531921,Supp-Sympathy Flowers,"3,659",0,0,0
+531922,Supp-Productions,0,"10,000","10,000","2,500"
+531999,Supp-Other,"6,401","3,550","3,550","13,000"
+535100,Books and Publications,-350,"3,000","3,000","1,000"
+536110,Dues-Memberships,"19,366","9,600","9,600","20,000"
+542010,Tele-Telephone,0,300,300,300
+542020,Tele-Telephone Cellular,6,"6,044","6,044",0
+555100,Training,0,"2,040","2,040","2,040"
+555210,Travel,"3,429","10,250","10,250","10,000"
+555228,Purchase Card,149,0,0,0
+555399,Mtgs-Other,"24,002","23,650","43,653","24,000"
+610101,Computer Service Charges,"12,866","30,119","30,119","16,606"
+610102,Telecommunications Charges,"8,919","5,603","5,603","7,773"
+630101,Risk Management Charges,"4,388","4,410","4,410","5,196"
+,100-10-102-1020-000000-000 City,"712,990","966,284","966,284","868,629"
+,0103 City Manager,"712,990","966,284","966,284","868,629"
+0104 Management and Legislative Affairs,0104 Management and Legislative Affairs,0104 Management and Legislative Affairs,,,
+100-10-102-1021-000000-000 Management and Legislative Affairs,100-10-102-1021-000000-000 Management and Legislative Affairs,100-10-102-1021-000000-000 Management and Legislative Affairs,100-10-102-1021-000000-000 Management and Legislative Affairs,,
+501000,Sal-Full-time,"98,429","140,074","140,074","141,007"
+501200,Accrued Payroll,"1,060",0,0,0
+510099,Sal-Allow for Salary Savings,0,"-6,794","-6,794","-7,051"
+511100,Bene-FICA,"7,200","10,394","10,394","10,787"
+511115,Bene-Health Insurance,"10,483","18,577","18,577","16,101"
+511120,Bene-Dental Insurance,28,12,12,12
+511125,Bene-VRS Life Insurance,265,380,380,"1,678"
+511140,Bene-Retirement VRS,"11,481","18,004","18,004","11,661"
+511166,Bene-Allowance for Vacancy,0,-538,-538,-624
+,Sav,,,,
+521905,Contractual-Other,"105,176","87,840","87,840","87,840"
+531914,Supp-Office and Printing,441,"3,462","3,462","3,462"
+535100,Books and Publications,0,530,530,530
+536110,Dues-Memberships,515,954,954,954
+542020,Tele-Telephone Cellular,588,"1,261","1,261","1,261"
+555100,Training,"1,441","3,290","3,290","3,290"
+555210,Travel,0,"1,020","1,020","1,020"
+555228,Purchase Card,"3,710",0,0,0
+556125,Civ Orgs-Va Institute Of Govt,0,"10,000","10,000","10,000"
+GovMax V5,,,,18-2,

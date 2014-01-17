@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 70 of 78”,Name: “Table 1 of 1 on page 70 of 78”,Name: “Table 1 of 1 on page 70 of 78”,Name: “Table 1 of 1 on page 70 of 78”,Name: “Table 1 of 1 on page 70 of 78”,Name: “Table 1 of 1 on page 70 of 78”
+Table: 70,Table: 70,Table: 70,Table: 70,Table: 70,Table: 70
+,,,,,
+,,"Revenue Line Item Budget Report grouped by Fund, Account Major","Revenue Line Item Budget Report grouped by Fund, Account Major","Revenue Line Item Budget Report grouped by Fund, Account Major",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Revenue Description,Actual,Adopted,Amended,Budget
+,,,Cemetery Fund,Cemetery Fund,
+33 Charges For Services,33 Charges For Services,,,,
+500-00-000-0000-000000-000 Cemetary Fund,500-00-000-0000-000000-000 Cemetary Fund,,,,
+413040 Fees-Burial,413040 Fees-Burial,0,"50,000","50,000","50,000"
+Org Code 500-00-000-0000-000000-000,Org Code 500-00-000-0000-000000-000,0,"50,000","50,000","50,000"
+,33 Charges For Services,0,"50,000","50,000","50,000"
+34 Revenue from Use of Money,34 Revenue from Use of Money,,,,
+500-00-000-0000-000000-000 Cemetary Fund,500-00-000-0000-000000-000 Cemetary Fund,,,,
+417100 Investment Income-Realized,417100 Investment Income-Realized,0,"50,000","50,000","50,000"
+Org Code 500-00-000-0000-000000-000,Org Code 500-00-000-0000-000000-000,0,"50,000","50,000","50,000"
+34 Revenue from Use of Money,34 Revenue from Use of Money,0,"50,000","50,000","50,000"
+,500 Cemetery Fund,0,"100,000","100,000","100,000"
+,,New Port Community Development Authority,New Port Community Development Authority,New Port Community Development Authority,
+33 Charges For Services,33 Charges For Services,,,,
+630-00-000-0000-000000-000 New Port Community Development Authority,630-00-000-0000-000000-000 New Port Community Development Authority,630-00-000-0000-000000-000 New Port Community Development Authority,630-00-000-0000-000000-000 New Port Community Development Authority,630-00-000-0000-000000-000 New Port Community Development Authority,
+413330 Fees-Special Assessments,413330 Fees-Special Assessments,"1,022,550","1,022,642","1,022,642","1,019,903"
+Org Code 630-00-000-0000-000000-000,Org Code 630-00-000-0000-000000-000,"1,022,550","1,022,642","1,022,642","1,019,903"
+,33 Charges For Services,"1,022,550","1,022,642","1,022,642","1,019,903"
+630 New Port Community Development Authority,630 New Port Community Development Authority,"1,022,550","1,022,642","1,022,642","1,019,903"
+,,,Public Utility Fund,Public Utility Fund,
+33 Charges For Services,33 Charges For Services,,,,
+700-00-000-0000-000000-000 Public Utility Fund,700-00-000-0000-000000-000 Public Utility Fund,700-00-000-0000-000000-000 Public Utility Fund,,,
+413105 Fees-Fire Hydrant,413105 Fees-Fire Hydrant,"324,414","299,040","299,040","310,000"
+413115 Fees-Fishing Concession,413115 Fees-Fishing Concession,"1,500","2,000","2,000","1,000"
+413145 Fees-On and Off Charges,413145 Fees-On and Off Charges,"345,190","400,000","400,000","375,000"
+413210 Fees-Service Lines,413210 Fees-Service Lines,"176,591","120,000","120,000","100,000"
+413215 Fees-Sewer Connection,413215 Fees-Sewer Connection,"29,374","60,000","60,000","60,000"
+413220 Fees-Sewer Customers,413220 Fees-Sewer Customers,"8,651,355","9,511,329","9,511,329","9,511,329"
+413225 Fees-Sewer Lateral & Plugging,413225 Fees-Sewer Lateral & Plugging,"1,175","2,000","2,000","2,000"
+413275 Fees-Water Sales Chesap,413275 Fees-Water Sales Chesap,"281,489","292,938","292,938","292,938"
+Direct,,,,,
+413276 Fees-Water Sales Chesap Bulk,413276 Fees-Water Sales Chesap Bulk,"9,316,318","9,906,121","9,906,121","9,906,121"
+413280 Fees-Water Sales Suffolk,413280 Fees-Water Sales Suffolk,"3,902,808","4,055,064","4,055,064","4,055,064"
+413285 Fees-Water Sales Portsmouth,413285 Fees-Water Sales Portsmouth,"16,254,780","17,839,269","17,839,269","17,054,342"
+418201 Late Charges,418201 Late Charges,"257,772","190,000","190,000","225,000"
+418704 Sale of Equipment,418704 Sale of Equipment,"1,900",0,0,0
+418709 Sale of Materials,418709 Sale of Materials,"7,968","6,000","6,000","6,000"
+418901 Cash Over/Under,418901 Cash Over/Under,-461,0,0,0
+418999 Miscellaneous Revenue,418999 Miscellaneous Revenue,"31,321","95,000","95,000","95,000"
+Org Code 700-00-000-0000-000000-000,Org Code 700-00-000-0000-000000-000,"39,583,494","42,778,761","42,778,761","41,993,794"
+,33 Charges For Services,"39,583,494","42,778,761","42,778,761","41,993,794"
+GovMax V5,,,,18-70,

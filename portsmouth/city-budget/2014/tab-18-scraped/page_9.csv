@@ -1,0 +1,63 @@
+Name: “Table 1 of 1 on page 9 of 78”,Name: “Table 1 of 1 on page 9 of 78”,Name: “Table 1 of 1 on page 9 of 78”,Name: “Table 1 of 1 on page 9 of 78”,Name: “Table 1 of 1 on page 9 of 78”,Name: “Table 1 of 1 on page 9 of 78”
+Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0117 Marketing and Communications,0117 Marketing and Communications,,,,
+100-10-102-1022-000000-000 Marketing and Communications,100-10-102-1022-000000-000 Marketing and Communications,100-10-102-1022-000000-000 Marketing and Communications,,,
+630101,Risk Management Charges,"5,814","5,843","5,843","8,870"
+850102,Cap-Equipment,"66,091","75,000","75,000","75,000"
+,Communications,,,,
+100-10-102-1022-000000-000 Marketing,100-10-102-1022-000000-000 Marketing,"1,566,907","1,665,697","1,665,697","1,639,793"
+0117 Marketing and Communications,0117 Marketing and Communications,"1,566,907","1,665,697","1,665,697","1,639,793"
+0120 City Auditor,0120 City Auditor,,,,
+100-10-100-1015-000000-000 City Auditor,100-10-100-1015-000000-000 City Auditor,,,,
+501000,Sal-Full-time,0,0,0,"90,000"
+511100,Bene-FICA,0,0,0,"6,885"
+511115,Bene-Health Insurance,0,0,0,"10,263"
+511120,Bene-Dental Insurance,0,0,0,36
+511125,Bene-VRS Life Insurance,0,0,0,"1,071"
+511140,Bene-Retirement VRS,0,0,0,"7,443"
+531914,Supp-Office and Printing,0,0,0,"1,000"
+536110,Dues-Memberships,0,0,0,"1,000"
+555100,Training,0,0,0,"2,000"
+555210,Travel,0,0,0,"2,000"
+,100-10-100-1015-000000-000 City,0,0,0,"121,698"
+,0120 City Auditor,0,0,0,"121,698"
+0201 Non-Departmental,0201 Non-Departmental,,,,
+100-10-114-1143-000000-000 Non-Departmental,100-10-114-1143-000000-000 Non-Departmental,,,,
+501000,Sal-Full-time,0,0,0,"1,613,282"
+510099,Sal-Allow for Salary Savings,0,"-22,500","-22,500",0
+511115,Bene-Health Insurance,"491,496","491,496","491,496","1,725,485"
+511125,Bene-VRS Life Insurance,-18,"134,464","134,464",0
+511130,Bene-Unemployment,"71,663","95,000","95,000","95,000"
+511145,Bene-Retirement PSRS,"23,022","22,641","22,641","25,184"
+511155,Bene-Retiree Gratuity Life Ins,"227,345","150,000","150,000","150,000"
+521305,Contractual-Jail Per Diem,"3,553,860","3,924,630","3,989,806","4,275,063"
+521905,Contractual-Other,"9,004",0,0,0
+541080,Util-Water Hydrant Chgs,"298,440","298,440","298,440","298,440"
+542010,Tele-Telephone,"507,989","621,500","621,500","621,500"
+542020,Tele-Telephone Cellular,"73,278","180,000","180,000","180,000"
+555105,Training-Department Head,0,"10,000","10,000","10,000"
+555228,Purchase Card,"100,836",0,0,0
+555310,Contingency-Public Health Dept,0,0,"100,473",0
+555405,RETIREE BONUS,"612,840",0,0,0
+555410,Line of Duty for Public Safety,"134,339","295,000","295,000","295,000"
+556103,Civ Orgs-Eastern VA Med,"45,000","45,000","45,000","45,000"
+,School,,,,
+556106,Civ Orgs-HR Planning District,"183,894","183,757","183,757","183,757"
+556108,Civ Orgs-Sports Hall of Fame,"550,000","350,000","350,000","850,000"
+556112,Civ Orgs-Milit/Fed Fac Allianc,"49,257","49,257","49,257","49,257"
+556114,Civ Orgs-Comm. Health Center,"76,198","76,198","76,198","76,198"
+556119,Civ Orgs-Portsmouth Partnersh,"25,000","25,000","25,000","25,000"
+556130,Civ Orgs-Natl League Cities,"8,743","7,816","7,816","7,816"
+558132,PA-Hospitalization of Indigent,0,"10,000","10,000","10,000"
+560100,Sr Citizen Tax Relief,"1,982,641","2,500,000","2,500,000","2,000,000"
+560110,Business Retention,"73,750",0,0,0
+560130,Outside Agency-CCDI,0,0,"161,792",0
+560135,Enterprise Zone Rebates,0,0,0,"40,000"
+560200,State Aid Budget Reductions,"1,123,481","1,124,384","1,124,384",0
+GovMax V5,,,,18-9,

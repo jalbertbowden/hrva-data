@@ -1,0 +1,65 @@
+Name: “Table 1 of 1 on page 54 of 78”,Name: “Table 1 of 1 on page 54 of 78”,Name: “Table 1 of 1 on page 54 of 78”,Name: “Table 1 of 1 on page 54 of 78”,Name: “Table 1 of 1 on page 54 of 78”,Name: “Table 1 of 1 on page 54 of 78”
+Table: 54,Table: 54,Table: 54,Table: 54,Table: 54,Table: 54
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,Information Technology Fund,Information Technology Fund,Information Technology Fund,
+0115 Information Technology,0115 Information Technology,,,,
+810-56-113-1130-000000-000 Information Technology,810-56-113-1130-000000-000 Information Technology,810-56-113-1130-000000-000 Information Technology,,,
+511100,Bene-FICA,"113,144","115,146","115,146","119,670"
+511115,Bene-Health Insurance,"321,145","193,969","193,969","223,334"
+511120,Bene-Dental Insurance,816,888,888,660
+511125,Bene-VRS Life Insurance,"4,057","23,222","23,222","18,616"
+511140,Bene-Retirement VRS,"149,125","133,076","133,076","102,614"
+511145,Bene-Retirement PSRS,"260,649","244,788","244,788","287,177"
+511166,Bene-Allowance for Vacancy,0,"-5,968","-5,968","-7,870"
+,Sav,,,,
+511170,Accrued Annual Leave,"10,984",0,0,0
+511175,Accrued Comp Time,477,0,0,0
+521905,Contractual-Other,"107,094","88,420","88,420","141,190"
+522110,Maint-Equipment,"80,152","151,015","151,015","105,285"
+523115,Rentals-Computer Software,"685,661","764,374","764,374","774,750"
+531001,Supp-Postage,73,"1,000","1,000",500
+531908,Supp-Forms for Resale,"30,192","25,000","25,000","25,000"
+531914,Supp-Office and Printing,669,"1,000","1,000","1,000"
+531999,Supp-Other,"10,819","15,000","15,000","10,000"
+532150,Mat-Cable and Wiring,"4,710","5,000","5,000","5,000"
+533070,Noncap-Computer Software,"37,747","44,840","44,840","37,185"
+542010,Tele-Telephone,"12,219","15,500","15,500","10,500"
+542020,Tele-Telephone Cellular,436,"1,850","1,850",850
+553000,Indirect Cost Allocation,"280,938","280,938","280,938","280,938"
+555100,Training,"5,542","10,000","10,000","14,000"
+620101,Garage Equip Rental Charges,0,"3,851","3,851","3,851"
+850101,Cap-Equipment-Other,"226,645","323,000","323,000","202,000"
+890999,Depreciation Expense,"442,702",0,0,0
+891999,Amortization Expense,"91,450",0,0,0
+,810-56-113-1130-000000-000,"4,427,093","3,963,104","3,963,104","3,933,498"
+,0115 Information Technology,"4,427,093","3,963,104","3,963,104","3,933,498"
+0116 Information Technology - Telecommunications,0116 Information Technology - Telecommunications,0116 Information Technology - Telecommunications,0116 Information Technology - Telecommunications,,
+810-56-113-1131-000000-000 Telecommunications,810-56-113-1131-000000-000 Telecommunications,810-56-113-1131-000000-000 Telecommunications,,,
+501000,Sal-Full-time,"284,394","320,921","320,921","320,923"
+510005,Allow-On-Call,"1,176","4,317","4,317","1,080"
+510099,Sal-Allow for Salary Savings,0,"-15,275","-15,275","-16,047"
+511100,Bene-FICA,"20,582","23,370","23,370","24,633"
+511115,Bene-Health Insurance,"39,127","53,182","53,182","44,610"
+511120,Bene-Dental Insurance,192,216,216,144
+511125,Bene-VRS Life Insurance,758,855,855,"3,832"
+511140,Bene-Retirement VRS,"35,888","40,477","40,477","26,630"
+511166,Bene-Allowance for Vacancy,0,"-1,213","-1,213","-1,423"
+,Sav,,,,
+521905,Contractual-Other,"10,119","25,000","25,000","25,000"
+521910,Contractual-Rental Uniforms,929,"1,050","1,050","1,050"
+522110,Maint-Equipment,"174,158","212,910","212,910","214,580"
+524999,Repairs-Other,"27,000",0,0,"15,000"
+531701,Supp-Custodial,28,150,150,150
+531914,Supp-Office and Printing,0,150,150,150
+531999,Supp-Other,0,250,250,250
+532150,Mat-Cable and Wiring,"6,271","5,000","5,000","5,000"
+533090,Noncap-Radio Parts,"8,366","20,650","20,650","20,650"
+542010,Tele-Telephone,77,180,180,0
+542020,Tele-Telephone Cellular,685,800,800,800
+542030,Tele-Telephone E-911,"75,682","90,000","90,000","80,000"
+555100,Training,803,"5,000","5,000","5,000"
+GovMax V5,,,,18-54,

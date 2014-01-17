@@ -1,0 +1,66 @@
+Name: “Table 1 of 1 on page 33 of 78”,Name: “Table 1 of 1 on page 33 of 78”,Name: “Table 1 of 1 on page 33 of 78”,Name: “Table 1 of 1 on page 33 of 78”,Name: “Table 1 of 1 on page 33 of 78”,Name: “Table 1 of 1 on page 33 of 78”
+Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,Behavioral Healthcare Svc Fund,Behavioral Healthcare Svc Fund,Behavioral Healthcare Svc Fund,
+0602 Behavioral Healthcare Services Fund,0602 Behavioral Healthcare Services Fund,,,,
+400-30-501-5010-000000-000 Administration,400-30-501-5010-000000-000 Administration,,,,
+501000,Sal-Full-time,"854,693","926,141","926,141","1,099,023"
+510099,Sal-Allow for Salary Savings,0,"-44,138","-44,138","-46,319"
+511100,Bene-FICA,"59,123","67,529","67,529","70,868"
+511115,Bene-Health Insurance,"105,455","123,201","123,201","284,923"
+511120,Bene-Dental Insurance,652,684,684,488
+511125,Bene-VRS Life Insurance,"2,205","51,876","51,876","60,430"
+511140,Bene-Retirement VRS,"103,191","83,130","83,130","76,610"
+511145,Bene-Retirement PSRS,"166,290","165,499","165,499","189,664"
+511166,Bene-Allowance for Vacancy,0,"-3,500","-3,500","-6,557"
+,Sav,,,,
+521002,Contractual-Auditing,0,"5,111","5,111","5,111"
+521905,Contractual-Other,"299,308","250,000","250,000","175,000"
+522115,Maint-Office Equipment,"15,551","20,000","20,000","20,000"
+523115,Rentals-Computer Software,0,"3,000","3,000","24,000"
+523145,Rentals-Land and Buildings,"81,055","90,000","90,000","90,000"
+524100,Repairs-Buildings and Grounds,0,"1,500","1,500","1,500"
+524110,Repairs-Office Equipment,0,250,250,250
+531001,Supp-Postage,"8,507","6,000","6,000","9,000"
+531701,Supp-Custodial,899,250,250,"1,200"
+531906,Supp-Educational,0,"1,500","1,500","1,500"
+531907,Supp-Food and Provisions,"2,059","2,000","2,000","2,500"
+531914,Supp-Office and Printing,"7,571","13,000","13,000","13,000"
+531999,Supp-Other,"4,165","6,000","6,000","6,000"
+535100,Books and Publications,87,500,500,500
+536110,Dues-Memberships,"2,146","10,000","10,000","5,000"
+541999,Util-Other,"8,805","7,000","7,000","10,000"
+542010,Tele-Telephone,"28,132","45,000","45,000","35,000"
+542020,Tele-Telephone Cellular,295,300,300,400
+553000,Indirect Cost Allocation,"77,348","77,348","77,348","77,348"
+554010,Advertising,101,"2,000","2,000","2,000"
+555205,Travel-Mileage,114,"2,000","2,000","2,000"
+555210,Travel,"6,513","8,000","8,000","10,000"
+555228,Purchase Card,197,0,0,0
+559900,Contingency-Other Operating,0,"210,003","210,003","150,000"
+610101,Computer Service Charges,"198,513","203,271","203,271","216,968"
+610102,Telecommunications Charges,"23,604","19,482","19,482","29,894"
+630101,Risk Management Charges,"132,077","132,717","132,717","134,096"
+990100,Trans to General Fund,"338,000","338,000","338,000","338,000"
+,400-30-501-5010-000000-000,"2,526,653","2,824,654","2,824,654","3,089,397"
+400-30-501-5011-000000-000 Mental Health,400-30-501-5011-000000-000 Mental Health,,,,
+501000,Sal-Full-time,"1,219,450","1,686,281","1,686,281","1,746,356"
+501100,Sal-Part-time,0,"52,000","52,000","52,000"
+510099,Sal-Allow for Salary Savings,0,"-81,292","-81,292","-87,319"
+511100,Bene-FICA,"90,092","124,238","124,238","133,588"
+511115,Bene-Health Insurance,"154,967","204,627","204,627","239,864"
+511120,Bene-Dental Insurance,770,744,744,668
+511125,Bene-VRS Life Insurance,"3,351","4,548","4,548","20,785"
+511140,Bene-Retirement VRS,"147,362","203,921","203,921","138,375"
+511166,Bene-Allowance for Vacancy,0,"-6,435","-6,435","-7,727"
+,Sav,,,,
+521202,Contractual-Disposal Fees,"1,516","2,500","2,500","2,500"
+521603,Contractual-Medical Expenses,"412,819","435,000","435,000","475,000"
+521905,Contractual-Other,"704,035","285,000","285,000","644,559"
+522115,Maint-Office Equipment,"17,093","22,000","22,000","22,000"
+522130,Maint-Security System,"3,106","2,000","2,000","3,600"
+GovMax V5,,,,18-33,

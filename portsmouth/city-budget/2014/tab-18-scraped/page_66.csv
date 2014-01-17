@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 66 of 78”,Name: “Table 1 of 1 on page 66 of 78”,Name: “Table 1 of 1 on page 66 of 78”,Name: “Table 1 of 1 on page 66 of 78”,Name: “Table 1 of 1 on page 66 of 78”,Name: “Table 1 of 1 on page 66 of 78”
+Table: 66,Table: 66,Table: 66,Table: 66,Table: 66,Table: 66
+,,,,,
+,,"Revenue Line Item Budget Report grouped by Fund, Account Major","Revenue Line Item Budget Report grouped by Fund, Account Major","Revenue Line Item Budget Report grouped by Fund, Account Major",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Revenue Description,Actual,Adopted,Amended,Budget
+,,Behavioral Healthcare Svc Fund,Behavioral Healthcare Svc Fund,Behavioral Healthcare Svc Fund,
+32 Intergovernmental Revenue,32 Intergovernmental Revenue,,,,
+400-30-501-5014-000000-000 Prevention,400-30-501-5014-000000-000 Prevention,,,,
+423170 St-Prevention-Client Fees,423170 St-Prevention-Client Fees,0,"25,000",0,"25,000"
+Org Code 400-30-501-5014-000000-000,Org Code 400-30-501-5014-000000-000,0,"25,000",0,"25,000"
+32 Intergovernmental Revenue,32 Intergovernmental Revenue,"9,835,660","10,107,404","10,122,064","10,829,156"
+33 Charges For Services,33 Charges For Services,,,,
+400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,,
+413800 Svcs-MH Local Other,413800 Svcs-MH Local Other,"3,557","3,000","3,000",0
+413840 Svcs-SA Local Other,413840 Svcs-SA Local Other,"24,811",0,0,"40,000"
+418999 Miscellaneous Revenue,418999 Miscellaneous Revenue,"3,917",0,"250,000",0
+Org Code 400-00-000-0000-000000-000,Org Code 400-00-000-0000-000000-000,"32,285","3,000","253,000","40,000"
+400-30-501-5010-000000-000 Administration,400-30-501-5010-000000-000 Administration,,,,
+418999 Miscellaneous Revenue,418999 Miscellaneous Revenue,0,"250,000",0,"250,000"
+Org Code 400-30-501-5010-000000-000,Org Code 400-30-501-5010-000000-000,0,"250,000",0,"250,000"
+400-30-501-5011-000000-000 Mental Health,400-30-501-5011-000000-000 Mental Health,,,,
+413800 Svcs-MH Local Other,413800 Svcs-MH Local Other,0,0,0,"5,000"
+Org Code 400-30-501-5011-000000-000,Org Code 400-30-501-5011-000000-000,0,0,0,"5,000"
+,33 Charges For Services,"32,285","253,000","253,000","295,000"
+34 Revenue from Use of Money,34 Revenue from Use of Money,,,,
+400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,,
+417100 Investment Income-Realized,417100 Investment Income-Realized,439,0,0,0
+Org Code 400-00-000-0000-000000-000,Org Code 400-00-000-0000-000000-000,439,0,0,0
+34 Revenue from Use of Money,34 Revenue from Use of Money,439,0,0,0
+90 Operating Transfers In,90 Operating Transfers In,,,,
+400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,400-00-000-0000-000000-000 Behavioral Healthcare Svc Fund,,
+499100 Trans Fr General Fund,499100 Trans Fr General Fund,"365,988","360,991","595,734",0
+Org Code 400-00-000-0000-000000-000,Org Code 400-00-000-0000-000000-000,"365,988","360,991","595,734",0
+400-30-501-5011-000000-000 Mental Health,400-30-501-5011-000000-000 Mental Health,,,,
+499100 Trans Fr General Fund,499100 Trans Fr General Fund,0,"153,688",0,"462,088"
+Org Code 400-30-501-5011-000000-000,Org Code 400-30-501-5011-000000-000,0,"153,688",0,"462,088"
+400-30-501-5012-000000-000 Mental Retardation,400-30-501-5012-000000-000 Mental Retardation,400-30-501-5012-000000-000 Mental Retardation,,,
+499100 Trans Fr General Fund,499100 Trans Fr General Fund,0,"23,549",0,"75,380"
+Org Code 400-30-501-5012-000000-000,Org Code 400-30-501-5012-000000-000,0,"23,549",0,"75,380"
+400-30-501-5013-000000-000 Substance Abuse,400-30-501-5013-000000-000 Substance Abuse,400-30-501-5013-000000-000 Substance Abuse,,,
+499100 Trans Fr General Fund,499100 Trans Fr General Fund,0,"57,506",0,"154,945"
+Org Code 400-30-501-5013-000000-000,Org Code 400-30-501-5013-000000-000,0,"57,506",0,"154,945"
+,90 Operating Transfers In,"365,988","595,734","595,734","692,413"
+400 Behavioral Healthcare Svc Fund,400 Behavioral Healthcare Svc Fund,"10,234,372","10,956,138","10,970,798","11,816,569"
+GovMax V5,,,,18-66,

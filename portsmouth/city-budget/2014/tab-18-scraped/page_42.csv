@@ -1,0 +1,62 @@
+Name: “Table 1 of 1 on page 42 of 78”,Name: “Table 1 of 1 on page 42 of 78”,Name: “Table 1 of 1 on page 42 of 78”,Name: “Table 1 of 1 on page 42 of 78”,Name: “Table 1 of 1 on page 42 of 78”,Name: “Table 1 of 1 on page 42 of 78”
+Table: 42,Table: 42,Table: 42,Table: 42,Table: 42,Table: 42
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,Community Services Fund,Community Services Fund,
+0604 CSA Fund,0604 CSA Fund,,,,
+415-30-502-5039-000000-000 CSA Services,415-30-502-5039-000000-000 CSA Services,,,,
+558180,PA-2A1 Ther Foster Care,"1,272,193","2,187,510","2,187,510","1,800,000"
+558181,PA-2A2 TFC Par Agr/NonCus,579,"33,649","33,649","15,644"
+558182,PA-2B Spec Foster Care IVE,"139,510","145,220","145,220","116,000"
+558183,PA-2B1 Spec Foster Care,"588,582","592,775","592,775","550,000"
+558184,PA-2C Fam Foster Care IVE,0,"12,810","12,810","5,903"
+558185,PA-2D Fam Foster Care Maint,"5,671","176,447","176,447","80,000"
+558186,PA-2E FFC Other and IL,"74,591","134,180","134,180","100,000"
+558187,PA-2F Comm Based Svcs,"175,729","622,140","622,140","361,032"
+558188,PA-2F1 Comm Svcs Transition,"21,200","74,802","74,802","75,000"
+558189,PA-2G Alt Day/SPED Day,"270,923","607,888","607,888","400,000"
+558190,PA-2H Public School Svcs,"1,285","65,988","65,988","31,097"
+558191,PA-2I Psych Hospital,0,"7,288","7,288","3,351"
+558192,PA-3 NonMand CongCare,0,"65,650","65,650","68,650"
+558198,PA-4 Educ Svcs CongCare,"-4,465",0,0,0
+558199,PA-3 NonMand Comm,"20,087","87,870","87,870","87,870"
+558200,1E-Ed Svcs CongCare,"157,758","136,720","136,720","187,000"
+,415-30-502-5039-000000-000 CSA,"3,305,743","7,435,083","7,435,083","5,102,029"
+415-30-502-5040-000000-000 CSA Medicaid,415-30-502-5040-000000-000 CSA Medicaid,,,,
+558164,PA-Medicaid,"78,759","231,384","231,384","200,000"
+,415-30-502-5040-000000-000 CSA,"78,759","231,384","231,384","200,000"
+,0604 CSA Fund,"3,384,502","7,666,467","7,666,467","5,302,029"
+,415 Community Services Fund,"3,384,502","7,666,467","7,666,467","5,302,029"
+,,Stormwater Management Fund,Stormwater Management Fund,Stormwater Management Fund,
+0502 Storm Water Management Fund,0502 Storm Water Management Fund,,,,
+420-25-400-4002-000000-000 Stormwater Management,420-25-400-4002-000000-000 Stormwater Management,420-25-400-4002-000000-000 Stormwater Management,,,
+501000,Sal-Full-time,"569,337","709,071","709,071","858,564"
+510000,Sal-Overtime,"14,177","11,000","11,000","11,000"
+510005,Allow-On-Call,"6,397","10,796","10,796","6,480"
+510099,Sal-Allow for Salary Savings,0,"-38,218","-38,218","-51,062"
+511100,Bene-FICA,"42,077","52,768","52,768","64,298"
+511115,Bene-Health Insurance,"97,309","137,779","137,779","217,375"
+511120,Bene-Dental Insurance,542,504,504,540
+511125,Bene-VRS Life Insurance,"1,492","9,297","9,297","17,366"
+511140,Bene-Retirement VRS,"60,308","85,452","85,452","63,632"
+511145,Bene-Retirement PSRS,"105,495","107,850","107,850","125,586"
+511166,Bene-Allowance for Vacancy,0,"-2,739","-2,739","-4,086"
+,Sav,,,,
+521002,Contractual-Auditing,0,"1,300","1,300","1,300"
+521905,Contractual-Other,"263,860","400,000","400,000","426,275"
+521910,Contractual-Rental Uniforms,"6,510","6,181","6,181","6,181"
+524999,Repairs-Other,0,"5,000","5,000","5,000"
+531602,Supp-Medical,633,300,300,300
+531914,Supp-Office and Printing,"3,448","5,000","5,000","5,000"
+531917,Supp-Uniforms,"1,931","4,080","4,080","4,080"
+531999,Supp-Other,"6,452","22,000","22,000","22,000"
+532120,Mat-Construction,"30,632","52,000","52,000","52,000"
+533030,Noncap-Small Tools,657,"2,500","2,500","2,500"
+541999,Util-Other,"34,473","44,100","44,100","44,100"
+542010,Tele-Telephone,160,"2,000","2,000","2,000"
+542020,Tele-Telephone Cellular,"2,301","2,000","2,000","2,000"
+553000,Indirect Cost Allocation,"76,534","76,533","76,533","76,533"
+GovMax V5,,,,18-42,

@@ -1,0 +1,64 @@
+Name: “Table 1 of 1 on page 20 of 78”,Name: “Table 1 of 1 on page 20 of 78”,Name: “Table 1 of 1 on page 20 of 78”,Name: “Table 1 of 1 on page 20 of 78”,Name: “Table 1 of 1 on page 20 of 78”,Name: “Table 1 of 1 on page 20 of 78”
+Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20
+,,,,,
+,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0401 Police Department,,,,,
+100-20-300-3003-100025-134 Pol-Crime Prevention,100-20-300-3003-100025-134 Pol-Crime Prevention,100-20-300-3003-100025-134 Pol-Crime Prevention,,,
+530101,Crime Prevention Supplies,"7,015","15,210","15,210","15,210"
+,100-20-300-3003-100025-134,"7,015","15,210","15,210","15,210"
+100-20-300-3003-100030-136 Pol-Uniform Patrol,100-20-300-3003-100030-136 Pol-Uniform Patrol,,,,
+521905,Contractual-Other,500,0,0,0
+531914,Supp-Office and Printing,"1,204",0,0,0
+531999,Supp-Other,"1,864",0,0,0
+536110,Dues-Memberships,385,0,0,0
+555100,Training,"6,533",0,0,0
+555210,Travel,84,0,0,0
+,100-20-300-3003-100030-136,"10,570",0,0,0
+100-20-300-3003-100030-137 Pol-Auxiliary,100-20-300-3003-100030-137 Pol-Auxiliary,,,,
+555100,Training,415,0,0,0
+,100-20-300-3003-100030-137,415,0,0,0
+100-20-300-3005-100000-108 Pol-Animal Control,100-20-300-3005-100000-108 Pol-Animal Control,,,,
+501000,Sal-Full-time,"285,684","371,703","371,703","359,291"
+501100,Sal-Part-time,"17,184",0,0,0
+510000,Sal-Overtime,0,"16,210","16,210","16,210"
+510099,Sal-Allow for Salary Savings,0,"-18,584","-18,584","-17,964"
+511100,Bene-FICA,0,"28,432","28,432","27,485"
+511115,Bene-Health Insurance,0,"96,827","96,827","84,755"
+511120,Bene-Dental Insurance,0,408,408,280
+511125,Bene-VRS Life Insurance,0,"1,041","1,041","4,277"
+511140,Bene-Retirement VRS,0,"38,922","38,922","27,012"
+511145,Bene-Retirement PSRS,"10,188","10,931","10,931","13,202"
+511166,Bene-Allowance for Vacancy,0,"-1,474","-1,474","-1,588"
+,Sav,,,,
+521102,Contractual-Humane Society,"297,917","325,000","325,000","325,000"
+531914,Supp-Office and Printing,964,"1,848","1,848","1,848"
+531917,Supp-Uniforms,0,"6,859","6,859","6,859"
+531999,Supp-Other,"2,922","6,998","6,998","6,998"
+555100,Training,600,"1,050","1,050","5,345"
+,100-20-300-3005-100000-108,"615,459","886,171","886,171","859,010"
+,0401 Police Department,"32,062,060","33,961,284","33,961,284","34,196,570"
+0402 E-911,,,,,
+100-20-300-3004-000000-000 E-911 Communications,100-20-300-3004-000000-000 E-911 Communications,100-20-300-3004-000000-000 E-911 Communications,,,
+501000,Sal-Full-time,"932,776","1,016,117","931,117","953,871"
+501100,Sal-Part-time,"18,705","33,672","33,672","33,672"
+501200,Accrued Payroll,"17,738",0,0,0
+510000,Sal-Overtime,"35,741","101,411","186,411","101,411"
+510099,Sal-Allow for Salary Savings,0,"-48,845","-48,845","-47,692"
+511100,Bene-FICA,"70,676","74,732","74,732","72,975"
+511115,Bene-Health Insurance,"152,565","205,065","205,065","204,687"
+511120,Bene-Dental Insurance,994,"1,140","1,140",740
+511125,Bene-VRS Life Insurance,"2,542","2,734","2,734","11,359"
+511140,Bene-Retirement VRS,"105,516","116,205","116,205","78,883"
+511145,Bene-Retirement PSRS,"66,917","59,548","59,548","66,418"
+511166,Bene-Allowance for Vacancy,0,"-3,884","-3,884","-4,215"
+,Sav,,,,
+521917,Contractual-Wireless E-911,0,"5,254","5,254","5,254"
+522115,Maint-Office Equipment,0,36,36,36
+523999,Rentals-Other,"3,401","3,624","3,624","3,624"
+524999,Repairs-Other,0,"2,339","2,339","2,339"
+531914,Supp-Office and Printing,"1,672","3,872","3,872","3,872"
+GovMax V5,,,,18-20,

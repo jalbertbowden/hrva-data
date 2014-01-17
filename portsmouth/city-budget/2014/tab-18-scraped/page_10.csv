@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 10 of 78”,Name: “Table 1 of 1 on page 10 of 78”,Name: “Table 1 of 1 on page 10 of 78”,Name: “Table 1 of 1 on page 10 of 78”,Name: “Table 1 of 1 on page 10 of 78”,Name: “Table 1 of 1 on page 10 of 78”
+Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0201 Non-Departmental,0201 Non-Departmental,,,,
+100-10-114-1143-000000-000 Non-Departmental,100-10-114-1143-000000-000 Non-Departmental,,,,
+560300,Emergency Drought,0,"50,000","50,000","50,000"
+,Funding-Golf,,,,
+560600,Recreation Initiatives,"58,152",0,0,0
+590000,Bad Debt Expense,"-69,401",0,0,0
+610101,Computer Service Charges,"29,164","30,146","30,146","43,583"
+610102,Telecommunications Charges,"9,622","15,297","15,297","11,801"
+620102,Motor Pool Charges,"4,066",0,0,0
+620103,Garage Contractual Charges,0,"3,851","3,851","3,851"
+630101,Risk Management Charges,"904,544","908,929","908,929","918,426"
+,100-10-114-1143-000000-000,"11,158,205","11,580,306","11,907,747","13,603,643"
+,0201 Non-Departmental,"11,158,205","11,580,306","11,907,747","13,603,643"
+0202 Transfers and Contingencies,0202 Transfers and Contingencies,,,,
+100-10-114-1141-000000-000 Contingencies,100-10-114-1141-000000-000 Contingencies,,,,
+559900,Contingency-Other Operating,"8,664","477,231","477,231","390,497"
+980950,Trans to Public Schools Oper,"49,571,413","48,871,532","53,771,532","47,300,000"
+990300,Trans to CIP Fund,"2,495,000",0,"300,000","4,516,039"
+990305,Transfer to Courts Cap Reserve,"1,818,803",0,0,0
+990400,Trans to BHS Fund,"365,988","595,731","595,731","692,413"
+990410,Trans to Social Services Fund,"5,042,639","4,772,167","4,772,167","4,772,167"
+990415,Trans to Community Services,"911,667","2,764,093","2,764,093","1,529,079"
+990425,Trans to Grants Fund,"3,593",0,0,0
+990430,Trans to Donations Fund,0,"47,000","47,000",0
+990435,Trans to Willett Hall Fund,"2,683",0,0,"92,812"
+990720,Trans to Golf Fund,"611,460","1,116,739","1,116,739","1,271,332"
+990740,Trans to Waste Management,0,0,0,"280,000"
+,Fund,,,,
+990750,Trans to Parking Authority,"124,238","261,475","261,475","64,397"
+,100-10-114-1141-000000-000,"60,956,148","58,905,968","64,105,968","60,908,736"
+,0202 Transfers and Contingencies,"60,956,148","58,905,968","64,105,968","60,908,736"
+0203 Public Transportation,0203 Public Transportation,,,,
+100-10-112-1120-000000-000 Public Transportation,100-10-112-1120-000000-000 Public Transportation,100-10-112-1120-000000-000 Public Transportation,,,
+556109,Civ Orgs-HRT,"1,677,597","2,773,549","2,773,549","3,047,838"
+,100-10-112-1120-000000-000 Public,"1,677,597","2,773,549","2,773,549","3,047,838"
+,0203 Public Transportation,"1,677,597","2,773,549","2,773,549","3,047,838"
+0204 Debt Service,0204 Debt Service,,,,
+100-10-114-1140-000000-000 Debt Service,100-10-114-1140-000000-000 Debt Service,,,,
+710100,DS-Bond Principal,"7,446,233","7,751,658","7,751,658","10,068,559"
+710110,DS-VPSA Principal,"576,149","985,540","985,540","996,009"
+710120,DS-BHS Bldg Principal,0,"145,000","145,000","150,000"
+710130,DS-Lease Purchase Principal,"476,812",0,0,0
+710140,DS-Literary Loan Principal,"375,000","250,000","250,000","250,000"
+710160,DS-QZAB Principal,"601,985","52,897","52,897","52,897"
+710170,DS-Human Svcs Bldg Principal,"599,140","651,713","651,713","708,899"
+720100,DS-Bond Interest,"10,485,986","9,819,935","9,819,935","10,439,396"
+720110,DS-VPSA Interest,"317,101","296,211","296,211","274,241"
+720120,DS-BHS Bldg Interest,"181,291","178,392","178,392","172,492"
+720130,DS-Lease Purchase Interest,"5,838",0,0,0
+720140,DS-Literary Loan Interest,"37,500","30,000","30,000","25,000"
+720150,DS-Note Payable Interest,"711,100","1,621,100","1,621,100","1,621,100"
+720160,DS-Human Svcs Bldg Interest,"982,709","907,895","907,895","826,515"
+GovMax V5,,,,18-10,

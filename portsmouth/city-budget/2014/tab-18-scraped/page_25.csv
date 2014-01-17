@@ -1,0 +1,60 @@
+Name: “Table 1 of 1 on page 25 of 78”,Name: “Table 1 of 1 on page 25 of 78”,Name: “Table 1 of 1 on page 25 of 78”,Name: “Table 1 of 1 on page 25 of 78”,Name: “Table 1 of 1 on page 25 of 78”,Name: “Table 1 of 1 on page 25 of 78”
+Table: 25,Table: 25,Table: 25,Table: 25,Table: 25,Table: 25
+,,,,,
+,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0507 Property Management,,,,,
+100-25-402-4040-000000-000 Properties Management,100-25-402-4040-000000-000 Properties Management,100-25-402-4040-000000-000 Properties Management,,,
+511120,Bene-Dental Insurance,"1,237","1,296","1,296",948
+511125,Bene-VRS Life Insurance,"3,326","3,849","3,849","16,166"
+511140,Bene-Retirement VRS,"157,133","182,165","182,165","112,369"
+511145,Bene-Retirement PSRS,"77,516","76,523","76,523","86,929"
+511166,Bene-Allowance for Vacancy,0,"-5,452","-5,452","-5,969"
+,Sav,,,,
+521101,Contractual-Fire Systems,"12,640","16,800","16,800","18,000"
+521205,Contractual-Pest Control,"23,528","20,000","20,000","22,000"
+521702,Contractual-Elevator,"38,816","49,800","49,800","50,000"
+521703,Contractual-Environmental,"1,286","10,000","10,000","10,000"
+,Mgmt,,,,
+521905,Contractual-Other,"457,809","709,000","709,000","807,000"
+521910,Contractual-Rental Uniforms,"19,389","20,000","20,000","20,000"
+522999,Maint-Other,"1,683","80,000","80,000","80,000"
+524100,Repairs-Buildings and Grounds,"190,010","185,000","185,000","188,000"
+524999,Repairs-Other,"1,131","1,000","1,000","1,000"
+525100,Training-Defensive Driving,0,100,100,0
+531102,Supp-Fire,"2,446","12,920","12,920","15,000"
+531202,Supp-Plumbing,"32,286","32,000","32,000","32,000"
+531701,Supp-Custodial,"91,444","74,000","74,000","74,000"
+531904,Supp-Chemicals,0,"1,000","1,000","1,000"
+531909,Supp-Glass,"3,943","4,000","4,000","4,000"
+531914,Supp-Office and Printing,"13,440","6,000","6,000","6,000"
+531920,Supp-Wearing Apparel,"6,254","2,700","2,700","2,700"
+531999,Supp-Other,"33,613","50,350","50,350","50,000"
+532120,Mat-Construction,"93,466","60,000","60,000","60,000"
+532130,Mat-Electrical,"49,886","60,000","60,000","60,000"
+533030,Noncap-Small Tools,0,"1,500","1,500","1,500"
+542020,Tele-Telephone Cellular,"3,942","6,000","6,000","6,000"
+555100,Training,"1,234","2,000","2,000","2,000"
+610101,Computer Service Charges,"27,154","27,905","27,905","41,265"
+610102,Telecommunications Charges,"10,020","15,869","15,869","12,883"
+620101,Garage Equip Rental Charges,"204,506","217,364","217,364","217,364"
+630101,Risk Management Charges,"83,458","83,862","83,862","84,793"
+,100-25-402-4040-000000-000,"3,238,255","3,756,159","3,756,159","3,746,899"
+100-25-402-4044-000000-000 Storeroom,100-25-402-4044-000000-000 Storeroom,,,,
+538900,Storeroom Purchases,"136,965","150,000","150,000","150,000"
+538950,Storeroom Recoveries,"-125,895","-150,000","-150,000","-150,000"
+,100-25-402-4044-000000-000,"11,070",0,0,0
+,0507 Property Management,"3,249,325","3,756,159","3,756,159","3,746,899"
+0508 Utilities,,,,,
+100-25-402-4041-000000-000 Utilities,100-25-402-4041-000000-000 Utilities,,,,
+541010,Util-Electricity,"1,283,138","1,335,000","1,335,000","1,500,000"
+541020,Util-Water and Sewer,"243,932","256,500","256,500","315,000"
+541050,Util-Stormwater Fees,"487,881","188,000","188,000","500,000"
+543020,Fuel-Natural Gas,"246,406","390,000","390,000","384,500"
+543030,Fuel-Oil,0,"5,000","5,000",0
+100-25-402-4041-000000-000 Utilities,100-25-402-4041-000000-000 Utilities,"2,261,358","2,174,500","2,174,500","2,699,500"
+,0508 Utilities,"2,261,358","2,174,500","2,174,500","2,699,500"
+GovMax V5,,,,18-25,

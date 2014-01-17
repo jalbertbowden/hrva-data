@@ -1,0 +1,62 @@
+Name: “Table 1 of 1 on page 51 of 78”,Name: “Table 1 of 1 on page 51 of 78”,Name: “Table 1 of 1 on page 51 of 78”,Name: “Table 1 of 1 on page 51 of 78”,Name: “Table 1 of 1 on page 51 of 78”,Name: “Table 1 of 1 on page 51 of 78”
+Table: 51,Table: 51,Table: 51,Table: 51,Table: 51,Table: 51
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,Waste Management Fund,Waste Management Fund,
+0510 Waste Management Fund,0510 Waste Management Fund,,,,
+740-25-402-4045-000000-000 Waste Management,740-25-402-4045-000000-000 Waste Management,,,,
+511140,Bene-Retirement VRS,"207,335","241,064","241,064","152,234"
+511145,Bene-Retirement PSRS,"485,313","481,839","481,839","548,820"
+511166,Bene-Allowance for Vacancy,0,"-8,405","-8,405","-9,949"
+,Sav,,,,
+511170,Accrued Annual Leave,597,0,0,0
+511175,Accrued Comp Time,"1,467",0,0,0
+521203,Contractual-Landfill,"37,307","50,000","50,000","50,000"
+521207,Contractual-SPSA Trash,"5,850,931","5,675,742","5,675,742","5,100,000"
+,Removal,,,,
+521905,Contractual-Other,"53,068","15,000","15,000","15,000"
+521910,Contractual-Rental Uniforms,"17,358","22,500","22,500","25,000"
+522115,Maint-Office Equipment,"1,602","1,700","1,700","1,700"
+531701,Supp-Custodial,"2,282","4,000","4,000","4,000"
+531904,Supp-Chemicals,0,300,300,300
+531914,Supp-Office and Printing,"7,566","9,000","9,000","9,000"
+531920,Supp-Wearing Apparel,"11,617","10,000","10,000","10,000"
+531999,Supp-Other,"57,261","102,600","102,600","25,000"
+532120,Mat-Construction,"26,218","60,000","60,000","60,000"
+533010,Noncap-Equipment,0,"15,509","15,509","255,000"
+533030,Noncap-Small Tools,"6,728","1,400","1,400","1,400"
+536110,Dues-Memberships,0,500,500,"1,500"
+541999,Util-Other,"1,113","7,000","7,000","7,000"
+542020,Tele-Telephone Cellular,"3,611","4,000","4,000","4,000"
+553000,Indirect Cost Allocation,"198,298","198,297","198,297","198,297"
+554010,Advertising,"3,894","6,500","6,500","7,500"
+555100,Training,0,"3,000","3,000","3,000"
+559080,Closure - Post Closure,"-433,555","257,240","257,240",0
+590000,Bad Debt Expense,"34,664",0,0,0
+610101,Computer Service Charges,"26,777","27,532","27,532","29,929"
+610102,Telecommunications Charges,"16,584","22,132","22,132","18,040"
+620101,Garage Equip Rental Charges,"1,046,129","1,058,901","1,058,901","1,000,000"
+620103,Garage Contractual Charges,"10,000","9,626","9,626","9,626"
+630101,Risk Management Charges,"460,173","462,403","462,403","468,546"
+710130,DS-Lease Purchase Principal,0,"926,471","926,471","713,990"
+720130,DS-Lease Purchase Interest,"47,664","34,749","34,749","15,306"
+850101,Cap-Equipment-Other,0,0,0,"707,280"
+740-25-402-4045-000000-000 Waste,740-25-402-4045-000000-000 Waste,"11,066,626","12,586,792","12,586,792","12,284,800"
+740-53-402-4045-000000-000 Waste Management,740-53-402-4045-000000-000 Waste Management,,,,
+890999,Depreciation Expense,"700,213",0,0,0
+891010,Amortization-Bond Disc/Prem,"4,323",0,0,0
+740-53-402-4045-000000-000 Waste,740-53-402-4045-000000-000 Waste,"704,536",0,0,0
+,0510 Waste Management Fund,"11,771,163","12,586,792","12,586,792","12,284,800"
+,740 Waste Management Fund,"11,771,163","12,586,792","12,586,792","12,284,800"
+,,Portsmouth Parking Authority,Portsmouth Parking Authority,Portsmouth Parking Authority,
+0506 Parking Authority Fund,0506 Parking Authority Fund,,,,
+750-54-900-9000-000000-000 Parking Authority,750-54-900-9000-000000-000 Parking Authority,,,,
+501000,Sal-Full-time,"216,363","217,805","217,805","213,478"
+501100,Sal-Part-time,"62,835","145,793","145,793","145,793"
+510000,Sal-Overtime,"4,747","10,000","10,000","10,000"
+510005,Allow-On-Call,"2,160","4,318","4,318","2,160"
+510099,Sal-Allow for Salary Savings,0,"-10,304","-10,304","-10,312"
+GovMax V5,,,,18-51,

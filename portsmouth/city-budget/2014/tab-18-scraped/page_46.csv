@@ -1,0 +1,66 @@
+Name: “Table 1 of 1 on page 46 of 78”,Name: “Table 1 of 1 on page 46 of 78”,Name: “Table 1 of 1 on page 46 of 78”,Name: “Table 1 of 1 on page 46 of 78”,Name: “Table 1 of 1 on page 46 of 78”,Name: “Table 1 of 1 on page 46 of 78”
+Table: 46,Table: 46,Table: 46,Table: 46,Table: 46,Table: 46
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,Public Utility Fund,Public Utility Fund,
+0513 Public Utilities Fund,0513 Public Utilities Fund,,,,
+700-50-800-8002-000000-000 Purification Operations,700-50-800-8002-000000-000 Purification Operations,700-50-800-8002-000000-000 Purification Operations,,,
+541999,Util-Other,"13,929","20,000","20,000","7,500"
+542000,Util-Wastewater Treatment,0,"15,000","15,000","15,000"
+542010,Tele-Telephone,"12,438","14,050","14,050","14,500"
+542020,Tele-Telephone Cellular,-460,0,0,0
+543010,Fuel-Gasoline and Other,"39,526","43,501","43,501","50,000"
+543020,Fuel-Natural Gas,"1,387","15,000","15,000","15,000"
+555100,Training,"6,105","20,400","20,400","23,000"
+,700-50-800-8002-000000-000,"6,457,283","5,096,597","5,096,597","6,988,285"
+700-50-800-8003-000000-000 Maintenance of Distrib System,700-50-800-8003-000000-000 Maintenance of Distrib System,700-50-800-8003-000000-000 Maintenance of Distrib System,700-50-800-8003-000000-000 Maintenance of Distrib System,,
+501000,Sal-Full-time,"561,149","702,861","702,861","701,244"
+501100,Sal-Part-time,"4,457","8,600","8,600","8,600"
+510000,Sal-Overtime,"28,760","18,000","18,000","18,000"
+510005,Allow-On-Call,"6,739","7,560","7,560","7,560"
+510007,Allow-Shift Differential,"28,815","29,535","29,535","29,535"
+510099,Sal-Allow for Salary Savings,0,"-33,817","-33,817","-35,060"
+511100,Bene-FICA,"45,074","51,741","51,741","54,222"
+511115,Bene-Health Insurance,"193,176","121,321","121,321","132,831"
+511120,Bene-Dental Insurance,481,468,468,432
+511125,Bene-VRS Life Insurance,"1,524","1,897","1,897","8,437"
+511140,Bene-Retirement VRS,"63,525","81,271","81,271","55,436"
+511166,Bene-Allowance for Vacancy,0,"-2,682","-2,682","-3,135"
+,Sav,,,,
+521202,Contractual-Disposal Fees,"1,390","1,700","1,700","1,700"
+521204,Contractual-Miss Utility,"19,736","22,200","22,200","22,000"
+521206,Contractual-Right of Way Main,"22,146","61,000","61,000","61,000"
+521208,Contractual-Street Opening,"216,929","200,000","200,000","220,000"
+521210,Contractual-Water Tank Main,"2,400","3,400","3,400","7,500"
+521914,Contractual-Temp Work,"58,718","82,000","82,000","72,000"
+522110,Maint-Equipment,"6,049","40,000","40,000","35,000"
+524100,Repairs-Buildings and Grounds,"1,020","3,000","3,000","3,000"
+524999,Repairs-Other,"3,981","10,000","10,000","10,000"
+531701,Supp-Custodial,"1,670","1,700","1,700","1,700"
+531914,Supp-Office and Printing,"3,484","8,000","8,000","6,000"
+531920,Supp-Wearing Apparel,"2,468","4,000","4,000","4,000"
+531999,Supp-Other,"6,702","7,600","7,600","7,600"
+532120,Mat-Construction,"74,543","75,000","75,000","75,000"
+532160,Mat-Lubricants,0,400,400,0
+533030,Noncap-Small Tools,667,"2,500","2,500","2,500"
+541010,Util-Electricity,"163,359","145,334","145,334","190,000"
+542010,Tele-Telephone,"2,944","4,000","4,000","4,000"
+543020,Fuel-Natural Gas,"1,739","5,500","5,500","5,500"
+555100,Training,679,"2,000","2,000","2,000"
+,700-50-800-8003-000000-000,"1,524,320","1,666,089","1,666,089","1,708,602"
+700-50-800-8004-000000-000 Meter Reading and Maintenance,700-50-800-8004-000000-000 Meter Reading and Maintenance,700-50-800-8004-000000-000 Meter Reading and Maintenance,700-50-800-8004-000000-000 Meter Reading and Maintenance,,
+501000,Sal-Full-time,"239,045","391,066","271,066","390,191"
+510000,Sal-Overtime,0,"1,125","1,125","1,125"
+510099,Sal-Allow for Salary Savings,0,"-18,994","-18,994","-19,510"
+511100,Bene-FICA,"17,067","29,064","29,064","29,850"
+511115,Bene-Health Insurance,"148,157","86,670","86,670","91,039"
+511120,Bene-Dental Insurance,258,252,252,200
+511125,Bene-VRS Life Insurance,642,"1,066","1,066","4,643"
+511140,Bene-Retirement VRS,"24,929","45,371","45,371","29,168"
+511166,Bene-Allowance for Vacancy,0,"-1,508","-1,508","-1,714"
+,Sav,,,,
+521208,Contractual-Street Opening,0,883,883,883
+GovMax V5,,,,18-46,

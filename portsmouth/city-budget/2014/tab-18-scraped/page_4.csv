@@ -1,0 +1,65 @@
+Name: “Table 1 of 1 on page 4 of 78”,Name: “Table 1 of 1 on page 4 of 78”,Name: “Table 1 of 1 on page 4 of 78”,Name: “Table 1 of 1 on page 4 of 78”,Name: “Table 1 of 1 on page 4 of 78”,Name: “Table 1 of 1 on page 4 of 78”
+Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0106 City Attorney,0106 City Attorney,,,,
+100-10-104-1040-000000-000 City Attorney,100-10-104-1040-000000-000 City Attorney,,,,
+511115,Bene-Health Insurance,"61,252","65,047","65,047","95,775"
+511120,Bene-Dental Insurance,356,324,324,320
+511125,Bene-VRS Life Insurance,"2,273","2,373","2,373","10,903"
+511140,Bene-Retirement VRS,"107,548","112,260","112,260","75,763"
+511145,Bene-Retirement PSRS,"26,242","24,817","24,817","30,247"
+511166,Bene-Allowance for Vacancy,0,"-3,124","-3,124","-3,680"
+,Sav,,,,
+521014,Contractual-Legal,"742,614","95,788","95,788","95,788"
+521902,Contractual-Equalization Board,"1,200","1,277","1,277","1,277"
+521905,Contractual-Other,"22,079","74,672","74,672","74,672"
+531914,Supp-Office and Printing,370,"1,515","1,515","1,515"
+531999,Supp-Other,"6,942","4,485","4,485","4,485"
+535100,Books and Publications,"7,391","6,061","6,061","6,061"
+536110,Dues-Memberships,"2,915","4,040","4,040","4,040"
+542020,Tele-Telephone Cellular,562,656,656,656
+554010,Advertising,0,480,480,480
+555100,Training,"4,928","9,091","9,091","9,091"
+555210,Travel,"2,254","2,020","2,020","2,020"
+555228,Purchase Card,31,0,0,0
+555399,Mtgs-Other,720,"3,030","3,030","3,030"
+610101,Computer Service Charges,"24,416","14,342","14,342","21,203"
+610102,Telecommunications Charges,"5,790","4,982","4,982","6,062"
+630101,Risk Management Charges,"8,045","8,084","8,084","8,165"
+,100-10-104-1040-000000-000 City,"2,002,994","1,375,839","1,375,839","1,470,889"
+,0106 City Attorney,"2,002,994","1,375,839","1,375,839","1,470,889"
+0107 Human Resource Management,0107 Human Resource Management,,,,
+100-10-105-1050-000000-000 Human Resource Management,100-10-105-1050-000000-000 Human Resource Management,100-10-105-1050-000000-000 Human Resource Management,100-10-105-1050-000000-000 Human Resource Management,,
+501000,Sal-Full-time,"343,598","467,424","437,424","482,230"
+501100,Sal-Part-time,"28,902","11,253","41,253","11,253"
+501200,Accrued Payroll,"2,611",0,0,0
+510099,Sal-Allow for Salary Savings,0,"-22,573","-22,573","-27,613"
+511100,Bene-FICA,"26,426","32,587","32,587","36,090"
+511110,Bene-Flexible Benefits,"22,964",0,0,0
+511115,Bene-Health Insurance,"19,638","36,628","36,628","50,961"
+511120,Bene-Dental Insurance,126,108,108,120
+511125,Bene-VRS Life Insurance,869,"1,212","1,212","5,739"
+511140,Bene-Retirement VRS,"39,635","55,721","55,721","39,882"
+511145,Bene-Retirement PSRS,"8,525","8,161","8,161","8,959"
+511160,Tuition Assistance,0,0,0,"50,000"
+511166,Bene-Allowance for Vacancy,0,"-1,690","-1,690","-2,012"
+,Sav,,,,
+521008,Contractual-EAP,"14,678","20,000","20,000","20,000"
+521304,Contractual-Drug Testing,"44,563","42,033","42,033","42,033"
+521602,Contractual-Fit for Duty,0,"10,000","10,000","10,000"
+521905,Contractual-Other,"175,731","203,400","403,400","203,400"
+522115,Maint-Office Equipment,0,300,300,300
+531902,Supp-Awards,"17,104","24,000","24,000","24,000"
+531914,Supp-Office and Printing,"5,561","7,527","7,527","7,527"
+531999,Supp-Other,177,"7,500","7,500","7,500"
+535100,Books and Publications,0,400,400,400
+536110,Dues-Memberships,"1,420","1,000","1,000","1,000"
+542020,Tele-Telephone Cellular,0,"1,101","1,101","1,101"
+554010,Advertising,"13,688","48,000","48,000","48,000"
+555100,Training,"1,008","6,500","6,500","6,500"
+GovMax V5,,,,18-4,

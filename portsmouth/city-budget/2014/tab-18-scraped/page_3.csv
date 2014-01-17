@@ -1,0 +1,63 @@
+Name: “Table 1 of 1 on page 3 of 78”,Name: “Table 1 of 1 on page 3 of 78”,Name: “Table 1 of 1 on page 3 of 78”,Name: “Table 1 of 1 on page 3 of 78”,Name: “Table 1 of 1 on page 3 of 78”,Name: “Table 1 of 1 on page 3 of 78”
+Table: 3,Table: 3,Table: 3,Table: 3,Table: 3,Table: 3
+,,,,,
+,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,,General Fund,General Fund,
+0104 Management and Legislative Affairs,0104 Management and Legislative Affairs,0104 Management and Legislative Affairs,,,
+100-10-102-1021-000000-000 Management and Legislative Affairs,100-10-102-1021-000000-000 Management and Legislative Affairs,100-10-102-1021-000000-000 Management and Legislative Affairs,100-10-102-1021-000000-000 Management and Legislative Affairs,,
+556140,Civ Orgs-Hampton Rds,"15,210","21,028","21,028","21,028"
+,Partnersh,,,,
+556141,Civ Orgs-Virginia Municipal Lg,"27,180","27,239","27,239","28,342"
+556142,Civ Orgs-VA First Cities Coali,"24,828","24,829","24,829","24,829"
+559040,General Assembly Expenses,"14,427","25,330","25,330","25,330"
+610101,Computer Service Charges,"13,959","14,299","14,299","15,099"
+610102,Telecommunications Charges,"1,887","1,651","1,651","1,995"
+630101,Risk Management Charges,"1,463","1,470","1,470","1,485"
+,100-10-102-1021-000000-000,"339,771","404,312","404,312","400,036"
+,0104 Management and Legislative,"339,771","404,312","404,312","400,036"
+0105 Registrar,,,,,
+100-10-103-1030-000000-000 General Registrar,100-10-103-1030-000000-000 General Registrar,100-10-103-1030-000000-000 General Registrar,,,
+501000,Sal-Full-time,"186,134","188,550","188,550","194,071"
+501100,Sal-Part-time,"119,322","180,417","180,417","160,417"
+501200,Accrued Payroll,"10,137",0,0,0
+510000,Sal-Overtime,788,0,0,0
+510012,Allow-Other Supplements,"17,982","17,982","17,982","17,982"
+510099,Sal-Allow for Salary Savings,0,"-8,750","-8,750",0
+511100,Bene-FICA,"21,399","13,645","13,645","16,222"
+511115,Bene-Health Insurance,"17,412","26,197","26,197","19,816"
+511120,Bene-Dental Insurance,180,216,216,80
+511125,Bene-VRS Life Insurance,550,499,499,"2,028"
+511140,Bene-Retirement VRS,"26,018","23,636","23,636","17,537"
+511145,Bene-Retirement PSRS,"3,840","3,118","3,118",0
+511166,Bene-Allowance for Vacancy,0,-706,-706,0
+,Sav,,,,
+521009,Contractual-Electoral Board,"1,638",0,0,0
+521918,Contractual-Security,0,"1,247","1,247",0
+522115,Maint-Office Equipment,"24,067","16,723","16,723","16,723"
+523145,Rentals-Land and Buildings,"9,450","9,450","9,450","8,100"
+523999,Rentals-Other,"3,553","2,486","2,486","2,486"
+531914,Supp-Office and Printing,"45,870","68,000","68,000","60,000"
+536110,Dues-Memberships,295,275,275,275
+542020,Tele-Telephone Cellular,57,0,0,0
+554010,Advertising,"1,136","2,000","2,000","1,000"
+555100,Training,896,"1,010","1,010","1,010"
+555210,Travel,"2,976","2,550","2,550","2,550"
+610101,Computer Service Charges,"14,581","6,899","6,899","23,591"
+610102,Telecommunications Charges,"2,824","2,477","2,477","2,992"
+620101,Garage Equip Rental Charges,"3,996","5,775","5,775","5,775"
+630101,Risk Management Charges,"3,860","3,879","3,879","3,918"
+100-10-103-1030-000000-000 General,100-10-103-1030-000000-000 General,"518,961","567,575","567,575","556,573"
+,0105 Registrar,"518,961","567,575","567,575","556,573"
+0106 City Attorney,,,,,
+100-10-104-1040-000000-000 City Attorney,100-10-104-1040-000000-000 City Attorney,,,,
+501000,Sal-Full-time,"859,831","901,455","901,455","913,124"
+501100,Sal-Part-time,"44,693",0,0,"71,971"
+501200,Accrued Payroll,"-3,102",0,0,0
+510001,Allow-Automotive,"3,000","9,600","9,600","3,000"
+510006,Allow-Other,"7,320","15,344","15,344","16,320"
+510099,Sal-Allow for Salary Savings,0,"-42,863","-42,863","-45,658"
+511100,Bene-FICA,"63,324","60,083","60,083","64,259"
+GovMax V5,,,,18-3,

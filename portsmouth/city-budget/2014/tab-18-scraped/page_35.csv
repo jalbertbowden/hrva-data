@@ -1,0 +1,66 @@
+Name: “Table 1 of 1 on page 35 of 78”,Name: “Table 1 of 1 on page 35 of 78”,Name: “Table 1 of 1 on page 35 of 78”,Name: “Table 1 of 1 on page 35 of 78”,Name: “Table 1 of 1 on page 35 of 78”,Name: “Table 1 of 1 on page 35 of 78”
+Table: 35,Table: 35,Table: 35,Table: 35,Table: 35,Table: 35
+,,,,,
+,,"Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit","Expenditure Line Item Budget Report grouped by Fund, Business Unit",
+City of Portsmouth,City of Portsmouth,,,,Fiscal Year 2014
+Account,,FY 2012,FY 2013,FY 2013,FY 2014
+Code,Account Description,Actual,Adopted,Amended,Budget
+,,Behavioral Healthcare Svc Fund,Behavioral Healthcare Svc Fund,Behavioral Healthcare Svc Fund,
+0602 Behavioral Healthcare Services Fund,0602 Behavioral Healthcare Services Fund,,,,
+400-30-501-5012-000000-000 Mental Retardation,400-30-501-5012-000000-000 Mental Retardation,,,,
+554010,Advertising,0,"6,000","6,000","6,000"
+555205,Travel-Mileage,10,"2,000","2,000","2,000"
+555210,Travel,"1,383","3,000","3,000","3,000"
+620101,Garage Equip Rental Charges,"54,772","9,625","9,625","9,625"
+620103,Garage Contractual Charges,"2,500","2,406","2,406","2,406"
+850105,Cap-Motor Vehicles,0,0,0,"30,000"
+400-30-501-5012-000000-000 Mental,400-30-501-5012-000000-000 Mental,"1,686,463","1,869,218","1,869,218","1,910,202"
+400-30-501-5013-000000-000 Substance Abuse,400-30-501-5013-000000-000 Substance Abuse,,,,
+501000,Sal-Full-time,"737,520","879,456","879,456","834,770"
+501100,Sal-Part-time,"-19,556","112,579","112,579","112,579"
+510000,Sal-Overtime,79,0,0,0
+510099,Sal-Allow for Salary Savings,0,"-42,325","-42,325","-41,741"
+511100,Bene-FICA,"52,918","64,423","64,423","63,860"
+511115,Bene-Health Insurance,"70,795","83,683","83,683","107,064"
+511120,Bene-Dental Insurance,558,516,516,448
+511125,Bene-VRS Life Insurance,"1,888","2,360","2,360","9,935"
+511140,Bene-Retirement VRS,"80,413","100,164","100,164","69,035"
+511166,Bene-Allowance for Vacancy,0,"-3,339","-3,339","-3,670"
+,Sav,,,,
+521905,Contractual-Other,"400,747","350,000","350,000","410,000"
+522115,Maint-Office Equipment,"7,631","8,000","8,000","8,000"
+522130,Maint-Security System,"1,382","2,000","2,000","2,000"
+523115,Rentals-Computer Software,"3,125","5,000","5,000","5,000"
+523145,Rentals-Land and Buildings,"109,187","65,000","65,000","110,000"
+524110,Repairs-Office Equipment,0,500,500,500
+531602,Supp-Medical,"38,138","35,000","35,000","40,000"
+531701,Supp-Custodial,0,400,400,400
+531906,Supp-Educational,0,"3,500","3,500","3,500"
+531907,Supp-Food and Provisions,"2,441","5,000","5,000","5,000"
+531914,Supp-Office and Printing,"8,024","20,000","20,000","17,000"
+531999,Supp-Other,"4,687","30,000","30,000","15,000"
+535100,Books and Publications,934,800,800,"1,500"
+536110,Dues-Memberships,"3,919","3,000","3,000","4,000"
+542010,Tele-Telephone,365,0,0,"1,000"
+542020,Tele-Telephone Cellular,"2,088","5,000","5,000","2,500"
+553000,Indirect Cost Allocation,"56,252","56,252","56,252","56,252"
+554010,Advertising,0,"5,000","5,000","2,500"
+555205,Travel-Mileage,106,"1,000","1,000","1,000"
+555210,Travel,"1,291","7,000","7,000","4,000"
+620101,Garage Equip Rental Charges,"12,166","5,185","5,185","5,185"
+620103,Garage Contractual Charges,"2,500","2,407","2,407","2,407"
+850105,Cap-Motor Vehicles,0,0,0,"30,000"
+,400-30-501-5013-000000-000,"1,579,598","1,807,561","1,807,561","1,879,024"
+400-30-501-5014-000000-000 Prevention,400-30-501-5014-000000-000 Prevention,,,,
+501000,Sal-Full-time,"223,947","272,503","272,503","270,625"
+510099,Sal-Allow for Salary Savings,0,"-12,979","-12,979","-13,532"
+511100,Bene-FICA,"16,572","19,858","19,858","20,703"
+511115,Bene-Health Insurance,"22,901","30,701","30,701","38,455"
+511120,Bene-Dental Insurance,133,108,108,132
+511125,Bene-VRS Life Insurance,605,726,726,"3,220"
+511140,Bene-Retirement VRS,"28,362","34,394","34,394","22,381"
+511166,Bene-Allowance for Vacancy,0,"-1,028","-1,028","-1,197"
+,Sav,,,,
+521905,Contractual-Other,"44,155","55,000","55,000","55,000"
+522115,Maint-Office Equipment,0,500,500,500
+GovMax V5,,,,18-35,

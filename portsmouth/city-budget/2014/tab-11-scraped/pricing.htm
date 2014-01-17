@@ -1,0 +1,161 @@
+<!doctype html>
+<!-- HTML5 Boilerplate -->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <script src="//cdn.optimizely.com/js/540030760.js"></script>
+  <meta charset="utf-8">
+  <title>Pricing | ScraperWiki</title>
+  <meta name="description" content="">
+  <meta name="author" content="ScraperWiki Ltd">
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="msapplication-TileImage" content="/image/tractor-metro-tile.png">
+  <meta name="msapplication-TileColor" content="#A1D2F1">
+  <link rel="stylesheet" href="/vendor/style/bootstrap.min.css">
+  <link rel="stylesheet" href="/style/scraperwiki.css">
+  <link rel="stylesheet" href="/vendor/style/prettify.css">
+  <link rel="stylesheet" href="/style/custard.css">
+  <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/style/ie.css">
+    <script src="/vendor/js/css3-mediaqueries.js"></script>
+    <script src="/vendor/js/selectivizr-min.js"></script>
+  <![endif]-->
+  <script>
+    window.console = window.console || { log: function(){} }
+  </script>
+  <script src="/vendor/js/modernizr.custom.2.6.2.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script src="/vendor/js/jquery.cookie.js"></script>
+  <script src="/vendor/js/jquery.mousewheel.js"></script>
+  <script src="/vendor/js/bootstrap.min.js"></script>
+  <script src="/vendor/js/underscore.js"></script>
+  <script src="/vendor/js/backbone.js"></script>
+  <script src="/vendor/js/backbone-relational.js"></script>
+  <script src="/vendor/js/moment.min.js"></script>
+  <!--[if lt IE 9]> <script src="/vendor/js/excanvas.min.js"></script> <![endif]-->
+  <script src="/vendor/js/spinners.min.js"></script>
+  <script src="/vendor/js/prettify.js"></script>
+  <script src="/vendor/js/chroma.pack.min.js"></script>
+  <script src="/vendor/js/jquery.tinysort.min.js"></script>
+  <script src="/vendor/js/jquery.tinysort.charorder.min.js"></script>
+  <script src="/vendor/js/ZeroClipboard.js"></script>
+  <script src="/vendor/js/easyXDM.min.js"></script>
+  <script src="/vendor/js/intercom.v1.js"></script>
+  <script src="/js/custard.js"></script>
+  <script>
+    window.user = {}
+    window.recurlyDomain = "scraperwiki"
+    window.custardEnvironment = "production"
+    window.intercomAppId = "63b0c6d4bb5f0867b6e93b0be9b569fb3a7ab1e3"
+    window.intercomUserHash = ""
+    _gaq = [ ['_setAccount', 'UA-21451224-7'], ['_setDomainName', 'scraperwiki.com'] ]
+    if(window.custardEnvironment == 'production'){
+      (function(){
+        var g = document.createElement('script'),
+            s = document.getElementsByTagName('script')[0]
+        g.src = '//www.google-analytics.com/ga.js'
+        s.parentNode.insertBefore(g, s)
+      })()
+    } else {
+      console.log('Google Analytics disabled in development environment')
+    }
+  </script>
+  <script src="/code/template/index-317bdab1defcb21e269552309919695a.js"></script>
+  <script src="/code/app-626d0897500db07724c3b448cd43ee92.js"></script>
+</head>
+<body>
+  <header id="header">
+    <div class="container">
+      
+        <a id="logo" href="/" data-nonpushstate>ScraperWiki</a>
+      
+      <nav>
+        <ul>
+
+<li class="login"><a href="/login" data-nonpushstate>Log in</a></li>
+<li class="pricing"><a href="/pricing">Sign up</a></li>
+<li class="docs"><a href="/help">Help</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+  </header>
+  
+  
+  <div class="alert alert-error" id="error-alert">
+    <p class="container">
+      <a class="btn btn-small pull-right"
+        href="https://github.com/scraperwiki/custard/issues"
+        target="_blank">Report Bug</a>
+      <span></span>
+    </p>
+  </div>
+  <div id="overlay"></div>
+  <div id="subnav" class="container">
+    <div class="subnav-wrapper"><div class="btn-toolbar" id="subnav-path">
+  <h1 class="btn-group">
+    <a class="btn btn-link" href="">Pricing</a>
+  </h1>
+</div>
+<hr>
+</div>
+  </div>
+  <div id="content" class="container">
+    <div class="pricing">
+
+<!-- <div class="plan enterprise account-large swcol">
+  <h2>Enterprise</h2>
+  <p class="cost">$199<small>/mth</small></p>
+  <p>Unlimited datasets</p>
+  
+  <a class="cta" href="/signup/enterprise">Sign Up</a>
+  
+</div> -->
+
+<div class="plan datascientist account-large swcol">
+  <h2>Data Scientist</h2>
+  <p class="cost">$29<small>/mth</small></p>
+  <p>100 datasets</p>
+  
+  <a class="cta" href="/signup/datascientist">Sign Up</a>
+  
+</div>
+
+<div class="plan explorer account-medium swcol">
+  <h2>Explorer</h2>
+  <p class="cost">$9<small>/mth</small></p>
+  <p>10 datasets</p>
+  
+  <a class="cta" href="/signup/explorer">Sign Up</a>
+  
+</div>
+
+<div class="plan community account-free swcol">
+  <h2>Community</h2>
+  <p class="cost">Free</p>
+  <p>3 datasets</p>
+  
+  <a class="cta" href="/signup/community">Sign Up</a>
+  
+</div>
+
+</div>
+  </div>
+  <div id="footer">
+    <ul class="container inline">
+      <li><a href="/about/" data-nonpushstate>About ScraperWiki</a></li>
+      <li><a href="/pricing/">Pricing</a></li>
+      <li><a href="/contact/" data-nonpushstate>Contact Us</a></li>
+      <li><a href="/terms/">Terms &amp; Conditions</a></li>
+      <li class="pull-right"><a href="https://github.com/scraperwiki/custard/blob/master/LICENCE" title="AGPL License">Open Source</a></li>
+    </ul>
+  </div>
+</body>
+</html>
