@@ -1,0 +1,36 @@
+{
+ "culture": "en-US",
+ "name": "Adulticide_Zones",
+ "guid": "B1A79774-4F7F-4E38-B266-61683161AB41",
+ "catalogPath": "",
+ "snippet": "Map showing Adulticiding Zones to be sprayed",
+ "description": "Map showing Adulticiding Zones to be sprayed",
+ "summary": "Map showing Adulticiding Zones to be sprayed",
+ "title": "Adulticide_Zones",
+ "tags": [
+  "Mosquito",
+  "Adulticide"
+ ],
+ "type": "Map Service",
+ "typeKeywords": [
+  "Data",
+  "Service",
+  "Map Service",
+  "ArcGIS Server"
+ ],
+ "thumbnail": "thumbnail/thumbnail.png",
+ "url": "",
+ "extent": [
+  [
+   -76.4914038359948,
+   36.5425600611973
+  ],
+  [
+   -76.0595359940626,
+   36.8678805287192
+  ]
+ ],
+ "spatialReference": "NAD_1983_StatePlane_Virginia_South_FIPS_4502_Feet",
+ "accessInformation": "Chesapeake Mosquito Control Commission",
+ "licenseInfo": "For public availability, not for design."
+}

@@ -1,0 +1,297 @@
+{
+ "currentVersion": 10.1,
+ "id": 0,
+ "name": "Dry_Hydrants",
+ "type": "Feature Layer",
+ "description": "Spatial and Attribution information for Dry and Draft Hydrants with in the City of Chesapeake. Dry Hydrant locations were derived from Pictomety International Imagery, Google map road level imagery and field verification. Dry Hydrant points where manually move to their general locations.",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPoint",
+ "copyrightText": "Feature class was created by Paul Trimble, GIS Analyst.  \nVerification of Dry Hydrant locations Samantha Stahler, Fire Inspector",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSMS",
+    "style": "esriSMSCircle",
+    "color": [
+     0,
+     158,
+     137,
+     255
+    ],
+    "size": 4,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0,
+    "outline": {
+     "color": [
+      0,
+      0,
+      0,
+      255
+     ],
+     "width": 1
+    }
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.2104697032207E7,
+  "ymin": 3378836.36344321,
+  "xmax": 1.21786896860586E7,
+  "ymax": 3454352.13334313,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "OWNER",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "OWNER",
+   "type": "esriFieldTypeString",
+   "alias": "OWNER",
+   "length": 1,
+   "domain": null
+  },
+  {
+   "name": "INST_YEAR",
+   "type": "esriFieldTypeString",
+   "alias": "INST_YEAR",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "ADDRESS",
+   "type": "esriFieldTypeString",
+   "alias": "ADDRESS",
+   "length": 65,
+   "domain": null
+  },
+  {
+   "name": "CREATED_USER",
+   "type": "esriFieldTypeString",
+   "alias": "CREATED_USER",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "CREATED_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "CREATED_DATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "LAST_EDITED_USER",
+   "type": "esriFieldTypeString",
+   "alias": "LAST_EDITED_USER",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "LAST_EDITED_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "LAST_EDITED_DATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "FIRDISTNUM",
+   "type": "esriFieldTypeString",
+   "alias": "FIRE STATION NUMBER",
+   "length": 5,
+   "domain": {
+    "type": "codedValue",
+    "name": "FireStationNumber",
+    "codedValues": [
+     {
+      "name": "Station 1",
+      "code": "1"
+     },
+     {
+      "name": "Station 2",
+      "code": "2"
+     },
+     {
+      "name": "Station 3",
+      "code": "3"
+     },
+     {
+      "name": "Station 4",
+      "code": "4"
+     },
+     {
+      "name": "Station 5",
+      "code": "5"
+     },
+     {
+      "name": "Station 6",
+      "code": "6"
+     },
+     {
+      "name": "Station 7",
+      "code": "7"
+     },
+     {
+      "name": "Station 8",
+      "code": "8"
+     },
+     {
+      "name": "Station 9",
+      "code": "9"
+     },
+     {
+      "name": "Station 10",
+      "code": "10"
+     },
+     {
+      "name": "Station 11",
+      "code": "11"
+     },
+     {
+      "name": "Station 12",
+      "code": "12"
+     },
+     {
+      "name": "Station 13",
+      "code": "13"
+     },
+     {
+      "name": "Station 15",
+      "code": "15"
+     },
+     {
+      "name": "Station 14",
+      "code": "14"
+     }
+    ]
+   }
+  },
+  {
+   "name": "TESTSTATUS",
+   "type": "esriFieldTypeString",
+   "alias": "FIRE TEST STATUS",
+   "length": 50,
+   "domain": {
+    "type": "codedValue",
+    "name": "TestStatusDryHydrant",
+    "codedValues": [
+     {
+      "name": "Passed",
+      "code": "PASSED"
+     },
+     {
+      "name": "Not Tested",
+      "code": "NOTTEST"
+     },
+     {
+      "name": "Failed",
+      "code": "FAILED"
+     },
+     {
+      "name": "Passed with Issues",
+      "code": "PASSWISSUE"
+     },
+     {
+      "name": "Unknown",
+      "code": "UNK"
+     },
+     {
+      "name": "Ready for Testing",
+      "code": "READYTEST"
+     },
+     {
+      "name": "Out of Service",
+      "code": "OUTOFSERVICE"
+     },
+     {
+      "name": "Tested",
+      "code": "TEST"
+     }
+    ]
+   }
+  },
+  {
+   "name": "FIRTESTBY",
+   "type": "esriFieldTypeString",
+   "alias": "FIRE TEST BY",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "LASTTESTDATE",
+   "type": "esriFieldTypeDate",
+   "alias": "LAST TEST DATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "FLOW",
+   "type": "esriFieldTypeDate",
+   "alias": "FLOW RATE (GPM)",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "HYDRANT_TYPE",
+   "type": "esriFieldTypeString",
+   "alias": "HYDRANT TYPE",
+   "length": 50,
+   "domain": {
+    "type": "codedValue",
+    "name": "DraftorDryHydrantType",
+    "codedValues": [
+     {
+      "name": "Draft Hydrant",
+      "code": "DRAFTHYD"
+     },
+     {
+      "name": "Dry Hydrant",
+      "code": "DRYHYD"
+     }
+    ]
+   }
+  },
+  {
+   "name": "TESTCOMMENTS",
+   "type": "esriFieldTypeString",
+   "alias": "HYDRANT TEST COMMENTS",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF"
+}

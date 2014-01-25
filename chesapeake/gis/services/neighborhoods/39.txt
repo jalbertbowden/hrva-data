@@ -1,0 +1,90 @@
+{
+ "currentVersion": 10.1,
+ "id": 39,
+ "name": "neighborhoods",
+ "type": "Feature Layer",
+ "description": "",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPolygon",
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSFS",
+    "style": "esriSFSSolid",
+    "color": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "outline": {
+     "type": "esriSLS",
+     "style": "esriSLSSolid",
+     "color": [
+      255,
+      170,
+      0,
+      255
+     ],
+     "width": 2
+    }
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.20654962480745E7,
+  "ymin": 3364089.26595224,
+  "xmax": 1.21971889397437E7,
+  "ymax": 3484966.6157694,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "NBRHD_NAME",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "NBRHD_NAME",
+   "type": "esriFieldTypeString",
+   "alias": "NBRHD_NAME",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "SHAPE",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF",
+ "isDataVersioned": true
+}

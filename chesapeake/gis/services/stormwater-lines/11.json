@@ -1,0 +1,485 @@
+{
+ "currentVersion": 10.1,
+ "id": 11,
+ "name": "Stormwater lines",
+ "type": "Feature Layer",
+ "description": "The storm water feature class shows ditches, pipes, culverts, fences in the City of Chesapeake.**Public stormwater data is any data within the right-of-way and it is in any public drainage easement. Private stormwater data is any data outside of the right-of-way and it is within the private drainage easement.Spatial Reference Information: Projection: Lambert Conformal ConicLinear Unit: Foot US Projected Coordinate System: NAD 1983 State Plane Virginia South FIPS 4502 FeetGeographic Coordinate System: GCS North American 1983Datum: D North American 1983",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPolyline",
+ "copyrightText": "None",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSLS",
+    "style": "esriSLSSolid",
+    "color": [
+     0,
+     115,
+     76,
+     255
+    ],
+    "width": 1
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.20793389980767E7,
+  "ymin": 3366971.92111845,
+  "xmax": 1.21957240746392E7,
+  "ymax": 3481802.27632679,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "ST_NAME",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "TAG",
+   "type": "esriFieldTypeDouble",
+   "alias": "SW ID",
+   "domain": null
+  },
+  {
+   "name": "SOURCE",
+   "type": "esriFieldTypeString",
+   "alias": "Source",
+   "length": 25,
+   "domain": {
+    "type": "codedValue",
+    "name": "SWSource",
+    "codedValues": [
+     {
+      "name": "AsBuilt Plans",
+      "code": "AsBuilt Plan"
+     },
+     {
+      "name": "City Survey",
+      "code": "City Survey"
+     },
+     {
+      "name": "Field Inspection",
+      "code": "Field Inspection"
+     },
+     {
+      "name": "GPS",
+      "code": "GPS"
+     },
+     {
+      "name": "Orthophotography",
+      "code": "Orthophotography"
+     },
+     {
+      "name": "Preliminary Plan",
+      "code": "Preliminary Plan"
+     },
+     {
+      "name": "SWM Model",
+      "code": "SWM Model"
+     },
+     {
+      "name": "Approved Plan",
+      "code": "Approved Plan"
+     },
+     {
+      "name": "Van Imaging",
+      "code": "Van Imaging"
+     },
+     {
+      "name": "Plan Existing",
+      "code": "Plan Existing"
+     },
+     {
+      "name": "Other",
+      "code": "Other"
+     }
+    ]
+   }
+  },
+  {
+   "name": "LDETTYPE",
+   "type": "esriFieldTypeString",
+   "alias": "Line Detail Type",
+   "length": 50,
+   "domain": {
+    "type": "codedValue",
+    "name": "SWLineType",
+    "codedValues": [
+     {
+      "name": "CVT-Culvert",
+      "code": "CVT"
+     },
+     {
+      "name": "DRS-Ditch,Roadside",
+      "code": "DRS"
+     },
+     {
+      "name": "DNR-Ditch,Not Roadside",
+      "code": "DNR"
+     },
+     {
+      "name": "DPV-Ditch,Private",
+      "code": "DPV"
+     },
+     {
+      "name": "PSW-StormwaterPipe",
+      "code": "PSW"
+     },
+     {
+      "name": "PPV-PrivatePipe",
+      "code": "PPV"
+     },
+     {
+      "name": "SWL-Swale",
+      "code": "SWL"
+     },
+     {
+      "name": "NWW-NaturalWaterway",
+      "code": "NWW"
+     }
+    ]
+   }
+  },
+  {
+   "name": "PIPEVERT",
+   "type": "esriFieldTypeInteger",
+   "alias": "Vertical Diameter",
+   "domain": null
+  },
+  {
+   "name": "PIPEHORIZ",
+   "type": "esriFieldTypeInteger",
+   "alias": "Horizontal Diameter",
+   "domain": null
+  },
+  {
+   "name": "UPELEV",
+   "type": "esriFieldTypeDouble",
+   "alias": "Upstream Invert Elevation",
+   "domain": null
+  },
+  {
+   "name": "DNELEV",
+   "type": "esriFieldTypeDouble",
+   "alias": "Down Stream Invert Elevation",
+   "domain": null
+  },
+  {
+   "name": "FLOWDIR",
+   "type": "esriFieldTypeString",
+   "alias": "Flow Direction",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "DATEADDED",
+   "type": "esriFieldTypeString",
+   "alias": "Date Added",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "ADDBY",
+   "type": "esriFieldTypeString",
+   "alias": "Data Added By",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "NOTE1",
+   "type": "esriFieldTypeString",
+   "alias": "Note 1",
+   "length": 256,
+   "domain": null
+  },
+  {
+   "name": "NOTE2",
+   "type": "esriFieldTypeString",
+   "alias": "Note 2",
+   "length": 256,
+   "domain": null
+  },
+  {
+   "name": "MAINT_WHO",
+   "type": "esriFieldTypeString",
+   "alias": "Maintenance Responsibility",
+   "length": 30,
+   "domain": null
+  },
+  {
+   "name": "REIMBURSABLE",
+   "type": "esriFieldTypeString",
+   "alias": "Reimbursable Street Maintenance",
+   "length": 3,
+   "domain": null
+  },
+  {
+   "name": "ASSETID",
+   "type": "esriFieldTypeString",
+   "alias": "Asset ID",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "UPSTREAM",
+   "type": "esriFieldTypeString",
+   "alias": "UPSTREAM",
+   "length": 25,
+   "domain": null
+  },
+  {
+   "name": "DOWNSTREAM",
+   "type": "esriFieldTypeString",
+   "alias": "DOWNSTREAM",
+   "length": 25,
+   "domain": null
+  },
+  {
+   "name": "STREET_ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "STREET_ID",
+   "domain": null
+  },
+  {
+   "name": "MXASSETNUM",
+   "type": "esriFieldTypeString",
+   "alias": "MXASSETNUM",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "MXASSETLOC",
+   "type": "esriFieldTypeString",
+   "alias": "MXASSETLOC",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "ST_NAME",
+   "type": "esriFieldTypeString",
+   "alias": "ST_NAME",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "PROJCTNAME",
+   "type": "esriFieldTypeString",
+   "alias": "Project Name",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "VERTDATUM",
+   "type": "esriFieldTypeString",
+   "alias": "Vertical Datum",
+   "length": 24,
+   "domain": null
+  },
+  {
+   "name": "PLANTYPE",
+   "type": "esriFieldTypeString",
+   "alias": "PLANTYPE",
+   "length": 12,
+   "domain": null
+  },
+  {
+   "name": "PLANDATE",
+   "type": "esriFieldTypeDate",
+   "alias": "Plan Date",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "LENGTH_",
+   "type": "esriFieldTypeDouble",
+   "alias": "LENGTH_",
+   "domain": null
+  },
+  {
+   "name": "RIVERBASIN",
+   "type": "esriFieldTypeString",
+   "alias": "RiverBasin",
+   "length": 24,
+   "domain": {
+    "type": "codedValue",
+    "name": "SWRiverBasin",
+    "codedValues": [
+     {
+      "name": "AACC-Albemarle & Chesapeake Canal",
+      "code": "AACC"
+     },
+     {
+      "name": "EBER-Eastern Branch Elizabeth River",
+      "code": "EBER"
+     },
+     {
+      "name": "NLDR-North Landing River",
+      "code": "NLDR"
+     },
+     {
+      "name": "NRWR-Northwest River",
+      "code": "NRWR"
+     },
+     {
+      "name": "PCTR-Pocaty River",
+      "code": "PCTR"
+     },
+     {
+      "name": "SBER-Southern Branch Elizabeth River",
+      "code": "SBER"
+     },
+     {
+      "name": "WBER-Western Branch Elizabeth River",
+      "code": "WBER"
+     }
+    ]
+   }
+  },
+  {
+   "name": "WATERSHED",
+   "type": "esriFieldTypeString",
+   "alias": "WATERSHED",
+   "length": 24,
+   "domain": null
+  },
+  {
+   "name": "SUBWTRSHED",
+   "type": "esriFieldTypeString",
+   "alias": "SubWatershed",
+   "length": 24,
+   "domain": null
+  },
+  {
+   "name": "MXCREATIONSTATE",
+   "type": "esriFieldTypeInteger",
+   "alias": "MXCREATIONSTATE",
+   "domain": null
+  },
+  {
+   "name": "MXSITEID",
+   "type": "esriFieldTypeString",
+   "alias": "MXSITEID",
+   "length": 8,
+   "domain": null
+  },
+  {
+   "name": "LIMATERIAL",
+   "type": "esriFieldTypeString",
+   "alias": "Line Material",
+   "length": 50,
+   "domain": {
+    "type": "codedValue",
+    "name": "SWPipeMaterial",
+    "codedValues": [
+     {
+      "name": "Concrete Box Culvert",
+      "code": "Concrete Box Culvert"
+     },
+     {
+      "name": "Cast Iron Pipe",
+      "code": "Cast Iron Pipe"
+     },
+     {
+      "name": "Clay",
+      "code": "Clay"
+     },
+     {
+      "name": "Arched Reinforced Concrete",
+      "code": "Arched Reinforced Concrete"
+     },
+     {
+      "name": "Corrugated Metal Pipe",
+      "code": "Corrugated Metal Pipe"
+     },
+     {
+      "name": "Corrugated Plastic Pipe",
+      "code": "Corrugated Plastic Pipe"
+     },
+     {
+      "name": "Ditch, Concrete",
+      "code": "Ditch, Concrete"
+     },
+     {
+      "name": "Ditch, Earthen",
+      "code": "Ditch, Earthen"
+     },
+     {
+      "name": "Ditch, Other",
+      "code": "Ditch, Other"
+     },
+     {
+      "name": "Ductile Iron Pipe",
+      "code": "Ductile Iron Pipe"
+     },
+     {
+      "name": "Elliptical Corrugated Metal",
+      "code": "Elliptical Corrugated Metal"
+     },
+     {
+      "name": "Elliptical HDPE",
+      "code": "Elliptical HDPE"
+     },
+     {
+      "name": "HDPE",
+      "code": "HDPE"
+     },
+     {
+      "name": "Elliptical Concrete Pipe",
+      "code": "Elliptical Concrete Pipe"
+     },
+     {
+      "name": "Other",
+      "code": "Other"
+     },
+     {
+      "name": "PVC",
+      "code": "PVC"
+     },
+     {
+      "name": "Reinforced Concrete Pipe",
+      "code": "Reinforced Concrete Pipe"
+     },
+     {
+      "name": "Steel Pipe",
+      "code": "Steel Pipe"
+     }
+    ]
+   }
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF",
+ "isDataVersioned": true
+}

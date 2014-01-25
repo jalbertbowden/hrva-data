@@ -1,0 +1,144 @@
+{
+ "currentVersion": 10.1,
+ "id": 3,
+ "name": "street_lights",
+ "type": "Feature Layer",
+ "description": "",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPoint",
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSMS",
+    "style": "esriSMSCircle",
+    "color": [
+     51,
+     140,
+     0,
+     255
+    ],
+    "size": 4,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0,
+    "outline": {
+     "color": [
+      0,
+      0,
+      0,
+      255
+     ],
+     "width": 1
+    }
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.20812978967102E7,
+  "ymin": 3368280.66095567,
+  "xmax": 1.21875739055132E7,
+  "ymax": 3481764.18387736,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "GRID_ADDRE",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID_1",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID_1",
+   "domain": null
+  },
+  {
+   "name": "GRID_ADDRE",
+   "type": "esriFieldTypeString",
+   "alias": "GRID_ADDRE",
+   "length": 254,
+   "domain": null
+  },
+  {
+   "name": "FIXTURE_ST",
+   "type": "esriFieldTypeString",
+   "alias": "FIXTURE_ST",
+   "length": 254,
+   "domain": null
+  },
+  {
+   "name": "MATERIAL_C",
+   "type": "esriFieldTypeString",
+   "alias": "MATERIAL_C",
+   "length": 254,
+   "domain": null
+  },
+  {
+   "name": "GPS_X",
+   "type": "esriFieldTypeDouble",
+   "alias": "GPS_X",
+   "domain": null
+  },
+  {
+   "name": "GPS_Y",
+   "type": "esriFieldTypeDouble",
+   "alias": "GPS_Y",
+   "domain": null
+  },
+  {
+   "name": "OWNERTYPE",
+   "type": "esriFieldTypeString",
+   "alias": "OWNERTYPE",
+   "length": 160,
+   "domain": null
+  },
+  {
+   "name": "STNUM",
+   "type": "esriFieldTypeInteger",
+   "alias": "STNUM",
+   "domain": null
+  },
+  {
+   "name": "STNAM",
+   "type": "esriFieldTypeString",
+   "alias": "STNAM",
+   "length": 160,
+   "domain": null
+  },
+  {
+   "name": "CLASSIFICA",
+   "type": "esriFieldTypeString",
+   "alias": "CLASSIFICA",
+   "length": 160,
+   "domain": null
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF"
+}

@@ -1,0 +1,19 @@
+{
+ "layers": [
+  {
+   "layerId": 0,
+   "layerName": "Water Wells",
+   "layerType": "Feature Layer",
+   "minScale": 18057,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "7cc136337c438262c14d5b1877d8de02",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAARdJREFUOI1jYaAyYBk1kA4GJj7nN1dksePjZuLcff33FYY5EtfINtB93sd4eR2OIj5RNj0GRgYGzW9/Xz/2/Lxq/aJv5Qwbxb+SZKDnzA++ypY8kzg4mfhgYmxczKLKxjzZwUyMLGs3MmSQZKCIClsasmHIQFKDM1Ko5vX0dy2iF4k2kI2bSQeXHAcnE5+1OpvVZgYG4g1k+MfwB6fcfwaGP3//Y5XHaeD3L3/PCTIwqGCT+/z295t3L/+uI8nAty//1PPw/7LlE2eTRBb/9ePfvzePf/WfLBd+S5KBO2P5b/gv++T2/cvfbnYeZksmRgbO37/+3fz68u/UtcE8M3Hpw5sON0bxXWFgYPDEp4YkA8kBowZSDgDfhVcwH0Q8SgAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  }
+ ]
+}

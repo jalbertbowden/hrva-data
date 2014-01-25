@@ -1,0 +1,158 @@
+{
+ "currentVersion": 10.1,
+ "id": 5,
+ "name": "Towers",
+ "type": "Feature Layer",
+ "description": "",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPoint",
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriPMS",
+    "url": "72ccad349a5c8dd48636a4a090be1bb2",
+    "imageData": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAQNJREFUOI3NkqFOw1AUhr+bTKxqSHCtG1WVpBbZTLCgNscr8AqV1ZO4ORxJeQPAUdxcV3OZu72mmzsYuuSuXQgg4Jib3Jx8/5c/Z8AvZ/DvAfL5qr8xqOsarQ1hGPwMkKYpTdN832ArIp5SZFnWfsn7VrgY+1RV5fThAKIoksfnV8a+TxzH5HmO1obZ7AoPeFmtOfPcPh2AMYbTIbyt1oyGYK0FYLG4c0KKolAdQFmLGHZsdpCXlpvzkZN0+7TZh/QaBCdqT10u70WF1331dO6hr0SZThNEBGstWhvq2mCMIUku5RDSAZRl2ZfcmjGfu2aHgIcgCI6ebbsDTI4BJnw9zs4Hh3NhglvKzWIAAAAASUVORK5CYII=",
+    "contentType": "image/png",
+    "width": 12,
+    "height": 12,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.20892662214896E7,
+  "ymin": 3379943.46100333,
+  "xmax": 1.21792566453139E7,
+  "ymax": 3477522.13739197,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "ADDRESS",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "REG_NO",
+   "type": "esriFieldTypeDouble",
+   "alias": "REG_NO",
+   "domain": null
+  },
+  {
+   "name": "ISSUE_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "ISSUE_DATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "GRNG_ELEV",
+   "type": "esriFieldTypeDouble",
+   "alias": "GRNG_ELEV",
+   "domain": null
+  },
+  {
+   "name": "HGT_ABV_GRND",
+   "type": "esriFieldTypeDouble",
+   "alias": "HGT_ABV_GRND",
+   "domain": null
+  },
+  {
+   "name": "HGT_ABV_SEA",
+   "type": "esriFieldTypeDouble",
+   "alias": "HGT_ABV_SEA",
+   "domain": null
+  },
+  {
+   "name": "ADDRESS",
+   "type": "esriFieldTypeString",
+   "alias": "ADDRESS",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "ESTIMATED",
+   "type": "esriFieldTypeString",
+   "alias": "ESTIMATED",
+   "length": 5,
+   "domain": null
+  },
+  {
+   "name": "MAP_PARCEL",
+   "type": "esriFieldTypeString",
+   "alias": "MAP_PARCEL",
+   "length": 13,
+   "domain": null
+  },
+  {
+   "name": "TYPE_",
+   "type": "esriFieldTypeString",
+   "alias": "TYPE_",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "OWNER",
+   "type": "esriFieldTypeString",
+   "alias": "OWNER",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "USE_PERMIT",
+   "type": "esriFieldTypeString",
+   "alias": "USE_PERMIT",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "APP_HEIGHT",
+   "type": "esriFieldTypeString",
+   "alias": "APP_HEIGHT",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "MAP_ID",
+   "type": "esriFieldTypeDouble",
+   "alias": "MAP_ID",
+   "domain": null
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF"
+}

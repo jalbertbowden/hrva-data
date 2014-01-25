@@ -1,0 +1,184 @@
+{
+ "currentVersion": 10.1,
+ "id": 44,
+ "name": "Waterways",
+ "type": "Feature Layer",
+ "description": "",
+ "definitionExpression": "TYPE = 46000 OR TYPE = 33600",
+ "geometryType": "esriGeometryPolygon",
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 500000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSFS",
+    "style": "esriSFSSolid",
+    "color": [
+     151,
+     219,
+     242,
+     255
+    ],
+    "outline": {
+     "type": "esriSLS",
+     "style": "esriSLSSolid",
+     "color": [
+      64,
+      101,
+      235,
+      255
+     ],
+     "width": 0.4
+    }
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": true,
+ "extent": {
+  "xmin": 1.20729539982522E7,
+  "ymin": 3366020.5744423,
+  "xmax": 1.21977468897421E7,
+  "ymax": 3479982.13293605,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "NAME",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "NAME",
+   "type": "esriFieldTypeString",
+   "alias": "NAME",
+   "length": 200,
+   "domain": null
+  },
+  {
+   "name": "NAME_LOCAL",
+   "type": "esriFieldTypeString",
+   "alias": "NAME_LOCAL",
+   "length": 200,
+   "domain": null
+  },
+  {
+   "name": "TYPE",
+   "type": "esriFieldTypeInteger",
+   "alias": "TYPE",
+   "domain": {
+    "type": "codedValue",
+    "name": "WaterbodyType",
+    "codedValues": [
+     {
+      "name": "BayInlet",
+      "code": 31200
+     },
+     {
+      "name": "DamWeir",
+      "code": 34300
+     },
+     {
+      "name": "Canal or Ditch",
+      "code": 33600
+     },
+     {
+      "name": "Playa",
+      "code": 36100
+     },
+     {
+      "name": "IceMass/Glacier",
+      "code": 37800
+     },
+     {
+      "name": "Lake or Pond",
+      "code": 39000
+     },
+     {
+      "name": "Lake or Pond/Intermittent",
+      "code": 39005
+     },
+     {
+      "name": "Lake or Pond/Perennial",
+      "code": 39004
+     },
+     {
+      "name": "SeaOcean",
+      "code": 44500
+     },
+     {
+      "name": "Reservoir",
+      "code": 43600
+     },
+     {
+      "name": "Stream or River",
+      "code": 46000
+     },
+     {
+      "name": "Swamp or Marsh",
+      "code": 46600
+     },
+     {
+      "name": "Stream or River/Intermittent",
+      "code": 46003
+     },
+     {
+      "name": "Stream or River/Perennial",
+      "code": 46006
+     },
+     {
+      "name": "Wash/Dry bed",
+      "code": 48400
+     },
+     {
+      "name": "Estuary",
+      "code": 49300
+     },
+     {
+      "name": "Levee",
+      "code": 56800
+     },
+     {
+      "name": "Unknown",
+      "code": 0
+     },
+     {
+      "name": "Other",
+      "code": 1
+     }
+    ]
+   }
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF",
+ "isDataVersioned": true
+}

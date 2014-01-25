@@ -1,0 +1,147 @@
+
+<!-- saved from url=(0102)http://gisdata.cityofchesapeake.net/public/rest/services/Mosquito/Adulticide_Zones/MapServer/0?f=pjson -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">{
+ "currentVersion": 10.1,
+ "id": 0,
+ "name": "Adulticide Spray Zones",
+ "type": "Feature Layer",
+ "description": "",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPolygon",
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 0,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "uniqueValue",
+   "field1": "SPRAY",
+   "field2": null,
+   "field3": null,
+   "fieldDelimiter": ", ",
+   "defaultSymbol": null,
+   "defaultLabel": null,
+   "uniqueValueInfos": [
+    {
+     "symbol": {
+      "type": "esriSFS",
+      "style": "esriSFSSolid",
+      "color": [
+       168,
+       0,
+       0,
+       255
+      ],
+      "outline": {
+       "type": "esriSLS",
+       "style": "esriSLSSolid",
+       "color": [
+        110,
+        110,
+        110,
+        255
+       ],
+       "width": 0.4
+      }
+     },
+     "value": "YES",
+     "label": "To Be Sprayed",
+     "description": ""
+    }
+   ]
+  },
+  "transparency": 50,
+  "labelingInfo": null
+ },
+ "defaultVisibility": true,
+ "extent": {
+  "xmin": 1.20794454064104E7,
+  "ymin": 3366942.36591038,
+  "xmax": 1.21968254480771E7,
+  "ymax": 3481805.63257706,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "DISTRICT",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "DISTRICT",
+   "type": "esriFieldTypeString",
+   "alias": "DISTRICT",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "ADULT_ZONE",
+   "type": "esriFieldTypeString",
+   "alias": "ADULT_ZONE",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "ACRE",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "ACRE",
+   "domain": null
+  },
+  {
+   "name": "SPRAY",
+   "type": "esriFieldTypeString",
+   "alias": "SPRAY",
+   "length": 3,
+   "domain": {
+    "type": "codedValue",
+    "name": "YES/NO",
+    "codedValues": [
+     {
+      "name": "YES",
+      "code": "YES"
+     },
+     {
+      "name": "NO",
+      "code": "NO"
+     }
+    ]
+   }
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  },
+  {
+   "name": "SHAPE.AREA",
+   "type": "esriFieldTypeDouble",
+   "alias": "SHAPE.AREA",
+   "domain": null
+  },
+  {
+   "name": "SHAPE.LEN",
+   "type": "esriFieldTypeDouble",
+   "alias": "SHAPE.LEN",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF"
+}</pre></body></html>

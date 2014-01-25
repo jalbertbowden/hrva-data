@@ -1,0 +1,292 @@
+{
+ "currentVersion": 10.1,
+ "id": 0,
+ "name": "Water Wells",
+ "type": "Feature Layer",
+ "description": "This layer was created over the years from information extracted from the Chesapeake Health Department's databases. Addresses of where drinking water wells are located were geocoded to the parcel level to create this feature class. The last extract from the Health Department's database was made in 2005 and all the properties in Southern Chesapeake that have a residential house on the property  wells were added to assuming they would have to have wells. Also all the residential properties in our unserved areas wells were added on.",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPoint",
+ "copyrightText": "City of Chesapeake IT/GIS, Chesapeake Health Department Environmential Division.",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 18057,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriPMS",
+    "url": "dbd134ac394e478f8ee20f82daac5917",
+    "imageData": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAARRJREFUGJVjYUAGic/5zRVZ7Pi4mTh3X/99hWGOxDWYFAuM4T7vY7y8DkcRnyibHgMjA4Pmt7+vH3t+XrV+0bdyho3iX1kYGBgYPGd+8FW25JnEwcnEB9PIxsUsqmzMkx3MxMiydiNDBgsDAwODiApbGrIiZCCpwRkpVPN6OgsDAwMDGzeTDjZFDAwMDBycTHzW6mxWEDf+Y/iDSyHDfwaGP3///2FhYGBg+P7l7zlBBgYVbOo+v/395t3Lv+tYGBgYGN6+/FPPw//Llk+cTRJZ0a8f//69efyr/2S58FsWBgYGhp2x/Df8l31y+/7lbzc7D7MlEyMD5+9f/25+ffl36tpgnpko4bgxiu8KAwODJy6nAgBXdlMsCRl5IwAAAABJRU5ErkJggg==",
+    "contentType": "image/png",
+    "width": 7,
+    "height": 7,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": true,
+ "extent": {
+  "xmin": -8511547.171259318,
+  "ymin": 4376185.1942549795,
+  "xmax": -8469987.965256251,
+  "ymax": 4420665.780676409,
+  "spatialReference": {
+   "wkid": 102100,
+   "latestWkid": 3857
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "ADDRESS",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "ADDRESS",
+   "type": "esriFieldTypeString",
+   "alias": "ADDRESS",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "CITY",
+   "type": "esriFieldTypeString",
+   "alias": "CITY",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "ST",
+   "type": "esriFieldTypeString",
+   "alias": "ST",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "MAP_PARCEL",
+   "type": "esriFieldTypeString",
+   "alias": "MAP_PARCEL",
+   "length": 13,
+   "domain": null
+  },
+  {
+   "name": "SOURCE",
+   "type": "esriFieldTypeString",
+   "alias": "SOURCE",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "ID",
+   "type": "esriFieldTypeString",
+   "alias": "ID",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "W_TYPE",
+   "type": "esriFieldTypeString",
+   "alias": "W_TYPE",
+   "length": 50,
+   "domain": {
+    "type": "codedValue",
+    "name": "Well_Type",
+    "codedValues": [
+     {
+      "name": "Irrigation",
+      "code": "Irrigation"
+     },
+     {
+      "name": "Drinking",
+      "code": "Drinking"
+     },
+     {
+      "name": "Non-Potable",
+      "code": "Non-Potable"
+     },
+     {
+      "name": "Geo-Open",
+      "code": "Geo-Open"
+     },
+     {
+      "name": "Geo-Closed",
+      "code": "Geo-Closed"
+     }
+    ]
+   }
+  },
+  {
+   "name": "INSPECTOR",
+   "type": "esriFieldTypeString",
+   "alias": "INSPECTOR",
+   "length": 50,
+   "domain": {
+    "type": "codedValue",
+    "name": "HealthInspector",
+    "codedValues": [
+     {
+      "name": "Adam Feris",
+      "code": "AF"
+     },
+     {
+      "name": "Nicole Petrick",
+      "code": "NP"
+     }
+    ]
+   }
+  },
+  {
+   "name": "REVIEWED",
+   "type": "esriFieldTypeString",
+   "alias": "REVIEWED",
+   "length": 5,
+   "domain": {
+    "type": "codedValue",
+    "name": "BOOLEAN_FIELD",
+    "codedValues": [
+     {
+      "name": "YES",
+      "code": "YES"
+     },
+     {
+      "name": "NO",
+      "code": "NO"
+     }
+    ]
+   }
+  },
+  {
+   "name": "DATE_REVIEWED",
+   "type": "esriFieldTypeDate",
+   "alias": "DATE_REVIEWED",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "ZIPCODE",
+   "type": "esriFieldTypeInteger",
+   "alias": "ZIPCODE",
+   "domain": {
+    "type": "codedValue",
+    "name": "ZipCode",
+    "codedValues": [
+     {
+      "name": "23320",
+      "code": 23320
+     },
+     {
+      "name": "23321",
+      "code": 23321
+     },
+     {
+      "name": "23322",
+      "code": 23322
+     },
+     {
+      "name": "23323",
+      "code": 23323
+     },
+     {
+      "name": "23324",
+      "code": 23324
+     },
+     {
+      "name": "23325",
+      "code": 23325
+     },
+     {
+      "name": "23435",
+      "code": 23435
+     },
+     {
+      "name": "23457",
+      "code": 23457
+     },
+     {
+      "name": "23464",
+      "code": 23464
+     },
+     {
+      "name": "23523",
+      "code": 23523
+     },
+     {
+      "name": "23701",
+      "code": 23701
+     },
+     {
+      "name": "23703",
+      "code": 23703
+     },
+     {
+      "name": "23702",
+      "code": 23702
+     },
+     {
+      "name": "27958",
+      "code": 27958
+     },
+     {
+      "name": "23704",
+      "code": 23704
+     }
+    ]
+   }
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  },
+  {
+   "name": "CREATED_USER",
+   "type": "esriFieldTypeString",
+   "alias": "CREATED_USER",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "CREATED_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "CREATED_DATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "LAST_EDITED_USER",
+   "type": "esriFieldTypeString",
+   "alias": "LAST_EDITED_USER",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "LAST_EDITED_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "LAST_EDITED_DATE",
+   "length": 36,
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF"
+}

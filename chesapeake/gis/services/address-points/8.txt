@@ -1,0 +1,1470 @@
+{
+ "currentVersion": 10.1,
+ "id": 8,
+ "name": "address_points",
+ "type": "Feature Layer",
+ "description": "",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPoint",
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSMS",
+    "style": "esriSMSCircle",
+    "color": [
+     94,
+     171,
+     0,
+     255
+    ],
+    "size": 4,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0,
+    "outline": {
+     "color": [
+      0,
+      0,
+      0,
+      255
+     ],
+     "width": 1
+    }
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.20787196672009E7,
+  "ymin": 3366806.26556513,
+  "xmax": 1.21926174775994E7,
+  "ymax": 3481851.19090059,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": true,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "ST_NAME",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "ADDRESS",
+   "type": "esriFieldTypeString",
+   "alias": "ADDRESS",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "MAP_PARCEL",
+   "type": "esriFieldTypeString",
+   "alias": "MAP_PARCEL",
+   "length": 13,
+   "domain": null
+  },
+  {
+   "name": "CNTRL_NO",
+   "type": "esriFieldTypeDouble",
+   "alias": "CNTRL_NO",
+   "domain": null
+  },
+  {
+   "name": "STATUS",
+   "type": "esriFieldTypeString",
+   "alias": "STATUS",
+   "length": 15,
+   "domain": {
+    "type": "codedValue",
+    "name": "STATUS",
+    "codedValues": [
+     {
+      "name": "TRUE",
+      "code": "TRUE"
+     },
+     {
+      "name": "RANGE",
+      "code": "RANGE"
+     },
+     {
+      "name": "CORNER",
+      "code": "CORNER"
+     },
+     {
+      "name": "LAND",
+      "code": "LAND"
+     },
+     {
+      "name": "MULTI",
+      "code": "MULTI"
+     },
+     {
+      "name": "PRELIMINARY",
+      "code": "PRELIMINARY"
+     },
+     {
+      "name": "TEMPORARY",
+      "code": "TEMPORARY"
+     },
+     {
+      "name": "MODEL",
+      "code": "MODEL"
+     }
+    ]
+   }
+  },
+  {
+   "name": "ST_PREFIX",
+   "type": "esriFieldTypeString",
+   "alias": "ST_PREFIX",
+   "length": 3,
+   "domain": {
+    "type": "codedValue",
+    "name": "Prefix",
+    "codedValues": [
+     {
+      "name": "N",
+      "code": "N"
+     },
+     {
+      "name": "S",
+      "code": "S"
+     },
+     {
+      "name": "E",
+      "code": "E"
+     },
+     {
+      "name": "W",
+      "code": "W"
+     }
+    ]
+   }
+  },
+  {
+   "name": "ST_NUMBER",
+   "type": "esriFieldTypeInteger",
+   "alias": "ST_NUMBER",
+   "domain": null
+  },
+  {
+   "name": "ST_NAME",
+   "type": "esriFieldTypeString",
+   "alias": "ST_NAME",
+   "length": 32,
+   "domain": null
+  },
+  {
+   "name": "ST_TYPE",
+   "type": "esriFieldTypeString",
+   "alias": "ST_TYPE",
+   "length": 10,
+   "domain": {
+    "type": "codedValue",
+    "name": "Streettype_2",
+    "codedValues": [
+     {
+      "name": "REACH",
+      "code": "REACH"
+     },
+     {
+      "name": "FALL",
+      "code": "FALL"
+     },
+     {
+      "name": "ISLE",
+      "code": "ISLE"
+     },
+     {
+      "name": "LAND",
+      "code": "LAND"
+     },
+     {
+      "name": "LOOP",
+      "code": "LOOP"
+     },
+     {
+      "name": "MALL",
+      "code": "MALL"
+     },
+     {
+      "name": "MEWS",
+      "code": "MEWS"
+     },
+     {
+      "name": "OVAL",
+      "code": "OVAL"
+     },
+     {
+      "name": "PARK",
+      "code": "PARK"
+     },
+     {
+      "name": "PASS",
+      "code": "PASS"
+     },
+     {
+      "name": "PATH",
+      "code": "PATH"
+     },
+     {
+      "name": "PIKE",
+      "code": "PIKE"
+     },
+     {
+      "name": "PNE",
+      "code": "PINE"
+     },
+     {
+      "name": "PNES",
+      "code": "PINES"
+     },
+     {
+      "name": "RAMP",
+      "code": "RAMP"
+     },
+     {
+      "name": "ROW",
+      "code": "ROW"
+     },
+     {
+      "name": "RUE",
+      "code": "RUE"
+     },
+     {
+      "name": "RUN",
+      "code": "RUN"
+     },
+     {
+      "name": "SPUR",
+      "code": "SPUR"
+     },
+     {
+      "name": "WALK",
+      "code": "WALK"
+     },
+     {
+      "name": "WALL",
+      "code": "WALL"
+     },
+     {
+      "name": "WAY",
+      "code": "WAY"
+     },
+     {
+      "name": "WAYS",
+      "code": "WAYS"
+     },
+     {
+      "name": "QUAY",
+      "code": "QUAY"
+     },
+     {
+      "name": "ALY",
+      "code": "ALY"
+     },
+     {
+      "name": "ANX",
+      "code": "ANX"
+     },
+     {
+      "name": "ARC",
+      "code": "ARC"
+     },
+     {
+      "name": "AVE",
+      "code": "AVE"
+     },
+     {
+      "name": "BYU",
+      "code": "BYU"
+     },
+     {
+      "name": "BCH",
+      "code": "BCH"
+     },
+     {
+      "name": "BND",
+      "code": "BND"
+     },
+     {
+      "name": "BLF",
+      "code": "BLF"
+     },
+     {
+      "name": "BTM",
+      "code": "BTM"
+     },
+     {
+      "name": "BLVD",
+      "code": "BLVD"
+     },
+     {
+      "name": "BR",
+      "code": "BR"
+     },
+     {
+      "name": "BRG",
+      "code": "BRG"
+     },
+     {
+      "name": "BRK",
+      "code": "BRK"
+     },
+     {
+      "name": "BRKS",
+      "code": "BRKS"
+     },
+     {
+      "name": "BG",
+      "code": "BG"
+     },
+     {
+      "name": "BGS",
+      "code": "BGS"
+     },
+     {
+      "name": "BYP",
+      "code": "BYP"
+     },
+     {
+      "name": "CP",
+      "code": "CP"
+     },
+     {
+      "name": "CYN",
+      "code": "CYN"
+     },
+     {
+      "name": "CPE",
+      "code": "CPE"
+     },
+     {
+      "name": "CSWY",
+      "code": "CSWY"
+     },
+     {
+      "name": "CTR",
+      "code": "CTR"
+     },
+     {
+      "name": "CTRS",
+      "code": "CTRS"
+     },
+     {
+      "name": "CIR",
+      "code": "CIR"
+     },
+     {
+      "name": "CIRS",
+      "code": "CIRS"
+     },
+     {
+      "name": "CLF",
+      "code": "CLF"
+     },
+     {
+      "name": "CLFS",
+      "code": "CLFS"
+     },
+     {
+      "name": "CLB",
+      "code": "CLB"
+     },
+     {
+      "name": "COR",
+      "code": "COR"
+     },
+     {
+      "name": "CORS",
+      "code": "CORS"
+     },
+     {
+      "name": "CRSE",
+      "code": "CRSE"
+     },
+     {
+      "name": "CT",
+      "code": "CT"
+     },
+     {
+      "name": "CTS",
+      "code": "CTS"
+     },
+     {
+      "name": "CV",
+      "code": "CV"
+     },
+     {
+      "name": "CVS",
+      "code": "CVS"
+     },
+     {
+      "name": "CRK",
+      "code": "CRK"
+     },
+     {
+      "name": "CRES",
+      "code": "CRES"
+     },
+     {
+      "name": "CMN",
+      "code": "CMN"
+     },
+     {
+      "name": "CRST",
+      "code": "CRST"
+     },
+     {
+      "name": "XING",
+      "code": "XING"
+     },
+     {
+      "name": "XRD",
+      "code": "XRD"
+     },
+     {
+      "name": "CURV",
+      "code": "CURV"
+     },
+     {
+      "name": "DL",
+      "code": "DL"
+     },
+     {
+      "name": "DM",
+      "code": "DM"
+     },
+     {
+      "name": "DR",
+      "code": "DR"
+     },
+     {
+      "name": "DRS",
+      "code": "DRS"
+     },
+     {
+      "name": "EST",
+      "code": "EST"
+     },
+     {
+      "name": "ESTS",
+      "code": "ESTS"
+     },
+     {
+      "name": "EXPY",
+      "code": "EXPY"
+     },
+     {
+      "name": "EXT",
+      "code": "EXT"
+     },
+     {
+      "name": "EXTS",
+      "code": "EXTS"
+     },
+     {
+      "name": "FLS",
+      "code": "FLS"
+     },
+     {
+      "name": "FRY",
+      "code": "FRY"
+     },
+     {
+      "name": "FLD",
+      "code": "FLD"
+     },
+     {
+      "name": "FLDS",
+      "code": "FLDS"
+     },
+     {
+      "name": "FLT",
+      "code": "FLT"
+     },
+     {
+      "name": "FLTS",
+      "code": "FLTS"
+     },
+     {
+      "name": "FRD",
+      "code": "FRD"
+     },
+     {
+      "name": "FRDS",
+      "code": "FRDS"
+     },
+     {
+      "name": "FRST",
+      "code": "FRST"
+     },
+     {
+      "name": "FRGS",
+      "code": "FRGS"
+     },
+     {
+      "name": "FRK",
+      "code": "FRK"
+     },
+     {
+      "name": "FRKS",
+      "code": "FRKS"
+     },
+     {
+      "name": "FT",
+      "code": "FT"
+     },
+     {
+      "name": "FWY",
+      "code": "FWY"
+     },
+     {
+      "name": "GDN",
+      "code": "GDN"
+     },
+     {
+      "name": "GDNS",
+      "code": "GDNS"
+     },
+     {
+      "name": "GTWY",
+      "code": "GTWY"
+     },
+     {
+      "name": "GLN",
+      "code": "GLN"
+     },
+     {
+      "name": "GLNS",
+      "code": "GLNS"
+     },
+     {
+      "name": "GRNS",
+      "code": "GRNS"
+     },
+     {
+      "name": "GRVS",
+      "code": "GRVS"
+     },
+     {
+      "name": "HARB",
+      "code": "HARB"
+     },
+     {
+      "name": "HBRS",
+      "code": "HBRS"
+     },
+     {
+      "name": "HVN",
+      "code": "HVN"
+     },
+     {
+      "name": "HTS",
+      "code": "HTS"
+     },
+     {
+      "name": "HWY",
+      "code": "HWY"
+     },
+     {
+      "name": "HL",
+      "code": "HL"
+     },
+     {
+      "name": "HOLW",
+      "code": "HOLW"
+     },
+     {
+      "name": "INLT",
+      "code": "INLT"
+     },
+     {
+      "name": "IS",
+      "code": "IS"
+     },
+     {
+      "name": "ISS",
+      "code": "ISS"
+     },
+     {
+      "name": "JCT",
+      "code": "JCT"
+     },
+     {
+      "name": "KY",
+      "code": "KY"
+     },
+     {
+      "name": "KYS",
+      "code": "KYS"
+     },
+     {
+      "name": "KNL",
+      "code": "KNL"
+     },
+     {
+      "name": "KNLS",
+      "code": "KNLS"
+     },
+     {
+      "name": "LK",
+      "code": "LK"
+     },
+     {
+      "name": "LKS",
+      "code": "LKS"
+     },
+     {
+      "name": "LNDG",
+      "code": "LNDG"
+     },
+     {
+      "name": "LN",
+      "code": "LN"
+     },
+     {
+      "name": "LGT",
+      "code": "LGT"
+     },
+     {
+      "name": "LGTS",
+      "code": "LGTS"
+     },
+     {
+      "name": "LF",
+      "code": "LF"
+     },
+     {
+      "name": "LCK",
+      "code": "LCK"
+     },
+     {
+      "name": "LCKS",
+      "code": "LCKS"
+     },
+     {
+      "name": "LDG",
+      "code": "LDG"
+     },
+     {
+      "name": "MNR",
+      "code": "MNR"
+     },
+     {
+      "name": "MNRS",
+      "code": "MNRS"
+     },
+     {
+      "name": "MDW",
+      "code": "MDW"
+     },
+     {
+      "name": "MDWS",
+      "code": "MDWS"
+     },
+     {
+      "name": "ML",
+      "code": "ML"
+     },
+     {
+      "name": "MLS",
+      "code": "MLS"
+     },
+     {
+      "name": "MSN",
+      "code": "MSN"
+     },
+     {
+      "name": "MTWY",
+      "code": "MTWY"
+     },
+     {
+      "name": "MT",
+      "code": "MT"
+     },
+     {
+      "name": "MTN",
+      "code": "MTN"
+     },
+     {
+      "name": "MTNS",
+      "code": "MTNS"
+     },
+     {
+      "name": "NCK",
+      "code": "NCK"
+     },
+     {
+      "name": "ORCH",
+      "code": "ORCH"
+     },
+     {
+      "name": "OPAS",
+      "code": "OPAS"
+     },
+     {
+      "name": "PDGE",
+      "code": "PDGE"
+     },
+     {
+      "name": "PL",
+      "code": "PL"
+     },
+     {
+      "name": "PLN",
+      "code": "PLN"
+     },
+     {
+      "name": "PLNS",
+      "code": "PLNS"
+     },
+     {
+      "name": "PLZ",
+      "code": "PLZ"
+     },
+     {
+      "name": "PT",
+      "code": "PT"
+     },
+     {
+      "name": "PTS",
+      "code": "PTS"
+     },
+     {
+      "name": "PRT",
+      "code": "PRT"
+     },
+     {
+      "name": "PRTS",
+      "code": "PRTS"
+     },
+     {
+      "name": "PR",
+      "code": "PR"
+     },
+     {
+      "name": "RADL",
+      "code": "RADL"
+     },
+     {
+      "name": "RNCH",
+      "code": "RNCH"
+     },
+     {
+      "name": "RPD",
+      "code": "RPD"
+     },
+     {
+      "name": "RPDS",
+      "code": "RPDS"
+     },
+     {
+      "name": "RST",
+      "code": "RST"
+     },
+     {
+      "name": "RDG",
+      "code": "RDG"
+     },
+     {
+      "name": "RDGS",
+      "code": "RDGS"
+     },
+     {
+      "name": "RIV",
+      "code": "RIV"
+     },
+     {
+      "name": "RD",
+      "code": "RD"
+     },
+     {
+      "name": "RTE",
+      "code": "RTE"
+     },
+     {
+      "name": "SHL",
+      "code": "SHL"
+     },
+     {
+      "name": "SHLS",
+      "code": "SHLS"
+     },
+     {
+      "name": "SHR",
+      "code": "SHR"
+     },
+     {
+      "name": "SHRS",
+      "code": "SHRS"
+     },
+     {
+      "name": "SKWY",
+      "code": "SKWY"
+     },
+     {
+      "name": "SPG",
+      "code": "SPG"
+     },
+     {
+      "name": "SPGS",
+      "code": "SPGS"
+     },
+     {
+      "name": "SQ",
+      "code": "SQ"
+     },
+     {
+      "name": "SQS",
+      "code": "SQS"
+     },
+     {
+      "name": "STA",
+      "code": "STA"
+     },
+     {
+      "name": "STRA",
+      "code": "STRA"
+     },
+     {
+      "name": "STRM",
+      "code": "STRM"
+     },
+     {
+      "name": "ST",
+      "code": "ST"
+     },
+     {
+      "name": "STS",
+      "code": "STS"
+     },
+     {
+      "name": "SMT",
+      "code": "SMT"
+     },
+     {
+      "name": "TER",
+      "code": "TER"
+     },
+     {
+      "name": "TRWY",
+      "code": "TRWY"
+     },
+     {
+      "name": "TRCE",
+      "code": "TRCE"
+     },
+     {
+      "name": "TRAK",
+      "code": "TRAK"
+     },
+     {
+      "name": "TRFY",
+      "code": "TRFY"
+     },
+     {
+      "name": "TRL",
+      "code": "TRL"
+     },
+     {
+      "name": "TUNL",
+      "code": "TUNL"
+     },
+     {
+      "name": "TPKE",
+      "code": "TPKE"
+     },
+     {
+      "name": "UPAS",
+      "code": "UPAS"
+     },
+     {
+      "name": "UN",
+      "code": "UN"
+     },
+     {
+      "name": "UNS",
+      "code": "UNS"
+     },
+     {
+      "name": "VLY",
+      "code": "VLY"
+     },
+     {
+      "name": "VLYS",
+      "code": "VLYS"
+     },
+     {
+      "name": "VIA",
+      "code": "VIA"
+     },
+     {
+      "name": "VW",
+      "code": "VW"
+     },
+     {
+      "name": "SWS",
+      "code": "SWS"
+     },
+     {
+      "name": "VLG",
+      "code": "VLG"
+     },
+     {
+      "name": "VL",
+      "code": "VL"
+     },
+     {
+      "name": "VIS",
+      "code": "VIS"
+     },
+     {
+      "name": "WL",
+      "code": "WL"
+     },
+     {
+      "name": "WLS",
+      "code": "WLS"
+     },
+     {
+      "name": "BLFS",
+      "code": "BLFS"
+     },
+     {
+      "name": "GRV",
+      "code": "GRV"
+     },
+     {
+      "name": "DV",
+      "code": "DV"
+     },
+     {
+      "name": "FRG",
+      "code": "FRG"
+     },
+     {
+      "name": "CHASE",
+      "code": "CHASE"
+     },
+     {
+      "name": "CLOSE",
+      "code": "CLOSE"
+     },
+     {
+      "name": "FLYWAY",
+      "code": "FLWY"
+     },
+     {
+      "name": "ARCH",
+      "code": "ARCH"
+     },
+     {
+      "name": "CROSS",
+      "code": "CROSS"
+     },
+     {
+      "name": "LOOKOUT",
+      "code": "LKOUT"
+     },
+     {
+      "name": "STRAND",
+      "code": "STRND"
+     },
+     {
+      "name": "GATE",
+      "code": "GATE"
+     },
+     {
+      "name": "LAIR",
+      "code": "LAIR"
+     },
+     {
+      "name": "BANK",
+      "code": "BANK"
+     },
+     {
+      "name": "QUARTER",
+      "code": "QUARTER"
+     },
+     {
+      "name": "KEEP",
+      "code": "KEEP"
+     },
+     {
+      "name": "GRN",
+      "code": "GRN"
+     },
+     {
+      "name": "CMNS",
+      "code": "CMNS"
+     },
+     {
+      "name": "POINTE",
+      "code": "POINTE"
+     },
+     {
+      "name": "PKWY",
+      "code": "PKWY"
+     }
+    ]
+   }
+  },
+  {
+   "name": "ST_SUFFIX",
+   "type": "esriFieldTypeString",
+   "alias": "ST_SUFFIX",
+   "length": 3,
+   "domain": {
+    "type": "codedValue",
+    "name": "Direction",
+    "codedValues": [
+     {
+      "name": "E",
+      "code": "E"
+     },
+     {
+      "name": "N",
+      "code": "N"
+     },
+     {
+      "name": "S",
+      "code": "S"
+     },
+     {
+      "name": "W",
+      "code": "W"
+     }
+    ]
+   }
+  },
+  {
+   "name": "ST_ZIPCODE",
+   "type": "esriFieldTypeInteger",
+   "alias": "ST_ZIPCODE",
+   "domain": {
+    "type": "codedValue",
+    "name": "ZipCode_2",
+    "codedValues": [
+     {
+      "name": "23320",
+      "code": 23320
+     },
+     {
+      "name": "23321",
+      "code": 23321
+     },
+     {
+      "name": "23322",
+      "code": 23322
+     },
+     {
+      "name": "23323",
+      "code": 23323
+     },
+     {
+      "name": "23324",
+      "code": 23324
+     },
+     {
+      "name": "23325",
+      "code": 23325
+     },
+     {
+      "name": "23435",
+      "code": 23435
+     },
+     {
+      "name": "23457",
+      "code": 23457
+     },
+     {
+      "name": "23464",
+      "code": 23464
+     },
+     {
+      "name": "23523",
+      "code": 23523
+     },
+     {
+      "name": "23701",
+      "code": 23701
+     },
+     {
+      "name": "23703",
+      "code": 23703
+     },
+     {
+      "name": "23702",
+      "code": 23702
+     },
+     {
+      "name": "27958",
+      "code": 27958
+     }
+    ]
+   }
+  },
+  {
+   "name": "ST_CITY",
+   "type": "esriFieldTypeString",
+   "alias": "ST_CITY",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "ST_STATE",
+   "type": "esriFieldTypeString",
+   "alias": "ST_STATE",
+   "length": 2,
+   "domain": null
+  },
+  {
+   "name": "UNITS",
+   "type": "esriFieldTypeString",
+   "alias": "UNITS",
+   "length": 6,
+   "domain": null
+  },
+  {
+   "name": "USE_",
+   "type": "esriFieldTypeString",
+   "alias": "USE",
+   "length": 20,
+   "domain": {
+    "type": "codedValue",
+    "name": "USE_1",
+    "codedValues": [
+     {
+      "name": "Malls",
+      "code": "Malls"
+     },
+     {
+      "name": "Pumping Station",
+      "code": "Pumping Station"
+     },
+     {
+      "name": "Common Area",
+      "code": "Common Area"
+     },
+     {
+      "name": "Tower",
+      "code": "Tower"
+     },
+     {
+      "name": "Cemetery",
+      "code": "Cemetery"
+     },
+     {
+      "name": "Ball Park",
+      "code": "Ball Park"
+     },
+     {
+      "name": "Park",
+      "code": "Park"
+     },
+     {
+      "name": "Medical Office",
+      "code": "Medical Office"
+     },
+     {
+      "name": "Garage",
+      "code": "Garage"
+     },
+     {
+      "name": "Church",
+      "code": "Church"
+     },
+     {
+      "name": "Senior Condos",
+      "code": "Senior Condos"
+     },
+     {
+      "name": "Out Buildings",
+      "code": "Out Buildings"
+     },
+     {
+      "name": "Telephone Building",
+      "code": "Telephone Building"
+     },
+     {
+      "name": "Utility Building",
+      "code": "Utility Building"
+     },
+     {
+      "name": "Office Building",
+      "code": "Office Building"
+     },
+     {
+      "name": "Bank",
+      "code": "Bank"
+     },
+     {
+      "name": "Office Warehouse",
+      "code": "Office Warehouse"
+     },
+     {
+      "name": "Credit Union",
+      "code": "Credit Union"
+     },
+     {
+      "name": "Hotel",
+      "code": "Hotel"
+     },
+     {
+      "name": "Self Storage",
+      "code": "Self Storage"
+     },
+     {
+      "name": "Restaurant",
+      "code": "Restaurant"
+     },
+     {
+      "name": "School",
+      "code": "School"
+     },
+     {
+      "name": "Farm",
+      "code": "Farm"
+     },
+     {
+      "name": "Barn",
+      "code": "Barn"
+     },
+     {
+      "name": "VP Sub Station",
+      "code": "VP Sub Station"
+     },
+     {
+      "name": "Duplex",
+      "code": "Duplex"
+     },
+     {
+      "name": "Business",
+      "code": "BUSINESS"
+     },
+     {
+      "name": "Vacant",
+      "code": "VACANT"
+     },
+     {
+      "name": "Club House",
+      "code": "CLUBHOUSE"
+     },
+     {
+      "name": "Warehouse",
+      "code": "WAREHOUSE"
+     },
+     {
+      "name": "Apartments",
+      "code": "APTS"
+     },
+     {
+      "name": "Dry Well",
+      "code": "DRY WELL"
+     },
+     {
+      "name": "Virginia Natural Gas Regulation Station",
+      "code": "VANG REG STA"
+     },
+     {
+      "name": "Virginia Natural Gas Gate Station",
+      "code": "VANG GATE STA"
+     },
+     {
+      "name": "Virginia Natural Gas Pressure Point",
+      "code": "VANG PRESS PT"
+     },
+     {
+      "name": "Daycare",
+      "code": "DAYCARE"
+     },
+     {
+      "name": "Private Utility Building",
+      "code": "PRIVATE UTILITY BLDG"
+     },
+     {
+      "name": "City Property",
+      "code": "CITY PROPERTY"
+     },
+     {
+      "name": "Airport",
+      "code": "AP"
+     },
+     {
+      "name": "Shopping Centers",
+      "code": "Shopping Centers"
+     },
+     {
+      "name": "Mobile Home",
+      "code": "MH"
+     },
+     {
+      "name": "VA Power Plant",
+      "code": "VA Power Plant"
+     },
+     {
+      "name": "Parking Lot",
+      "code": "Parking Lot"
+     },
+     {
+      "name": "Tennis Court",
+      "code": "Tennis Courts"
+     },
+     {
+      "name": "Greenhouse",
+      "code": "Greenhouse"
+     },
+     {
+      "name": "Maintenance Building",
+      "code": "Maintenance Building"
+     },
+     {
+      "name": "Multi Houses",
+      "code": "Multi Houses"
+     },
+     {
+      "name": "Elderly Care",
+      "code": "Elderly Care"
+     },
+     {
+      "name": "Senior Apartments",
+      "code": "Senior Apartments"
+     },
+     {
+      "name": "Apartment Office",
+      "code": "Apartment Office"
+     },
+     {
+      "name": "Fire Station",
+      "code": "Fire Station"
+     },
+     {
+      "name": "Community Building",
+      "code": "Community Building"
+     },
+     {
+      "name": "ATM",
+      "code": "ATM"
+     },
+     {
+      "name": "Construction Trailer",
+      "code": "Construction Trailer"
+     },
+     {
+      "name": "Sales Trailer",
+      "code": "Sales Trailer"
+     }
+    ]
+   }
+  },
+  {
+   "name": "PROJECT",
+   "type": "esriFieldTypeString",
+   "alias": "PROJECT",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "FLOOR",
+   "type": "esriFieldTypeString",
+   "alias": "FLOOR",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "DATE_ADDED",
+   "type": "esriFieldTypeDate",
+   "alias": "DATE_ADDED",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "FIELD_VERIFIED",
+   "type": "esriFieldTypeString",
+   "alias": "FIELD_VERIFIED",
+   "length": 3,
+   "domain": null
+  },
+  {
+   "name": "UNIQUE_ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "UNIQUE_ID",
+   "domain": null
+  },
+  {
+   "name": "CREATED_USER",
+   "type": "esriFieldTypeString",
+   "alias": "CREATED_USER",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "CREATED_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "CREATED_DATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "LAST_EDITED_USER",
+   "type": "esriFieldTypeString",
+   "alias": "LAST_EDITED_USER",
+   "length": 255,
+   "domain": null
+  },
+  {
+   "name": "LAST_EDITED_DATE",
+   "type": "esriFieldTypeDate",
+   "alias": "LAST_EDITED_DATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  },
+  {
+   "name": "DATE_ADDRESS_CHANGED",
+   "type": "esriFieldTypeDate",
+   "alias": "Date Address Changed",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "COMMENTS",
+   "type": "esriFieldTypeString",
+   "alias": "Comments",
+   "length": 255,
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF",
+ "isDataVersioned": true
+}

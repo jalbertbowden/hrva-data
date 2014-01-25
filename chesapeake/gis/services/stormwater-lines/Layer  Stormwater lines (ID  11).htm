@@ -1,0 +1,451 @@
+<html>
+<head>
+<title>Layer: Stormwater lines (ID: 11)</title>
+<link href="/public/rest/static/main.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table width="100%" class="userTable">
+<tr>
+<td class="titlecell">
+ArcGIS REST Services Directory
+</td>
+<td align="right">
+<a href="/public/rest/login">Login</a> | <a href="http://gisdata.cityofchesapeake.net/public/tokens/">Get Token</a>
+</td>
+</tr>
+</table>
+<table width="100%" class="navTable">
+<tr valign="top">
+<td class="breadcrumbs">
+<a href="/public/rest/services">Home</a>
+&gt; <a href="/public/rest/services">services</a>
+&gt; <a href="/public/rest/services/A_POL_Basemap/MapServer">A_POL_Basemap (MapServer)</a>
+&gt; <a href="/public/rest/services/A_POL_Basemap/MapServer/11">Stormwater lines</a>
+</td>
+<td align="right">
+<a href="http://gisdata.cityofchesapeake.net/public/sdk/rest/servicesdirectory.html" target="_blank">Help</a> | <a href="http://gisdata.cityofchesapeake.net/public/rest/services/A_POL_Basemap/MapServer/11?f=help" target="_blank">API Reference</a>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td class="apiref">
+<a href="?f=pjson" target="_blank">JSON</a>
+</td>
+</tr>
+</table>
+<h2>Layer: Stormwater lines (ID: 11)</h2>
+<div class="rbody">
+<b>Name:</b> Stormwater lines <br/><br/>
+<b>Display Field:</b> ST_NAME <br/><br/>
+<b>Type: </b> Feature Layer <br/><br/>
+<b>Geometry Type:</b> esriGeometryPolyline <br/><br/>
+<b>Description: </b> The storm water feature class shows ditches, pipes, culverts, fences in the City of Chesapeake.**Public stormwater data is any data within the right-of-way and it is in any public drainage easement. Private stormwater data is any data outside of the right-of-way and it is within the private drainage easement.Spatial Reference Information: Projection: Lambert Conformal ConicLinear Unit: Foot US Projected Coordinate System: NAD 1983 State Plane Virginia South FIPS 4502 FeetGeographic Coordinate System: GCS North American 1983Datum: D North American 1983 <br/><br/>
+<b>Definition Expression: </b> <br/><br/>
+<b>Copyright Text: </b> None <br/><br/>
+<b>Default Visibility: false </b> <br/><br/>
+<b>MaxRecordCount: </b> 1000<br/><br/>
+<b>Supported Query Formats: </b> JSON, AMF<br/><br/>
+<b>Min Scale: </b> 250000<br/><br/>
+<b>Max Scale: </b> 0<br/><br/>
+<b>Supports Advanced Queries: </b> true<br/><br/>
+<b>Supports Statistics: </b> true<br/><br/>
+<b>Has Labels: </b> false<br/><br/>
+<b>Can Modify Layer: </b> false<br/><br/>
+<b>Can Scale Symbols: </b> false<br/><br/>
+<b>Extent:</b>
+<ul>
+XMin: 1.20793389980767E7<br/>
+YMin: 3366971.92111845<br/>
+XMax: 1.21957240746392E7<br/>
+YMax: 3481802.27632679<br/>
+Spatial Reference: 102747
+&nbsp;(2284)
+<br/> <br/>
+</ul>
+<br/>
+<b>Drawing Info: </b>
+<ul>
+<i>Renderer: </i>
+<ul>
+<i>Simple Renderer:</i><br/>
+<i>Symbol: </i> <ul>
+<i>Style: </i> esriSLSSolid <br/>
+<i>Color: </i> [0, 115, 76, 255] <br/>
+<i>Width: </i> 1
+</ul>
+<i>Label: </i> <br/>
+<i>Description: </i> </ul>
+<i>Transparency: </i> 0 <br/>
+<i>Labeling Info: </i>
+<ul>
+</ul>
+</ul>
+<br/>
+<b>HasZ: false </b><br/><br/>
+<b>HasM: false </b> <br/><br/>
+<b>Has Attachments: </b> false <br/><br/>
+<b>HTML Popup Type: </b> esriServerHTMLPopupTypeAsHTMLText <br/><br/>
+<b>Type ID Field: </b> null<br/><br/>
+<b>Fields: </b>
+<ul>
+<li>
+OBJECTID
+<i>
+(
+type: esriFieldTypeOID
+, alias: OBJECTID
+)
+</i>
+</li>
+<li>
+TAG
+<i>
+(
+type: esriFieldTypeDouble
+, alias: SW ID
+)
+</i>
+</li>
+<li>
+SOURCE
+<i>
+(
+type: esriFieldTypeString
+, alias: Source
+, length: 25
+, <i>Coded Values: </i>
+[AsBuilt Plan: AsBuilt Plans]
+, [City Survey: City Survey]
+, [Field Inspection: Field Inspection]
+<i>, ...8 more...</i>
+)
+</i>
+</li>
+<li>
+LDETTYPE
+<i>
+(
+type: esriFieldTypeString
+, alias: Line Detail Type
+, length: 50
+, <i>Coded Values: </i>
+[CVT: CVT-Culvert]
+, [DRS: DRS-Ditch,Roadside]
+, [DNR: DNR-Ditch,Not Roadside]
+<i>, ...5 more...</i>
+)
+</i>
+</li>
+<li>
+PIPEVERT
+<i>
+(
+type: esriFieldTypeInteger
+, alias: Vertical Diameter
+)
+</i>
+</li>
+<li>
+PIPEHORIZ
+<i>
+(
+type: esriFieldTypeInteger
+, alias: Horizontal Diameter
+)
+</i>
+</li>
+<li>
+UPELEV
+<i>
+(
+type: esriFieldTypeDouble
+, alias: Upstream Invert Elevation
+)
+</i>
+</li>
+<li>
+DNELEV
+<i>
+(
+type: esriFieldTypeDouble
+, alias: Down Stream Invert Elevation
+)
+</i>
+</li>
+<li>
+FLOWDIR
+<i>
+(
+type: esriFieldTypeString
+, alias: Flow Direction
+, length: 10
+)
+</i>
+</li>
+<li>
+DATEADDED
+<i>
+(
+type: esriFieldTypeString
+, alias: Date Added
+, length: 50
+)
+</i>
+</li>
+<li>
+ADDBY
+<i>
+(
+type: esriFieldTypeString
+, alias: Data Added By
+, length: 50
+)
+</i>
+</li>
+<li>
+NOTE1
+<i>
+(
+type: esriFieldTypeString
+, alias: Note 1
+, length: 256
+)
+</i>
+</li>
+<li>
+NOTE2
+<i>
+(
+type: esriFieldTypeString
+, alias: Note 2
+, length: 256
+)
+</i>
+</li>
+<li>
+MAINT_WHO
+<i>
+(
+type: esriFieldTypeString
+, alias: Maintenance Responsibility
+, length: 30
+)
+</i>
+</li>
+<li>
+REIMBURSABLE
+<i>
+(
+type: esriFieldTypeString
+, alias: Reimbursable Street Maintenance
+, length: 3
+)
+</i>
+</li>
+<li>
+ASSETID
+<i>
+(
+type: esriFieldTypeString
+, alias: Asset ID
+, length: 20
+)
+</i>
+</li>
+<li>
+UPSTREAM
+<i>
+(
+type: esriFieldTypeString
+, alias: UPSTREAM
+, length: 25
+)
+</i>
+</li>
+<li>
+DOWNSTREAM
+<i>
+(
+type: esriFieldTypeString
+, alias: DOWNSTREAM
+, length: 25
+)
+</i>
+</li>
+<li>
+STREET_ID
+<i>
+(
+type: esriFieldTypeInteger
+, alias: STREET_ID
+)
+</i>
+</li>
+<li>
+MXASSETNUM
+<i>
+(
+type: esriFieldTypeString
+, alias: MXASSETNUM
+, length: 20
+)
+</i>
+</li>
+<li>
+MXASSETLOC
+<i>
+(
+type: esriFieldTypeString
+, alias: MXASSETLOC
+, length: 20
+)
+</i>
+</li>
+<li>
+ST_NAME
+<i>
+(
+type: esriFieldTypeString
+, alias: ST_NAME
+, length: 100
+)
+</i>
+</li>
+<li>
+PROJCTNAME
+<i>
+(
+type: esriFieldTypeString
+, alias: Project Name
+, length: 50
+)
+</i>
+</li>
+<li>
+VERTDATUM
+<i>
+(
+type: esriFieldTypeString
+, alias: Vertical Datum
+, length: 24
+)
+</i>
+</li>
+<li>
+PLANTYPE
+<i>
+(
+type: esriFieldTypeString
+, alias: PLANTYPE
+, length: 12
+)
+</i>
+</li>
+<li>
+PLANDATE
+<i>
+(
+type: esriFieldTypeDate
+, alias: Plan Date
+, length: 36
+)
+</i>
+</li>
+<li>
+LENGTH_
+<i>
+(
+type: esriFieldTypeDouble
+, alias: LENGTH_
+)
+</i>
+</li>
+<li>
+RIVERBASIN
+<i>
+(
+type: esriFieldTypeString
+, alias: RiverBasin
+, length: 24
+, <i>Coded Values: </i>
+[AACC: AACC-Albemarle & Chesapeake Canal]
+, [EBER: EBER-Eastern Branch Elizabeth River]
+, [NLDR: NLDR-North Landing River]
+<i>, ...4 more...</i>
+)
+</i>
+</li>
+<li>
+WATERSHED
+<i>
+(
+type: esriFieldTypeString
+, alias: WATERSHED
+, length: 24
+)
+</i>
+</li>
+<li>
+SUBWTRSHED
+<i>
+(
+type: esriFieldTypeString
+, alias: SubWatershed
+, length: 24
+)
+</i>
+</li>
+<li>
+MXCREATIONSTATE
+<i>
+(
+type: esriFieldTypeInteger
+, alias: MXCREATIONSTATE
+)
+</i>
+</li>
+<li>
+MXSITEID
+<i>
+(
+type: esriFieldTypeString
+, alias: MXSITEID
+, length: 8
+)
+</i>
+</li>
+<li>
+LIMATERIAL
+<i>
+(
+type: esriFieldTypeString
+, alias: Line Material
+, length: 50
+, <i>Coded Values: </i>
+[Concrete Box Culvert: Concrete Box Culvert]
+, [Cast Iron Pipe: Cast Iron Pipe]
+, [Clay: Clay]
+<i>, ...15 more...</i>
+)
+</i>
+</li>
+<li>
+SHAPE
+<i>
+(
+type: esriFieldTypeGeometry
+, alias: Shape
+)
+</i>
+</li>
+</ul>
+<br/>
+<b>Supported Operations</b>:
+&nbsp;&nbsp;<a href="/public/rest/services/A_POL_Basemap/MapServer/11/query">Query</a>
+&nbsp;&nbsp;<a href="/public/rest/services/A_POL_Basemap/MapServer/11/generateRenderer">Generate Renderer</a>
+&nbsp;&nbsp;<a href="/public/rest/services/A_POL_Basemap/MapServer/11?f=pjson&returnUpdates=true&">Return Updates</a><br/><br/>
+</div>
+<br/><br/>
+</body>
+</html>

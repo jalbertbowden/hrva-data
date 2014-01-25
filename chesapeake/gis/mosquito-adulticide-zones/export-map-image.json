@@ -1,0 +1,16 @@
+{
+ "href": "http://gisdata.cityofchesapeake.net/public/rest/directories/arcgisoutput/Mosquito/Adulticide_Zones_MapServer/_ags_mapc37509beeaed4d66b9d31ca2a7a6ade3.png",
+ "width": 400,
+ "height": 400,
+ "extent": {
+  "xmin": 12020649.644667208,
+  "ymin": 3355558.5957318088,
+  "xmax": 12207273.151146822,
+  "ymax": 3542182.1022114223,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "scale": 537475.69866128685
+}

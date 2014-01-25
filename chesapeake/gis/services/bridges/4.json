@@ -1,0 +1,230 @@
+{
+ "currentVersion": 10.1,
+ "id": 4,
+ "name": "bridges",
+ "type": "Feature Layer",
+ "description": "",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPoint",
+ "copyrightText": "",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriPMS",
+    "url": "963f032d4cd19ab58bd076a6bac84cb6",
+    "imageData": "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAH1JREFUGJVtjyEOhEAMAAdob7GLwCFR/GD/bxA4PGQTBApHQhCcaMLmDqqazmSSStcxqiK8jHP0okobAp/jeECGAScA6wr7DmVpcJogBNvvdFVBjCY1TSrdwnUZPM9U+hGyDOoa8hyW5U/wHrYtHb03EUBiRIvi+eI8gwh8AYnBGnkISJxiAAAAAElFTkSuQmCC",
+    "contentType": "image/png",
+    "width": 6,
+    "height": 6,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.20924100001174E7,
+  "ymin": 3371077.00009149,
+  "xmax": 1.21867789998803E7,
+  "ymax": 3469027.24990845,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "BRIDGENAME",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "ID",
+   "domain": null
+  },
+  {
+   "name": "BRIDGENAME",
+   "type": "esriFieldTypeString",
+   "alias": "BRIDGENAME",
+   "length": 150,
+   "domain": null
+  },
+  {
+   "name": "STRUCTURE_",
+   "type": "esriFieldTypeString",
+   "alias": "STRUCTURE_",
+   "length": 25,
+   "domain": null
+  },
+  {
+   "name": "ADT",
+   "type": "esriFieldTypeString",
+   "alias": "ADT",
+   "length": 25,
+   "domain": null
+  },
+  {
+   "name": "YEAR_",
+   "type": "esriFieldTypeString",
+   "alias": "YEAR_",
+   "length": 25,
+   "domain": null
+  },
+  {
+   "name": "TRUCKBUS_",
+   "type": "esriFieldTypeString",
+   "alias": "TRUCKBUS_",
+   "length": 25,
+   "domain": null
+  },
+  {
+   "name": "VEHTYPTONS",
+   "type": "esriFieldTypeString",
+   "alias": "VEHTYPTONS",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "DETRLGTH",
+   "type": "esriFieldTypeString",
+   "alias": "DETRLGTH",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "SUFFRAT96",
+   "type": "esriFieldTypeString",
+   "alias": "SUFFRAT96",
+   "length": 40,
+   "domain": null
+  },
+  {
+   "name": "YR_BUILT",
+   "type": "esriFieldTypeString",
+   "alias": "YR_BUILT",
+   "length": 40,
+   "domain": null
+  },
+  {
+   "name": "MJR_REHAB",
+   "type": "esriFieldTypeString",
+   "alias": "MJR_REHAB",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "LOCATION",
+   "type": "esriFieldTypeString",
+   "alias": "LOCATION",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "SUFFRAT02",
+   "type": "esriFieldTypeString",
+   "alias": "SUFFRAT02",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "SUFFRAT00",
+   "type": "esriFieldTypeString",
+   "alias": "SUFFRAT00",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "OWNER",
+   "type": "esriFieldTypeString",
+   "alias": "OWNER",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "SUFFRAT03",
+   "type": "esriFieldTypeDouble",
+   "alias": "SUFFRAT03",
+   "domain": null
+  },
+  {
+   "name": "SUFFRAT05",
+   "type": "esriFieldTypeDouble",
+   "alias": "SUFFRAT05",
+   "domain": null
+  },
+  {
+   "name": "MAXIMO_ID",
+   "type": "esriFieldTypeString",
+   "alias": "MAXIMO_ID",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "MXLOCATION",
+   "type": "esriFieldTypeString",
+   "alias": "MXLOCATION",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "MXSITEID",
+   "type": "esriFieldTypeString",
+   "alias": "MXSITEID",
+   "length": 8,
+   "domain": null
+  },
+  {
+   "name": "MXCREATIONSTATE",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "MXCREATIONSTATE",
+   "domain": null
+  },
+  {
+   "name": "MXASSETNUM",
+   "type": "esriFieldTypeString",
+   "alias": "MXASSETNUM",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "MXPARENTLOC",
+   "type": "esriFieldTypeString",
+   "alias": "MXPARENTLOC",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "Shape",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF",
+ "isDataVersioned": true
+}

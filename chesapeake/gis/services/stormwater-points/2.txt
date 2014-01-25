@@ -1,0 +1,393 @@
+{
+ "currentVersion": 10.1,
+ "id": 2,
+ "name": "Stormwater_Points",
+ "type": "Feature Layer",
+ "description": "The storm water points feature class shows catch basin, drop inlet, culvert, junction box, and manhole in the City of Chesapeake.**Public stormwater data is any data within the right-of-way and it is in any public drainage easement. Private stormwater data is any data outside of the right-of-way and it is within the private drainage easement.Spatial Reference Information: Projection: Lambert Conformal ConicLinear Unit: Foot US Projected Coordinate System: NAD 1983 State Plane Virginia South FIPS 4502 FeetGeographic Coordinate System: GCS North American 1983Datum: D North American 1983",
+ "definitionExpression": "",
+ "geometryType": "esriGeometryPoint",
+ "copyrightText": "None",
+ "parentLayer": null,
+ "subLayers": [],
+ "minScale": 250000,
+ "maxScale": 0,
+ "drawingInfo": {
+  "renderer": {
+   "type": "simple",
+   "symbol": {
+    "type": "esriSMS",
+    "style": "esriSMSCircle",
+    "color": [
+     166,
+     0,
+     152,
+     255
+    ],
+    "size": 4,
+    "angle": 0,
+    "xoffset": 0,
+    "yoffset": 0,
+    "outline": {
+     "color": [
+      0,
+      0,
+      0,
+      255
+     ],
+     "width": 1
+    }
+   },
+   "label": "",
+   "description": ""
+  },
+  "transparency": 0,
+  "labelingInfo": null
+ },
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 1.20815058267225E7,
+  "ymin": 3367885.92007679,
+  "xmax": 1.21876762121392E7,
+  "ymax": 3482118.48622263,
+  "spatialReference": {
+   "wkid": 102747,
+   "latestWkid": 2284
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+ "displayField": "ST_NAME",
+ "typeIdField": null,
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID",
+   "domain": null
+  },
+  {
+   "name": "TAG",
+   "type": "esriFieldTypeDouble",
+   "alias": "SW ID",
+   "domain": null
+  },
+  {
+   "name": "PTTYPE",
+   "type": "esriFieldTypeString",
+   "alias": "Point_Type",
+   "length": 21,
+   "domain": {
+    "type": "codedValue",
+    "name": "SWPointType",
+    "codedValues": [
+     {
+      "name": "CBN-Catch Basin",
+      "code": "CBN"
+     },
+     {
+      "name": "CBM-Multiple Catch Basins",
+      "code": "CBM"
+     },
+     {
+      "name": "DPI-Drop Inlet",
+      "code": "DPI"
+     },
+     {
+      "name": "DIM-Multiple Drop Inlet",
+      "code": "DIM"
+     },
+     {
+      "name": "MHL-Manhole",
+      "code": "MHL"
+     },
+     {
+      "name": "MHC-Conflict Manhole",
+      "code": "MHC"
+     },
+     {
+      "name": "OTH-Other",
+      "code": "OTH"
+     },
+     {
+      "name": "JBX-Junction Box",
+      "code": "JBX"
+     },
+     {
+      "name": "JBC-Conflict Junction Box",
+      "code": "JBC"
+     },
+     {
+      "name": "PES-Pipe End, Specialized",
+      "code": "PES"
+     },
+     {
+      "name": "PEH-Pipe End, Headwall",
+      "code": "PEH"
+     },
+     {
+      "name": "PEO-Open Pipe End",
+      "code": "PEO"
+     },
+     {
+      "name": "DHP-Ditch High Point",
+      "code": "DHP"
+     },
+     {
+      "name": "JCT-Ditch Junction",
+      "code": "JCT"
+     },
+     {
+      "name": "OUT-BMP Outfall",
+      "code": "OUT"
+     },
+     {
+      "name": "BMP-Structural BMP",
+      "code": "BMP"
+     }
+    ]
+   }
+  },
+  {
+   "name": "ACNUMBER",
+   "type": "esriFieldTypeString",
+   "alias": "AC_Number",
+   "length": 21,
+   "domain": null
+  },
+  {
+   "name": "RIMELEV",
+   "type": "esriFieldTypeDouble",
+   "alias": "Rim_Elevation",
+   "domain": null
+  },
+  {
+   "name": "INVELEV",
+   "type": "esriFieldTypeDouble",
+   "alias": "Invert_Elevation",
+   "domain": null
+  },
+  {
+   "name": "DOWNDIST",
+   "type": "esriFieldTypeDouble",
+   "alias": "Depth",
+   "domain": null
+  },
+  {
+   "name": "DATEADD",
+   "type": "esriFieldTypeDate",
+   "alias": "Date_Added_To_Database",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "ADDBY",
+   "type": "esriFieldTypeString",
+   "alias": "Added_By",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "QCDATE",
+   "type": "esriFieldTypeDate",
+   "alias": "Quality_Control_Date",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "OWNER",
+   "type": "esriFieldTypeString",
+   "alias": "Owner",
+   "length": 10,
+   "domain": null
+  },
+  {
+   "name": "MAINTWHO",
+   "type": "esriFieldTypeString",
+   "alias": "Who_maintains",
+   "length": 30,
+   "domain": null
+  },
+  {
+   "name": "WATERSHED",
+   "type": "esriFieldTypeString",
+   "alias": "Watershed_area",
+   "length": 30,
+   "domain": null
+  },
+  {
+   "name": "BASIN",
+   "type": "esriFieldTypeString",
+   "alias": "RiverBasin",
+   "length": 50,
+   "domain": null
+  },
+  {
+   "name": "SOURCE_",
+   "type": "esriFieldTypeString",
+   "alias": "Source",
+   "length": 25,
+   "domain": {
+    "type": "codedValue",
+    "name": "SWSource",
+    "codedValues": [
+     {
+      "name": "AsBuilt Plans",
+      "code": "AsBuilt Plan"
+     },
+     {
+      "name": "City Survey",
+      "code": "City Survey"
+     },
+     {
+      "name": "Field Inspection",
+      "code": "Field Inspection"
+     },
+     {
+      "name": "GPS",
+      "code": "GPS"
+     },
+     {
+      "name": "Orthophotography",
+      "code": "Orthophotography"
+     },
+     {
+      "name": "Preliminary Plan",
+      "code": "Preliminary Plan"
+     },
+     {
+      "name": "SWM Model",
+      "code": "SWM Model"
+     },
+     {
+      "name": "Approved Plan",
+      "code": "Approved Plan"
+     },
+     {
+      "name": "Van Imaging",
+      "code": "Van Imaging"
+     },
+     {
+      "name": "Plan Existing",
+      "code": "Plan Existing"
+     },
+     {
+      "name": "Other",
+      "code": "Other"
+     }
+    ]
+   }
+  },
+  {
+   "name": "COMMENT_",
+   "type": "esriFieldTypeString",
+   "alias": "Comment",
+   "length": 250,
+   "domain": null
+  },
+  {
+   "name": "REIMBERSABLE",
+   "type": "esriFieldTypeString",
+   "alias": "Reimbersable Street Maintenance",
+   "length": 3,
+   "domain": null
+  },
+  {
+   "name": "ASSETID",
+   "type": "esriFieldTypeString",
+   "alias": "Asset ID",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "STREET_ID",
+   "type": "esriFieldTypeInteger",
+   "alias": "STREET_ID",
+   "domain": null
+  },
+  {
+   "name": "MXSITEID",
+   "type": "esriFieldTypeString",
+   "alias": "MXSITEID",
+   "length": 8,
+   "domain": null
+  },
+  {
+   "name": "MXCREATIONSTATE",
+   "type": "esriFieldTypeInteger",
+   "alias": "MXCREATIONSTATE",
+   "domain": null
+  },
+  {
+   "name": "MXASSETNUM",
+   "type": "esriFieldTypeString",
+   "alias": "MXASSETNUM",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "MXASSETLOC",
+   "type": "esriFieldTypeString",
+   "alias": "MXASSETLOC",
+   "length": 20,
+   "domain": null
+  },
+  {
+   "name": "ST_NAME",
+   "type": "esriFieldTypeString",
+   "alias": "ST_NAME",
+   "length": 100,
+   "domain": null
+  },
+  {
+   "name": "PROJCTNAME",
+   "type": "esriFieldTypeString",
+   "alias": "Project Name",
+   "length": 128,
+   "domain": null
+  },
+  {
+   "name": "PLAN_TYPE",
+   "type": "esriFieldTypeString",
+   "alias": "Plan Type",
+   "length": 24,
+   "domain": null
+  },
+  {
+   "name": "VERTDATUM",
+   "type": "esriFieldTypeString",
+   "alias": "Vertical Datum",
+   "length": 24,
+   "domain": null
+  },
+  {
+   "name": "PLANDATE",
+   "type": "esriFieldTypeDate",
+   "alias": "PLANDATE",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "SUBWTRSHD",
+   "type": "esriFieldTypeString",
+   "alias": "SUBWTRSHD",
+   "length": 36,
+   "domain": null
+  },
+  {
+   "name": "SHAPE",
+   "type": "esriFieldTypeGeometry",
+   "alias": "SHAPE",
+   "domain": null
+  }
+ ],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query,Data",
+ "maxRecordCount": 1000,
+ "supportsStatistics": true,
+ "supportsAdvancedQueries": true,
+ "supportedQueryFormats": "JSON, AMF",
+ "isDataVersioned": true
+}

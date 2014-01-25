@@ -1,0 +1,979 @@
+{
+ "layers": [
+  {
+   "layerId": 0,
+   "layerName": "Dry_Hydrants",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "bcf510ac1018108bb0413b7c100431b1",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAFNJREFUOI1jYaAyYBk1cNRAOPiPxGak1MD/DPM7ELzEiv/4DCVkIKphDAwMDPM78Bo69COFkSGxAj0MIeJkGogwFJmPBxDrZbyGkGMg0WDUQMoBAII3ECtF9PdnAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 1,
+   "layerName": "Fire_PrePlans",
+   "layerType": "Feature Layer",
+   "minScale": 100000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "9b033eccb19878d2965840068e27f0a6",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAFBJREFUOI1jYaAyYBk1cNRAOPiPxGak1MD/DIuReLEM//EZSshAVMMYGBgYFuM3dOhHCiNDLEYYQsTJNBBhKDIfDyDWy3gNIcdAosGogZQDAF70C6+4/vE9AAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 2,
+   "layerName": "Stormwater_Points",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "3b07c9860bd0a7e4f13a0cd19edb7397",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAFRJREFUOI1jYaAyYBk1cNRAOPiPxGak1MD/yxhmwjlRDOn/8RlKyEAUwxgYGBiWMczEa+jQjxTGKIZ09DBkYKAgDOGGIvMpcSFRhpBjINFg1EDKAQBuchATmnSSmAAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 3,
+   "layerName": "street_lights",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "b2b64b33e4993fbed8e2244422ed63df",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAFNJREFUOI1jYaAyYBk1cNRAOPiPxGak1MD/Bt0IzoVShv/4DCVkIIphDAwMDAbd+A0d+pHCeKEUIwwZGCgIQ7ihyHx8ion1Ml5DyDGQaDBqIOUAAPhXEJcwsizdAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 4,
+   "layerName": "bridges",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "5574c3bf7e6c7a946a0508525fa6ef7d",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAKNJREFUOI3t0KEOgzAUheGfQlcsCBxyijfoy+x5Ebh5SBMEpjgSgmACsSxsjNKZJRx3e9svJ434caIT/COwKLhL+X6vFGVZcnMCpeSqNZdxXGFUFcq5IUDXwTBAHC9zXYPWWy92/GGagjELmuffbu8A53nBpunZ1AsMAsgyEALa1hNMEuj711mIg6AxyDBcnzcNRBs1Pq6sRVi73cYJPJoT9M8DGZ0gVEFoqfsAAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 5,
+   "layerName": "Towers",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "fa5b51e9acd0d6de196216b69d85f65b",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAARBJREFUOI3tlKFuwzAQhn9LBQ3qYMdi1gUFTqGDQauGWtZX6CsEBheOhRWnb9COLWNlbohXdjZJy25kq1TVbgOiaWBHLPnO3//L53MPHUfvH/hrQP5eRVfA1tEKaIyB1oQokt0AsyxD0zRtSq8DD8wcCIE8z3+2+PPAeByFqOvaeZ9OYBzHvNq8YxSGSJIEZVlCa8Jk8owAwNt2h/vA3R8nkIgw7AMf2x0GfcBaCwBYLF7PRKuquqBeAJVhJhyxPwKlspg9DM7y8/X+JNrKobwTJ9WiWLKIXlznvO/xWlN4PE7BzLDWQmuCMQQiQpo+sQ/qBSqlvEpFscR06nTuBbKU8taYOV36gDdn1lfz97+vLwy9YUZO4UhGAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 6,
+   "layerName": "police stations",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "e5b81b21d6323226ac9b5d4ead7ae692",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEhJREFUOI1jYaAyYBliBqqU7Gdg+KdLkgns7LoMV9ufYzeQmUGQ4S+TMEkG/vnJjNuFVACjBo4aOGog6Qbe7DGgroFUAIPfQAA2LQoE1HR7HQAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 7,
+   "layerName": "fire stations",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "1692e78685e6c048c21f6a188000cc04",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEtJREFUOI3tzsEJgDAQAMEJpgHxlSIC9v+xG+1CbUAfB/dQyBYwbJVc/Re4s6FHgEJvHI9gYb5YIuDJ9HqY0QAHOMAw2FhTwYy+D96kQgW/LpS28QAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 8,
+   "layerName": "address_points",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "8c96ced31fb6eb6889a380585b84e26d",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAFNJREFUOI1jYaAyYBk1cNRAOPiPxGak1MD/8asRnIWhDP/xGUrIQBTDGBgYGOJX4zd06EcK48JQjDBkYKAgDOGGIvPxKSbWy3gNIcdAosGogZQDAKiKEEj+jc8dAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 9,
+   "layerName": "Fire Hydrants",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "bcf510ac1018108bb0413b7c100431b1",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAFNJREFUOI1jYaAyYBk1cNRAOPiPxGak1MD/DPM7ELzEiv/4DCVkIKphDAwMDPM78Bo69COFkSGxAj0MIeJkGogwFJmPBxDrZbyGkGMg0WDUQMoBAII3ECtF9PdnAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 10,
+   "layerName": "ST_Intersections",
+   "layerType": "Feature Layer",
+   "minScale": 100000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "bcf510ac1018108bb0413b7c100431b1",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAFNJREFUOI1jYaAyYBk1cNRAOPiPxGak1MD/DPM7ELzEiv/4DCVkIKphDAwMDPM78Bo69COFkSGxAj0MIeJkGogwFJmPBxDrZbyGkGMg0WDUQMoBAII3ECtF9PdnAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 11,
+   "layerName": "Stormwater lines",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "30a1472afb01444a9a821035e05e4f66",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAACxJREFUOI1jYaAyYBk1cNTA4Wtgie9/qpjWs5mRBcagioEMQycMRw0c3gYCAKbqBJEkk4OpAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 12,
+   "layerName": "Railroads",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "70f03e3cab7ba92d2583f9c48a7be6cc",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAC9JREFUOI1jYaAyYBk1cNTAYWug+QqG/9Qw7GQEAyMLjEENAxkYhkwYjho4zA0EAF4cBHNGAliPAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 13,
+   "layerName": "Street Closures",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "27d4aa8609c9412a4bffe03c594150d5",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAC9JREFUOI1jYaAyYBk1cNTAYWvg//8M/6lhGCMjAyMLjEENAxkYhkwYjho4zA0EAINSA1Td0rsmAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 14,
+   "layerName": "easement",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "407eacc92a690bce938004bb50897ddf",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAC9JREFUOI1jYaAyYBk1cNTAYWvgf4aj/6lhGCODNSMLjEENAxkYhkwYjho4zA0EABWkA47ncpFFAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 15,
+   "layerName": "streets",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "1eb7c761221917fc06ac392f999f0d3e",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAC5JREFUOI1jYaAyYBk1cNTAYWtgU1PTf2oYVldXx8gCY1DDQAaGIROGowYOcwMBYuIFzN17VY4AAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 16,
+   "layerName": "Gravity Sewer Lines",
+   "layerType": "Feature Layer",
+   "minScale": 24000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "a9d9371da08474a3b00642779d525900",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADhJREFUOI1jYaAyYBk1cNTAwWSg7zOG/+iSm6UYGPHJIYvD1NLOhTAbsAFcctjEh1CkjBo4jA0EAHfYC7s2ontzAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 17,
+   "layerName": "Wate rLinesT",
+   "layerType": "Feature Layer",
+   "minScale": 24000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "13cb1dd537d3679a4b153c8784cafed6",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADZJREFUOI1jYaAyYBk1cNTAQWVg/v//eFVOZGTEUIsshmEglQDCQCy24QR41A6lSBk1cPgaCAA2/Ad3HIcp8AAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 18,
+   "layerName": "Unserved_Sewer_Areas_2012",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "e0c714dd59f091266274818bb969e6f7",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZgUcZ/v+n1DBrBkZGFBdqnftBtmHXjDgYGBho6eVRA0cNHDVw1ECcBsKKIHKANQMjI4qBMAFKAQB1hwfbiE6kogAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 19,
+   "layerName": "Unserved_Water_Areas_2012",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "8569627b8c352393ee1be9d001cac028",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZgb4MJf8pNWwzQw8jigsb5naTbVhDcikDAwMtvTxq4KiBowaOGojTQFgRRA7YzNDDiGIgTIBSAADpbwopouVuRQAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 20,
+   "layerName": "COMMERCIALREVIEW2010",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "4d33812ed2ea68a960a6d265810fd6bf",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAD5JREFUOI1jYaAyYKGdgfn//1Ns2kRGRhQXlhSSb1ZPP4SmoZdHDRw1cNTAUQNxGQgrgsgCExkZUQ2EClAKAEPeB5LD7DFAAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 21,
+   "layerName": "COMMERCIALREVIEW2011",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "3be43092a8348062dbeab9b67ce8cba6",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAD9JREFUOI1jYaAyYKGZgf+X1/+n1DDGyEZGVBfqUGDaFQhFOy+PGjhq4KiBowbiNvAK+QYxRjYyohgIE6AUAACY3wfdfOUjxQAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 22,
+   "layerName": "COMMERCIALREVIEW_2012",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "d9f7c4431d20ac7db56c1e5abe2e83dd",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZgTk5Of8pNWzKlCmMKC6ML+wk27CF/eUMDAy09PKogaMGjho4aiBOA2FFEDlgypQpjCgGwgQoBQDZMQxyTmcftgAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 23,
+   "layerName": "CityOwnedProps_2011",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "BLDG<15000",
+     "url": "94ed20bf471e6f17d713ccd6e4404df6",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEJJREFUOI1jYaAyYKGZgStWMPyn1LCICAZGFBeGh5Nv2MqVEJp2Xh41cNTAUQNHDcRpIKwIIgdERDAwohgIE6AUAABkPwgF8aLXIwAAAABJRU5ErkJggg==",
+     "contentType": "image/png",
+     "values": [
+      "BLDG<15000"
+     ]
+    },
+    {
+     "label": "LAND & BLDG",
+     "url": "6a8baaea38610d9fcf3ad9d00b98bae5",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYKGZgf8Zjv6n1DBGBmtGVBfuUybfNKe7DAwMtPTyqIGjBo4aOGogbgOhRRA5gJHBmhHFQJgApQAAI9EG6s8+RSQAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "LAND & BLDG"
+     ]
+    },
+    {
+     "label": "LAND ONLY",
+     "url": "eee2a3a0cbd1a55da180108285412009",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEFJREFUOI1jYaAyYKGZgSolDP8pNexODwMjigsNu8k37HwphKadl0cNHDVw1MBRA3EaCCuCyAF3ehgYUQyECVAKAKIFCWdxEYNkAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "LAND ONLY"
+     ]
+    },
+    {
+     "label": "PS",
+     "url": "41b3679501a47287c241051e21fb1656",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZga0MK/5Talg1QwQjiguT94WTbdhcp5UMDAy09PKogaMGjho4aiBOA2FFEDmgmiGCEcVAmAClAADTbAmBOKZ9jAAAAABJRU5ErkJggg==",
+     "contentType": "image/png",
+     "values": [
+      "PS"
+     ]
+    }
+   ]
+  },
+  {
+   "layerId": 24,
+   "layerName": "Commercial parcels 2012",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "719043f2c6f142e15196c76eb9c0420d",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZgSX/H/yn1LAeRgVGFBd6MXCQbdg2hh8MDAy09PKogaMGjho4aiBOA2FFEDmgh1GBEcVAmAClAAAoZQlb4FrkzAAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 25,
+   "layerName": "cbpa",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "85cde116c1f6f496b6dc9dbfaf7af519",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADJJREFUOI1jYfh/9D8DFQELNQ0bNRAJMFozEqUbS4QOVS+PGjhqIBkGUlCkDVUvDyYDASxtCNcALkKzAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 26,
+   "layerName": "DAZ",
+   "layerType": "Feature Layer",
+   "minScale": 500000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "7d9145fee399fff6239fe707dc8a6552",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYGFgYGBoZVjxnxqGVTNEMLJQwyBkgGJgNUMEIzmGIPuQti4cNXDUwFEDh4eB1CgXaeNCcstBbAAAdnAJUSY+nw8AAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 27,
+   "layerName": "FIRM",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "6065d5f23955a37fe31059f115a4c7dd",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEJJREFUOI1jYaAyYKGZgQ9K/v+n1DCFHkZGFBdyeJFv2I9tEJp2Xh41cNTAUQNHDcRpIKwIIgco9DAyohgIE6AUAAAqBQlbEZo93QAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 28,
+   "layerName": "planning areas",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "c3545a72649f65bebbdac5131cf80222",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYGFgYGD4X/LgPzUMY+xRYGShhkHIAMVAxh4FRnIMQfYhbV04auCogaMGDg8DqVEu0saF5JaD2AAAjWAMUT11OkgAAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 29,
+   "layerName": "police report districts",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "78568854049adc196df056116862c2e2",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEFJREFUOI1jYaAyYGFgYGBg8F3xnyqmbY5gZKGKQUgA1cDNEYxkmYLkQxq7cNTAUQNHDRweBlKhXKSRC8ktB7EAAE5ACVEmUAQzAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 30,
+   "layerName": "Fire district",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": " ",
+     "url": "41f53c358a63e8b512668c9a717e2727",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEdJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGpg5ybyTCn3w2EgFcCogaMGjho4HA1EKjWoYyAVAAsDA6SkpZaBADTABTHtW6beAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      " "
+     ]
+    },
+    {
+     "label": "1",
+     "url": "742194dd30e9d8ff871ae13c5319c0fe",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGJg9btQsgxpFVqN3UBqgFEDRw0cNXAYGohcalDFQGoAFgYGSElLLQMB3awGrs3+1kQAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "1"
+     ]
+    },
+    {
+     "label": "10",
+     "url": "db21cbcd88b40cb3161a6e1fc3ecac49",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGJg7bOvZBnSLMWN3UBqgFEDRw0cNXAYGohcalDFQGoAFgYGSElLLQMBdjgGFN2Q3g0AAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "10"
+     ]
+    },
+    {
+     "label": "11",
+     "url": "f891f91ce505683dec5f08a3da4b4185",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGJgbthrsgyZvEoUu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCAOkgBr6HDHDLAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "11"
+     ]
+    },
+    {
+     "label": "12",
+     "url": "d1f47cd0c4f44b7c9e4ecbd851a581c7",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGLg773BZBnC6rwWu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCAKkhBmFseyJsAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "12"
+     ]
+    },
+    {
+     "label": "13",
+     "url": "47a807826f66aef65aacbb998c35dea1",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGJgYEQnWYasX1GO3UBqgFEDRw0cNXAYGohcalDFQGoAFgYGSElLLQMBPLUHOrPWeOUAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "13"
+     ]
+    },
+    {
+     "label": "14",
+     "url": "6e4f440cc1c963145b10dcec06cd1215",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGJgepMnWYbMrNuO3UBqgFEDRw0cNXAYGohcalDFQGoAFgYGSElLLQMBPF8HOpSVZ9MAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "14"
+     ]
+    },
+    {
+     "label": "15",
+     "url": "231f5f13a570c758eef0b98bad193777",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGLgnChbsgxJWXYYu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCADtxBzmRSvxxAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "15"
+     ]
+    },
+    {
+     "label": "2",
+     "url": "3782d3478f844e1acb6d83420289acbe",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGKgYOxHsgx5v5gfu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCAB70Bw0HuMDTAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "2"
+     ]
+    },
+    {
+     "label": "3",
+     "url": "e3b94e98b98a2bb1279dfee51909589c",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGLgFPMmsgzJOVmH3UBqgFEDRw0cNXAYGohcalDFQGoAFgYGSElLLQMBKiwHH4e7gsAAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "3"
+     ]
+    },
+    {
+     "label": "4",
+     "url": "d49f190f20452d3194d5a11862177353",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGKgYGIKWYa8nz8Hu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCAHr8B5aOw8HlAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "4"
+     ]
+    },
+    {
+     "label": "5",
+     "url": "6ad3adc108ad9eab1adda6f69b6bdc97",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGLgkVnfyTLEJo0Tu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCAHf6BhfgZp+AAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "5"
+     ]
+    },
+    {
+     "label": "6",
+     "url": "98e107b951e110140b25cee2e5ca1c68",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGJg7r3JZBkyWSkXu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCAMhYBo41d4aXAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "6"
+     ]
+    },
+    {
+     "label": "7",
+     "url": "d4ba6312beaef1c581c2378ad85c3d93",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGLgqWcVZBliJtWB3UBqgFEDRw0cNXAYGohcalDFQGoAFgYGSElLLQMBld4GREJuo4wAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "7"
+     ]
+    },
+    {
+     "label": "8",
+     "url": "753798c0ee2681151316b43d53be1e0a",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGJgcns7WYbMrazEbiA1wKiBowaOGjgMDUQuNahiIDUACwMDpKSlloEAEg4G+4CyMg4AAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "8"
+     ]
+    },
+    {
+     "label": "9",
+     "url": "578c3c5618c5802480ff74bc3c62fe74",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEpJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGLgYvNgsgyJPbkWu4HUAKMGjho4auAwNBC51KCKgdQALAwMkJKWWgYCAD+OBz8r5YVMAAAAAElFTkSuQmCC",
+     "contentType": "image/png",
+     "values": [
+      "9"
+     ]
+    },
+    {
+     "label": "NW",
+     "url": "2bdf99464b5af546a2a76d07b088c60d",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAElJREFUOI1jYaAyYGFgYGB4xsDwnxqGSTEwMLJQwyBkgGIg/9Jasgz5GN2M3UBqgFEDRw0cNXAYGohcalDFQGoAFgYGSElLLQMBPZgHO8qxNzIAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "NW"
+     ]
+    }
+   ]
+  },
+  {
+   "layerId": 31,
+   "layerName": "CORPLINE",
+   "layerType": "Feature Layer",
+   "minScale": 500000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "1861c6a5e208e2d4c54c7eac08267490",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEdJREFUOI3t1bENACAIRNFPwpCM6JZaGBs741lguAFeOApwgAYdQQLMVRjMwVyFrbwHA+wE2FeWsHKBBX4J3p6zBJUDTPkCBieCC5/1/DBpAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 32,
+   "layerName": "prelim_parcels",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "fd2a055c5aecdcbe2a5e148c67f65b44",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADtJREFUOI1jYaAyYKGZgf/f3f9PqWGMQoqMLOgC5BoGcxDtvDxq4KiBowaOGojTQErKRFjRx4IuQCkAAFlLDIYKpvkmAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 33,
+   "layerName": "PARCELS",
+   "layerType": "Feature Layer",
+   "minScale": 500000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "cbdb2e329733b9e02efb84d67cdebd8a",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADtJREFUOI1jYaAyYKGZgf/3vfhPqWGMThKMLOgC5BoGcxDtvDxq4KiBowaOGojTQErKRFjRx4IuQCkAAFnJDK200EmUAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 34,
+   "layerName": "Rental Areas",
+   "layerType": "Feature Layer",
+   "minScale": 100000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "0cd49de252d316398ac73e9c1878d754",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAJRJREFUOI211MENgCAMBdCSdBPHYCImYiIn8MoULIAXIUiL0lb/yTTNs5AGhI+D/4FlL2bNeYdjoX7GlAsAQNiOW71P7Wl9MDmyFmNBFea8q1eGXKMY60ImtGAEtGJ0QiNGQSUWUy4BHtZGii1NqMGmoBRbWmwR9rbYYqwLe2QtxoIWjIDtcpm3se5Zy9hz/QDHgjUnv1mRDXB3NsAAAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 35,
+   "layerName": "Code Compliance Zone",
+   "layerType": "Feature Layer",
+   "minScale": 500000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "Debbie",
+     "url": "0af62d1eb191f335af7520eaf4cd69fc",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGDwTDv3fvsAOg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAAlCECA0kSGNcAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Debbie"
+     ]
+    },
+    {
+     "label": "FI",
+     "url": "4edd41ccba1ede4499b61303b2c61596",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGE55av83234Vg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAAmqoDa79aQE8AAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "FI"
+     ]
+    },
+    {
+     "label": "Jennifer",
+     "url": "1561d915dd5e5a8908b6b8db4e41de20",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGI4al/y3PtuDwSbA/4/uQgwNJBgGBygGUmoYhoHkGgblYxpIgWHYw5ACw/B7mVzDsHqZApdiN3B4hiFeL5NpGHFZjwTDsHuZUsMwDCTXMHxhCC8ToQqw8nHIMaIbiOF8cgAAghoB+14DcJsAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Jennifer"
+     ]
+    },
+    {
+     "label": "Katherine",
+     "url": "b87d89a31a32ddb8da29632342eb1733",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGOZr9/1PvFqEwSbA/4/uQgwNJBgGBygGUmoYhoHkGgblYxpIgWHYw5ACw/B7mVzDsHqZApdiN3B4hiFeL5NpGHFZjwTDsHuZUsMwDCTXMHxhCC8ToQqw8nHIMaIbiOF8cgAAbnUCm1tpl40AAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Katherine"
+     ]
+    },
+    {
+     "label": "Kenny",
+     "url": "703377dacd011a97cce0896ffd9db647",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGDZMdf0fkL0bg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAAIckBC1cxF6AAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Kenny"
+     ]
+    },
+    {
+     "label": "Michelle",
+     "url": "53c2acb3c105127fbdc0c57779a406b0",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGNK3GPyf6XMBg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAABZ8DA3wSM20AAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Michelle"
+     ]
+    },
+    {
+     "label": "Ralph",
+     "url": "e4d96591f1dac407b0b8ad352001d99c",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGCYaHPqff8EOg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAAeKoBQ/4q3poAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Ralph"
+     ]
+    },
+    {
+     "label": "Rose",
+     "url": "2f96577d1d8a5ad4468e4e303b7bc5fc",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGHZsUPnvEXAHg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAACRMA++qykSEAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Rose"
+     ]
+    },
+    {
+     "label": "Sheri",
+     "url": "01de6449d6404e2bd1e0117cc726c2d0",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGNQn7v1/M98Zg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAAH+MBs604sbMAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Sheri"
+     ]
+    },
+    {
+     "label": "Sherri",
+     "url": "d06fc802d2adeed1fa24f23657e7c1e9",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGNQPTfp/0y4Pg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAA2DIBg71VPvQAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Sherri"
+     ]
+    },
+    {
+     "label": "Tom",
+     "url": "0c24b7ba07ae0f1018a203f0be624115",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAHxJREFUOI1jYaAyYKGlgf+pYB4jugsZGRgYGFQMtvy/c8EHg02A/x/dhRgaSDAMDlAMpNQwDAPJNQzKxzSQAsOwhyEFhuH3MrmGYfUyBS7FbuDwDEO8XibTMOKyHgmGYfcypYZhGEiuYfjCEF4mQhVg5eOQY0Q3EMP55AAAHOkFG1PFdlEAAAAASUVORK5CYII=",
+     "contentType": "image/png",
+     "values": [
+      "Tom"
+     ]
+    }
+   ]
+  },
+  {
+   "layerId": 36,
+   "layerName": "HistoricDist_local",
+   "layerType": "Feature Layer",
+   "minScale": 500000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "69206b06b58e84143226cdf72262c8dc",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEFJREFUOI1jYaAyYGFgYGBg8C35TxXTNvcwslDFICSAauDmHkayTEHyIY1dOGrgqIGjBg4PA6lQLtLIheSWg1gAACu4CVEH+1ZqAAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 37,
+   "layerName": "South Norfolk business district",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "5141930ee022e1e76497f02897869bdb",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZgeYrGP5TatjJCAZGFBfOCd9HtmEpK50YGBho6eVRA0cNHDVw1ECcBsKKIHLAyQgGRhQDYQKUAgDeCAnkt0nk7wAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 38,
+   "layerName": "South Norfolk boundary",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "a7a5e116b9819bf68c22c66480860e3f",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYGFgYGDwfcbwnxqGbZZiYGShhkHIAMXAzVIMjOQYguxD2rpw1MBRA0cNHB4GUqNcpI0LyS0HsQEAfWwJUS0pj/AAAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 39,
+   "layerName": "neighborhoods",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "39eaffc7574441286147eed4f4c856f3",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYGFgYGD4v5LhPzUMYwxnYGShhkHIAMVAxnAGRnIMQfYhbV04auCogaMGDg8DqVEu0saF5JaD2AAAyx4JUUyXUxgAAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 40,
+   "layerName": "prelim_subdvn",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "3b36bbbb2f5842e4d76f46419ce7e6b5",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYGFgYGD4f7n+PzUMY9RtZGShhkHIAMVARt1GRnIMQfYhbV04auCogaMGDg8DqVEu0saF5JaD2AAAjAwMUZjJD4AAAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 41,
+   "layerName": "subdvn",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "7b11f9750ca99c3eca196d6be563ef81",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYGFgYGB45svwnxqGSW1mYGShhkHIAMVAqc0MjOQYguxD2rpw1MBRA0cNHB4GUqNcpI0LyS0HsQEAfWwJUXO+9u4AAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 42,
+   "layerName": "Zoning",
+   "layerType": "Feature Layer",
+   "minScale": 500000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "ac1743a389521b4fcb8b0949e80a0973",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUOI1jYaAyYGFgYGAoYWD4Tw3DehgYGFmoYRAyQDGwh4GBkRxDkH1IWxeOGjhq4KiBw8NAapSLtHEhueUgNgAAquIGUahfzTYAAAAASUVORK5CYII=",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 43,
+   "layerName": "QOL_NSA",
+   "layerType": "Feature Layer",
+   "minScale": 250000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "2376b29192adbcc40c3524703326a62b",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADlJREFUOI1jYaAyYKGdgSuf/afYtHApRhZ0AbINgzqIhl4eNXDUwFEDRw3EaSAlZSK06GNBF6AUAAADYwnDkkn/0gAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 44,
+   "layerName": "Waterways",
+   "layerType": "Feature Layer",
+   "minScale": 500000,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "cbfb2dd58e698d8a0f2dbe3161944505",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZgQ4pb/5TatiBOSKMKC4Mr2Aj27CVHb8YGBho6eVRA0cNHDVw1ECcBsKKIHLAgTkijCgGwgQoBQDsagxeceJYoAAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 45,
+   "layerName": "ForceMainLinesChes",
+   "layerType": "Feature Layer",
+   "minScale": 577790,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "2d93e9102e201dc77630a66a108a2947",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAACxJREFUOI1jYaAyYBk1cNTA4WugVd9/qph2rIiRBcagioEMQycMRw0c3gYCAJVeBIoU9jI3AAAAAElFTkSuQmCC",
+     "contentType": "image/png"
+    }
+   ]
+  },
+  {
+   "layerId": 46,
+   "layerName": "census_tract_2010",
+   "layerType": "Feature Layer",
+   "minScale": 577790,
+   "maxScale": 0,
+   "legend": [
+    {
+     "label": "",
+     "url": "d43aa2e1bdbf949483ee6b4459aa6a14",
+     "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAEVJREFUOI1jYaAyYKGZgTk5Of8pNWzKlCmMKC4s7E4j27D+0lkMDAy09PKogaMGjho4aiBOA2FFEDlgypQpjCgGwgQoBQDV5AxpSmdjZwAAAABJRU5ErkJggg==",
+     "contentType": "image/png"
+    }
+   ]
+  }
+ ]
+}
