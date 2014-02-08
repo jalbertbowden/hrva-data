@@ -1,0 +1,362 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/PgDesign.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+
+<script type="text/javascript" src="/static/js/analytics.js" ></script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Privacy Policy</title>
+<!-- InstanceEndEditable --><link rel="stylesheet" href="/web/20100928015425cs_/http://www.hrpdc.org/HRTA/2col_leftNav.css" type="text/css">
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFFF;
+	margin-left: 1in;
+	margin-right: 1in;
+}
+a:visited {
+	color: #660099;
+}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+<!-- The structure of this file is exactly the same as 2col_rightNav.html;
+     the only difference between the two is the stylesheet they use -->
+<body>
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app14.us.archive.org";}; </script>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+var firstDate = 820454400000;
+var lastDate = 1420070399999;
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http:\/\/www.hrpdc.org\/HRTA\/Privacy.htm";
+
+var curYear = -1;
+var curMonth = -1;
+var yearCount = 18;
+var firstYear = 1996;
+var imgWidth = 475;
+var yearImgWidth = 25;
+var monthImgWidth = 2;
+var trackerVal = "none";
+var displayDay = "28";
+var displayMonth = "Sep";
+var displayYear = "2010";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+function showTrackers(val) {
+	if(val == trackerVal) {
+		return;
+	}
+	if(val == "inline") {
+		document.getElementById("displayYearEl").style.color = "#ec008c";
+		document.getElementById("displayMonthEl").style.color = "#ec008c";
+		document.getElementById("displayDayEl").style.color = "#ec008c";		
+	} else {
+		document.getElementById("displayYearEl").innerHTML = displayYear;
+		document.getElementById("displayYearEl").style.color = "#ff0";
+		document.getElementById("displayMonthEl").innerHTML = displayMonth;
+		document.getElementById("displayMonthEl").style.color = "#ff0";
+		document.getElementById("displayDayEl").innerHTML = displayDay;
+		document.getElementById("displayDayEl").style.color = "#ff0";
+	}
+   document.getElementById("wbMouseTrackYearImg").style.display = val;
+   document.getElementById("wbMouseTrackMonthImg").style.display = val;
+   trackerVal = val;
+}
+function getElementX2(obj) {
+	var thing = jQuery(obj);
+	if((thing == undefined) 
+			|| (typeof thing == "undefined") 
+			|| (typeof thing.offset == "undefined")) {
+		return getElementX(obj);
+	}
+	return Math.round(thing.offset().left);
+}
+function trackMouseMove(event,element) {
+
+   var eventX = getEventX(event);
+   var elementX = getElementX2(element);
+   var xOff = eventX - elementX;
+	if(xOff < 0) {
+		xOff = 0;
+	} else if(xOff > imgWidth) {
+		xOff = imgWidth;
+	}
+   var monthOff = xOff % yearImgWidth;
+
+   var year = Math.floor(xOff / yearImgWidth);
+	var yearStart = year * yearImgWidth;
+   var monthOfYear = Math.floor(monthOff / monthImgWidth);
+   if(monthOfYear > 11) {
+       monthOfYear = 11;
+   }
+   // 1 extra border pixel at the left edge of the year:
+   var month = (year * 12) + monthOfYear;
+   var day = 1;
+	if(monthOff % 2 == 1) {
+		day = 15;
+	}
+	var dateString = 
+		zeroPad(year + firstYear) + 
+		zeroPad(monthOfYear+1,2) +
+		zeroPad(day,2) + "000000";
+
+	var monthString = prettyMonths[monthOfYear];
+	document.getElementById("displayYearEl").innerHTML = year + 1996;
+	document.getElementById("displayMonthEl").innerHTML = monthString;
+	// looks too jarring when it changes..
+	//document.getElementById("displayDayEl").innerHTML = zeroPad(day,2);
+
+	var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+	document.getElementById('wm-graph-anchor').href = url;
+
+   //document.getElementById("wmtbURL").value="evX("+eventX+") elX("+elementX+") xO("+xOff+") y("+year+") m("+month+") monthOff("+monthOff+") DS("+dateString+") Moy("+monthOfYear+") ms("+monthString+")";
+   if(curYear != year) {
+       var yrOff = year * yearImgWidth;
+       document.getElementById("wbMouseTrackYearImg").style.left = yrOff + "px";
+       curYear = year;
+   }
+   if(curMonth != month) {
+       var mtOff = year + (month * monthImgWidth) + 1;
+       document.getElementById("wbMouseTrackMonthImg").style.left = mtOff + "px";
+       curMonth = month;
+   }
+}
+//]]>
+</script>
+
+<style type="text/css">body{margin-top:0!important;padding-top:0!important;min-width:800px!important;}#wm-ipp a:hover{text-decoration:underline!important;}</style>
+<div id="wm-ipp" lang="en" class="__wb_banner_div" style="display:none; position:relative;padding:0 5px;min-height:70px;min-width:800px">
+
+
+<div id="wm-ipp-inside" class="__wb_banner_div" style="position:fixed;padding:0!important;margin:0!important;width:97%;min-width:780px;border:5px solid #000;border-top:none;background-image:url(/static/images/toolbar/wm_tb_bk_trns.png);text-align:center;-moz-box-shadow:1px 1px 3px #333;-webkit-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333;font-size:11px!important;font-family:'Lucida Grande','Arial',sans-serif!important;">
+   <table style="border-collapse:collapse;margin:0;padding:0;width:100%;"><tbody><tr>
+   <td style="padding:10px;vertical-align:top;min-width:110px;">
+   <a href="/web/" title="Wayback Machine home page" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0"/></a>
+   </td>
+   <td style="padding:0!important;text-align:center;vertical-align:top;width:100%;">
+
+       <table style="border-collapse:collapse;margin:0 auto;padding:0;width:570px;"><tbody><tr>
+       <td style="padding:3px 0;" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb" style="margin:0!important;padding:0!important;"><input type="text" name="url" id="wmtbURL" value="http://www.hrpdc.org/HRTA/Privacy.htm" style="width:400px;font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;" onfocus="javascript:this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20100928015425" /><input type="submit" value="Go" style="font-size:11px;font-family:'Lucida Grande','Arial',sans-serif;margin-left:5px;width: inherit !important" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td style="vertical-align:bottom;padding:5px 0 0 0!important;" rowspan="2">
+           <table style="border-collapse:collapse;width:110px;color:#99a;font-family:'Helvetica','Lucida Grande','Arial',sans-serif;"><tbody>
+			
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr style="width:110px;height:16px;font-size:10px!important;">
+           	<td style="padding-right:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       Aug
+                       
+               </td>
+               <td id="displayMonthEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight:bold;text-transform:uppercase;width:34px;height:15px;padding-top:1px;text-align:center;" title="You are here: 1:54:25 Sep 28, 2010">SEP</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight:bold;text-transform:uppercase;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20110726162057/http://www.hrpdc.org/hrta/Privacy.htm" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="26 Jul 2011"><strong>JUL</strong></a>
+		                
+               </td>
+           </tr>
+
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr>
+               <td style="padding-right:9px;white-space:nowrap;overflow:visible;text-align:right!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+                       <img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" />
+                       
+               </td>
+               <td id="displayDayEl" style="background:#000;color:#ff0;width:34px;height:24px;padding:2px 0 0 0;text-align:center;font-size:24px;font-weight: bold;" title="You are here: 1:54:25 Sep 28, 2010">28</td>
+				<td style="padding-left:9px;white-space:nowrap;overflow:visible;text-align:left!important;vertical-align:middle!important;" nowrap="nowrap">
+               
+		                <a href="/web/20110726162057/http://www.hrpdc.org/hrta/Privacy.htm" title="16:20:57 Jul 26, 2011" style="background-color:transparent;border:none;"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0"/></a>
+		                
+			    </td>
+           </tr>
+
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr style="width:110px;height:13px;font-size:9px!important;">
+				<td style="padding-right:9px;font-size:11px!important;font-weight: bold;text-align:right;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+                       2009
+                       
+               </td>
+               <td id="displayYearEl" style="background:#000;color:#ff0;font-size:11px!important;font-weight: bold;padding-top:1px;width:34px;height:13px;text-align:center;" title="You are here: 1:54:25 Sep 28, 2010">2010</td>
+				<td style="padding-left:9px;font-size:11px!important;font-weight: bold;white-space:nowrap;overflow:visible;" nowrap="nowrap">
+               
+		                <a href="/web/20120308224648/http://www.hrpdc.org/hrta/Privacy.htm" style="text-decoration:none;color:#33f;font-weight:bold;background-color:transparent;border:none;" title="8 Mar 2012"><strong>2012</strong></a>
+		                
+				</td>
+           </tr>
+           </tbody></table>
+       </td>
+
+       </tr>
+       <tr>
+       <td style="vertical-align:middle;padding:0!important;">
+           <a href="/web/20100928015425*/http://www.hrpdc.org/HRTA/Privacy.htm" style="color:#33f;font-size:11px;font-weight:bold;background-color:transparent;border:none;" title="See a list of every capture for this URL"><strong>3 captures</strong></a>
+           <div class="__wb_banner_div" style="margin:0!important;padding:0!important;color:#666;font-size:9px;padding-top:2px!important;white-space:nowrap;" title="Timespan for captures of this URL">28 Sep 10 - 8 Mar 12</div>
+       </td>
+       <td style="padding:0!important;">
+       <a style="position:relative; white-space:nowrap; width:475px;height:27px;" href="" id="wm-graph-anchor">
+       <div class="__wb_banner_div" id="wm-ipp-sparkline" style="position:relative; white-space:nowrap; width:475px;height:27px;background-color:#fff;cursor:pointer;border-right:1px solid #ccc;" title="Explore captures for this URL">
+			<img id="sparklineImgId" style="position:absolute; z-index:9012; top:0px; left:0px;"
+				onmouseover="showTrackers('inline');" 
+				onmouseout="showTrackers('none');"
+				onmousemove="trackMouseMove(event,this)"
+				alt="sparklines"
+				width="475"
+				height="27"
+				border="0"
+				src="/web/jsp/graph.jsp?graphdata=475_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:8:000000001000_2011:-1:000000100000_2012:-1:001000000000_2013:-1:000000000000_2014:-1:000000000000"></img>
+			<img id="wbMouseTrackYearImg" 
+				style="display:none; position:absolute; z-index:9010;"
+				width="25" 
+				height="27"
+				border="0"
+				src="/static/images/toolbar/transp-yellow-pixel.png"></img>
+			<img id="wbMouseTrackMonthImg"
+				style="display:none; position:absolute; z-index:9011; " 
+				width="2"
+				height="27" 
+				border="0"
+				src="/static/images/toolbar/transp-red-pixel.png"></img>
+       </div>
+		</a>
+
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td style="text-align:right;padding:5px;width:65px;font-size:11px!important;">
+       <a href="javascript:;" onclick="document.getElementById('wm-ipp').style.display='none';" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_close.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;margin-bottom:23px;background-color:transparent;border:none;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="display:block;padding-right:18px;background:url(/static/images/toolbar/wm_tb_help.png) no-repeat 100% 0;color:#33f;font-family:'Lucida Grande','Arial',sans-serif;background-color:transparent;border:none;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+
+</div>
+</div>
+<script type="text/javascript">
+ var wmDisclaimBanner = document.getElementById("wm-ipp");
+ if(wmDisclaimBanner != null) {
+   disclaimElement(wmDisclaimBanner);
+ }
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<div id="masthead"> 
+  <h1 align="right" id="siteName"><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/index.htm"><img src="/web/20100928015425im_/http://www.hrpdc.org/HRTA/Images/HRTA%20logo.gif" width="515" height="138" border="0"></a></h1> 
+  <div id="globalNav"> 
+    <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/About.htm">About Us </a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Members.htm">Members/Officers</a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Legislation.htm">Legislation</a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Projects.htm">Projects</a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Taxes.htm">Taxes &amp; Fees </a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Meetings.htm">Meetings</a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/FAQs.htm">FAQs</a> 
+  </div> 
+</div> 
+<!-- end masthead --> 
+<div id="content">
+  <div id="breadCrumb"> <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/index.htm">Home</a> / <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Contact.htm">Contact Us </a> / <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Directions.htm">Directions </a> / <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Calendar.htm">Calendar</a></a> / </div>
+  <h2 id="pageName">&nbsp;</h2>
+  <!-- InstanceBeginEditable name="EditRegion3" -->
+  <div>
+    <h3 align="center"><span class="feature">     </span>Privacy Policy </h3>
+    <p>We respect your privacy! Unless otherwise required by applicable law, any and all information collected at this HRTA website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. </p>
+    <p>We maintain our records in accordance with the obligations as defined by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act, and by any applicable U.S. federal laws. </p>
+    <p>When you access our website, the site automatically collects routing information (the Internet Domain and Internet address of the computer you are using) and technical information (identification of the page you are requesting, type of browser and operating system you are using, the date and time of access, and the Internet address of the website from which you linked directly to our website). The HRTA uses this information primarily in a statistical summary format to assess and constantly improve the value of the materials available on the website. Our website logs are not personally identifiable, and we make no attempt to link them to the individuals who actually browse the website. Our website does not place any &ldquo;cookies&rdquo; on your computer.</p>
+    <p>No other information is collected through our website except when you deliberately decide to send it to us through email or in response to any HRTA website surveys. Email requests and comments are shared only with appropriate HRTA staff; presentation of any survey information or email comments/requests deemed necessary or useful to parties working with the HRTA is done so anonymously or in a statistical format without identification of the respondent. </p>
+    If you have any questions or desire further details about this privacy statement; the practices of this website; collected information and its use; or procedures to correct or amend inaccurate, obsolete, or irrelevant information; please contact HRTA Webmaster   <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/webmaster@hrta-va.org">(</a><a href="mailto:webmaster@hrta-va.org">webmaster@hrta-va.org</a>), at 757.420.8300,or HRTA, 723 Woodlake Drive, Chesapeake, VA 23320. </div>
+  <!-- InstanceEndEditable -->
+  <!-- Google CSE Search Box Begins  -->
+</style>
+<div class="cse-branding-" style="background-color:#;color:#">
+  <div class="cse-branding-form">
+    <form action="/web/20100928015425/http://www.google.com/cse" id="searchbox_006179466159572997735:bezzoq4o9w8">
+      <input type="hidden" name="cx" value="006179466159572997735:bezzoq4o9w8">
+      <input type="text" name="q" size="25">
+      <input type="submit" name="sa" value="Search">
+    </form>
+  </div>
+  <div class="cse-branding-logo">
+    <img src="/web/20100928015425im_/http://www.hrpdc.org/HRTA/Images/HRTA%20logo%20small.png" alt="HRTA" width="100" height="28">
+  </div>
+  <div class="cse-branding-text">
+    Custom Search
+  </div>
+</div>
+<!-- Google CSE Search Box Ends -->
+
+<!--end content --> 
+
+</div>
+<div id="navBar"> 
+  <div id="search">  </div> 
+  <div id="sectionLinks"> 
+    <ul> 
+      <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Timetables.htm">Timetables</a></li> 
+      <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Tolls.htm">Tolls </a></li> 
+      <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/RFP.htm">RFPs/RFQs</a></li>
+	  <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/PubNotices.htm">Public Notices</a></li> 
+      <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Press.htm">Press Room </a></li>
+      <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Employment.htm">Employment </a></li> 
+      <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Links.htm">Transportation Links</a></li> 
+    </ul> 
+  </div> 
+  <div class="relatedLinks"> 
+    <h3>Video Archives </h3> 
+    <ul> 
+      <li><a href="/web/20100928015425/http://wmstreaming.whro.org/hrta/meetings/01162008.asf">Most Recent Mtg. </a></li> 
+      <li><a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Videos.htm">Archives</a></li> 
+      <li></li> 
+    </ul> 
+  </div> 
+  <div class="relatedLinks"> 
+    <h3>HRTA Jurisdictions </h3> 
+    <ul> 
+      <li><a href="/web/20100928015425/http://www.cityofchesapeake.net/">City of Chesapeake </a></li> 
+      <li><a href="/web/20100928015425/http://www.hampton.va.us/">City of Hampton </a></li> 
+      <li><a href="/web/20100928015425/http://www.co.isle-of-wight.va.us/">Isle of Wight County </a></li> 
+      <li><a href="/web/20100928015425/http://www.jccegov.com/">James City County </a></li> 
+      <li><a href="/web/20100928015425/http://www.nngov.com/">City of Newport News </a></li> 
+      <li><a href="/web/20100928015425/http://www.norfolk.gov/">City of Norfolk </a></li>
+	  <li><a href="/web/20100928015425/http://www.ci.poquoson.va.us/">City of Poquoson </a></li> 
+      <li><a href="/web/20100928015425/http://www.portsmouthva.gov/">City of Portsmouth </a></li> 
+      <li><a href="/web/20100928015425/http://www.suffolk.va.us/index.html">City of Suffolk</a></li> 
+      <li><a href="/web/20100928015425/http://www.vbgov.com/">City of Virginia Beach </a></li> 
+      <li><a href="/web/20100928015425/http://www.ci.williamsburg.va.us/">City of Williamsburg </a></li> 
+      <li><a href="/web/20100928015425/http://www.yorkcounty.gov/">York County</a> </li> 
+    </ul><script language="JavaScript1.2" src="/web/20100928015425js_/http://www.altavista.com/static/scripts/translate_engl.js"></script> 
+  </div> 
+  <div id="headlines"> 
+    <h3></h3> 
+  </div> 
+</div> 
+<div id="siteInfo"> 
+  <img src="/web/20100928015425im_/http://www.hrpdc.org/HRTA/Images/HRTA%20logo%20small.png" width="100" height="28"> <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/About.htm">About Us</a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Privacy.htm">Privacy Policy</a> | <a href="/web/20100928015425/http://www.hrpdc.org/HRTA/Contact.htm">Contact Us</a> | &copy;2007
+  Hampton Roads Transportation Authority </div> 
+<br> 
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 1:54:25 Sep 28, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:31:57 Feb 8, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+
