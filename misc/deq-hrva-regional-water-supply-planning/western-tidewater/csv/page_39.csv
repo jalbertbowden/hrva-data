@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”,Name: “Table 1 of 1 on page 39 of 44”
+Table: 39,Table: 39,Table: 39,Table: 39,Table: 39,Table: 39,Table: 39,Table: 39,Table: 39,Table: 39,Table: 39
+,,,,,,,,,,
+,,"Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water",,,,Office of Water Supply Planning,Office of Water Supply Planning
+,,,,,,,,,,"629 East Main Street,"
+,,Western Tidewater Sub-Region,Western Tidewater Sub-Region,,,,,,,
+,,,,,,,,,"P.O. Box 1105, Richmond, VA",23218
+,,,,,,,,URL:,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/
+"List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If applicable, mark and label on associated map.","If applicable, mark and label on associated map."
+"Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.",,,,,,,,,
+"SELF-SUPPLIED, AGRICULTURAL USERS","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","(9 VAC 25-780-70 I, -80B7, and -80D)",,,,,,,,
+,,,,,,,,,Notes,
+,,SOURCE TYPE:,USE TYPE:,USE TYPE:,USE TYPE:,WATER USE:,WATER USE:,,or,
+,,,Irrigation,Nonirrigation,Nonirrigation,Estimated Annual Average,Estimated Annual Average,,Comments,
+,,Surface Water,,,,Surface,Ground,,,
+,Ground Water,,"(Place an ""X"" in appropriate column","(Place an ""X"" in appropriate column","(Place an ""X"" in appropriate column",,,,,
+User Name,,Reservoir & Sub-basin or,,,,Water,Water,(Include service area user falls within and any references to,(Include service area user falls within and any references to,(Include service area user falls within and any references to
+,Well Name & ID No.,,,cell),,,,,,
+,,Stream/River Name & Sub-basin,,,,(MGD),(MGD),"maps, data sources, data gaps, etc.)","maps, data sources, data gaps, etc.)",
+Southern Belle Turf Farms,,Blackwater River,x,,,0.02,,,,
+3100 Cattle (USDA NASS data for Isle of Wight),Assume 50% of users have well,Assume 50% of user have pond,,,X,0.02,0.02,,Water Factor = 12 gpd/cow,
+1900 Horses (USDA NASS data for Isle of WIght),Assume 50% of users have well,Assume 50% of user have pond,,,X,0.01,0.01,,Water Factor = 12 gpd/horse,
+Isle of Wight Totals,,,,,,0.78,0.15,,,
+Southampton,,,,,,,,,,
+,,Nottoway River,X,,,,,,,
+,,FL Davis Pond,X,,,,,,,
+,Well #1,,X,,,,,,,
+Davis Farm,,,,,,0.05,0.03,No Groundwater Withdrawal Permit listed in DEQ file,No Groundwater Withdrawal Permit listed in DEQ file,No Groundwater Withdrawal Permit listed in DEQ file
+,,Conley Pond,X,,,,,,,
+,,Simmon Pond,X,,,,,,,
+,,Davis Pond,X,,,,,,,
+,187-00230,,,,X,,,,,
+,187-00231,,,,X,,,,,
+,187-00232,,,,X,,,,,
+Murphy Brown LLC Smithfield Carrolls Farm 6-8,,,,,,,0.06,,,
+,187-00233,,,,X,,,,,
+,,,,,,,,GW0066200 = 30.316 Mgal/yr;,GW0066200 = 30.316 Mgal/yr;,4.436 Mgal/month 0.08 mgd
+,187-00234,,,,X,,,,,
+,187-00235,,,,X,,,,,
+3700 Cattle (USDA NASS data for Southampton County),Assume 50% of users have well,Assume 50% of user have pond,,,X,0.02,0.02,,Water Factor = 12 gpd/cow,
+Southampton Totals,,,,,,0.07,0.11,,,
+,,2,,,,,,,,

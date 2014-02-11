@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”,Name: “Table 1 of 1 on page 27 of 32”
+Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27
+,,,,,,,,,
+,,,"Agricultural, Self-Supplied Users","Agricultural, Self-Supplied Users","Agricultural, Self-Supplied Users",,,Office of Water Supply Planning,Office of Water Supply Planning
+,,,,,,,,,"629 East Main Street,"
+,,,Southside Hampton Roads,Southside Hampton Roads,Southside Hampton Roads,,,,
+,,,,,,,,"P.O. Box 1105, Richmond, VA",23218
+,,,,,,,URL:,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/
+"List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","If unable to find data or data not applicable, note","If unable to find data or data not applicable, note"
+accordingly.,"If applicable, mark and label on associated map.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.",,
+"SELF-SUPPLIED, AGRICULTURAL USERS","SELF-SUPPLIED, AGRICULTURAL USERS","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","(9 VAC 25-780-70 I, -80B7, and -80D)","(9 VAC 25-780-70 I, -80B7, and -80D)","(9 VAC 25-780-70 I, -80B7, and -80D)",
+,,,,SOURCE TYPE:,USE TYPE:,USE TYPE:,WATER USE:,WATER USE:,Notes
+,,,,,,,,,or
+,,,,,,,Estimated Annual Average,Estimated Annual Average,
+,,,,,Irrigation,Nonirrigation,,(MGD),Comments
+,,,,,,,Year 2007,Year 2007,
+,,,,,,,,,(Include service area user falls
+,,,,Surface Water,"(Place an ""X"" in appropriate column","(Place an ""X"" in appropriate column",Surface Water,Ground Water,within and any references to
+,User Name,Ground Water,Reservoir & Sub-basin or,,,cell),(MGD),(MGD),"maps, data sources, data gaps,"
+,,Well Name & ID No.,Stream/River Name & Sub-basin,Stream/River Name & Sub-basin,,,,,etc.)
+,,,Within Community Water System (Municipal & Private) Service Areas,Within Community Water System (Municipal & Private) Service Areas,Within Community Water System (Municipal & Private) Service Areas,Within Community Water System (Municipal & Private) Service Areas,,,
+Suffolk,,,,,,,,,
+,,NA,Four Farm Ponds,,X,,0.054,NA,
+,,NA,Worrell Farm Pond,,X,,0.000,NA,
+Williams Cattle Co LLC,,,,,,,,,
+,,NA,Travis Pond (Powell Farm),Travis Pond (Powell Farm),X,,0.004,NA,
+,,NA,Murphys Mill Pond,,X,,0.000,NA,
+,Suffolk Total,,,,,,0.058,0.000,
+,,Within Community Water System Service Area Water Use Totals (MGD):,Within Community Water System Service Area Water Use Totals (MGD):,Within Community Water System Service Area Water Use Totals (MGD):,Within Community Water System Service Area Water Use Totals (MGD):,Within Community Water System Service Area Water Use Totals (MGD):,0.058,0.000,
+,,Outside Community Water System (Municipal & Private) Service Areas,Outside Community Water System (Municipal & Private) Service Areas,Outside Community Water System (Municipal & Private) Service Areas,Outside Community Water System (Municipal & Private) Service Areas,Outside Community Water System (Municipal & Private) Service Areas,,,
+Chesapeake,,,,,,,,,
+,,234-242,Eason Farm Pond,,,,0.000,0.019,
+,,234-243,Main Farm Canal,,,,0.191,0.02,
+,,234-246,,Mills Farm Pond,,,0.000,0,
+,,234-247,Moalco Farm Pond,,,,2.246,0,
+,,234-248,Squires Farm Pond,,,,0.000,0,
+,,234-249,Waters Farm Pond,,,,0.000,0,GW permit = 0.24 mgd (88.2
+Greenbrier Farms Nursery,,,,,,,,,
+,,,,,X,,,,MG/year; 12.1 MG/month)
+GW0064200,,,,,,,,,
+,,234-250,Weyerhauser Farm Pond,,,,0.000,0,
+,,234-251,,Willis Farm Pond,,,0.000,0.011,
+,,234-252,,,,,,0.024,
+,,234-253,,,,,,0.022,
+,,234-254,,,,,,0.018,
+,,234-255,,,,,,0,
+,,,,1,,,,,

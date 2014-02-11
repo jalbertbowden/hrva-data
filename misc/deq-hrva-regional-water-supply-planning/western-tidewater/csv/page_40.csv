@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”,Name: “Table 1 of 1 on page 40 of 44”
+Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40,Table: 40
+,,,,,,,,,,,
+,,,"Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water",,,,Office of Water Supply Planning,Office of Water Supply Planning
+,,,,,,,,,,"629 East Main Street,","629 East Main Street,"
+,,,Western Tidewater Sub-Region,Western Tidewater Sub-Region,,,,,,,
+,,,,,,,,,,"P.O. Box 1105, Richmond, VA",23218
+,,,,,,,,,URL:,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/
+"List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If applicable, mark and label on associated map.","If applicable, mark and label on associated map."
+"Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.",,,,,,,,,
+"SELF-SUPPLIED, AGRICULTURAL USERS","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","(9 VAC 25-780-70 I, -80B7, and -80D)",,,,,,,,
+,,,,,,,,,,Notes,
+,,,SOURCE TYPE:,USE TYPE:,USE TYPE:,USE TYPE:,WATER USE:,WATER USE:,,or,
+,,,,Irrigation,Nonirrigation,Nonirrigation,Estimated Annual Average,Estimated Annual Average,,Comments,
+,,,Surface Water,,,,Surface,Ground,,,
+,,Ground Water,,"(Place an ""X"" in appropriate column","(Place an ""X"" in appropriate column","(Place an ""X"" in appropriate column",,,,,
+User Name,,,Reservoir & Sub-basin or,,,,Water,Water,(Include service area user falls within and any references to,(Include service area user falls within and any references to,(Include service area user falls within and any references to
+,,Well Name & ID No.,,,cell),,,,,,
+,,,Stream/River Name & Sub-basin,,,,(MGD),(MGD),"maps, data sources, data gaps, etc.)","maps, data sources, data gaps, etc.)",
+Surry,,,,,,,,,,,
+Gray Lumber Company - Bacons Castle Farm,,,Lake,X,,,0.09,,,,
+,,,Dug Pond 2,X,,,,,,,
+,,,Dug Pond 3,X,,,,,,,
+Cox Farm,,,Farm Pond 1,X,,,0.02,,,,
+,,,Farm Pond 4,X,,,,,,,
+,,,Farm Pond 5,X,,,,,,,
+,,190-00114,,,,X,,,,,
+,,190-00115,,,,X,,,,,
+,,,,,,,,,,GW0066300 =,
+,,190-00116,,,,X,,,,,
+Murphy Brown LLC Smithfield Carrols Farm,"9, 10, 21",,,,,,,0.07,,35.013 Mgal/yr,
+,,190-00117,,,,X,,,,,
+,,,,,,,,,,4.797 Mgal/month 0.10 mgd,
+,,190-00118,,,,X,,,,,
+,,190-00119,,,,X,,,,,
+,,190-00120,,,,X,,,,,
+,,,,,,,,,,GW0066700 =,
+,,190-00121,,,,X,,,,,
+Murphy Brown LLC Smithfield Carrolls Farm 16-17,Murphy Brown LLC Smithfield Carrolls Farm 16-17,,,,,,,0.04,,20.075 Mgal/yr,
+,,190-00122,,,,X,,,,,
+,,,,,,,,,,3.225 Mgal/month 0.06 mgd,
+,,190-00123,,,,X,,,,,
+1100 Cattle (USDA NASS data for Surry County),1100 Cattle (USDA NASS data for Surry County),Assume 50% of users have well,Assume 50% of user have pond,,,X,0.01,0.01,,Water Factor = 12 gpd/cow,
+,Surry Totals,,,,,,0.12,0.12,,,
+Outside Community Water System Service Area Water Use Totals (MGD):,Outside Community Water System Service Area Water Use Totals (MGD):,Outside Community Water System Service Area Water Use Totals (MGD):,,,,,0.96,0.38,,,
+,,,Estimated Total Agricultural Useage By Source (MGD):,Estimated Total Agricultural Useage By Source (MGD):,Estimated Total Agricultural Useage By Source (MGD):,Estimated Total Agricultural Useage By Source (MGD):,1.57,0.38,,,
+,,,3,,,,,,,,

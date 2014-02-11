@@ -1,0 +1,35 @@
+Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”
+Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20
+,,,,,,,,,,
+,,"Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water",,,,Office of Water Supply Planning,Office of Water Supply Planning
+,,Western Tidewater Sub-Region,Western Tidewater Sub-Region,Western Tidewater Sub-Region,Western Tidewater Sub-Region,,,,"629 East Main Street,","629 East Main Street,"
+,,,,,,,,,"P.O. Box 1105, Richmond, VA",23218
+,,,,,,,URL:,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/
+Include the following water use information for each community water system within the planning area. Reference sources and note any assumptions regarding calculations.,Include the following water use information for each community water system within the planning area. Reference sources and note any assumptions regarding calculations.,Include the following water use information for each community water system within the planning area. Reference sources and note any assumptions regarding calculations.,Include the following water use information for each community water system within the planning area. Reference sources and note any assumptions regarding calculations.,"If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If applicable, mark service areas on associated map.","If applicable, mark service areas on associated map.",Note the data reference year in Row,Note the data reference year in Row
+3 and fill out a separate spreadsheet for each data year.,,,,,,,,,,
+COMMUNITY WATER SYSTEMS USING GROUND AND SURFACE WATER: water withdrawal information (9 VAC 25-780-80 B1-B3),COMMUNITY WATER SYSTEMS USING GROUND AND SURFACE WATER: water withdrawal information (9 VAC 25-780-80 B1-B3),COMMUNITY WATER SYSTEMS USING GROUND AND SURFACE WATER: water withdrawal information (9 VAC 25-780-80 B1-B3),,,,,,,,
+YEAR:,2007,,,,WITHDRAWAL:,WITHDRAWAL:,,or,,
+,,,Population,Number of,Average Daily,Maximum Daily,Comments,Comments,,
+PWSID,Water System Name,Source Name,Served,Connections,(MGD),(MGD),"(This may include references to maps, data sources, data gaps, etc.)","(This may include references to maps, data sources, data gaps, etc.)","(This may include references to maps, data sources, data gaps, etc.)","(This may include references to maps, data sources, data gaps, etc.)"
+Southampton County - Private Systems,,,,,,,,,,
+3175690,Sedley,GW,486,162,0.028,NI,"2006 data, 2007 NA",,,
+3175282,Darden's Mill Estates,GW,100,40,0.012,0.02,,,,
+3175460,Kingsdale Subdivision (Artis),GW,80,20,0.006,NI,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,
+3175461,Kingsdale Subdivision (Moseley),GW,40,17,0.003,NI,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,
+3175520,Nottoway Gardens,GW,200,77,0.020,0.039,,,,
+3175530,Nottoway Shores,GW,104,26,0.008,NI,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,
+3175650,Scottswood Subdivision,GW,400,114,0.030,NI,"2006 data, 2007 NA",,,
+3175710,Silverleaf Mobile Home Park,GW,134,56,0.010,NI,,,,
+,Southampton Correctional Complex,GW,NI,NI,0.268,0.295,,,,
+3175600,Southampton County Jail Farm,GW,100,4,0.006,0.008,,,,
+3175750,Southampton Meadows Mobile Home Park,GW,500,210,0.067,0.094,,,,
+3175800,Fieldcrest Manufactured Home Community,GW,130,42,0.008,0.011,,,,
+3175860,White Tail Park,GW,356,28,0.007,NI,"2006 data, 2007 NA",,,
+,Southampton County - Private System Totals,Southampton County - Private System Totals,"2,630",796,0.47,,,,,
+Surry County - Private Systems,,,,,,,,,,
+3181500,Guilford Heights,Well No. 1,150,74,0.0085,NI,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,
+3181700,Scotland Heights,Well No. 1,168,42,0.012,NI,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,No use data available. Estimated average daily use = 75 gpcpd,
+,Surry County - Private System Totals,Surry County - Private System Totals,318,116,0.021,,,,,
+Private Community Water System Totals:,,,"7,096","2,167",2.25,,,,,
+Municipal and Private Community Water System Totals:,,,"35,049","12,970",5.01,,,,,
+,,,4,,,,,,,

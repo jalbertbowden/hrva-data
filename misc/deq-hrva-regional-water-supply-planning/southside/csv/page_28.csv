@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”,Name: “Table 1 of 1 on page 28 of 32”
+Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28
+,,,,,,,,
+,,,"Agricultural, Self-Supplied Users","Agricultural, Self-Supplied Users",,,Office of Water Supply Planning,Office of Water Supply Planning
+,,,,,,,,"629 East Main Street,"
+,,,Southside Hampton Roads,Southside Hampton Roads,,,,
+,,,,,,,"P.O. Box 1105, Richmond, VA",23218
+,,,,,,URL:,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/
+"List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","List data for all agricultural users who utilize more than 300,000 gallons per month of ground or surface water. Reference sources and note any assumptions regarding calculations.","If unable to find data or data not applicable, note","If unable to find data or data not applicable, note"
+accordingly.,"If applicable, mark and label on associated map.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.","Note the data reference year in Column F, Row 4 and fill out a separate spreadsheet for each data year.",,
+"SELF-SUPPLIED, AGRICULTURAL USERS","SELF-SUPPLIED, AGRICULTURAL USERS","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","> 300,000 GAL/MONTH OF GROUND OR SURFACE WATER","(9 VAC 25-780-70 I, -80B7, and -80D)","(9 VAC 25-780-70 I, -80B7, and -80D)","(9 VAC 25-780-70 I, -80B7, and -80D)",
+,,,SOURCE TYPE:,USE TYPE:,USE TYPE:,WATER USE:,WATER USE:,Notes
+,,,,,,,,or
+,,,,,,Estimated Annual Average,Estimated Annual Average,
+,,,,Irrigation,Nonirrigation,,(MGD),Comments
+,,,,,,Year 2007,Year 2007,
+,,,,,,,,(Include service area user falls
+,,,Surface Water,"(Place an ""X"" in appropriate column","(Place an ""X"" in appropriate column",Surface Water,Ground Water,within and any references to
+,User Name,Ground Water,Reservoir & Sub-basin or,,cell),(MGD),(MGD),"maps, data sources, data gaps,"
+,,Well Name & ID No.,Stream/River Name & Sub-basin,,,,,etc.)
+Chesapeake (continued),Chesapeake (continued),,,,,,,
+1800 Beef Cows (USDA NASS data for,1800 Beef Cows (USDA NASS data for,,,,,,,
+,,Assume 50% of users have well,Assume 50% of user have pond,,X,0.011,0.011,Water Factor = 12 gpd/cow
+Chesapeake),,,,,,,,
+3200 Horses (USDA NASS data for,3200 Horses (USDA NASS data for,,,,,,,
+,,Assume 50% of users have well,Assume 50% of user have pond,,X,0.019,0.019,Water Factor = 12 gpd/horse
+Chesapeake),,,,,,,,
+,Chesapeake Total,,,,,2.467,0.144,
+Suffolk,,,,,,,,
+,,Well #1,Farm Pond - 120 acre field,X,,,NA,
+Bennetts Creek Nursery,,,,,,0.032,,
+,,Well #2,Farm Pond - 50 acre field,X,,,0.040,
+8200 Cattle (USDA NASS data for Suffolk),8200 Cattle (USDA NASS data for Suffolk),Assume 50% of users have well,Assume 50% of user have pond,,X,0.049,0.049,Water Factor = 12 gpd/cow
+1500 Horses (USDA NASS data for Suffolk),1500 Horses (USDA NASS data for Suffolk),Assume 50% of users have well,Assume 50% of user have pond,,X,0.009,0.009,Water Factor = 12 gpd/horse
+,Suffolk Total,,,,,00 .009900,00 .009988,
+Virginia Beach,,,,,,,,
+500 Beef Cows (USDA/NASS Data for Virginia,500 Beef Cows (USDA/NASS Data for Virginia,,,,,,,
+,,Assume 50% of users have well,Assume 50% of user have pond,,,0.003,0.003,Water Factor = 12 gpd/cow
+Beach),,,,,,,,
+2600 Horses (USDA/NASS Data for Virginia,2600 Horses (USDA/NASS Data for Virginia,,,,,,,
+,,Assume 50% of users have well,Assume 50% of user have pond,,,0.016,0.016,Water Factor = 12 gpd/horse
+Beach),,,,,,,,
+,Virginia Beach Total,,,,,0.019,0.019,
+,,Outside Community Water System Service Area Water Use Totals (MGD):,Outside Community Water System Service Area Water Use Totals (MGD):,Outside Community Water System Service Area Water Use Totals (MGD):,Outside Community Water System Service Area Water Use Totals (MGD):,2.576,0.261,
+,,,Estimated Total Agricultural Useage By Source (MGD):,Estimated Total Agricultural Useage By Source (MGD):,Estimated Total Agricultural Useage By Source (MGD):,2.634,0.261,
+,,,2,,,,,

@@ -1,0 +1,99 @@
+Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”,Name: “Table 1 of 1 on page 4 of 32”
+Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4
+,,,,,,,,,,,,
+,,,,Community Water Systems: Groundwater Sources,Community Water Systems: Groundwater Sources,Community Water Systems: Groundwater Sources,Community Water Systems: Groundwater Sources,Community Water Systems: Groundwater Sources,,,Office of Water Supply Planning,Office of Water Supply Planning
+,,,,,,,,,,,"629 East Main Street,","629 East Main Street,"
+,,,,,,Southside Hampton Roads,Southside Hampton Roads,,,,,
+,,,,,,,,,,,"P.O. Box 1105, Richmond, VA",23218
+,,,,,,,,,,URL:,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/
+List all well information for community water systems using groundwater.,List all well information for community water systems using groundwater.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,"If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If applicable, mark well locations on associated map.",,
+COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),,,,,,
+,,,,,,,,,,GROUNDWATER MANAGEMENT AREA,,
+,,,,,,,INDIVIDUAL WELL DATA:,,,WELLS,,
+,,,,,,,,,,,Notes,
+,,Calculated,,,,,,Withdrawal,,Withdrawal,or,
+,,,,,,,,Withdrawal,Withdrawal,,,
+,VDH Permitted,VDH Permitted,,Well,Casing,Screen Depth,Well,Design,,Design,Comments,Comments
+,,,,,,,,Design Capacity:,Design Capacity:,DEQ Permitted,DEQ Permitted,
+,System Capacity,System,Well Name,Depth,Depth,(Top & Bottom),Diameter,Capacity:,,Capacity:,,
+PWSID,Water System Name,,,,,,,AVERAGE,MAXIMUM,Monthly Withdrawal,Annual Withdrawal,
+,,Capacity,and ID #,,,or,,AVERAGE,,MAXIMUM,,
+,,,,,,,,DAILY,DAILY,(MGD),(MGD),
+,(gpd),,,(feet),(feet),Water Zones,(inches),DAILY,,DAILY,(This may include references to,(This may include references to
+,,,,,,,,(gpd),(gpd),,,
+,,(MGD),,,,,,(MGD),,(MGD),"maps, data sources, data gaps,","maps, data sources, data gaps,"
+,,,,,,,,,,,etc.),
+Suffolk,,,,,,,,,,,,
+,,,,,,380 (T),24,,,,Conjunctive use system. VDH,Conjunctive use system. VDH
+,NA,,EDR 161-00421,920,NA,,,NI,2800 GPM,,,
+,,,,,,884 (B),16,,,,permitted system capacity = 10.7,permitted system capacity = 10.7
+,,,Reid's Ferry,,,620 (T),24,,,,mgd,
+,NA,,,1003,NA,,,NI,2805 GPM,,,
+,,,161-00371,,,973 (B),14,,,,,
+,,,,,,,,,,,The DEQ permitted withdrawals,The DEQ permitted withdrawals
+,,,Fluoride Well,,,398 (T),,,,,,
+,NA,,,610,NA,,"20""/8""",NI,750 GPM,,apply to the 4 production wells,apply to the 4 production wells
+,,,161-00380,,,595 (B),,,,,,
+,,,,,,,,,,,listed.,
+,,,,,Outer:+3,,,,,,,
+,,,,,to 657,,,,,,Western Tidewater Water,Western Tidewater Water
+,,,,,bgs,665 - 735,"24"" Outer",,,,Authority (WTWA) holds the,Authority (WTWA) holds the
+,,,Crittenden,,Inner:,760 - 775,Casing,,,,groundwater permit.,WTWA
+,NA,,161-00478,"1,005",550-647,795 - 810,"14""",NI,NI,,serves Suffolk and Isle of Wight.,serves Suffolk and Isle of Wight.
+,,,,,Blank,910 - 940,,,,,,
+,,,,,,,Screens,,,,,
+,,,,,647-653,965 - 995,,,,,,
+,,,,,Relief,,,,,,,
+,,,,,Screen,,,,,,,
+,,,,,,"610-650,",,,,,"Everetts, City Farm and Wilroy","Everetts, City Farm and Wilroy"
+,,,Everetts,,,"670-680,",,,,,Emergency Wells are being,Emergency Wells are being
+,NA,,(Emergency),993,NA,"730-790,",14,NI,NI,,closed and abandoned.,closed and abandoned.
+,,,161-00372,,,"820-885,",,,,,,
+,,,,,,"890-925,",,,,,,
+,,,,,,950 990,,,,,,
+,,,Carisbrooke,,,,,,,,,
+,,,(Emergency),,,542 (T),,,,12.06,8.34,
+,NA,,,588,NA,,6,NI,NI,,,
+,,,IoW system,,,582 (B),,,,,,
+,,,146-00151,,,,,,,,,
+,,,Windsor -,,,,,,,,,
+,,,,,,680 (T),,,,,,
+,NA,,(Emergency),820,NA,,14,NI,NI,,,
+,,,,,,800 (B),,,,,,
+,,,146-00250,,,,,,,,,
+,"Main System, City of Suffolk",,,,,,,,,,,
+3800805,,,,,,,,,,,,
+,(Western Tidewater Water Authority),,,,,,,,,,,
+,,,,,,"555-585,",,,,,,
+,,,,,,"600-630,",,,,,,
+,,,Orbit -,,,"640-670,",,,,,,
+,NA,,(Emergency),885,NA,"690-715,",14,NI,NI,,,
+,,,146-00251,,,"725-740,",,,,,,
+,,,,,,"790-805,",,,,,,
+,,,,,,835-865,,,,,,
+,,,City Farm #2,,,"850-875,",,,,,,
+,NA,,(Emergency),1012,NA,"895-955,",12,NI,NI,,,
+,,,161-00330,,,967-1007,,,,,,
+,,,,,,"858-868,",,,,,,
+,,,Wilroy #2,,,,,,,,,
+,,,,,,"882-942,",,,,,,
+,NI,,(Emergency),995,NA,,10,NI,NI,,,
+,,,,,,"946-956,",,,,,,
+,,,161-00347,,,,,,,,,
+,,,,,,970-990,,,,,,
+,,,Prince View,,,,,,,,,
+,NA,,Point,546,NA,536-546,3,NI,NI,,,
+,,,161-00355,,,,,,,,,
+,,,Lake Prince,,,,,,,,,
+,,,Meadows #1,500,480,480-500,4,NI,NI,,,
+,,,161-00353,,,,,,,,,
+,NA,,,,,,,,,,These community water systems,These community water systems
+,,,Lake Prince,,,,,,,,have been closed.,City of
+,,,Meadows #2,500,480,481-500,4,NI,NI,,Suffolk's Main System now,Suffolk's Main System now
+,,,161-00354,,,,,,,,serves these communities.,serves these communities.
+,NA,,Brown,NI,NA,NI,NI,NI,NI,,,
+,NA,,Eclipse,NI,NA,NI,4,NI,NI,,,
+,NA,,Eclipse,550,530,530-540,4,NI,NI,,,
+,NA,,Independent,NI,NA,NI,6,NI,NI,,,
+,NA,,Dale Acres,NI,NA,NI,4,NI,NI,,,
+,,,,,,,3,,,,,

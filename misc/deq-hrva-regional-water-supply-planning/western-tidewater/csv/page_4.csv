@@ -1,0 +1,74 @@
+Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”,Name: “Table 1 of 1 on page 4 of 44”
+Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4,Table: 4
+,,,,,,,,,,,,,,,,
+,,,,,"Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water","Non-Agricultural, Self-Supplied Users of Ground Water",,,,,Office of Water Supply Planning,Office of Water Supply Planning,Office of Water Supply Planning
+,,,,,,,Western Tidewater Sub-Region,Western Tidewater Sub-Region,,,,,,,"629 East Main Street,","629 East Main Street,"
+,,,,,,,,,,,,,,"P.O. Box 1105, Richmond, VA","P.O. Box 1105, Richmond, VA",23218
+,,,,,,,,,,,,,URL:,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/,http://www.deq.virginia.gov/watersupplyplanning/
+List all well information for community water systems using groundwater.,List all well information for community water systems using groundwater.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,Reference sources and note any assumptions regarding calculations.,"If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If unable to find data or data not applicable, note accordingly.","If applicable, mark well locations on associated map.","If applicable, mark well locations on associated map.","If applicable, mark well locations on associated map.","If applicable, mark well locations on associated map.",,,
+COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),COMMUNITY WATER SYSTEMS (MUNCIPAL & PRIVATE) USING GROUND WATER (9 VAC 25-780-70 B),,,,,,,,,,
+,,,,,,,INDIVIDUAL WELL DATA:,INDIVIDUAL WELL DATA:,INDIVIDUAL WELL DATA:,,,,MANAGEMENT AREA,MANAGEMENT AREA,,
+,,,Calculated,,,,,,,,,,,,Notes,Notes
+,,,,,,,,,Withdrawal,,,Withdrawal,,,,
+,,VDH Permitted,VDH,,,,,,,,,,DEQ,DEQ,or,or
+,,,,,Well,Casing,,Well,Design,Withdrawal Design,Withdrawal Design,Design,,,,
+,,System,Permitted,,,,Screen Depth (Top & Bottom),,,,,,Permitted,Permitted,Comments,Comments
+,,,,Well Name,Depth,Depth,,Diameter,Capacity:,Capacity:,Capacity:,Capacity:,,,,
+PWSID,Water System Name,Capacity,System,,,,or,,,,,,Monthly,Annual,,
+,,,,and ID #,,,,,AVERAGE,AVERAGE DAILY,MAXIMUM DAILY,MAXIMUM,,,,
+,,,Capacity,,,,Water Zones,,,,,,Withdrawal,Withdrawal,,
+,,,,,(feet),(feet),,(inches),DAILY,(MGD),(gpd),DAILY,,,,
+,,(gpd),,,,,,,,,,,(MGD),(MGD),(This may include references to,(This may include references to
+,,,,,,,,,(gpd),,,(MGD),,,,
+,,,(MGD),,,,,,,,,,,,"maps, data sources, data gaps, etc.)","maps, data sources, data gaps, etc.)"
+Isle of Wight County - Private Systems,Isle of Wight County - Private Systems,,,,,,,,,,,,,,,
+,,,,,,,473 (T),,,,,,,,,
+,,,,146-00285,483,473,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,483 (B),,,,,,,,,
+3093049,,,,,,,475 (T),,,,,,,,,
+,Ashby Subdivision,"36,000",0.04,146-00286,485,475,,4,NI,0.00,NI,0.00,0.07,0.06,,
+(GW0039900),,,,,,,485 (B),,,,,,,,,
+,,,,,,,810 (T),,,,,,,,,
+,,,,146-00287,830,810,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,830 (B),,,,,,,,,
+,,,,,,,420 (T),,,,,,,,,
+,,,,146-00306,430,420,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,430 (B),,,,,,,,,
+3093115,,,,,,,420 (T),,,,,,,,,
+,Brewer's Creek,"32,000",0.03,146-00308,430,420,,3,NI,0.00,NI,0.00,0.05,0.03,,
+(GW0045900),,,,,,,430 (B),,,,,,,,,
+,,,,,,,903 (T),,,,,,,,,
+,,,,No. 2,923,903,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,923 (B),,,,,,,,,
+,,,,,,,490 (T),,,,,,,,,
+3093118,Cannon Acres,"20,800",0.02,NI,500,490,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,500 (B),,,,,,,,,
+,,,,,,,430 (T),,,,,,,,,
+3093150,Bob Steele Waterworks,"6,920",0.01,NI,450,430,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,450 (B),,,,,,,,,
+,,,,,,,579 (T),,,,,,,,,
+3093180,Cherry Grove Acres,"19,600",0.02,NI,589,579,,3-4,NI,0.00,NI,0.00,,,,
+,,,,,,,589 (B),,,,,,,,,
+,,,,,,,390 (T),,,,,,,,Groundwater Withdrawal Permit expired,Groundwater Withdrawal Permit expired
+,,,,146-00248,400,390,,4,NI,0.00,NI,0.00,,,,
+3093190,,,,,,,400 (B),,,,,,,,2006,
+,Clydes Dale Mobile Home Park,"37,275",0.04,,,,,,,,,,0.05,0.04,,
+(GW0045200),,,,,,,390 (T),,,,,,,,,
+,,,,146-00269,400,390,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,400 (B),,,,,,,,,
+,,,,,,,430 ((T)),,,,,,,,,
+3093210,Deer Run,"1199 ,660000",00 .0022,NI,440,430,,4,NI,00 .0000,NI,00 .0000,,,,
+,,,,,,,440 (B),,,,,,,,,
+3093220,Duck's Trailer Court,,0.00,NI,440,NI,NI,NI,NI,0.00,NI,0.00,,,,
+3093225,Edwards Trailer Park,,0.00,NI,NI,NI,NI,NI,NI,0.00,NI,0.00,,,,
+,,,,,,,430 (T),,,,,,,,,
+3093319,James River Shores,"12,000",0.01,NI,450,430,,6,NI,0.00,NI,0.00,,,,
+,,,,,,,450 (B),,,,,,,,,
+3093322,,,,,,,,,,,,,,,Groundwater Wtihdrawal Permit,Groundwater Wtihdrawal Permit
+,Lawne's Point,,0.00,NI,NI,NI,NI,NI,NI,0.00,NI,0.00,,,,
+,,,,,,,,,,,,,,,GW0047000 - applied for permit in 2010,GW0047000 - applied for permit in 2010
+,,,,,,,410 (T),,,,,,,,,
+3093324,Longview Acres,"19,600",0.02,NI,420,410,,4,NI,0.00,NI,0.00,,,,
+,,,,,,,420 (B),,,,,,,,,
+3093347,The Oaks Mobile Estates Trailer Court,,0.00,NI,550,NI,NI,NI,NI,0.00,NI,0.00,,,,
+,,,,,,,3,,,,,,,,,
