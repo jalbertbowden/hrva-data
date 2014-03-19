@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATEFP": "51", "COUNTYFP": "650", "ANSICODE": "", "POINTID": "110696285925", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.314010, 37.064998 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATEFP": "51", "COUNTYFP": "650", "ANSICODE": "", "POINTID": "110696288631", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.400038, 37.059291 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATEFP": "51", "COUNTYFP": "650", "ANSICODE": "", "POINTID": "110696288963", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.342607, 37.016363 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "STATEFP": "51", "COUNTYFP": "650", "ANSICODE": "", "POINTID": "110696291040", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.383929, 37.065849 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "STATEFP": "51", "COUNTYFP": "650", "ANSICODE": "", "POINTID": "110696297607", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.368022, 37.022518 ] } }
+
+]
+}
