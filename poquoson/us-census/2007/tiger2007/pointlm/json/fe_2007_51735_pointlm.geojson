@@ -1,0 +1,91 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508455", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.398932, 37.146004 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508463", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.400069, 37.145424 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508467", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.401090, 37.143599 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508492", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.399112, 37.135824 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508498", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.399643, 37.136800 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508509", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.396402, 37.135239 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508549", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.381498, 37.147426 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508572", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.389897, 37.130846 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508575", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.389464, 37.133889 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508598", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.405305, 37.133864 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508635", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.411398, 37.143430 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508641", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.409990, 37.143038 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508646", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.408657, 37.142794 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508816", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.388422, 37.124935 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508821", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.389696, 37.125296 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508918", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.374045, 37.143592 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700508923", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.374253, 37.142171 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509020", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.361234, 37.122203 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509075", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.363516, 37.116926 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509078", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.365520, 37.118388 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509253", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.398303, 37.155738 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509278", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.408961, 37.131339 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509282", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.409210, 37.132462 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509298", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.396401, 37.157616 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509303", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.399771, 37.159151 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509308", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.400801, 37.157616 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509317", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.405124, 37.153480 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509438", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.410417, 37.146576 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509450", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.395197, 37.151691 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509457", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.396518, 37.152015 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509464", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.397515, 37.149984 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509469", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.394291, 37.147595 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509489", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.386669, 37.141787 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509501", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.390050, 37.139925 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509537", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.359661, 37.122373 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509553", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.408617, 37.150737 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509564", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.388407, 37.144066 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509567", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.389292, 37.143387 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509571", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.390858, 37.142549 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509586", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.387271, 37.144632 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509632", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.394334, 37.137319 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700509640", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.396418, 37.136238 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "STATEFP": "51", "COUNTYFP": "735", "COUNTYNS": "", "POINTID": "110700511979", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.402674, 37.144395 ] } }
+
+]
+}
