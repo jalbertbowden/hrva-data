@@ -1,0 +1,57 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636570", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.720738, 37.367750 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636573", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.722625, 37.367534 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636585", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.741950, 37.363233 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636644", "FULLNAME": "", "MTFCC": "C3062" }, "geometry": { "type": "Point", "coordinates": [ -76.719555, 37.354725 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636797", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.730359, 37.358091 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636799", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.731949, 37.358930 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636801", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.729603, 37.369284 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636803", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.732582, 37.366768 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695636805", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.734690, 37.364445 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638171", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.722735, 37.354557 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638177", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.717966, 37.350584 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638179", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.717216, 37.351048 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638183", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.715567, 37.352226 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638185", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.717560, 37.353003 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638187", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.719327, 37.353479 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638210", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.696901, 37.352104 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638213", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.692143, 37.352263 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695638218", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.691311, 37.352627 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695639820", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.656993, 37.253562 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695639826", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.658975, 37.252132 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695640452", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.646781, 37.246378 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695640803", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.433880, 37.201154 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110695641264", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.547821, 37.229588 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110696153217", "FULLNAME": "Maritime", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.418291, 37.205385 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110696153218", "FULLNAME": "Maritime", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.590728, 37.285773 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "STATEFP": "51", "COUNTYFP": "199", "ANSICODE": "", "POINTID": "110696153224", "FULLNAME": "Bethel Manor Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.423758, 37.093727 ] } }
+
+]
+}
