@@ -1,0 +1,89 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697097960", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.551271, 37.124392 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697097962", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.549592, 37.124473 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697099561", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.557597, 37.138904 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697099571", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.556736, 37.138651 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697099577", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.559316, 37.139873 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697099869", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.557913, 37.141317 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550660", "FULLNAME": "Maritime", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.415364, 36.963200 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550661", "FULLNAME": "Mary Immaculate Hosp", "MTFCC": "K1231" }, "geometry": { "type": "Point", "coordinates": [ -76.510956, 37.142424 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550662", "FULLNAME": "Mary Immaculate Hosp", "MTFCC": "K1231" }, "geometry": { "type": "Point", "coordinates": [ -76.512869, 37.142880 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550663", "FULLNAME": "Riverside Regional Hosp", "MTFCC": "K1231" }, "geometry": { "type": "Point", "coordinates": [ -76.483376, 37.064891 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550664", "FULLNAME": "Penbish Medical Ctr", "MTFCC": "K1231" }, "geometry": { "type": "Point", "coordinates": [ -76.512686, 37.144219 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550671", "FULLNAME": "Hidenwood Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.508959, 37.065614 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550672", "FULLNAME": "Reservoir Mid Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.555236, 37.163666 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550673", "FULLNAME": "Riverside Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.496536, 37.054533 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550674", "FULLNAME": "Briarfield Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.427378, 37.003453 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550675", "FULLNAME": "Crittenden Mid Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.445421, 37.027046 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550676", "FULLNAME": "Sedgefield Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.450767, 37.042262 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550677", "FULLNAME": "Gildersleeve Mid Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.502270, 37.072406 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550678", "FULLNAME": "South Morrison Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.460405, 37.057751 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550679", "FULLNAME": "Denbigh Early Child Care Ctr", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.537497, 37.126163 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550680", "FULLNAME": "Christopher Newport Univ", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.494619, 37.063414 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550681", "FULLNAME": "Epes Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.551337, 37.131135 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550682", "FULLNAME": "Hines Mid Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.464019, 37.043944 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550683", "FULLNAME": "Yates Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.499079, 37.083378 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550684", "FULLNAME": "Adkins Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.458513, 37.076703 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550685", "FULLNAME": "Carver Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.446241, 37.027557 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550686", "FULLNAME": "Dozier Mid Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.552419, 37.164477 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550687", "FULLNAME": "Dutrow Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.551929, 37.143477 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550688", "FULLNAME": "Hilton Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.464223, 37.028001 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550689", "FULLNAME": "Palmer Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.488364, 37.105782 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550690", "FULLNAME": "Denbigh High School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.548364, 37.125584 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550691", "FULLNAME": "Jenkins Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.522912, 37.108495 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550692", "FULLNAME": "Newsome Mid Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.423031, 36.996208 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550693", "FULLNAME": "Sanford Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.543051, 37.111689 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550694", "FULLNAME": "Warwick High School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.475522, 37.053993 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550695", "FULLNAME": "Heritage High School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.428212, 37.008493 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550696", "FULLNAME": "Lee Hall Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.570450, 37.187685 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550697", "FULLNAME": "Marshall Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.415987, 36.982655 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550698", "FULLNAME": "McIntosh Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.529394, 37.144122 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550699", "FULLNAME": "Saunders Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.453261, 37.084997 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550700", "FULLNAME": "Deer Park Elem School", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.474894, 37.073325 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "STATEFP": "51", "COUNTYFP": "700", "ANSICODE": "", "POINTID": "110697550710", "FULLNAME": "Huntington Park", "MTFCC": "K2190" }, "geometry": { "type": "Point", "coordinates": [ -76.456249, 37.019004 ] } }
+
+]
+}
