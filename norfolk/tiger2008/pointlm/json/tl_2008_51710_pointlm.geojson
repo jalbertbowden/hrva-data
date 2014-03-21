@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110697959845", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.244594, 36.842014 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110697964993", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.311813, 36.925740 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110697965610", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.313006, 36.925683 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110697967003", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.231937, 36.936415 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110697967022", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.232728, 36.936857 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110698775635", "FULLNAME": "Military", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.328660, 36.946826 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110698775636", "FULLNAME": "Military", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.315800, 36.867107 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110698775637", "FULLNAME": "Norfolk Naval Station (Pier 4)", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.330423, 36.946859 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110698775638", "FULLNAME": "Noaa Atlantic Marine Center (Norfolk)", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.298162, 36.853228 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110698775639", "FULLNAME": "Norfolk International Terminal (Pier 3)", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.328838, 36.915641 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "STATEFP": "51", "COUNTYFP": "710", "ANSICODE": "", "POINTID": "110698775640", "FULLNAME": "Norfolk Intl Arprt", "MTFCC": "K2451" }, "geometry": { "type": "Point", "coordinates": [ -76.202009, 36.896300 ] } }
+
+]
+}
