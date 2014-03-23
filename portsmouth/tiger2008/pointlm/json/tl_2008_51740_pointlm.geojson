@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATEFP": "51", "COUNTYFP": "740", "ANSICODE": "", "POINTID": "110701176141", "FULLNAME": "", "MTFCC": "C3061" }, "geometry": { "type": "Point", "coordinates": [ -76.409813, 36.866864 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATEFP": "51", "COUNTYFP": "740", "ANSICODE": "", "POINTID": "110701530576", "FULLNAME": "Maritime", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.318102, 36.849126 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATEFP": "51", "COUNTYFP": "740", "ANSICODE": "", "POINTID": "110701530577", "FULLNAME": "Military", "MTFCC": "K1225" }, "geometry": { "type": "Point", "coordinates": [ -76.351613, 36.883966 ] } }
+
+]
+}
