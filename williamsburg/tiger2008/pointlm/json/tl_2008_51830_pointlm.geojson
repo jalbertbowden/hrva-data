@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "STATEFP": "51", "COUNTYFP": "830", "ANSICODE": "", "POINTID": "110702694676", "FULLNAME": "Colg of William and Mary", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.709842, 37.270567 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "STATEFP": "51", "COUNTYFP": "830", "ANSICODE": "", "POINTID": "110702694677", "FULLNAME": "Williamsburg Christian Acdmy", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.734918, 37.305064 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "STATEFP": "51", "COUNTYFP": "830", "ANSICODE": "", "POINTID": "110702694678", "FULLNAME": "James Blair Schl", "MTFCC": "K2543" }, "geometry": { "type": "Point", "coordinates": [ -76.725501, 37.291468 ] } }
+
+]
+}
